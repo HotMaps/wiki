@@ -11,14 +11,20 @@ The wiki consists of 2 parts.
 We hope you enjoy exploring the toolbox and find it helpful for your heating and cooling planning
 
 # Handbook
-[Tutorial 1](tutorial1)  
+[How to map heat density ](tutorial1)  
 [Tutorial 2](tutorial2)  
 [Tutorial 3](tutorial3)
 # Manual
-[Module 1](module1)  
-[Module 2](module2)  
-[Module 3](module3)
+[Introduction of the hotmaps toolbox](module1)
+## General tool functionalities and structure
+[Structure and User interface](module2)
+[Layers in the Hotmaps toolbox](module3)
+[Database behind the Hotmaps toolbox](module4)
+[Data upload functionalities](module5)
+## Calculation modules
+[CM - District heating potentials](module6)
+[CM - District heating supply](module7)  
+[CM - Renewable energy potentials](module8)
 
-!
 
 ![](https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/Hotmaps_test.JPG)
