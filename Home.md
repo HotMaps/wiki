@@ -8,6 +8,12 @@ The wiki consists of 2 parts.
 
 We hope you enjoy exploring the toolbox and find it helpful for your heating and cooling planning
 
+hier gibts generelle infos zu den github wikis:
+https://help.github.com/articles/about-github-wikis/
+
+hier ist eine kleine zusammenstellung der github-markdown-syntax:
+https://help.github.com/articles/basic-writing-and-formatting-syntax/
+
 # Handbook
 * [Introduction - Tutorial - First steps](Handbook_Introduction)
 * [How to retrieve basic indicators of heat demand in my region of interest](Handbook_indicators)
