@@ -7,12 +7,12 @@
 
 # Manual
 [Introduction of the hotmaps toolbox](module1)
-## General tool functionalities and structure
+### General tool functionalities and structure
 * [Structure and User interface](module2)
 * [Layers in the Hotmaps toolbox](module3)
 * [Database behind the Hotmaps toolbox](module4)
 * [Data upload functionalities](module5)
-## Calculation modules
+### Calculation modules
 * [CM - District heating potentials](module6)
 * [CM - District heating supply](module7)  
 * [CM - Renewable energy potentials](module8)
