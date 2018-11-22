@@ -6,7 +6,7 @@ The wiki consists of 2 parts.
 
 2) A documentation of individual functionalities and calculation modules within the Hotmaps toolbox.
 
-For developers please see more information here "Add link"
+For developers please see more information here [Developers](Developers)
 
 We hope you enjoy exploring the toolbox and find it helpful for your heating and cooling planning
 
