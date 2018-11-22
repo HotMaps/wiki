@@ -1,0 +1,1 @@
+# Introduction to the Hotmaps handbook for heating and cooling planning
