@@ -1,3 +1,7 @@
+# Wiki Introduction
+
+[Introduction](Home)
+
 # Handbook
 * [Introduction - Hotmaps role in heating and cooling planning](Handbook_Introduction)
 * [How to retrieve basic indicators of heat demand in my region of interest](Handbook_indicators)
