@@ -30,4 +30,7 @@ We hope you enjoy exploring the toolbox and find it helpful for your heating and
 * [CM - Renewable energy potentials](module8)
 
 
+**HAVE FUN EXPLORING THE HOTMAPS TOOLBOX!**
+
+
 ![](https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/Hotmaps_test.JPG)
