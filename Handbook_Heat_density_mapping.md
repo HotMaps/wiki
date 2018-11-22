@@ -1,3 +1,3 @@
 # Heat density mapping
 
-[How to select layer](Layer)
+[How to select layer](Layers)
