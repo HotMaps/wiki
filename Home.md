@@ -17,14 +17,14 @@ We hope you enjoy exploring the toolbox and find it helpful for your heating and
 # Manual
 [Introduction of the hotmaps toolbox](module1)
 ## General tool functionalities and structure
-[Structure and User interface](module2)
-[Layers in the Hotmaps toolbox](module3)
-[Database behind the Hotmaps toolbox](module4)
-[Data upload functionalities](module5)
+* [Structure and User interface](module2)
+* [Layers in the Hotmaps toolbox](module3)
+* [Database behind the Hotmaps toolbox](module4)
+* [Data upload functionalities](module5)
 ## Calculation modules
-[CM - District heating potentials](module6)
-[CM - District heating supply](module7)  
-[CM - Renewable energy potentials](module8)
+* [CM - District heating potentials](module6)
+* [CM - District heating supply](module7)  
+* [CM - Renewable energy potentials](module8)
 
 
 ![](https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/Hotmaps_test.JPG)
