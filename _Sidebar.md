@@ -3,7 +3,7 @@
 [Home](Home)
 
 # Handbook
-* [Introduction - How to use the Hotmaps toolbox](Handbook_Introduction)
+* [Introduction - Introduction - Tutorial - First steps](Handbook_Introduction)
 * [How to retrieve basic indicators of heat demand in my region of interest](Handbook_indicators)
 * [Heat density mapping in hotmaps](Handbook_Heat_density_mapping)
 * [How to identify areas with district heating potentials in Hotmaps](Handbook_district_heating_potentials)  
