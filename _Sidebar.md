@@ -1,0 +1,1 @@
+![](https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/Hotmaps_test.JPG)
