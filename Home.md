@@ -11,11 +11,11 @@ The wiki consists of 2 parts.
 We hope you enjoy exploring the toolbox and find it helpful for your heating and cooling planning
 
 # Handbook
-[Introduction - Hotmaps role in heating and cooling planning](tutorial1)
-[How to retrieve basic indicators of heat demand in my region of interest](tutorial2)
-[Heat density mapping in hotmaps](tutorial3)
-[How to identify areas with district heating potentials in Hotmaps](tutorial4)  
-[How to estimate costs of district heating with Hotmaps](tutorial5)  
+* [Introduction - Hotmaps role in heating and cooling planning](tutorial1)
+* [How to retrieve basic indicators of heat demand in my region of interest](tutorial2)
+* [Heat density mapping in hotmaps](tutorial3)
+* [How to identify areas with district heating potentials in Hotmaps](tutorial4)  
+* [How to estimate costs of district heating with Hotmaps](tutorial5)  
 
 # Manual
 [Introduction of the hotmaps toolbox](module1)
