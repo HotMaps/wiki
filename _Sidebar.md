@@ -1,1 +1,1 @@
-![](https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/Hotmaps_test.JPG)
+![Hotmaps Logo](https://www.hotmaps-project.eu/wp-content/uploads/2017/02/logo.svg)
