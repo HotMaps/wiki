@@ -10,6 +10,8 @@ The wiki consists of 2 parts.
 
 We hope you enjoy exploring the toolbox and find it helpful for your heating and cooling planning!
 
+![](https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/Hotmaps_test.JPG)
+
 
 
  
