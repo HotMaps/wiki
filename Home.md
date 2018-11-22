@@ -1,6 +1,4 @@
-Welcome to the Hotmaps wiki!
-
-![Hotmaps Logo](https://www.hotmaps-project.eu/wp-content/uploads/2017/02/logo.svg)
+**Welcome to the Hotmaps wiki!**
 
 The wiki consists of 2 parts.
 
