@@ -1,6 +1,6 @@
 # Wiki Introduction
 
-[Introduction](Home)
+[Home](Home)
 
 # Handbook
 * [Introduction - Hotmaps role in heating and cooling planning](Handbook_Introduction)
