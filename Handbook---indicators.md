@@ -1,0 +1,1 @@
+# How to retrieve indicators with Hotmaps
