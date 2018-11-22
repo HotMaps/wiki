@@ -9,7 +9,7 @@ The wiki consists of 2 parts.
 We hope you enjoy exploring the toolbox and find it helpful for your heating and cooling planning
 
 # Handbook
-* [Introduction - Hotmaps role in heating and cooling planning](Handbook_Introduction)
+* [Introduction - Tutorial - How to use the Hotmaps toolbox](Handbook_Introduction)
 * [How to retrieve basic indicators of heat demand in my region of interest](Handbook_indicators)
 * [Heat density mapping in hotmaps](Handbook_Heat_density_mapping)
 * [How to identify areas with district heating potentials in Hotmaps](Handbook_district_heating_potentials)  
