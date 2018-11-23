@@ -32,9 +32,15 @@ We hope you enjoy exploring the toolbox and find it helpful for your heating and
 * [Data export functionalities](Data_export)
 
 ## Calculation modules
-* [CM - District heating potentials](module6)
-* [CM - District heating supply](module7)  
-* [CM - Renewable energy potentials](module8)
+* [CM - District heating potentials](CM_DH_potentials)
+* [CM - District heating distribution costs](CM_DH_distribution_costs)
+* [CM - District heating supply](CM_DH_supply)
+* [CM - Decentral heat supply](CM_decentral_costs)  
+* [CM - Renewable energy potentials](CM_renewable_potentials)
+* [CM - Excess heat potential](CM_excess_heat)
+* [CM - Industrial heat demand](CM_industrial_heat_demand)
+* [CM - Demand response](CM_demand_response)
+* [CM - Transport](CM_transport)
 
 
 **HAVE FUN EXPLORING THE HOTMAPS TOOLBOX!**
