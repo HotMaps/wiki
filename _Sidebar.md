@@ -3,23 +3,35 @@
 [Home](Home)
 
 # Handbook
-* [Introduction - Introduction - Tutorial - First steps](Handbook_Introduction)
+* [Introduction - Tutorial - First steps](Handbook_Introduction)
 * [How to retrieve basic indicators of heat demand in my region of interest](Handbook_indicators)
 * [Heat density mapping in hotmaps](Handbook_Heat_density_mapping)
 * [How to identify areas with district heating potentials in Hotmaps](Handbook_district_heating_potentials)  
 * [How to estimate costs of district heating with Hotmaps](tutorial5)  
 
 # Manual
-[Introduction of the hotmaps toolbox](module1)
-### General tool functionalities and structure
-* [Structure and User interface](module2)
-* [Layers in the Hotmaps toolbox](module3)
-* [Database behind the Hotmaps toolbox](module4)
-* [Data upload functionalities](module5)
-### Calculation modules
-* [CM - District heating potentials](module6)
-* [CM - District heating supply](module7)  
-* [CM - Renewable energy potentials](module8)
+[Introduction of the hotmaps toolbox](Introduction_manual)
+
+## General tool functionalities and structure
+* [Introduction to User interface](Intro_UI)
+* [Layers section in the Hotmaps toolbox](Layer_section)
+* [How to select a region in the Hotmaps toolbox](Region_selection)
+* [How to retrieve indicator on a selection](Indicators_section)
+* [How to access calculation models](CM_access)
+* [Database behind the Hotmaps toolbox](Database_of_Hotmaps)
+* [Data upload functionalities](Data_upload)
+* [Data export functionalities](Data_export)
+
+## Calculation modules
+* [CM - District heating potentials](CM_DH_potentials)
+* [CM - District heating distribution costs](CM_DH_distribution_costs)
+* [CM - District heating supply](CM_DH_supply)
+* [CM - Decentral heat supply](CM_decentral_costs)  
+* [CM - Renewable energy potentials](CM_renewable_potentials)
+* [CM - Excess heat potential](CM_excess_heat)
+* [CM - Industrial heat demand](CM_industrial_heat_demand)
+* [CM - Demand response](CM_demand_response)
+* [CM - Transport](CM_transport)
 
 
 # For Developers
