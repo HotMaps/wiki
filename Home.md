@@ -1,6 +1,6 @@
 **Welcome to the Hotmaps wiki!**
 
-[test]((## General tool functionalities and structure)
+[test](## General tool functionalities and structure)
 
 The wiki consists of 2 parts.
 
