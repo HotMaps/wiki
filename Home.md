@@ -10,11 +10,6 @@ For developers please see more information here [Developers](Developers)
 
 We hope you enjoy exploring the toolbox and find it helpful for your heating and cooling planning
 
-hier gibts generelle infos zu den github wikis:
-https://help.github.com/articles/about-github-wikis/
-
-hier ist eine kleine zusammenstellung der github-markdown-syntax:
-https://help.github.com/articles/basic-writing-and-formatting-syntax/
 
 # Handbook
 * [Introduction - Tutorial - First steps](Handbook_Introduction)
