@@ -19,16 +19,18 @@ We hope you enjoy exploring the toolbox and find it helpful for your heating and
 * [How to estimate costs of district heating with Hotmaps](tutorial5)  
 
 # Manual
-[Introduction of the hotmaps toolbox](module1)
+[Introduction of the hotmaps toolbox](Introduction_manual)
 
 ## General tool functionalities and structure
-* [Introduction to User interface](module2)
-* [Layers section in the Hotmaps toolbox](module3)
-* [How to select a region in the Hotmaps toolbox](module10)
-* [
-* [How to access calculation models](module9)
-* [Database behind the Hotmaps toolbox](module4)
-* [Data upload functionalities](module5)
+* [Introduction to User interface](Intro_UI)
+* [Layers section in the Hotmaps toolbox](Layer_section)
+* [How to select a region in the Hotmaps toolbox](Region_selection)
+* [How to retrieve indicator on a selection](Indicators_section)
+* [How to access calculation models](CM_access)
+* [Database behind the Hotmaps toolbox](Database_of_Hotmaps)
+* [Data upload functionalities](Data_upload)
+* [Data export functionalities](Data_export)
+
 ## Calculation modules
 * [CM - District heating potentials](module6)
 * [CM - District heating supply](module7)  
