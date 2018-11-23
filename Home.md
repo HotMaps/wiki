@@ -1,5 +1,7 @@
 **Welcome to the Hotmaps wiki!**
 
+[test]((## General tool functionalities and structure)
+
 The wiki consists of 2 parts.
 
 1) A handbook on how to apply the Hotmaps toolbox
@@ -20,9 +22,13 @@ We hope you enjoy exploring the toolbox and find it helpful for your heating and
 
 # Manual
 [Introduction of the hotmaps toolbox](module1)
-## General tool functionalities and structure
-* [Structure and User interface](module2)
-* [Layers in the Hotmaps toolbox](module3)
+
+(## General tool functionalities and structure)
+* [Introduction to User interface](module2)
+* [Layers section in the Hotmaps toolbox](module3)
+* [How to select a region in the Hotmaps toolbox](module10)
+* [
+* [How to access calculation models](module9)
 * [Database behind the Hotmaps toolbox](module4)
 * [Data upload functionalities](module5)
 ## Calculation modules
