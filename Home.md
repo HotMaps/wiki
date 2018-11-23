@@ -1,6 +1,6 @@
 **Welcome to the Hotmaps wiki!**
 
-[test](## General tool functionalities and structure)
+[test](#Manual)
 
 The wiki consists of 2 parts.
 
@@ -20,10 +20,10 @@ We hope you enjoy exploring the toolbox and find it helpful for your heating and
 * [How to identify areas with district heating potentials in Hotmaps](Handbook_district_heating_potentials)  
 * [How to estimate costs of district heating with Hotmaps](tutorial5)  
 
-# Manual
+(#Manual)
 [Introduction of the hotmaps toolbox](module1)
 
-(## General tool functionalities and structure)
+## General tool functionalities and structure
 * [Introduction to User interface](module2)
 * [Layers section in the Hotmaps toolbox](module3)
 * [How to select a region in the Hotmaps toolbox](module10)
