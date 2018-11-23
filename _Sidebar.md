@@ -35,7 +35,7 @@
 
 
 # For Developers
-
+* [Go to developers section](Developers)
 
 
 
