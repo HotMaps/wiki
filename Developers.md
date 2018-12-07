@@ -14,3 +14,6 @@
 ## List of main repositories
 
 ## Description of IT infrastructure
+
+## How to define indicators
+[Indicator Definiton](indicator_readme)
