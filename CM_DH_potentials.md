@@ -1,6 +1,6 @@
-# Calculation Module: District Heating Potential #
-
 __TOC__
+
+# Calculation Module: District Heating Potential #
 
 ## Introduction
 This calculation module determines the district heating (DH) areas and their corresponding DH potential based on heat demand densities. The heat demand densities are obtained from the input GIS layer, namely [__European Heat Density Map (EHDM)__](https://gitlab.com/hotmaps/heat/heat_tot_curr_density), which was developed in course of  Hotmaps project. The EHDM has a resolution of one hectare and Coordinate Reference System (CRS) of "_*ETRS89 / LAEA Europe - EPSG 3035*_". The cells in EHDM show the heating densities in _**MWh/ha**_.
