@@ -14,11 +14,30 @@ The Hotmaps GUI is a GIS-based interface. By closing the disclaiming page, the u
 <a name="Fig2">![first_glance][Fig2] </a>
 _Fig. 2 Navigation through the Hotmaps toolbox_
 
+Here you can spot at first glance 3 parts of the user interface:
+1. a Toolbar at the top
+2. the map itself
+3. and some tools for changig the style of the map
+
+In the follwing chapetrs we will have a look at each of this 3 parts:
+
+## 1. Upper Toolbar
+![first_glance][Fig3] 
+### Short Description
+With this toolbar you can:
+1. register and Login into the Web Application in order to save your work
+2. zoom in to a specific region by typing the name 
+3. show the layer sidebar
+4. enable the selection tools
+5. show the result of your selected regions
+6. Give us Feedback regarding the tool
 
 [Fig1]: https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/general_tool_functionalities_and_structure/disclaimer.png
 
 [Fig2]: https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/general_tool_functionalities_and_structure/gui_navigation.png
 
 [intro]: https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/general_tool_functionalities_and_structure/intro.gif
+
+[Fig3]: https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/general_tool_functionalities_and_structure/toolbar_up.png
 
 
