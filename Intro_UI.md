@@ -1,4 +1,4 @@
-# Hotmaps Graphical User Interface
+# Hotmaps Graphical User Interface 
 ## GIF Video
 ![intro_gif][intro]
 
@@ -18,19 +18,32 @@ Here you can spot at first glance 3 parts of the user interface:
 1. a Toolbar at the top
 2. the map itself
 3. and some tools for changig the style of the map
-
 In the follwing chapetrs we will have a look at each of this 3 parts:
 
 ## 1. Upper Toolbar
 ![first_glance][Fig3] 
 ### Short Description
 With this toolbar you can:
-1. register and Login into the Web Application in order to save your work
-2. zoom in to a specific region by typing the name 
-3. show the layer sidebar
-4. enable the selection tools
-5. show the result of your selected regions
-6. Give us Feedback regarding the tool
+1. [_Connect:_](#connect) register and login into the web application in order to save your work
+2. [_Go To Place:_](#go-to-place) zoom in to a specific region by typing the name 
+3. [_Layers:_](#layers) show the layer sidebar
+4. [_Selection Tools_:](#selection-tool) enable or disable the selection tools
+5. [_Show Result:_](#show-result) show the result of your selected regions
+6. [_Feedback:_](#feedback) give us Feedback regarding the tool
+
+### Long Description
+#### Connect
+
+#### Go To Place
+
+#### Layers
+
+#### Selection Tools
+
+#### Show Result
+
+#### Feedback
+
 
 [Fig1]: https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/general_tool_functionalities_and_structure/disclaimer.png
 
