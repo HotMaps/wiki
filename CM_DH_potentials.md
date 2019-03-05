@@ -24,19 +24,19 @@ This code uses the concept of connected components from image processing library
 
 To summarize inputs and outputs layers and parameters, 
 
-++Input layers and parameters are:++
+__Input layers and parameters are:__
 
 - Heat density map
--- in raster format
--- with 1 hectare resolution
--- demand densities in _**MWh/ha**_
+ - in raster format
+ - with 1 hectare resolution
+ - demand densities in _**MWh/ha**_
 
 - Pixel Threshold _**GWh/km<sup>2**_
 
 - DH Threshold _**GWh/a**_
 
 
-++Input layers and parameters are:++
+__Input layers and parameters are:__
 
 
 - DH areas
