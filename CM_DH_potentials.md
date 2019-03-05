@@ -1,3 +1,7 @@
+{
+    "plugins": ["underline"]
+}
+
 # Calculation Module: District Heating Potential #
 
 [__TOC__]
