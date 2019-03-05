@@ -18,6 +18,7 @@ Here you can spot at first glance 3 parts of the user interface:
 1. a Toolbar at the top
 2. the map itself
 3. and some tools for changig the style of the map
+
 In the follwing chapetrs we will have a look at each of this 3 parts:
 
 ## 1. Upper Toolbar
@@ -32,18 +33,38 @@ With this toolbar you can:
 6. [_Feedback:_](#feedback) give us Feedback regarding the tool
 
 ### Long Description
+
 #### Connect
+##### Login
+![login_gif][login_gif]
+
+##### Register
+![register_gif][register_gif]
+
+##### Recover
+![recover_gif][recover_gif]
 
 #### Go To Place
+![go_to_place_gif][go_to_place]
 
 #### Layers
+![layers_gif][layers]
 
 #### Selection Tools
+![selection_tools_gif][selection_tools]
 
 #### Show Result
 
-#### Feedback
+![show_result_gif][show_result]
 
+#### Feedback
+![feedback_gif][feedback]
+
+## 2. Mapping
+![maping_gif][mapping_gif]
+
+### Description
+![maping_gif][mapping]
 
 [Fig1]: https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/general_tool_functionalities_and_structure/disclaimer.png
 
@@ -53,4 +74,22 @@ With this toolbar you can:
 
 [Fig3]: https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/general_tool_functionalities_and_structure/toolbar_up.png
 
+[feedback]: https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/general_tool_functionalities_and_structure/feedback.gif
 
+[show_result]: https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/general_tool_functionalities_and_structure/show_result.gif
+
+[selection_tools]: https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/general_tool_functionalities_and_structure/selection_tools.gif
+
+[layers]: https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/general_tool_functionalities_and_structure/layers.gif
+
+[go_to_place]: https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/general_tool_functionalities_and_structure/go_to_place.gif
+
+[login_gif]: https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/general_tool_functionalities_and_structure/login.gif
+
+[register_gif]: https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/general_tool_functionalities_and_structure/register.gif
+
+[recover_gif]: https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/general_tool_functionalities_and_structure/recover.gif
+
+[mapping_gif]: https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/general_tool_functionalities_and_structure/mapping.gif
+
+[mapping]: https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/general_tool_functionalities_and_structure/mapping.png
