@@ -1,5 +1,5 @@
 # Hotmaps Graphical User Interface 
-## GIF Video
+## Introduction Page
 ![intro_gif][intro]
 
 ## Description
