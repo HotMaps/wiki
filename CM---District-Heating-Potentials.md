@@ -7,7 +7,6 @@ As output, one GIS layer, three indicators and two diagrams are presented. These
 
 
 ## Method
-
 In the EHDM, pixels with low heat demand have high distribution costs and therefore, it is not economic to connect them to the DH system. We define a pixel demand threshold of _*1GWh/km<sup>2*_ for removing such pixels. By eliminating these pixels from the map, we obtain groups of pixels that are attached to each other. Each set of these attached pixels constitute small zones that in this paper, are referred as “coherent areas”. Afterwards, the distribution costs in each coherent area are calculated and the ones with costs of below the upper bound (c\_dist\_max) are extracted. Subsequently, the pixel threshold is increased with a small step (_*0.1GWh/km<sup>2*_) and the previous step is repeated. This process is continued until no pixel above the threshold remains. The result would be a set of coherent areas, all with distribution costs of bellow the defined distribution cost ceiling. Fig. 1 shows the flowchart of these steps.
 
 In practice, determination of coherent areas starts by selecting regions with higher heat densities. Here, this process is done the other way around in order to speed up the calculation process. It should be noted that this has no influence on determination of coherent areas since the distribution cost upper bound is considered in each loop.
@@ -16,7 +15,6 @@ This code uses the concept of connected components from image processing library
 
 
 ## Inputs and Outputs
-
 To summarize inputs and outputs layers and parameters,
 
 __Input layers and parameters are:__
@@ -37,11 +35,18 @@ __Input layers and parameters are:__
 
 
 ## Sample Run
-
 Here, the calculation module is run for the case study of Aalborg in Denmark.
 
 
 ## References
+
+test
+
+
+
+## How to cite
+
+test
 
 
 ## Authors
@@ -51,8 +56,6 @@ Mostafa Fallahnejad\*
 Institute of Energy Systems and Electrical Drives
 Gusshausstrasse 27-29/370
 1040 Wien
-
-## How to cite
 
 
 ## Licence
@@ -68,6 +71,3 @@ License-Text: https://spdx.org/licenses/CC-BY-4.0.html
 
 ## Acknowledgement
 We would like to convey our deepest appreciation to the Horizon 2020 [Hotmaps Project](https://www.hotmaps-project.eu) (Grant Agreement number 723677), which provided the funding to carry out the present investigation.
-
-
-
