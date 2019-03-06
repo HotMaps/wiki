@@ -71,6 +71,10 @@ You can zoom to a specifc region by typing its name (see animation below)
 
 #### Layers
 ![layers_gif][layers]
+###### Description
+By pressing this Button a sidebar with different kind of layers is shown at the left.
+Following layers can be found and visualized:
+
 
 #### Selection Tools
 ![selection_tools_gif][selection_tools]
