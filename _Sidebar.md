@@ -23,7 +23,7 @@
 * [Data export functionalities](Data_export)
 
 ## Calculation modules
-* [CM - District heating potentials](CM - District heating potentials)
+* [CM - District heating potentials](CM---District-Heating-Potentials)
 * [CM - District heating distribution costs](CM_DH_distribution_costs)
 * [CM - District heating supply](CM_DH_supply)
 * [CM - Decentral heat supply](CM_decentral_costs)  
