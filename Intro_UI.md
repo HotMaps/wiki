@@ -1,5 +1,5 @@
 # Hotmaps Graphical User Interface 
-## Introduction Page
+## Introduction Page (Animation)
 ![intro_gif][intro]
 
 ## Description
@@ -29,14 +29,17 @@ With this toolbar you can:
 2. [_Go To Place:_](#go-to-place) zoom in to a specific region by typing the name 
 3. [_Layers:_](#layers) show the layer sidebar
 4. [_Selection Tools_:](#selection-tool) enable or disable the selection tools
-5. [_Show Result:_](#show-result) show the result of your selected regions
+5. [_Show Result:_](#show-result) show the result sidebar of your selected regions
 6. [_Feedback:_](#feedback) give us Feedback regarding the tool
 
 ### Long Description
 
 #### Connect
 ##### Login
+###### Animation
 ![login_gif][login_gif]
+
+###### Description
 
 ##### Register
 ![register_gif][register_gif]
