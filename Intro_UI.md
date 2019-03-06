@@ -21,9 +21,9 @@ Here you can spot at first glance 3 parts of the user interface:
 
 In the follwing chapetrs we will have a look at each of this 3 parts:
 
-## 1. Upper Toolbar
+# 1. Upper Toolbar
 ![first_glance][Fig3] 
-### Short Description
+## Short Description
 With this toolbar you can:
 1. [_Connect:_](#connect) register and login into the web application in order to save your work
 2. [_Go To Place:_](#go-to-place) zoom in to a specific region by typing the name 
@@ -32,31 +32,30 @@ With this toolbar you can:
 5. [_Show Result:_](#show-result) show the result sidebar of your selected regions
 6. [_Feedback:_](#feedback) give us Feedback regarding the tool
 
-### Long Description
-
-#### Connect
-##### Login
-###### Animation
+## Long Description
+## Connect
+## Login
+## Animation
 ![login_gif][login_gif]
-###### Description
+## Description
 After [registering](#register) and activating your account you should be able to login with your email and password (see [Fig.4](#Fig4) below).
 
 <a name="Fig4">![login_png][login]</a>
 
 _Fig.4.: Login Form_
 
-##### Register
+## Register
 ![register_gif][register_gif]
-###### Description
+## Description
 Here you can create a account for the _hotmaps_ website. After submitting the [form](#Fig5) you will receive an email for actvating your account. With your account you will be able to save your progress.
 
 <a name="Fig5">![register][register]</a>
 
 _Fig.5.: RegisterForm_
 
-##### Recover
+## Recover
 ![recover_gif][recover_gif]
-###### Description
+## Description
 If you ever forget your password you can recover it under this menu (see [Fig.6.](#Fig6) below). Please be aware to set a new password afterwards. 
 
 <a name="Fig6">![recover][recover]</a>
@@ -64,50 +63,53 @@ If you ever forget your password you can recover it under this menu (see [Fig.6.
 _Fig.6.: Recover Form_
 
 
-#### Go To Place
+## Go To Place
 You can zoom to a specifc region by typing its name (see animation below)
  
 ![go_to_place_gif][go_to_place]
 
-#### Layers
+## Layers
 ![layers_gif][layers]
-###### Description
+
+## Description
 By pressing this Button a sidebar with different kind of layers is shown at the left.
 Following layers can be found and visualized:
+
 ![sidebar_layer.png][sidebar]
 
-#### Selection Tools
+## Selection Tools
 ![selection_tools_gif][selection_tools]
-###### Description
+## Description
 The figure below shows the appearance of the tools:
 
 ![selection_tools.png][selection_tools_png] 
 
-1. for selection you region
+1. tool for selection your region
 2. creating a custom square region
 3. creating a custom circle region
 4. creating a custom polygon region
 
 <ol type="A">
 <li>shows how many region you selected</li>
-<li>shows the scale you selected from the</li>
+<li>shows the scale you selected from apping</li>
 </ol>
 
 <ol type="a">
 <li>button for loading the results of your selected region and selected layers</li>
-<li>button for deleting a selected regio</li>
+<li>button for deleting a selected region</li>
 </ol>
 
 
-#### Show Result
-###### Description
+## Show Result
+## Description
 Depending on the layers and region you selected results for your configuration are shown in a sidebar at the right of your screen 
 
 ![results.png][results]
 
-#### Feedback
+## Feedback
 ![feedback_gif][feedback]
-###### Description
+
+## Description
 Do you have any suggestions how to impove the tool ?
 Have you notice any errors ?
 Please let us know !
@@ -125,12 +127,16 @@ and set a priority:
 
 ![feedback.png][feedback_priority]
 
-## 2.Mapping
+## Mapping
 ![maping_gif][mapping_gif]
 
-### Description
+## Description
 ![maping_gif][mapping]
 
+1. Zomm in and Zoom out
+2. Show the NUTS boundaries to select specifc NUTS regions or use hectar to customize your [selection](#Selection-Tools)
+3. Use Openstreetmap tile or Satalite tile
+ 
 [Fig1]: https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/general_tool_functionalities_and_structure/disclaimer.png
 
 [Fig2]: https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/general_tool_functionalities_and_structure/gui_navigation.png
