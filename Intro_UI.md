@@ -137,48 +137,48 @@ and set a priority:
 2. Show the NUTS boundaries to select specifc NUTS regions or use hectar to customize your [selection](#Selection-Tools)
 3. Use Openstreetmap tile or Satalite tile
  
-[Fig1]: https://gitlab.com/hotmaps_wiki/intro_gui/tree/master/datadisclaimer.png
+[Fig1]: https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/general_tool_functionalities_and_structure/disclaimer.png
 
-[Fig2]: https://gitlab.com/hotmaps_wiki/intro_gui/tree/master/datagui_navigation.png
+[Fig2]: https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/general_tool_functionalities_and_structure/gui_navigation.png
 
-[intro]: https://gitlab.com/hotmaps_wiki/intro_gui/tree/master/dataintro.gif
+[intro]: https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/general_tool_functionalities_and_structure/intro.gif
 
-[Fig3]: https://gitlab.com/hotmaps_wiki/intro_gui/tree/master/datatoolbar_up.png
+[Fig3]: https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/general_tool_functionalities_and_structure/toolbar_up.png
 
-[feedback]: https://gitlab.com/hotmaps_wiki/intro_gui/tree/master/datafeedback.gif
+[feedback]: https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/general_tool_functionalities_and_structure/feedback.gif
 
-[show_result]: https://gitlab.com/hotmaps_wiki/intro_gui/tree/master/datashow_result.gif
+[show_result]: https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/general_tool_functionalities_and_structure/show_result.gif
 
-[selection_tools]: https://gitlab.com/hotmaps_wiki/intro_gui/tree/master/dataselection_tools.gif
+[selection_tools]: https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/general_tool_functionalities_and_structure/selection_tools.gif
 
-[layers]: https://gitlab.com/hotmaps_wiki/intro_gui/tree/master/datalayers.gif
+[layers]: https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/general_tool_functionalities_and_structure/layers.gif
 
-[go_to_place]: https://gitlab.com/hotmaps_wiki/intro_gui/tree/master/datago_to_place.gif
+[go_to_place]: https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/general_tool_functionalities_and_structure/go_to_place.gif
 
-[login_gif]: https://gitlab.com/hotmaps_wiki/intro_gui/tree/master/datalogin.gif
+[login_gif]: https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/general_tool_functionalities_and_structure/login.gif
 
-[register_gif]: https://gitlab.com/hotmaps_wiki/intro_gui/tree/master/dataregister.gif
+[register_gif]: https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/general_tool_functionalities_and_structure/register.gif
 
-[recover_gif]: https://gitlab.com/hotmaps_wiki/intro_gui/tree/master/datarecover.gif
+[recover_gif]: https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/general_tool_functionalities_and_structure/recover.gif
 
-[mapping_gif]: https://gitlab.com/hotmaps_wiki/intro_gui/tree/master/datamapping.gif
+[mapping_gif]: https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/general_tool_functionalities_and_structure/mapping.gif
 
-[mapping]: https://gitlab.com/hotmaps_wiki/intro_gui/tree/master/datamapping.png
+[mapping]: https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/general_tool_functionalities_and_structure/mapping.png
 
-[login]: https://gitlab.com/hotmaps_wiki/intro_gui/tree/master/datalogin.png
+[login]: https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/general_tool_functionalities_and_structure/login.png
 
-[register]: https://gitlab.com/hotmaps_wiki/intro_gui/tree/master/dataregister.png
+[register]: https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/general_tool_functionalities_and_structure/register.png
 
-[recover]: https://gitlab.com/hotmaps_wiki/intro_gui/tree/master/datarecover.png
+[recover]: https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/general_tool_functionalities_and_structure/recover.png
 
-[sidebar]: https://gitlab.com/hotmaps_wiki/intro_gui/tree/master/datasidebar.png
+[sidebar]: https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/general_tool_functionalities_and_structure/sidebar.png
 
-[results]: https://gitlab.com/hotmaps_wiki/intro_gui/tree/master/dataresults.png
+[results]: https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/general_tool_functionalities_and_structure/results.png
 
-[selection_tools_png]: https://gitlab.com/hotmaps_wiki/intro_gui/tree/master/dataselection_tools.png
+[selection_tools_png]: https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/general_tool_functionalities_and_structure/selection_tools.png
 
-[feedback_png]: https://gitlab.com/hotmaps_wiki/intro_gui/tree/master/datafeedback.png
+[feedback_png]: https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/general_tool_functionalities_and_structure/feedback.png
 
-[feedback_type]: https://gitlab.com/hotmaps_wiki/intro_gui/tree/master/datafeedback_type.png
+[feedback_type]: https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/general_tool_functionalities_and_structure/feedback_type.png
 
-[feedback_priority]: https://gitlab.com/hotmaps_wiki/intro_gui/tree/master/datafeedback_priority.png
+[feedback_priority]: https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/general_tool_functionalities_and_structure/feedback_priority.png
