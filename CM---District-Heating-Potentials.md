@@ -22,7 +22,7 @@ To summarize inputs and outputs layers and parameters,
 __Input layers and parameters are:__
 
 * Heat density map
-  * in raster format
+  * in raster format (*.tif)
   * with 1 hectare resolution
   * demand densities in _**MWh/ha**_
 * Pixel Threshold _**GWh/km<sup>2**_
