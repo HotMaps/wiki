@@ -24,7 +24,7 @@ __Input layers and parameters are:__
   * with 1 hectare resolution
   * demand densities in _**MWh/ha**_
 * Pixel Threshold _**GWh/km<sup>2**_: a value between _*0*_ and _*1000*_
-* DH Threshold _**GWh/a**_: a value between _*0*_ and _*500*_
+* DH Threshold _**GWh/year**_: a value between _*0*_ and _*500*_
 
 
 __Input layers and parameters are:__
