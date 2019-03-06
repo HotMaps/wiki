@@ -9,7 +9,7 @@ Once the toolbox is opened, the disclaiming page is shown ([Fig.1](#Fig1)). Besi
 _Fig. 1 Short introduction to Hotmas toolbox_
 
 
-The Hotmaps GUI is a GIS-based interface. By closing the disclaiming page, the user encounters with the map of Europe. By default, the heat demand density map of EU-28 countries and NUTS 3 layer are depicted. In addition to these two maps, some tools and buttons can be seen in GUI. These tools are illustrated in [Fig.2](#Fig2)
+The Hotmaps GUI is a GIS-based interface. By closing the disclaiming page, the user sees the map of Europe. By default, the heat demand density map of EU-28 countries and NUTS 3 layer are depicted. In addition to these two maps, some tools and buttons can be seen in GUI. These tools are illustrated in [Fig.2](#Fig2)
 
 <a name="Fig2">![first_glance][Fig2] </a>
 _Fig. 2 Initial Page_
@@ -38,23 +38,35 @@ With this toolbar you can:
 ##### Login
 ###### Animation
 ![login_gif][login_gif]
-
 ###### Description
 After [registering](#register) and activating your account you should be able to login with your email and password (see [Fig.4](#Fig4) below).
 
 <a name="Fig4">![login_png][login]</a>
- 
+
+_Fig.4.: Login Form_
+
 ##### Register
 ![register_gif][register_gif]
-
 ###### Description
-Here you can create a account for the _hotmaps_ website. After submitting the [form](#Fig5) you will receive an email for With your account you will be able to save your progress.
-![register][register]
+Here you can create a account for the _hotmaps_ website. After submitting the [form](#Fig5) you will receive an email for actvating your account. With your account you will be able to save your progress.
+
+<a name="Fig5">![register][register]</a>
+
+_Fig.5.: RegisterForm_
 
 ##### Recover
 ![recover_gif][recover_gif]
+###### Description
+If you ever forget your password you can recover it under this menu (see [Fig.6.](#Fig6) below). Please be aware to set a new password afterwards. 
+
+<a name="Fig6">![recover][recover]</a>
+
+_Fig.6.: Recover Form_
+
 
 #### Go To Place
+You can zoom to a specifc region by typing its name (see animation below)
+ 
 ![go_to_place_gif][go_to_place]
 
 #### Layers
@@ -107,3 +119,5 @@ Here you can create a account for the _hotmaps_ website. After submitting the [f
 [login]: https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/general_tool_functionalities_and_structure/login.png
 
 [register]: https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/general_tool_functionalities_and_structure/register.png
+
+[recover]: https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/general_tool_functionalities_and_structure/recover.png
