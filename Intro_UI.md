@@ -12,7 +12,7 @@ _Fig. 1 Short introduction to Hotmas toolbox_
 The Hotmaps GUI is a GIS-based interface. By closing the disclaiming page, the user encounters with the map of Europe. By default, the heat demand density map of EU-28 countries and NUTS 3 layer are depicted. In addition to these two maps, some tools and buttons can be seen in GUI. These tools are illustrated in [Fig.2](#Fig2)
 
 <a name="Fig2">![first_glance][Fig2] </a>
-_Fig. 2 Navigation through the Hotmaps toolbox_
+_Fig. 2 Initial Page_
 
 Here you can spot at first glance 3 parts of the user interface:
 1. a Toolbar at the top
