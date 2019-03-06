@@ -40,9 +40,16 @@ With this toolbar you can:
 ![login_gif][login_gif]
 
 ###### Description
+After [registering](#register) and activating your account you should be able to login with your email and password (see [Fig.4](#Fig4) below).
 
+<a name="Fig4">![login_png][login]</a>
+ 
 ##### Register
 ![register_gif][register_gif]
+
+###### Description
+Here you can create a account for the _hotmaps_ website. After submitting the [form](#Fig5) you will receive an email for With your account you will be able to save your progress.
+![register][register]
 
 ##### Recover
 ![recover_gif][recover_gif]
@@ -96,3 +103,7 @@ With this toolbar you can:
 [mapping_gif]: https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/general_tool_functionalities_and_structure/mapping.gif
 
 [mapping]: https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/general_tool_functionalities_and_structure/mapping.png
+
+[login]: https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/general_tool_functionalities_and_structure/login.png
+
+[register]: https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/general_tool_functionalities_and_structure/register.png
