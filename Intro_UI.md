@@ -74,19 +74,58 @@ You can zoom to a specifc region by typing its name (see animation below)
 ###### Description
 By pressing this Button a sidebar with different kind of layers is shown at the left.
 Following layers can be found and visualized:
-
+![sidebar_layer.png][sidebar]
 
 #### Selection Tools
 ![selection_tools_gif][selection_tools]
+###### Description
+The figure below shows the appearance of the tools:
+
+![selection_tools.png][selection_tools_png] 
+
+1. for selection you region
+2. creating a custom square region
+3. creating a custom circle region
+4. creating a custom polygon region
+
+<ol type="A">
+<li>shows how many region you selected</li>
+<li>shows the scale you selected from the</li>
+</ol>
+
+<ol type="a">
+<li>button for loading the results of your selected region and selected layers</li>
+<li>button for deleting a selected regio</li>
+</ol>
+
 
 #### Show Result
+###### Description
+Depending on the layers and region you selected results for your configuration are shown in a sidebar at the right of your screen 
 
-![show_result_gif][show_result]
+![results.png][results]
 
 #### Feedback
 ![feedback_gif][feedback]
+###### Description
+Do you have any suggestions how to impove the tool ?
+Have you notice any errors ?
+Please let us know !
+By giving us feedback you can help us improve the toolbox !
 
-## 2. Mapping
+Please fill out the form below:
+
+![feedback.png][feedback_png]
+
+you can choose from following types:
+
+![feedback.png][feedback_type]
+
+and set a priority:
+
+![feedback.png][feedback_priority]
+
+## 2.Mapping
 ![maping_gif][mapping_gif]
 
 ### Description
@@ -125,3 +164,15 @@ Following layers can be found and visualized:
 [register]: https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/general_tool_functionalities_and_structure/register.png
 
 [recover]: https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/general_tool_functionalities_and_structure/recover.png
+
+[sidebar]: https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/general_tool_functionalities_and_structure/sidebar.png
+
+[results]: https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/general_tool_functionalities_and_structure/results.png
+
+[selection_tools_png]: https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/general_tool_functionalities_and_structure/selection_tools.png
+
+[feedback_png]: https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/general_tool_functionalities_and_structure/feedback.png
+
+[feedback_type]: https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/general_tool_functionalities_and_structure/feedback_type.png
+
+[feedback_priority]: https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/general_tool_functionalities_and_structure/feedback_priority.png
