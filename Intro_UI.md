@@ -1,19 +1,26 @@
-![test](https://gitlab.com/hotmaps_wiki/intro_gui/blob/master/data/feedback_priority.png)
 
+![alt](https://gitlab.com/hotmaps_wiki/intro_gui/blob/master/data/feedback_priority.png)
+![alt text](https://gitlab.com/hotmaps_wiki/intro_gui/raw/master/data/feedback_priority.png?inline=false)
 # Hotmaps Graphical User Interface 
 ## Table of Content
-[](#)
-[](#)
-[](#)
-[](#)
+1. [Introduction Page](#Introduction-Page)
+1. [Upper Toolbar](#Upper-Toolbar)
+   * [Connect](#Connect)
+     * [Login](#login)
+     * [Register](#register)
+     * [Recover](#recover)
+   * [Go To Place](#Go-To-Place)
+   * [Layers](#layers)
+   * [Selection Tools](#selection-tool)
+   * [Show Result](#show-result)
+   * [Feedback](#feedback)
+1. [Tiles](#Tiles)
+1. [](#)
 
-## Introduction Page (Animation)
-![intro_gif][intro]
-
-## Description
+## Introduction Page 
 Once the toolbox is opened, the disclaiming page is shown ([Fig.1](#Fig1)). Besides the disclaimer message, additional information regarding the objectives of the Hotmaps toolbox as well as the link to the Hotmaps project website and the data repositories is provided.
 
-<a name="Fig1">![disclaimer][Fig1] </a>
+<a name="Fig1">![intro_gif][intro]</a>
 _Fig. 1 Short introduction to Hotmas toolbox_
 
 
@@ -23,15 +30,15 @@ The Hotmaps GUI is a GIS-based interface. By closing the disclaiming page, the u
 _Fig. 2 Initial Page_
 
 Here you can spot at first glance 3 parts of the user interface:
-1. a Toolbar at the top
+1. [a toolbar at the top](#Upper-Toolbar)
 2. the map itself
-3. and some tools for changig the style of the map
+3. [and some tools for changig the style of the map](#tiles)
 
 In the follwing chapetrs we will have a look at each of this 3 parts:
 
-# 1. Upper Toolbar
+# Upper Toolbar
 ![first_glance][Fig3] 
-## Short Description
+
 With this toolbar you can:
 1. [_Connect:_](#connect) register and login into the web application in order to save your work
 2. [_Go To Place:_](#go-to-place) zoom in to a specific region by typing the name 
@@ -40,31 +47,32 @@ With this toolbar you can:
 5. [_Show Result:_](#show-result) show the result sidebar of your selected regions
 6. [_Feedback:_](#feedback) give us Feedback regarding the tool
 
-## Long Description
-## Connect
+
 ## Login
-## Animation
-![login_gif][login_gif]
-## Description
+
 After [registering](#register) and activating your account you should be able to login with your email and password (see [Fig.4](#Fig4) below).
+
+![login_gif][login_gif]
+
 
 <a name="Fig4">![login_png][login]</a>
 
 _Fig.4.: Login Form_
 
 ## Register
-![register_gif][register_gif]
-## Description
+
 Here you can create a account for the _hotmaps_ website. After submitting the [form](#Fig5) you will receive an email for actvating your account. With your account you will be able to save your progress.
+
+![register_gif][register_gif]
 
 <a name="Fig5">![register][register]</a>
 
 _Fig.5.: RegisterForm_
 
 ## Recover
-![recover_gif][recover_gif]
-## Description
 If you ever forget your password you can recover it under this menu (see [Fig.6.](#Fig6) below). Please be aware to set a new password afterwards. 
+
+![recover_gif][recover_gif]
 
 <a name="Fig6">![recover][recover]</a>
 
@@ -77,17 +85,20 @@ You can zoom to a specifc region by typing its name (see animation below)
 ![go_to_place_gif][go_to_place]
 
 ## Layers
+
+By pressing this Button a sidebar with different kind of layers is shown at the left.
+
 ![layers_gif][layers]
 
-## Description
-By pressing this Button a sidebar with different kind of layers is shown at the left.
 Following layers can be found and visualized:
 
 ![sidebar_layer.png][sidebar]
 
 ## Selection Tools
+By Pressing this Button the selection tools will apear at thre right of your screen
+
 ![selection_tools_gif][selection_tools]
-## Description
+
 The figure below shows the appearance of the tools:
 
 ![selection_tools.png][selection_tools_png] 
@@ -109,23 +120,22 @@ The figure below shows the appearance of the tools:
 
 
 ## Show Result
-## Description
 Depending on the layers and region you selected results for your configuration are shown in a sidebar at the right of your screen 
 
 ![results.png][results]
 
 ## Feedback
-![feedback_gif][feedback]
-
-## Description
 Do you have any suggestions how to impove the tool ?
 Have you notice any errors ?
 Please let us know !
 By giving us feedback you can help us improve the toolbox !
 
-Please fill out the form below:
+Please fill out the [form](#Fig7) below:
 
-![feedback.png][feedback_png]
+![feedback_gif][feedback]
+
+
+<a="Fig7">![feedback.png][feedback_png]</a>
 
 you can choose from following types:
 
@@ -136,12 +146,15 @@ and set a priority:
 ![feedback.png][feedback_priority]
 
 ## Tiles
+You can choose the terretorial scale that you want to analyze (NUTS regions or hectar level) and set te tile of your the map
+
 ![maping_gif][mapping_gif]
 
-## Description
+There are following configurations possible
+
 ![maping_gif][mapping]
 
-1. Zomm in and Zoom out
+1. Zomm in and Zoom out the map
 2. Show the NUTS boundaries to select specifc NUTS regions or use hectar to customize your [selection](#Selection-Tools)
 3. Use Openstreetmap tile or Satalite tile
 
