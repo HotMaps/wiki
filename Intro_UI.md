@@ -1,3 +1,4 @@
+![test](https://gitlab.com/hotmaps_wiki/intro_gui/blob/master/data/feedback_priority.png)
 # Hotmaps Graphical User Interface 
 ## Introduction Page (Animation)
 ![intro_gif][intro]
@@ -84,7 +85,7 @@ The figure below shows the appearance of the tools:
 
 ![selection_tools.png][selection_tools_png] 
 
-1. tool for selection your region
+1. tool for selection of regions
 2. creating a custom square region
 3. creating a custom circle region
 4. creating a custom polygon region
@@ -127,7 +128,7 @@ and set a priority:
 
 ![feedback.png][feedback_priority]
 
-## Mapping
+## Tiles
 ![maping_gif][mapping_gif]
 
 ## Description
@@ -136,7 +137,11 @@ and set a priority:
 1. Zomm in and Zoom out
 2. Show the NUTS boundaries to select specifc NUTS regions or use hectar to customize your [selection](#Selection-Tools)
 3. Use Openstreetmap tile or Satalite tile
- 
+
+## Acknowledgement
+We would like to convey our deepest appreciation to the Horizon 2020 [Hotmaps Project](https://www.hotmaps-project.eu) (Grant Agreement number 723677), which provided the funding to carry out the present investigation
+
+
 [Fig1]: https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/general_tool_functionalities_and_structure/disclaimer.png
 
 [Fig2]: https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/general_tool_functionalities_and_structure/gui_navigation.png
