@@ -137,7 +137,7 @@ Please fill out the [form](#Fig7) below:
 ![feedback_gif][feedback]
 
 
-<a="Fig7">![feedback.png][feedback_png]</a>
+<a name ="Fig7">![feedback.png][feedback_png]</a>
 
 you can choose from following types:
 
