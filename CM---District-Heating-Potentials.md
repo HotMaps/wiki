@@ -1,3 +1,17 @@
+## Table of Contents
+
+* [Introduction](https://github.com/HotMaps/hotmaps_wiki/wiki/CM---District-Heating-Potentials#introduction)
+* [Method](https://github.com/HotMaps/hotmaps_wiki/wiki/CM---District-Heating-Potentials#Method)
+* [Inputs and outputs](https://github.com/HotMaps/hotmaps_wiki/wiki/CM---District-Heating-Potentials#Inputs-and-outputs)
+* [Sample run](https://github.com/HotMaps/hotmaps_wiki/wiki/CM---District-Heating-Potentials#Sample-run)
+  * [Test Run 1: default input values](https://github.com/HotMaps/hotmaps_wiki/wiki/CM---District-Heating-Potentials#Test-Run-1:-default-input-values)
+  * [Test Run 2: modified input values](https://github.com/HotMaps/hotmaps_wiki/wiki/CM---District-Heating-Potentials#Test-Run-2:-modified-input-values)
+* [References](https://github.com/HotMaps/hotmaps_wiki/wiki/CM---District-Heating-Potentials#References)
+* [How to cite](https://github.com/HotMaps/hotmaps_wiki/wiki/CM---District-Heating-Potentials#How-to-cite)
+* [Authors and reviewers](https://github.com/HotMaps/hotmaps_wiki/wiki/CM---District-Heating-Potentials#Authors-and-reviewers)
+* [License](https://github.com/HotMaps/hotmaps_wiki/wiki/CM---District-Heating-Potentials#License)
+* [Acknowledgement](https://github.com/HotMaps/hotmaps_wiki/wiki/CM---District-Heating-Potentials#Acknowledgement)
+
 ## Introduction
 The heat demand plays an important role in determination of potential district heating (DH) areas. For example, implementation of district heating in areas with low heat demand is not economically viable. On the other hand, defining any area with high heat demand density as potential DH area can also be inaccurate. A high heat demand density in an area could be due to presence of a few consumers with a very high heat demand within that area. In contrary, a low average heat demand density could be a sign of zones with a very low heat demand within the selected area. The aim of DH potential module is to provide a reasonable balance between heat demand density in an area and its constituting zones.
 
@@ -18,7 +32,7 @@ By eliminating these pixels from the map, we obtain groups of pixels that are at
 This code uses the concept of connected components from image processing library of Scipy in order to detect the potential district heating areas.
 
 
-## Inputs and Outputs
+## Inputs and outputs
 To summarize inputs and outputs layers and parameters,
 
 **Input layers and parameters are:**
@@ -36,7 +50,7 @@ To summarize inputs and outputs layers and parameters,
 * DH potential in each DH area
 
 
-## Sample Run
+## Sample run
 Here, the calculation module is run for the case study of Aalborg in Denmark.
 
 * First, use the "Go To Place" bar to navigate to Aalborg and select the city.
@@ -55,7 +69,7 @@ Here, the calculation module is run for the case study of Aalborg in Denmark.
 ![Fig. 3](https://github.com/HotMaps/hotmaps_wiki/blob/master//Images/cm_dh_potential/3.png "NDISTRICT HEATING POTENTIAL")
 
 
-### Test Run 1: Default input values
+### Test Run 1: default input values
 
 The default input values show the general conditions under which an area can be considered as a potential DH area. These values should be regarded as starting point only. You may need to set values bellow or above default values considering additional local considerations. Therefore, the user should adapt these values to find the best combination of thresholds for his or her case study.
 To run the calculation module, follow the next steps:
@@ -78,7 +92,7 @@ To run the calculation module, follow the next steps:
 Following these steps, you will get an impression about the input values and potential DH areas.
 
 
-### Test Run 2: Modified input values
+### Test Run 2: modified input values
 
 Depending on your experience and  local knowledge, you may increase or decrease the input values to obtain better results. In case of Aalborg, for instance, you may know that the heat demand in outer city areas is relatively close to the central part of the city and DH system is also feasible in those areas. Therefore, you may decide to reduce the minimum heat demand in cells that are part of a DH area; however, to guarantee enough heat demand, you may increase the minimum heat demand in a DH area. Here you re-run the calculation modules with new input parameters.
 
@@ -110,8 +124,8 @@ test
 test
 
 
-## Authors
-Mostafa Fallahnejad\*
+## Authors and reviewers
+Mostafa Fallahnejad\*, Lukas Kranzl\*
 
 \* [Energy Economics Group - TU Wien](https://eeg.tuwien.ac.at/)
 Institute of Energy Systems and Electrical Drives
