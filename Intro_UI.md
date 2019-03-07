@@ -1,6 +1,3 @@
-
-![alt](https://gitlab.com/hotmaps_wiki/intro_gui/blob/master/data/feedback_priority.png)
-![alt text](https://gitlab.com/hotmaps_wiki/intro_gui/raw/master/data/feedback_priority.png?inline=false)
 # Hotmaps Graphical User Interface 
 ## Table of Content
 1. [Introduction Page](#Introduction-Page)
@@ -11,11 +8,11 @@
      * [Recover](#recover)
    * [Go To Place](#Go-To-Place)
    * [Layers](#layers)
-   * [Selection Tools](#selection-tool)
+   * [Selection Tools](#Selection-Tools)
    * [Show Result](#show-result)
    * [Feedback](#feedback)
 1. [Tiles](#Tiles)
-1. [](#)
+
 
 ## Introduction Page 
 Once the toolbox is opened, the disclaiming page is shown ([Fig.1](#Fig1)). Besides the disclaimer message, additional information regarding the objectives of the Hotmaps toolbox as well as the link to the Hotmaps project website and the data repositories is provided.
@@ -47,6 +44,11 @@ With this toolbar you can:
 5. [_Show Result:_](#show-result) show the result sidebar of your selected regions
 6. [_Feedback:_](#feedback) give us Feedback regarding the tool
 
+# Connect
+Here you can: 
+* create an account 
+* login to your account to save your progress
+* or reset your password if you forget it 
 
 ## Login
 
@@ -95,7 +97,7 @@ Following layers can be found and visualized:
 ![sidebar_layer.png][sidebar]
 
 ## Selection Tools
-By Pressing this Button the selection tools will apear at thre right of your screen
+By Pressing this Button the selection tools will appear at the left of your screen
 
 ![selection_tools_gif][selection_tools]
 
@@ -146,7 +148,7 @@ and set a priority:
 ![feedback.png][feedback_priority]
 
 ## Tiles
-You can choose the terretorial scale that you want to analyze (NUTS regions or hectar level) and set te tile of your the map
+You can choose the terretorial scale that you want to analyze (NUTS regions or hectar level) and set te tile of the map
 
 ![maping_gif][mapping_gif]
 
@@ -160,6 +162,17 @@ There are following configurations possible
 
 ## Acknowledgement
 We would like to convey our deepest appreciation to the Horizon 2020 [Hotmaps Project](https://www.hotmaps-project.eu) (Grant Agreement number 723677), which provided the funding to carry out the present investigation
+
+
+
+
+
+
+
+
+
+
+[//]: # (Here are all the files to the links)
 
 
 [Fig1]: https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/general_tool_functionalities_and_structure/disclaimer.png
