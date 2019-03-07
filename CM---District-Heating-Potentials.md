@@ -39,8 +39,10 @@ To summarize inputs and outputs layers and parameters,
 ## Sample Run
 Here, the calculation module is run for the case study of Aalborg in Denmark.
 
-1. First, use the "Go To Place" bar to navigate to Aalborg and select the city as shown in Fig. 1.
-![Fig. 1](./Images/cm_dh_potential/1.png)
+1. First, use the "Go To Place" bar to navigate to Aalborg and select the city as shown in [Fig. 1]().
+
+![Fig. 1](https://github.com/HotMaps/hotmaps_wiki/blob/master//Images/cm_dh_potential/1.png "Navigate to a location")
+
 2. Follow the steps as shown in [Fig. 2]():
 2.1 Click on the "Layers" button to open the "Layers" window:
 2.2. Click on the "CALCULATION MODULE" tab.
