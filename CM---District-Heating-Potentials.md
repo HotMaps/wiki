@@ -46,10 +46,11 @@ Here, the calculation module is run for the case study of Aalborg in Denmark.
 * Follow the steps as shown in the figure below:
   * Click on the "Layers" button to open the "Layers" window:
   * Click on the "CALCULATION MODULE" tab.
+  * Click on the "DISTRICT HEATING POTENTIAL" button.
 
 ![Fig. 2](https://github.com/HotMaps/hotmaps_wiki/blob/master//Images/cm_dh_potential/2.png "Calculation module tab")
 
-* Click on the "DISTRICT HEATING POTENTIAL" button to open the calculation module.
+* Now, the "DISTRICT HEATING POTENTIAL" opens and is ready to run.
 
 ![Fig. 3](https://github.com/HotMaps/hotmaps_wiki/blob/master//Images/cm_dh_potential/3.png "NDISTRICT HEATING POTENTIAL")
 
