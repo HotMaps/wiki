@@ -29,9 +29,9 @@ _Fig. 2 Initial Page_
 Here you can spot at first glance 3 parts of the user interface:
 1. [a toolbar at the top](#Upper-Toolbar)
 2. the map itself
-3. [and some tools for changig the style of the map](#tiles)
+3. [and some tools for changing the style of the map](#tiles)
 
-In the follwing chapetrs we will have a look at each of this 3 parts:
+In the following chapters we will have a look at each of these 3 parts:
 
 # Upper Toolbar
 ![first_glance][Fig3] 
@@ -63,7 +63,7 @@ _Fig.4.: Login Form_
 
 ## Register
 
-Here you can create a account for the _hotmaps_ website. After submitting the [form](#Fig5) you will receive an email for actvating your account. With your account you will be able to save your progress.
+Here you can create a account for the _hotmaps_ website. After submitting the [form](#Fig5) you will receive an email for activating your account. With your account you will be able to save your progress.
 
 ![register_gif][register_gif]
 
@@ -82,7 +82,7 @@ _Fig.6.: Recover Form_
 
 
 ## Go To Place
-You can zoom to a specifc region by typing its name (see animation below)
+You can zoom to a specify region by typing its name (see animation below)
  
 ![go_to_place_gif][go_to_place]
 
@@ -111,8 +111,8 @@ The figure below shows the appearance of the tools:
 4. creating a custom polygon region
 
 <ol type="A">
-<li>shows how many region you selected</li>
-<li>shows the scale you selected from apping</li>
+<li>shows how many regions you selected</li>
+<li>shows the scale you selected from right toolbar</li>
 </ol>
 
 <ol type="a">
@@ -127,10 +127,10 @@ Depending on the layers and region you selected results for your configuration a
 ![results.png][results]
 
 ## Feedback
-Do you have any suggestions how to impove the tool ?
-Have you notice any errors ?
-Please let us know !
-By giving us feedback you can help us improve the toolbox !
+Do you have any suggestions how to improve the tool?
+Have you notice any errors?
+Please let us know!
+By giving us feedback you can help us improve the toolbox!
 
 Please fill out the [form](#Fig7) below:
 
