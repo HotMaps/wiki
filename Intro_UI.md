@@ -1,5 +1,12 @@
 ![test](https://gitlab.com/hotmaps_wiki/intro_gui/blob/master/data/feedback_priority.png)
+
 # Hotmaps Graphical User Interface 
+## Table of Content
+[](#)
+[](#)
+[](#)
+[](#)
+
 ## Introduction Page (Animation)
 ![intro_gif][intro]
 
