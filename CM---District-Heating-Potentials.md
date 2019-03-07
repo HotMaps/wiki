@@ -1,6 +1,9 @@
 ## Introduction
 The heat demand plays an importan role in determination of potential district heating (DH) areas. For example, implementation of district heating in areas with low heat demand is not economically viable. On the other hand, defining any area with high heat demand density as potential DH area can also be inaccurate. A high heat demand density in an area could be due to presence of a few consumers with a very high heat demand within that area. In contrary, a low average heat demand density could be a sign of zones with a very low heat demand within the selected area. The aim of DH potential module is to provide a reasonable balance between heat demand density in an area and its constituting zones.
 
+
+![alt text](https://gitlab.com/hotmaps_wiki/intro_gui/raw/master/data/selecting_lau.gif "explain")
+
 The DH potential module determines the DH areas and their corresponding DH potential based on heat demand densities. The heat demand densities are obtained from the input GIS layer, namely **[European Heat Density Map (EHDM)](https://gitlab.com/hotmaps/heat/heat_tot_curr_density)**, which was developed in course of  **[Hotmaps project](https://www.hotmaps-project.eu)**. The EHDM is in raster format and has a resolution of one hectare and Coordinate Reference System (CRS) of "_*ETRS89 / LAEA Europe - EPSG 3035*_". The cells in EHDM show the heating densities in _**MWh/ha**_.
 
 As output, one GIS layer, three indicators and two diagrams are presented. These outputs are explained in detail in [Sample Run](https://github.com/HotMaps/hotmaps_wiki/wiki/CM---District-Heating-Potentials#Sample-Run) section. The output layer demonstrates the potential DH areas. By clicking on each area on the map, a window is popped up and the DH potential corresponding to that area is shown. Within the indicator/graph window, relevant indicators and charts regarding DH potential within the selected zone and potentials in sub-zones are illustrated.
