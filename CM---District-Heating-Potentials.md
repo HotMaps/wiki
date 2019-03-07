@@ -39,15 +39,19 @@ To summarize inputs and outputs layers and parameters,
 ## Sample Run
 Here, the calculation module is run for the case study of Aalborg in Denmark.
 
-1. First, use the "Go To Place" bar to navigate to Aalborg and select the city as shown in [Fig. 1]().
+* First, use the "Go To Place" bar to navigate to Aalborg and select the city.
 
 ![Fig. 1](https://github.com/HotMaps/hotmaps_wiki/blob/master//Images/cm_dh_potential/1.png "Navigate to a location")
 
-2. Follow the steps as shown in [Fig. 2]():
-2.1 Click on the "Layers" button to open the "Layers" window:
-2.2. Click on the "CALCULATION MODULE" tab.
-2.3. Click on the "DISTRICT HEATING POTENTIAL" button to open the calculation module.
+* Follow the steps as shown in the figure below:
+  * Click on the "Layers" button to open the "Layers" window:
+  * Click on the "CALCULATION MODULE" tab.
 
+![Fig. 2](https://github.com/HotMaps/hotmaps_wiki/blob/master//Images/cm_dh_potential/2.png "Calculation module tab")
+
+* Click on the "DISTRICT HEATING POTENTIAL" button to open the calculation module.
+
+![Fig. 3](https://github.com/HotMaps/hotmaps_wiki/blob/master//Images/cm_dh_potential/3.png "NDISTRICT HEATING POTENTIAL")
 
 
 ### Test Run 1: Default input values
@@ -55,22 +59,22 @@ Here, the calculation module is run for the case study of Aalborg in Denmark.
 The default input values show the general conditions under which an area can be considered as a potential DH area. These values should be regarded as starting point only. You may need to set values bellow or above default values considering additional local considerations. Therefore, the user should adapt these values to find the best combination of thresholds for his or her case study.
 To run the calculation module, follow the next steps:
 
-* Assign a name to the run session (optional - here, we chose "Test Run 1") and set the input parameters (here, default values were used) as shown in [Fig. 3]().
+* Assign a name to the run session (optional - here, we chose "Test Run 1") and set the input parameters (here, default values were used).
 
-![Fig. 3]()
+![Fig. 4-0](https://github.com/HotMaps/hotmaps_wiki/blob/master//Images/cm_dh_potential/4-0.png "Name the run session")
 
 * Wait until the process is finished.
-* As output, indicators and diagrams are shown in the "RESULTS" window ([Fig. 4]() and [Fig. 5]()).
+* As output, indicators and diagrams are shown in the "RESULTS" window.
 
-![Fig. 4]()
+![Fig. 4-1](https://github.com/HotMaps/hotmaps_wiki/blob/master//Images/cm_dh_potential/4-1.png "INDICATORS tab")
 
-![Fig. 5]()
+![Fig. 4-2](https://github.com/HotMaps/hotmaps_wiki/blob/master//Images/cm_dh_potential/4-2.png "GRAPHICS tab")
 
-* Also a new layer is added to the canvas showing DH areas. This layer is added to the list of layers under the "Calculation module" category ([Fig. 6]()). The run session name distinguishes the outputs of this run from other ones.
+* Also a new layer is added to the canvas showing DH areas. This layer is added to the list of layers under the "Calculation module" category. The run session name distinguishes the outputs of this run from other ones.
 
-![Fig. 6]()
+![Fig. 4-3](https://github.com/HotMaps/hotmaps_wiki/blob/master//Images/cm_dh_potential/4-3.png "Calculation module layers")
 
-Following these steps, the user gets an impression regarding the values.
+Following these steps, you will get an impression about the input values and potential DH areas.
 
 
 ### Test Run 2: Modified input values
@@ -79,18 +83,18 @@ Depending on your experience and  local knowledge, you may increase or decrease 
 
 * Assign a name to the run session (optional - here, we chose "Test Run 2") and set the input parameters (_*250 MWh/ha*_ for min. heat demand in hectare and _*35 GWh/year*_ for the minimum demand in DH area) as shown in [Fig. 7]().
 
-![Fig. 7]()
+![Fig. 5-0](https://github.com/HotMaps/hotmaps_wiki/blob/master//Images/cm_dh_potential/5-0.png "Name the run session")
 
 * Wait until the process is finished.
 * As output, indicators and diagrams are shown in the "RESULTS" window ([Fig. 8]() and [Fig. 9]()).
 
-![Fig. 8]()
+![Fig. 5-1](https://github.com/HotMaps/hotmaps_wiki/blob/master//Images/cm_dh_potential/5-1.png "INDICATORS tab")
 
-![Fig. 9]()
+![Fig. 5-2](https://github.com/HotMaps/hotmaps_wiki/blob/master//Images/cm_dh_potential/5-2.png "GRAPHICS tab")
 
 * Also a new layer is added to the canvas showing DH areas. This layer is added to the list of layers under the "Calculation module" category ([Fig. 10]()). The run session name distiguishes the outputs of this run from other ones.
 
-![Fig. 10]()
+![Fig. 5-3](https://github.com/HotMaps/hotmaps_wiki/blob/master//Images/cm_dh_potential/5-3.png "Calculation module layers")
 
 
 
