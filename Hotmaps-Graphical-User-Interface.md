@@ -1,4 +1,4 @@
-# Hotmaps Graphical User Interface 
+
 ## Table of Content
 1. [Introduction Page](#Introduction-Page)
 1. [Upper Toolbar](#Upper-Toolbar)
