@@ -61,7 +61,7 @@ Here, the calculation module is run for the case study of Aalborg in Denmark.
 
 ![Fig. 1](https://github.com/HotMaps/hotmaps_wiki/blob/master//Images/cm_dh_potential/1.png "Navigate to a location")
 
-![Fig. 1](./Images/cm_dh_potential/1.png "Navigate to a location")
+![Fig. 1](/../../Images/cm_dh_potential/1.png "Navigate to a location")
 
 * Follow the steps as shown in the figure below:
   * Click on the "Layers" button to open the "Layers" window:
