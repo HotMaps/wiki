@@ -24,6 +24,7 @@ As output, one GIS layer, three indicators and two diagrams are presented. These
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
 
+<a href="#" class="selected" data-container-id="example-text" data-proofer-ignore="">**[To Top](#table-of-contents)**</a>
 
 ## Method
 
