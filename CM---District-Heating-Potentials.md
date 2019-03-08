@@ -1,16 +1,16 @@
 ## Table of Contents
 
-* [Introduction](https://github.com/HotMaps/hotmaps_wiki/wiki/CM---District-Heating-Potentials#introduction)
-* [Method](https://github.com/HotMaps/hotmaps_wiki/wiki/CM---District-Heating-Potentials#Method)
-* [Inputs and outputs](https://github.com/HotMaps/hotmaps_wiki/wiki/CM---District-Heating-Potentials#Inputs-and-outputs)
-* [Sample run](https://github.com/HotMaps/hotmaps_wiki/wiki/CM---District-Heating-Potentials#Sample-run)
-  * [Test Run 1: default input values](https://github.com/HotMaps/hotmaps_wiki/wiki/CM---District-Heating-Potentials#Test-Run-1-default-input-values)
-  * [Test Run 2: modified input values](https://github.com/HotMaps/hotmaps_wiki/wiki/CM---District-Heating-Potentials#Test-Run-2-modified-input-values)
-* [References](https://github.com/HotMaps/hotmaps_wiki/wiki/CM---District-Heating-Potentials#References)
-* [How to cite](https://github.com/HotMaps/hotmaps_wiki/wiki/CM---District-Heating-Potentials#How-to-cite)
-* [Authors and reviewers](https://github.com/HotMaps/hotmaps_wiki/wiki/CM---District-Heating-Potentials#Authors-and-reviewers)
-* [License](https://github.com/HotMaps/hotmaps_wiki/wiki/CM---District-Heating-Potentials#License)
-* [Acknowledgement](https://github.com/HotMaps/hotmaps_wiki/wiki/CM---District-Heating-Potentials#Acknowledgement)
+* [Introduction](#introduction)
+* [Method](#method)
+* [Inputs and outputs](#inputs-and-outputs)
+* [Sample run](#sample-run)
+  * [Test Run 1: default input values](#test-run-1-default-input-values)
+  * [Test Run 2: modified input values](#test-run-2-modified-input-values)
+* [References](#references)
+* [How to cite](#how-to-cite)
+* [Authors and reviewers](#authors-and-reviewers)
+* [License](#license)
+* [Acknowledgement](#acknowledgement)
 
 ## Introduction
 The heat demand plays an important role in determination of potential district heating (DH) areas. For example, implementation of district heating in areas with low heat demand is not economically viable. On the other hand, defining any area with high heat demand density as potential DH area can also be inaccurate. A high heat demand density in an area could be due to presence of a few consumers with a very high heat demand within that area. In contrary, a low average heat demand density could be a sign of zones with a very low heat demand within the selected area. The aim of DH potential module is to provide a reasonable balance between heat demand density in an area and its constituting zones.
