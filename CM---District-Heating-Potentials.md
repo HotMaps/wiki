@@ -19,12 +19,8 @@ The DH potential module determines the DH areas and their corresponding DH poten
 
 As output, one GIS layer, three indicators and two diagrams are presented. These outputs are explained in detail in [Sample Run](https://github.com/HotMaps/hotmaps_wiki/wiki/CM---District-Heating-Potentials#Sample-Run) section. The output layer demonstrates the potential DH areas. By clicking on each area on the map, a window is popped up and the DH potential corresponding to that area is shown. Within the indicator/graph window, relevant indicators and charts regarding DH potential within the selected zone and potentials in sub-zones are illustrated.
 
-
-<ins>[To Top](#table-of-contents)</ins>
-
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
 
-<a href="#" class="selected" data-container-id="example-text" data-proofer-ignore="">**[To Top](#table-of-contents)**</a>
 
 ## Method
 
@@ -37,8 +33,7 @@ By eliminating these pixels from the map, we obtain groups of pixels that are at
 
 This code uses the concept of connected components from image processing library of Scipy in order to detect the potential district heating areas.
 
-[To Top](https://github.com/HotMaps/hotmaps_wiki/wiki/CM---District-Heating-Potentials#table-of-contents)
-
+<code><ins>**[To Top](#table-of-contents)**</ins></code>
 
 ## Inputs and outputs
 To summarize inputs and outputs layers and parameters,
@@ -57,8 +52,7 @@ To summarize inputs and outputs layers and parameters,
 * DH areas
 * DH potential in each DH area
 
-[To Top](#Table-of-Contents)
-
+<code><ins>**[To Top](#table-of-contents)**</ins></code>
 
 ## Sample run
 Here, the calculation module is run for the case study of Aalborg in Denmark.
@@ -78,6 +72,7 @@ Here, the calculation module is run for the case study of Aalborg in Denmark.
 
 ![Fig. 3](https://github.com/HotMaps/hotmaps_wiki/blob/master//Images/cm_dh_potential/3.png "NDISTRICT HEATING POTENTIAL")
 
+<code><ins>**[To Top](#table-of-contents)**</ins></code>
 
 ### Test Run 1: default input values
 
@@ -101,6 +96,7 @@ To run the calculation module, follow the next steps:
 
 Following these steps, you will get an impression about the input values and potential DH areas.
 
+<code><ins>**[To Top](#table-of-contents)**</ins></code>
 
 ### Test Run 2: modified input values
 
@@ -121,7 +117,7 @@ Depending on your experience and  local knowledge, you may increase or decrease 
 
 ![Fig. 5-3](https://github.com/HotMaps/hotmaps_wiki/blob/master//Images/cm_dh_potential/5-3.png "Calculation module layers")
 
-
+<code><ins>**[To Top](#table-of-contents)**</ins></code>
 
 ## References
 
@@ -134,6 +130,7 @@ test
 test
 
 
+
 ## Authors and reviewers
 This page is written by Mostafa Fallahnejad\*.
 - [ ] This page was reviewed by Lukas Kranzl\*.
@@ -143,6 +140,7 @@ This page is written by Mostafa Fallahnejad\*.
 Institute of Energy Systems and Electrical Drives
 Gusshausstrasse 27-29/370
 1040 Wien
+
 
 
 ## License
@@ -158,3 +156,5 @@ License-Text: https://spdx.org/licenses/CC-BY-4.0.html
 
 ## Acknowledgement
 We would like to convey our deepest appreciation to the Horizon 2020 [Hotmaps Project](https://www.hotmaps-project.eu) (Grant Agreement number 723677), which provided the funding to carry out the present investigation.
+
+<code><ins>**[To Top](#table-of-contents)**</ins></code>
