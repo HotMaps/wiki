@@ -19,6 +19,9 @@ The DH potential module determines the DH areas and their corresponding DH poten
 
 As output, one GIS layer, three indicators and two diagrams are presented. These outputs are explained in detail in [Sample Run](https://github.com/HotMaps/hotmaps_wiki/wiki/CM---District-Heating-Potentials#Sample-Run) section. The output layer demonstrates the potential DH areas. By clicking on each area on the map, a window is popped up and the DH potential corresponding to that area is shown. Within the indicator/graph window, relevant indicators and charts regarding DH potential within the selected zone and potentials in sub-zones are illustrated.
 
+<Enter>
+[To Top](https://github.com/HotMaps/hotmaps_wiki/wiki/CM---District-Heating-Potentials#table-of-contents)
+
 
 ## Method
 
@@ -30,6 +33,9 @@ By eliminating these pixels from the map, we obtain groups of pixels that are at
 
 
 This code uses the concept of connected components from image processing library of Scipy in order to detect the potential district heating areas.
+
+<Enter>
+[To Top](https://github.com/HotMaps/hotmaps_wiki/wiki/CM---District-Heating-Potentials#table-of-contents)
 
 
 ## Inputs and outputs
@@ -48,6 +54,9 @@ To summarize inputs and outputs layers and parameters,
 
 * DH areas
 * DH potential in each DH area
+
+<Enter>
+[To Top](#Table of Contents)
 
 
 ## Sample run
@@ -125,14 +134,15 @@ test
 
 
 ## Authors and reviewers
-Mostafa Fallahnejad\*
+This page is written by Mostafa Fallahnejad\*.
+- [ ] This page was reviewed by Lukas Kranzl\*.
+- [x] This page was reviewed by Lukas Kranzl\*.
 
 \* [Energy Economics Group - TU Wien](https://eeg.tuwien.ac.at/)
 Institute of Energy Systems and Electrical Drives
 Gusshausstrasse 27-29/370
 1040 Wien
 
-- [X] This page was reviewed by Lukas Kranzl.
 
 ## License
 Copyright © 2016-2018: Mostafa Fallahnejad
