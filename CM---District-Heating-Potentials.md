@@ -125,13 +125,14 @@ test
 
 
 ## Authors and reviewers
-Mostafa Fallahnejad\*, Lukas Kranzl\*
+Mostafa Fallahnejad\*
 
 \* [Energy Economics Group - TU Wien](https://eeg.tuwien.ac.at/)
 Institute of Energy Systems and Electrical Drives
 Gusshausstrasse 27-29/370
 1040 Wien
 
+- [X] This page was reviewed by Lukas Kranzl.
 
 ## License
 Copyright © 2016-2018: Mostafa Fallahnejad
