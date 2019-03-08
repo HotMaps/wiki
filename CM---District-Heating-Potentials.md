@@ -20,7 +20,7 @@ The DH potential module determines the DH areas and their corresponding DH poten
 As output, one GIS layer, three indicators and two diagrams are presented. These outputs are explained in detail in [Sample Run](https://github.com/HotMaps/hotmaps_wiki/wiki/CM---District-Heating-Potentials#Sample-Run) section. The output layer demonstrates the potential DH areas. By clicking on each area on the map, a window is popped up and the DH potential corresponding to that area is shown. Within the indicator/graph window, relevant indicators and charts regarding DH potential within the selected zone and potentials in sub-zones are illustrated.
 
 
-[To Top](https://github.com/HotMaps/hotmaps_wiki/wiki/CM---District-Heating-Potentials#table-of-contents)
+<ins>[To Top](#table-of-contents)</ins>
 
 
 ## Method
