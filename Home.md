@@ -24,7 +24,7 @@ We hope you enjoy exploring the toolbox and find it helpful for your heating and
 ## General tool functionalities and structure
 * [Introduction to User interface](Hotmaps-Graphical-User-Interface)
 * [Layers section in the Hotmaps toolbox](Layer_section)
-* [How to select a region in the Hotmaps toolbox](Region_selection)
+* [How to select a region in the Hotmaps toolbox](How-to-select-a-region-in-the-Hotmaps -toolbox)
 * [How to retrieve indicator on a selection](Indicators_section)
 * [How to access calculation models](CM_access)
 * [Database behind the Hotmaps toolbox](Database_of_Hotmaps)
