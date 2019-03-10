@@ -13,7 +13,7 @@
 [Introduction of the hotmaps toolbox](Introduction_manual)
 
 ## General tool functionalities and structure
-* [Introduction to User interface](Hotmaps Graphical User Interface )
+* [Introduction to User interface](Hotmaps-Graphical-User-Interface)
 * [Layers section in the Hotmaps toolbox](Layer_section)
 * [How to select a region in the Hotmaps toolbox](Region_selection)
 * [How to retrieve indicator on a selection](Indicators_section)
