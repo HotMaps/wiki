@@ -1,11 +1,13 @@
 # Table Of Contents
-* []()
-* []()
-* []()
-* []()
-* []()
-* []()
+* [Selection by NUTS boundaries](#Selection-by-NUTS-boundaries)
+  * [NUTS 0- Selection](#NUTS-0--Selection)
+  * [NUTS 1- Selection](#NUTS-1--Selection)
+  * [NUTS 2- Selection](#NUTS-2--Selection)
+  * [NUTS 3- Selection](#NUTS-3--Selection)
+  * [LAU - Selection](#LAU--Selection)
+* [Custom Selection](#Custom-Selection)
 
+# Introduction
 There are two ways to select a region in the Hotmaps toolbox:
 1. selection by the [NUTS classification (Nomenclature of territorial units for statistics)](https://ec.europa.eu/eurostat/web/nuts/background)
 2. custom hectar selection
@@ -32,10 +34,16 @@ After selecting a region and pressing the _LOAD RESULTS Button_ the result sideb
 ![ selecting_nuts3_gif][ selecting_nuts3]
 
 ## LAU- Selection
-Beside the three NUTS Region you have also the possibl
+Beside the three NUTS Region you have also the possibility to analyse in LAU level
 ![ selecting_lau_gif][selecting_lau]
 
 # Custom Selection:
+![ selecting_hectare_gif][selecting_hectare]
+
+
+## Acknowledgement
+We would like to convey our deepest appreciation to the Horizon 2020 [Hotmaps Project](https://www.hotmaps-project.eu) (Grant Agreement number 723677), which provided the funding to carry out the present investigation
+
 
 [radio_buttons]: https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/general_tool_functionalities_and_structure/radio_buttons.png
 
@@ -48,4 +56,6 @@ Beside the three NUTS Region you have also the possibl
 [selecting_nuts3]: https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/general_tool_functionalities_and_structure/selecting_nuts3.gif
 
 [selecting_lau]: https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/general_tool_functionalities_and_structure/selecting_lau.gif
+
+[selecting_hectare]: https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/general_tool_functionalities_and_structure/selecting_hectare.gif
 
