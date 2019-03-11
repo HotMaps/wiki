@@ -24,22 +24,35 @@ After selecting a region and pressing the _LOAD RESULTS Button_ the result sideb
 ## NUTS 0- Selection
 ![ selecting_nuts0_gif][ selecting_nuts0]
 
+<code><ins>**[To Top](#table-of-contents)**</ins></code>
+
 ## NUTS 1- Selection
 ![ selecting_nuts1_gif][ selecting_nuts1]
+
+<code><ins>**[To Top](#table-of-contents)**</ins></code>
 
 ## NUTS 2- Selection
 ![ selecting_nuts2_gif][ selecting_nuts2]
 
+<code><ins>**[To Top](#table-of-contents)**</ins></code>
+
 ## NUTS 3- Selection
 ![ selecting_nuts3_gif][ selecting_nuts3]
 
+<code><ins>**[To Top](#table-of-contents)**</ins></code>
+
 ## LAU- Selection
-Beside the three NUTS Region you have also the possibility to analyse in LAU level
+Beside the three NUTS Levels you have also the possibility to analyse in LAU level
 ![ selecting_lau_gif][selecting_lau]
 
+<code><ins>**[To Top](#table-of-contents)**</ins></code>
+
 # Custom Selection:
+If you want to analyze a region that is not covered by the NUTS or LAU boundaries you can specify your own customs regions (see below).
+
 ![ selecting_hectare_gif][selecting_hectare]
 
+<code><ins>**[To Top](#table-of-contents)**</ins></code>
 
 ## Acknowledgement
 We would like to convey our deepest appreciation to the Horizon 2020 [Hotmaps Project](https://www.hotmaps-project.eu) (Grant Agreement number 723677), which provided the funding to carry out the present investigation
