@@ -21,6 +21,8 @@ As output, one GIS layer, three indicators and two diagrams are presented. These
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
 
+## Inputs and outputs
+The input parameters and layers as well as output layers and parameters are as follows.
 
 **Input layers and parameters are:**
 
@@ -31,7 +33,7 @@ As output, one GIS layer, three indicators and two diagrams are presented. These
 * Minimum heat demand in hectare [_**MWh/ha**_]: a value between _*0*_ and _*1000*_
 * Minimum heat demand in a DH area [_**GWh/year**_]: a value between _*0*_ and _*500*_
 
-**Input layers and parameters are:**
+**Output layers and parameters are:**
 
 * DH areas
 * DH potential in each DH area
@@ -49,10 +51,6 @@ In the first step, all the cells with heating demand below the input parameter f
 This code uses the concept of connected components from image processing library of Scipy in order to detect the potential district heating areas.
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
-
-## Inputs and outputs
-To summarize inputs and outputs layers and parameters,
-
 
 
 ## Sample run
