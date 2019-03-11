@@ -48,7 +48,7 @@ Beside the three NUTS Levels you have also the possibility to analyse in LAU lev
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
 
 # Custom Selection:
-If you want to analyze a region that is not covered by the NUTS or LAU boundaries you can specify your own customs regions (see below).
+If you need a more flexibel way and want to analyze a region that is not covered by the NUTS or LAU boundaries then it is better to specify your own customs regions (see below).
 
 ![ selecting_hectare_gif][selecting_hectare]
 
