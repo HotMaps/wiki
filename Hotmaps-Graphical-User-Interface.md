@@ -1,5 +1,5 @@
 
-## Table of Content
+## Table of Contents
 1. [Introduction Page](#Introduction-Page)
 1. [Upper Toolbar](#Upper-Toolbar)
    * [Connect](#Connect)
@@ -33,6 +33,8 @@ Here you can spot at first glance 3 parts of the user interface:
 
 In the following chapters we will have a look at each of these 3 parts:
 
+<code><ins>**[To Top](#table-of-contents)**</ins></code>
+
 # Upper Toolbar
 ![first_glance][Fig3] 
 
@@ -61,6 +63,8 @@ After [registering](#register) and activating your account you should be able to
 
 _Fig.4.: Login Form_
 
+<code><ins>**[To Top](#table-of-contents)**</ins></code>
+
 ## Register
 
 Here you can create a account for the _hotmaps_ website. After submitting the [form](#Fig5) you will receive an email for activating your account. With your account you will be able to save your progress.
@@ -71,6 +75,8 @@ Here you can create a account for the _hotmaps_ website. After submitting the [f
 
 _Fig.5.: RegisterForm_
 
+<code><ins>**[To Top](#table-of-contents)**</ins></code>
+
 ## Recover
 If you ever forget your password you can recover it under this menu (see [Fig.6.](#Fig6) below). Please be aware to set a new password afterwards. 
 
@@ -80,11 +86,14 @@ If you ever forget your password you can recover it under this menu (see [Fig.6.
 
 _Fig.6.: Recover Form_
 
+<code><ins>**[To Top](#table-of-contents)**</ins></code>
 
 ## Go To Place
 You can zoom to a specify region by typing its name (see animation below)
  
 ![go_to_place_gif][go_to_place]
+
+<code><ins>**[To Top](#table-of-contents)**</ins></code>
 
 ## Layers
 
@@ -95,6 +104,8 @@ By pressing this Button a sidebar with different kind of layers is shown at the 
 Following layers can be found and visualized:
 
 ![sidebar_layer.png][sidebar]
+
+<code><ins>**[To Top](#table-of-contents)**</ins></code>
 
 ## Selection Tools
 By Pressing this Button the selection tools will appear at the left of your screen
@@ -120,11 +131,14 @@ The figure below shows the appearance of the tools:
 <li>button for deleting a selected region</li>
 </ol>
 
+<code><ins>**[To Top](#table-of-contents)**</ins></code>
 
 ## Show Result
 Depending on the layers and region you selected results for your configuration are shown in a sidebar at the right of your screen 
 
 ![results.png][results]
+
+<code><ins>**[To Top](#table-of-contents)**</ins></code>
 
 ## Feedback
 Do you have any suggestions how to improve the tool?
@@ -136,6 +150,7 @@ Please fill out the [form](#Fig7) below:
 
 ![feedback_gif][feedback]
 
+<code><ins>**[To Top](#table-of-contents)**</ins></code>
 
 <a name ="Fig7">![feedback.png][feedback_png]</a>
 
@@ -146,6 +161,8 @@ you can choose from following types:
 and set a priority:
 
 ![feedback.png][feedback_priority]
+
+<code><ins>**[To Top](#table-of-contents)**</ins></code>
 
 ## Tiles
 You can choose the terretorial scale that you want to analyze (NUTS regions or hectar level) and set te tile of the map
@@ -160,10 +177,12 @@ There are following configurations possible
 2. Show the NUTS boundaries to select specifc NUTS regions or use hectar to customize your [selection](#Selection-Tools)
 3. Use Openstreetmap tile or Satalite tile
 
+<code><ins>**[To Top](#table-of-contents)**</ins></code>
+
 ## Acknowledgement
 We would like to convey our deepest appreciation to the Horizon 2020 [Hotmaps Project](https://www.hotmaps-project.eu) (Grant Agreement number 723677), which provided the funding to carry out the present investigation
 
-
+<code><ins>**[To Top](#table-of-contents)**</ins></code>
 
 
 
