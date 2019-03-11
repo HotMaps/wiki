@@ -1,3 +1,4 @@
+> **# This Page Section is Under Construction !!!**
 # Table Of Contents
 * [Introduction](#Introduction)
 * []()
@@ -10,7 +11,7 @@ By pressing the ![layers_button][layers_button] Button a sidebar with different 
 
 ![layers_gif][layers]
 
-**Each layer has a set tools as shown below**
+**Each layer has a set of tools as shown below**
 
 ![layers_tools.png][layers_tools]
 
@@ -20,6 +21,10 @@ By pressing the ![layers_button][layers_button] Button a sidebar with different 
 4. Download the whole layer
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
+
+There are [two categories of layers](https://www.gislounge.com/geodatabases-explored-vector-and-raster-data):  
+1. Vector Layers
+2. Raster Layers
 
 
 Following layers can be found and visualized:
