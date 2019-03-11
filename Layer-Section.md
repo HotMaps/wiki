@@ -1,7 +1,7 @@
 # Table Of Contents
 
 # Intorduction
-By Clickin
+
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
 
 
