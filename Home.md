@@ -12,10 +12,10 @@ We hope you enjoy exploring the toolbox and find it helpful for your heating and
 
 
 # How to use the hotmaps toolbox for heating and cooling planning
-* [Introduction - Tutorial - First steps](Handbook_Introduction)
-* [How to retrieve basic indicators of heat demand in my region of interest](Handbook_indicators)
-* [Heat density mapping in hotmaps](Handbook_Heat_density_mapping)
-* [How to identify areas with district heating potentials in Hotmaps](Handbook_district_heating_potentials)  
+* [Introduction - Tutorial - First steps](Hotmaps-Graphical-User-Interface)
+* [How to retrieve basic indicators of heat demand in my region of interest](Indicators_section)
+* [Heat density mapping in hotmaps](Layer-section)
+* [How to identify areas with district heating potentials in Hotmaps](CM---District-Heating-Potentials)  
 * [How to estimate costs of district heating with Hotmaps](tutorial5)  
 
 
