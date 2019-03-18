@@ -2,7 +2,7 @@
 
 [Home](Home)
 
-# Handbook
+# How to use the hotmaps toolbox for heating and cooling planning
 * [Introduction - Tutorial - First steps](Handbook_Introduction)
 * [How to retrieve basic indicators of heat demand in my region of interest](Handbook_indicators)
 * [Heat density mapping in hotmaps](Handbook_Heat_density_mapping)
