@@ -18,7 +18,6 @@ We hope you enjoy exploring the toolbox and find it helpful for your heating and
 * [How to identify areas with district heating potentials in Hotmaps](Handbook_district_heating_potentials)  
 * [How to estimate costs of district heating with Hotmaps](tutorial5)  
 
-# Manual
 [Introduction of the hotmaps toolbox](Introduction_manual)
 
 ## General tool functionalities and structure
