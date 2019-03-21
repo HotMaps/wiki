@@ -16,6 +16,7 @@
 * [How to select a region in the Hotmaps toolbox](How-to-select-a-region-in-the-Hotmaps-toolbox)
 * [How to retrieve indicator on a selection](Indicators_section)
 * [How to access calculation models](CM_access)
+* [User account](User_account)
 * [Database behind the Hotmaps toolbox](Database_of_Hotmaps)
 * [Data upload functionalities](Data_upload)
 * [Data export functionalities](Data_export)

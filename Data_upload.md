@@ -3,7 +3,7 @@
 ## Table Of Contents
 
 - [Introduction](#Introduction)
-- [How to upload a layer with custom dataset](#How-to-upload-a-layer-with-custom-dataset)
+- [How to upload a layer with custom data](#How-to-upload-a-layer-with-custom-data)
 - [How to display an uploaded layer](#How-to-display-an-uploaded-layer)
 
 ## Introduction
