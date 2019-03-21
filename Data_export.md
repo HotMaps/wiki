@@ -16,6 +16,8 @@ If you have any difficulties please read the following guides:
 - [How to select a region in the Hotmaps toolbox](How-to-select-a-region-in-the-Hotmaps-toolbox)
 - [Layer selection](Layer-section)
 
+<code><ins>**[To Top](#table-of-contents)**</ins></code>
+
 ## How to export a dataset
 
 1. Select the layer you want to export in the list of layers (left panel)
@@ -35,3 +37,5 @@ If you have any difficulties please read the following guides:
 Once all these steps are finished you will have an export of one of the layers. 
 
 You can then use it with your own tools and even edit it to import it back to the platform (see [Data upload](Data-upload) for indications on how to do it).
+
+<code><ins>**[To Top](#table-of-contents)**</ins></code>

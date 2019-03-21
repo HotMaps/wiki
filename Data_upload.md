@@ -3,7 +3,7 @@
 ## Table Of Contents
 
 - [Introduction](#Introduction)
-- [How to upload a custom dataset](#How-to-upload-custom-dataset)
+- [How to upload a layer with custom dataset](#How-to-upload-a-layer-with-custom-dataset)
 - [How to display an uploaded layer](#How-to-display-an-uploaded-layer)
 
 ## Introduction
@@ -13,6 +13,8 @@ The platform allow to import custom data for one of the existing datasets.
 This operation **requires a user account**. The registration and login processes are explained on the following page: [User account](User_account).
 
 In order to upload a dataset without any issue. Please use the export function first, for the area you want to import (see [Data export](Data_export) page).
+
+<code><ins>**[To Top](#table-of-contents)**</ins></code>
 
 ## How to upload a layer with custom data
 
