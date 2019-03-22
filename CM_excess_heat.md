@@ -71,7 +71,8 @@ Only contains the real sources and sinks as vertices.
 
 <figure>
   <img src="https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/cm_excess_heat/graph.svg" alt=""/>
-  <figcaption><i>Example of a graph. The red vertices represent sources and the blue ones sinks.</i></figcaption>
+  <figcaption><i>
+Example of a graph. The red vertices represent sources and the blue ones sinks.</i></figcaption>
 </figure>
 
 
