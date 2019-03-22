@@ -59,7 +59,8 @@ If two points are in range of the radius it is stored in an adjacency list. The 
 
 <figure>
   <img src="https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/cm_excess_heat/search.svg" alt=""/>
-  <figcaption><i>Example of a fixed radius search. The red vertices represent sources and the blue ones sinks. The numbers represent the distance between the points. Drawing is not to scale.</i></figcaption>
+  <figcaption><i>
+Example of a fixed radius search. The red vertices represent sources and the blue ones sinks. The numbers represent the distance between the points. Drawing is not to scale.</i></figcaption>
 </figure>
 
 #### NetworkGraph class
