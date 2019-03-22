@@ -8,7 +8,7 @@
 
 ## Introduction
 
-The platform allow to import custom data for one of the existing datasets.
+The platform allows to import custom data for one of the existing datasets.
 
 This operation **requires a user account**. The registration and login processes are explained on the following page: [User account](User_account).
 
