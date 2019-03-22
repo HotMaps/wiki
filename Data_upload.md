@@ -18,7 +18,7 @@ In order to upload a dataset without any issue. Please use the export function f
 
 ## How to upload a layer with custom data
 
-By pressing the ![account button](images\account-btn.png) button at the top left corner of the page. This will bring the profile page to front. 
+By pressing the ![account button](images/account-btn.png) button at the top left corner of the page. This will bring the profile page to front. 
 
 On the profile page:
 
@@ -26,7 +26,7 @@ On the profile page:
 2. selection of file to upload (.tif)
 3. upload by clicking on the "+" icon
 
-![profile page upload](images\profile-upload.png)
+![profile page upload](images/profile-upload.png)
 
 Once this is done, a success message will be displayed and the layer appears in the list of layers on the profile page.
 
@@ -36,13 +36,13 @@ The layer can now be displayed on the map by activating it on the layers panel.
 
 ## How to display an uploaded layer
 
-It is possible to display a layer that has been previously uploaded from the layers panel by clicking on the ![layers button](images\layers-btn.png) button.
+It is possible to display a layer that has been previously uploaded from the layers panel by clicking on the ![layers button](images/layers-btn.png) button.
 
 The list of uploaded layers is displayed on the "Personal layers" section on top of the left panel.
 
 A layer can be displayed by activating it on the left panel.
 
-![upload display layer](images\upload-layers.png)
+![upload display layer](images/upload-layers.png)
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
 
