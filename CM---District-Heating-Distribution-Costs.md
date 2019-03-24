@@ -22,7 +22,7 @@
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
 
 ## Method
-For a complete explanation of the methodology and references refer to the reference [[1](#References)].
+For a complete explanation of the methodology and references refer to the [paper](https://www.sciencedirect.com/science/article/pii/S1876610218304740) published about this calculation module [[1](#References)].
 
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
