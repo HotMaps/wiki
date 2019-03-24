@@ -22,7 +22,7 @@
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
 
 ## Method
-
+For a complete explanation of the methodology and references refer to the reference [1(#References)].
 
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
@@ -47,7 +47,7 @@
 
 ## References
 
-To be completed!
+[1]. Fallahnejad M, Hartner M, Kranzl L, Fritz S. Impact of distribution and transmission investment costs of district heating systems on district heating potential. Energy Procedia 2018;149:141–50. doi:10.1016/j.egypro.2018.08.178.
 
 
 
