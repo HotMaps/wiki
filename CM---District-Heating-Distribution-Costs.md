@@ -22,7 +22,7 @@
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
 
 ## Method
-For a complete explanation of the methodology and references refer to the reference [1(#References)].
+For a complete explanation of the methodology and references refer to the reference [1(##References)].
 
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
