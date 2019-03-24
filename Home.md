@@ -32,7 +32,7 @@ We hope you enjoy exploring the toolbox and find it helpful for your heating and
 
 ## Calculation modules
 * [CM - District heating potentials](CM---District-Heating-Potentials)
-* [CM - District heating distribution costs](CM_DH_distribution_costs)
+* [CM - District heating distribution costs](CM---District-Heating-Distribution-Costs)
 * [CM - District heating supply](CM_DH_supply)
 * [CM - Decentral heat supply](CM_decentral_costs)  
 * [CM - Renewable energy potentials](CM_renewable_potentials)
