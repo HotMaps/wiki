@@ -17,6 +17,8 @@
 
 This page contains all information required for developers to contribute to the HotMaps Platform or to understand how it is working.
 
+<code><ins>**[To Top](#table-of-contents)**</ins></code>
+
 ## Dataset integration
 
 Integration of new public datasets is handled as follow:
