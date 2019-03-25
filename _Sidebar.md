@@ -27,9 +27,7 @@
 * [CM - Decentral heating costs](CM---Decentral-Heating-Costs)  
 * [CM - Renewable energy potentials](CM_renewable_potentials)
 * [CM - Excess heat potential](CM_excess_heat)
-* [CM - Industrial heat demand](CM_industrial_heat_demand)
-* [CM - Demand response](CM_demand_response)
-* [CM - Transport](CM_transport)
+
 
 
 # For Developers
