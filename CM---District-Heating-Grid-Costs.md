@@ -25,6 +25,7 @@ This calculation module uses the [European heat density map (EHDM)](https://gitl
 
 ## Method
 Here, a brief explanation of methodology is provided. For a more complete explanation of the methodology and formulations, please to the [paper](https://www.sciencedirect.com/science/article/pii/S1876610218304740) published about this calculation module [[1](#References)].
+
 In order to calculate the DH grid costs, 
 
 
