@@ -1,8 +1,15 @@
 # Dataset integration
 
+## Table Of Contents
+
+- [Introduction](#Introduction)
+- [Inputs and Outputs](#Inputs-and-outputs)
+- [References](#References)
+- [How to cite](#How-to-cite)
+- [Authors and reviewers](#Authors-and-reviewers)
+- [Acknowledgement](#Acknowledgement)
+
 ## Introduction
-
-
 
 Integration of new public datasets is handled as follow:
 
@@ -27,12 +34,17 @@ The source code of the integration script is available at this link: [Data integ
 
 ## Authors and reviewers
 
+Authors:
 
+- Daniel Hunacek
+- Lucien Zuber
 
-## License
+Reviewers:
 
-
+<code><ins>**[To Top](#table-of-contents)**</ins></code>
 
 ## Acknowledgement
+
+We would like to convey our deepest appreciation to the Horizon 2020 [Hotmaps Project](https://www.hotmaps-project.eu) (Grant Agreement number 723677), which provided the funding to carry out the present investigation
 
 
