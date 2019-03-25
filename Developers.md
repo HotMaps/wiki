@@ -13,9 +13,11 @@
 - [Authors and reviewers](#Authors-and-reviewers)
 - [Acknowledgement](#Acknowledgement)
 
-## Dataset integration
+## Introduction
 
-### Introduction
+This page contains all information required for developers to contribute to the HotMaps Platform or to understand how it is working.
+
+## Dataset integration
 
 Integration of new public datasets is handled as follow:
 
@@ -42,12 +44,12 @@ Information on how
 
 ## List of main repositories
 
-The code of the application is located on GitHub under the HotMaps group. This user owns several repositories
+The code of the application is located on GitHub under the [HotMaps organization](https://github.com/HotMaps). This organization owns several repositories
 
-* <Hotmaps-toolbox-client> contains the frontend of our application. It is an Angular project (JavaScript)
-* <Hotmaps-toolbox-service> contains the API for our application. It is based on Flask (Python)
-* <hotmaps-wiki> is the wiki you're currently reading
-* <base-calculation-module> is the basic template you can use to create your own calculation modules for Hotmaps
+* [<Hotmaps-toolbox-client>](https://github.com/HotMaps/Hotmaps-toolbox-service) contains the frontend of our application. It is an Angular project (JavaScript)
+* [<Hotmaps-toolbox-service>](https://github.com/HotMaps/Hotmaps-toolbox-service) contains the API for our application. It is based on Flask (Python)
+* [<hotmaps-wiki>](https://github.com/HotMaps/hotmaps_wiki) is the wiki you're currently reading
+* [<base-calculation-module>](https://github.com/HotMaps/base_calculation_module) is the basic template you can use to create your own calculation modules for Hotmaps
 * a list of calculations modules
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
