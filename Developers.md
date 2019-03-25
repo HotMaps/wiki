@@ -98,7 +98,7 @@ Each calculation module has its own Docker container.
 
 #### Infrastructure
 
-For the moment, the server is hosted at the HES-SO in Switzerland. There are 2 machines available: one for development (development and testing) and one for production (the actual toolbox, available at [www.hotmaps.eu](www.hotmaps.eu)).
+For the moment, the server is hosted at the HES-SO in Switzerland. There are 2 machines available: one for development (development and testing) and one for production (the actual toolbox, available at [www.hotmaps.eu](https://www.hotmaps.eu)).
 
 Both machines have the same specification:
 
