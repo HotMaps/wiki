@@ -138,7 +138,7 @@ test
 
 ## How to cite
 
-test
+Mostafa Fallahnejad, in Hotmaps-WIKI, https://github.com/HotMaps/hotmaps_wiki/wiki/CM---District-Heating-Potentials/_edit (March 2019)
 
 
 ## Authors and reviewers
