@@ -36,9 +36,7 @@ We hope you enjoy exploring the toolbox and find it helpful for your heating and
 * [CM - Decentral heating costs](CM---Decentral-Heating-Costs)  
 * [CM - Renewable energy potentials](CM_renewable_potentials)
 * [CM - Excess heat potential](CM-Excess-heat-potential)
-* [CM - Industrial heat demand](CM_industrial_heat_demand)
-* [CM - Demand response](CM_demand_response)
-* [CM - Transport](CM_transport)
+
 
 
 **HAVE FUN EXPLORING THE HOTMAPS TOOLBOX!**
