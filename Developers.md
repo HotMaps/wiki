@@ -48,10 +48,10 @@ Information on how
 
 The code of the application is located on GitHub under the [HotMaps organization](https://github.com/HotMaps). This organization owns several repositories
 
-* [<Hotmaps-toolbox-client>](https://github.com/HotMaps/Hotmaps-toolbox-service) contains the frontend of our application. It is an Angular project (JavaScript)
-* [<Hotmaps-toolbox-service>](https://github.com/HotMaps/Hotmaps-toolbox-service) contains the API for our application. It is based on Flask (Python)
-* [<hotmaps-wiki>](https://github.com/HotMaps/hotmaps_wiki) is the wiki you're currently reading
-* [<base-calculation-module>](https://github.com/HotMaps/base_calculation_module) is the basic template you can use to create your own calculation modules for Hotmaps
+* [Hotmaps-toolbox-client](https://github.com/HotMaps/Hotmaps-toolbox-service) contains the frontend of our application. It is an Angular project (JavaScript)
+* [Hotmaps-toolbox-service](https://github.com/HotMaps/Hotmaps-toolbox-service) contains the API for our application. It is based on Flask (Python)
+* [hotmaps-wiki](https://github.com/HotMaps/hotmaps_wiki) is the wiki you're currently reading
+* [base-calculation-module](https://github.com/HotMaps/base_calculation_module) is the basic template you can use to create your own calculation modules for Hotmaps
 * a list of calculations modules
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
@@ -62,7 +62,7 @@ If you want to add some code to Hotmaps you have two possibilities: if you want 
 
 If you want to perform some work on the Git repository, please do not work directly with the master branch. Create a new branch from the develop branch, do your work on this branch and when your feature is tested, you can merge your work with the develop branch as show in the following graph. 
 
-![git_workflow](images\git_workflow.png)
+![git_workflow](images/git_workflow.png)
 
 In order to push something to some HotMaps repository you have to be a member of the HotMaps team, if you are not you are still able to perform a fork of our tool to develop your own tool.
 
@@ -70,7 +70,7 @@ In order to push something to some HotMaps repository you have to be a member of
 
 ## Description of IT infrastructure
 
-![ReverseProxy_architecture_latest](images\ReverseProxy_architecture_latest.png)
+![ReverseProxy_architecture_latest](images/ReverseProxy_architecture_latest.png)
 
 All services and components are used through their own Docker container. All these containers are defined in a single docker-compose file. The image above represents the IT architecture of Hotmaps.
 

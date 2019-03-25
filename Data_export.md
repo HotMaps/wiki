@@ -27,7 +27,7 @@ If you have any difficulties please read the following guides:
 
 2. Select the selection scale on the right of the map (NUTS/LAU/hectare)
 
-3. Select the the region you want with the selection tools![export_selection](images\export_selection.png)
+3. Select the the region you want with the selection tools![export_selection](images/export_selection.png)
 
 4. Once the selection is ok, click on the ![export button](images/layer-export-btn.png) button below the layer name on the left panel to start the download process.
 
