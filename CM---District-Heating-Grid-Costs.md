@@ -26,7 +26,19 @@ This calculation module uses the [European heat density map (EHDM)](https://gitl
 ## Method
 Here, a brief explanation of methodology is provided. For a more complete explanation of the methodology and formulations, please to the [paper](https://www.sciencedirect.com/science/article/pii/S1876610218304740) published about this calculation module [[1](#References)].
 
-In order to calculate the DH grid costs, 
+The aim of the calculation module is to find regions in which DH system can be built without exceeding a user-defined average specific cost ceiling in _*EUR/MWh*_. This is done under following assumptions:
+
+
+* between two DH areas, heat can flow in one direction,
+* the annual DH demand is considered to remain constant after the last year of investment period
+* market share or energy saving has the same percentages within cells of a DH area and also within different DH areas.
+* The economic DH area with highest heat demand is considered as the only available heat source. It produces the heat for itself and all other economic coherent areas.
+
+
+The determination of economic DH areas is done in three steps:
+* calculation of distribution grid costs based on heat demand and plot ratio using EHDM and EGFAM
+* Determination of potential DH areas
+* Determination of economic DH areas and transmission line capacities and configuration required to connect these areas to each other.
 
 
 
