@@ -41,7 +41,7 @@ Each user has a limited disk space, once the user has not enough free space, it 
 
 Before being able to display the layer on the map, the server will need some time (up to several minutes) after the success message to import the dataset correctly. The dataset is available to be displayed once its size is no longer 0.
 
-![upload_complete](D:\Hotmaps\hotmaps_wiki.wiki\images\upload_complete.png)
+![upload_complete](images\upload_complete.png)
 
 The layer can now be displayed on the map by activating it on the layers panel. 
 
