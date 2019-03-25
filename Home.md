@@ -1,3 +1,5 @@
+# How to use the hotmaps toolbox for heating and cooling planning 
+
 **Welcome to the Hotmaps wiki!**
 
 The wiki consists of 2 parts.
@@ -9,9 +11,6 @@ The wiki consists of 2 parts.
 For developers please see more information here [Developers](Developers)
 
 We hope you enjoy exploring the toolbox and find it helpful for your heating and cooling planning
-
-
-# How to use the hotmaps toolbox for heating and cooling planning  
 
 
 ## General tool functionalities and structure
