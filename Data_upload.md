@@ -31,7 +31,7 @@ On the profile page:
 2. selection of file to upload (.tif or .csv)
 3. upload by clicking on the "+" icon
 
-![profile page upload](images/profile-upload.png)
+![profile page upload](images\profile-upload.png)
 
 The selection of type of dataset is used in order to get the correct symbology. If your dataset does not match the layer symbology, it won't be displayed correctly.
 
