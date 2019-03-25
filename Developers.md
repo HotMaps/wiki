@@ -70,7 +70,23 @@ In order to push something to some HotMaps repository you have to be a member of
 
 ## Description of IT infrastructure
 
-![architecture](https://github.com/HotMaps/hotmaps_wiki/raw/master/Images/architecture.png)
+![ReverseProxy_architecture_latest](images\ReverseProxy_architecture_latest.png)
+
+All services and components are used through their own Docker container. All these containers are defined in a single docker-compose file. The image above represents the IT architecture of Hotmaps.
+
+Some partner organizations limited communication to port 80 only. To avoid the problems caused by this limitation, the creation of a reverse proxy was made. This reverse proxy offers a single entrypoint and then distributes the request sent by the customer to the service concerned. The reverse proxy is composed by three components :
+
+1. Reverse proxy server : it serves as a unique entrypoint and distributes requests to the right services.
+2. Proxy-gen : it is a service that automatically maps all services in the reverse proxy. Thus, it is not necessary to manually add a new service to the proxy configuration
+3. lets-encrypt : it is a service that allows the use of the SSL protocol. It is necessary in order to activate the https protocol. The SLL certificates are signed by an email address configured in this service. 
+
+Three networks exist :
+
+- hotmpas_neginx  allows the reverse proxy to communicate with the api, the frontend and the geoserver. It mainly allows to distribute a request to the correct service among the three.
+- hotmaps_backend allows the communication between all the components of the backend : api, frontend, geoserver and the postgresql database. 
+- hotmaps_cm-net allows the communication between each calculation modules and the api.
+
+Each calculation module has its own Docker container. 
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
 
