@@ -62,7 +62,7 @@ If you want to add some code to Hotmaps you have two possibilities: if you want 
 
 If you want to perform some work on the Git repository, please do not work directly with the master branch. Create a new branch from the develop branch, do your work on this branch and when your feature is tested, you can merge your work with the develop branch as show in the following graph. 
 
-![1553519053156](D:\Hotmaps\hotmaps_wiki.wiki\images\git_workflow.png)
+![git_workflow](images\git_workflow.png)
 
 In order to push something to some HotMaps repository you have to be a member of the HotMaps team, if you are not you are still able to perform a fork of our tool to develop your own tool.
 
