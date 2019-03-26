@@ -9,7 +9,7 @@
 
 # Introduction
 There are two ways to select a region in the Hotmaps toolbox:
-1. selection by the [NUTS classification (Nomenclature of territorial units for statistics)](https://ec.europa.eu/eurostat/web/nuts/background)
+1. selection by the [NUTS classification (Nomenclature of territorial units for statistics))](https://ec.europa.eu/eurostat/web/nuts/background)
 2. custom hectar selection
 
 With the [radio buttons](#Fig1) at the right of your screen you can choose the terretorial scale that you want to analyze (NUTS regions, [LAU (Local Administrative Units](https://ec.europa.eu/eurostat/web/nuts/local-administrative-units) or hectar level)
