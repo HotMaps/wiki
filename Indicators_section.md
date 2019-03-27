@@ -20,7 +20,9 @@ The indicators on raster layers are different from vector layers. With different
 
 Raster Layers have generally a much higher resolution whereas vector layers have only attributes at points or polygons. 
 
-That mean on the one hand for example that if you select a vector layer which is defined by NUTS3 polygons and you want for example to select a LAU region then the NUTS3 value will not be disaggregated to LAU level, instead the NUTS3 indicator where this LAU region is located will be shown in the results side bar. On the other hand, raster layers are aggregated and disaggregated "arbitrarily"* 
+That mean on the one hand for example that if you select a vector layer which is defined by NUTS3 polygons and you want for example to select a LAU region then the NUTS3 value will not be disaggregated to LAU level, instead the NUTS3 indicator where this LAU region is located will be shown in the results side bar. 
+
+On the other hand, raster layers are aggregated and disaggregated "arbitrarily"* 
 
 *by the containing cells within the region you selected (naturally within the limit of the raster resolution itself)
 
@@ -35,7 +37,61 @@ When you select the heat denisity layer and the Population Layer at the same tim
 ![hdm2.png][hdm2]
 
 ### In General:
-When one of the bulding layers and the population layer is selected at the same time an extra indicator will be shown as described before
+When one of the bulding layers and the population layer is selected at the same time, an extra indicator will be shown as described before
+
+<code><ins>**[To Top](#Indicators-for-raster-layers)**</ins></code>
+
+## Cooling Density Map
+
+![cdm.png][cdm]
+
+<code><ins>**[To Top](#Indicators-for-raster-layers)**</ins></code>
+
+## Building Volumes
+
+![bvol.png][bvol]
+
+<code><ins>**[To Top](#Indicators-for-raster-layers)**</ins></code>
+
+## Gross floor area
+
+![gfa.png][gfa]
+
+<code><ins>**[To Top](#Indicators-for-raster-layers)**</ins></code>
+
+## Population Raster
+
+![pop.png][pop]
+
+<code><ins>**[To Top](#Indicators-for-raster-layers)**</ins></code>
+
+## Temperature
+
+![temp.png][temp]
+
+<code><ins>**[To Top](#Indicators-for-raster-layers)**</ins></code>
+
+## Cooling Degree Days
+
+![cdd.png][cdd]
+
+<code><ins>**[To Top](#Indicators-for-raster-layers)**</ins></code>
+
+## Heating Degree Days
+
+![hdd.png][hdd]
+
+<code><ins>**[To Top](#Indicators-for-raster-layers)**</ins></code>
+
+## Solar Radiation
+
+![rad.png][rad]
+
+<code><ins>**[To Top](#Indicators-for-raster-layers)**</ins></code>
+
+## Wind Speed
+
+![wind.png][wind]
 
 <code><ins>**[To Top](#Indicators-for-raster-layers)**</ins></code>
 
@@ -68,7 +124,7 @@ We would like to convey our deepest appreciation to the Horizon 2020 [Hotmaps Pr
 [hdm]: https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/general_tool_functionalities_and_structure/hdm.png
 [cdm]: https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/general_tool_functionalities_and_structure/cdm.png
 [gfa]: https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/general_tool_functionalities_and_structure/gfa.png
-[bvol]: https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/general_tool_functionalities_and_structure/gfa.png
+[bvol]: https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/general_tool_functionalities_and_structure/bvol.png
 [temp]: https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/general_tool_functionalities_and_structure/temp.png
 [pop]: https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/general_tool_functionalities_and_structure/pop.png
 [cdd]: https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/general_tool_functionalities_and_structure/cdd.png
