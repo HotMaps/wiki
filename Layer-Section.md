@@ -1,5 +1,6 @@
 # Table Of Contents
 * [Introduction](#Introduction)
+* [Layers](#Layers)
 * [Raster Layers](#Raster-Layers)
 * [Vector Layers](#Vector-Layers)
 
@@ -19,10 +20,10 @@ By pressing the ![layers_button][layers_button] Button a sidebar with different 
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
 
+# Layers
 There are [two categories of layers](https://www.gislounge.com/geodatabases-explored-vector-and-raster-data):  
 1. Vector Layers
 2. Raster Layers
-
 
 Following layers can be found and visualized (you can see also the legend and also the information section of each layer):
 
@@ -95,30 +96,3 @@ We would like to convey our deepest appreciation to the Horizon 2020 [Hotmaps Pr
 [sidebar]: https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/general_tool_functionalities_and_structure/all_layers.png
 
 [layers_tools]: https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/general_tool_functionalities_and_structure/layers_tools.png
-
-[hdm]: https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/general_tool_functionalities_and_structure/hdm.png
-[cdm]: https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/general_tool_functionalities_and_structure/cdm.png
-[gfa]: https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/general_tool_functionalities_and_structure/gfa.png
-[bvol]: https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/general_tool_functionalities_and_structure/gfa.png
-[temp]: https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/general_tool_functionalities_and_structure/temp.png
-[pop]: https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/general_tool_functionalities_and_structure/pop.png
-[cdd]: https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/general_tool_functionalities_and_structure/cdd.png
-[hdd]: https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/general_tool_functionalities_and_structure/hdd.png
-[rad]: https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/general_tool_functionalities_and_structure/rad.png
-[wind]: https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/general_tool_functionalities_and_structure/wind.png
-[temp]: https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/general_tool_functionalities_and_structure/temp.png
-[forest]: https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/general_tool_functionalities_and_structure/forest.png
-[wp]: https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/general_tool_functionalities_and_structure/wp.png
-[srobf]: https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/general_tool_functionalities_and_structure/srobf.png
-
-[ise]: https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/general_tool_functionalities_and_structure/ise.png
-[iseh]: https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/general_tool_functionalities_and_structure/iseh.png
-[isec]: https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/general_tool_functionalities_and_structure/isec.png
-[ises]: https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/general_tool_functionalities_and_structure/ises.png
-[wwp]: https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/general_tool_functionalities_and_structure/wwp.png
-[wwc]: https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/general_tool_functionalities_and_structure/wwc.png
-[ar]: https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/general_tool_functionalities_and_structure/ar.png
-[le]: https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/general_tool_functionalities_and_structure/le.png
-[geothermal]: https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/general_tool_functionalities_and_structure/geothermal.png
-[sw]: https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/general_tool_functionalities_and_structure/sw.png
-[electricity]: https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/general_tool_functionalities_and_structure/electricity.png
