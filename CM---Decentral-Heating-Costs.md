@@ -1,8 +1,5 @@
 ﻿## Table of Contents
 
-{{ page.date | date: '%B %d, %Y' }}
-
-
 * [Introduction](#introduction)
 * [Inputs and outputs](#inputs-and-outputs)
 * [Method](#method)
