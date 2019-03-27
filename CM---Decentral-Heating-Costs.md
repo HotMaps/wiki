@@ -1,10 +1,6 @@
 ﻿## Table of Contents
-<h1>{{ page.title }}</h1>
-<p class="meta">{{ page.date | date_to_string }}</p>
 
-<div class="post">
-  {{ content }}
-</div>
+{{ page.date | date: '%B %d, %Y' }}
 
 
 * [Introduction](#introduction)
