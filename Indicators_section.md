@@ -1,7 +1,13 @@
 # Table of Contents
 1. [Introduction](#Introduction)
 1. [Indicators for raster layers](#Indicators-for-raster-layers)
+   * [Buildings](#Buildings)
+   * [Population](#Population)
+   * [Renewable Energy Source Potentials](#RES-Potentials)
 1. [Indicators for vector layers](#Indicators-for-vector-layers)
+   * [Industry](#Industry)
+   * [Renewable Energy Source Potentials](#RES--Potentials)
+   * [Electricity](#Electricity)
 1. [Example](#Example)
 
 # Indroduction 
@@ -26,7 +32,9 @@ On the other hand, raster layers are aggregated and disaggregated "arbitrarily"*
 
 *by the containing cells within the region you selected (naturally within the limit of the raster resolution itself)
 
-## Heat Density Map
+## Buildings
+
+### Heat Density Map
 
 ![hdm.png][hdm]
 
@@ -36,66 +44,156 @@ When you select the heat denisity layer and the Population Layer at the same tim
 
 ![hdm2.png][hdm2]
 
-### In General:
+## In General:
 When one of the bulding layers and the population layer is selected at the same time, an extra indicator will be shown as described before
 
-<code><ins>**[To Top](#Indicators-for-raster-layers)**</ins></code>
+<code><ins>**[To Chapter](#Indicators-for-raster-layers)**</ins></code>
 
-## Cooling Density Map
+### Cooling Density Map
 
 ![cdm.png][cdm]
 
-<code><ins>**[To Top](#Indicators-for-raster-layers)**</ins></code>
+<code><ins>**[To Chapter](#Indicators-for-raster-layers)**</ins></code>
 
-## Building Volumes
+### Building Volumes
 
 ![bvol.png][bvol]
 
-<code><ins>**[To Top](#Indicators-for-raster-layers)**</ins></code>
+<code><ins>**[To Chapter](#Indicators-for-raster-layers)**</ins></code>
 
-## Gross floor area
+### Gross floor area
 
 ![gfa.png][gfa]
 
-<code><ins>**[To Top](#Indicators-for-raster-layers)**</ins></code>
+<code><ins>**[To Chapter](#Indicators-for-raster-layers)**</ins></code>
 
-## Population Raster
+## Population
 
 ![pop.png][pop]
 
-<code><ins>**[To Top](#Indicators-for-raster-layers)**</ins></code>
+<code><ins>**[To Chapter](#Indicators-for-raster-layers)**</ins></code>
 
-## Temperature
+## Climate
+### Temperature
 
 ![temp.png][temp]
 
-<code><ins>**[To Top](#Indicators-for-raster-layers)**</ins></code>
+<code><ins>**[To Chapter](#Indicators-for-raster-layers)**</ins></code>
 
-## Cooling Degree Days
+### Cooling Degree Days
 
 ![cdd.png][cdd]
 
-<code><ins>**[To Top](#Indicators-for-raster-layers)**</ins></code>
+<code><ins>**[To Chapter](#Indicators-for-raster-layers)**</ins></code>
 
-## Heating Degree Days
+### Heating Degree Days
 
 ![hdd.png][hdd]
 
-<code><ins>**[To Top](#Indicators-for-raster-layers)**</ins></code>
+<code><ins>**[To Chapter](#Indicators-for-raster-layers)**</ins></code>
 
-## Solar Radiation
+### Solar Radiation
 
 ![rad.png][rad]
 
-<code><ins>**[To Top](#Indicators-for-raster-layers)**</ins></code>
+<code><ins>**[To Chapter](#Indicators-for-raster-layers)**</ins></code>
 
-## Wind Speed
+### Wind Speed
 
 ![wind.png][wind]
 
-<code><ins>**[To Top](#Indicators-for-raster-layers)**</ins></code>
+<code><ins>**[To Chapter](#Indicators-for-raster-layers)**</ins></code>
+
+## RES Potentials
+
+### Solar Radiation On Building Footprint
+
+![srobf.png][srobf]
+
+<code><ins>**[To Chapter](#Indicators-for-raster-layers)**</ins></code>
+
+### Wind Potential at 50m
+
+![wp.png][wp]
+
+<code><ins>**[To Chapter](#Indicators-for-raster-layers)**</ins></code>
+
+### Forest Residues
+
+![forest.png][forest]
+
+<code><ins>**[To Chapter](#Indicators-for-raster-layers)**</ins></code>
+
+<code><ins>**[To Top](#table-of-contents)**</ins></code>
 
 # Indicators for vector layers 
+
+## Industry
+### Industrial Site Emissions
+![ise.png][ise]
+
+<code><ins>**[To Chapter](#Indicators-for-vector-layers)**</ins></code>
+
+### Industrial Site Excess Heat
+![iseh.png][iseh]
+
+<code><ins>**[To Chapter](#Indicators-for-vector-layers)**</ins></code>
+
+### Industrial Site Company Name
+![isec.png][isec]
+
+<code><ins>**[To Chapter](#Indicators-for-vector-layers)**</ins></code>
+
+### Industrial Site Subsector
+![ises.png][ises]
+
+<code><ins>**[To Chapter](#Indicators-for-vector-layers)**</ins></code>
+
+## RES- Potentials
+
+### Waste Water Treatment Plants Power
+
+![wwp.png][wwp]
+
+<code><ins>**[To Chapter](#Indicators-for-vector-layers)**</ins></code>
+
+### Waste Water Treatment Plants Capacity
+
+![wwc.png][wwc]
+
+<code><ins>**[To Chapter](#Indicators-for-vector-layers)**</ins></code>
+
+### Argicultural Residues
+
+![ar.png][ar]
+
+<code><ins>**[To Chapter](#Indicators-for-vector-layers)**</ins></code>
+
+### Lifestock Effluents
+
+![le.png][le]
+
+<code><ins>**[To Chapter](#Indicators-for-vector-layers)**</ins></code>
+
+### Municipal Solid Waste
+
+![sw.png][sw]
+
+<code><ins>**[To Chapter](#Indicators-for-vector-layers)**</ins></code>
+
+### Geothermal Potential Heat Conductivity
+
+![geothermal.png][geothermal]
+
+<code><ins>**[To Chapter](#Indicators-for-vector-layers)**</ins></code>
+
+## Electricity
+
+## Electricity C02 Emissions
+
+![electricity.png][electricity]
+
+<code><ins>**[To Chapter](#Indicators-for-vector-layers)**</ins></code>
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
 
@@ -135,7 +233,6 @@ We would like to convey our deepest appreciation to the Horizon 2020 [Hotmaps Pr
 [forest]: https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/general_tool_functionalities_and_structure/forest.png
 [wp]: https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/general_tool_functionalities_and_structure/wp.png
 [srobf]: https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/general_tool_functionalities_and_structure/srobf.png
-
 [ise]: https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/general_tool_functionalities_and_structure/ise.png
 [iseh]: https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/general_tool_functionalities_and_structure/iseh.png
 [isec]: https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/general_tool_functionalities_and_structure/isec.png
