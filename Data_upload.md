@@ -7,6 +7,7 @@
 - [How to display an uploaded layer](#How-to-display-an-uploaded-layer)
 - [Offline mode](#Offline-mode)
 - [Data security and privacy](#Data-security-and-privacy)
+- [References](#References)
 - [How to cite](#How-to-cite)
 - [Authors and reviewers](#Authors-and-reviewers)
 - [Acknowledgement](#Acknowledgement)
@@ -61,13 +62,17 @@ A layer can be displayed by activating it on the left panel.
 
 ## Offline mode
 
-If you are logged out, you won't be able to access your any of your personal layers, but they are still available once you log back.
+If you are logged out, you won't be able to access any of your personal layers, but they are still available once you log back in.
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
 
 ## Data security and privacy
 
-Please note that the uploaded datasets are not encrypted and protected. Please avoid uploading sensitive data on the server.
+Hotmaps toolbox offers security to users creating an account on the platform. Usual security measures have been implemented: HTTPS protocol, password hashing/salting and so on. However please note that for the moment the uploaded datasets are not encrypted when stored on the server, so please avoid uploading sensitive data. 
+
+<code><ins>**[To Top](#table-of-contents)**</ins></code>
+
+## References
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
 

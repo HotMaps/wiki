@@ -8,12 +8,13 @@
 - [List of main repositories](#List-of-main-repositories)
 - [How to contribute code](#How-to-contribute-code)
 - [Description of IT infrastructure](#Description-of-IT-infrastructure)
+  - [Run with Docker](#Run-with-Docker)
   - [Server infrastructure](#Server-infrastructure)
     - [Infrastructure](#Infrastructure)
     - [Performance](#Performance)
 - [How to define indicators](#How-to-define-indicators)
-- [How to cite](#How-to-cite)
 - [References](#References)
+- [How to cite](#How-to-cite)
 - [Authors and reviewers](#Authors-and-reviewers)
 - [Acknowledgement](#Acknowledgement)
 
@@ -44,9 +45,9 @@ The source code of the integration script is available at this link: [Data integ
 
 To add datasets on the list of public datasets, they must be pushed to a new Git repository on GitLab. Here is the GitLab Organization where datasets should be pushed: [Datasets on GitLab](https://gitlab.com/hotmaps).
 
-There is a specification for datasets that needs to be added. 
+Once a day the repositories are checked for new commits and integrated if so. The integration process checks whether the data conforms to the specification or not. 
 
-The specification is available at this address: [Specification-to-be-added](#Specification)
+Here is the specification:  [Hotmaps_Data-upload-on-Gitlab_2017-12-04_V4.pdf](uploads\Hotmaps_Data-upload-on-Gitlab_2017-12-04_V4.pdf) 
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
 
@@ -72,6 +73,12 @@ If you want to perform some work on the Git repository, please do not work direc
 
 In order to push something to some HotMaps repository you have to be a member of the HotMaps team, if you are not you are still able to perform a fork of our tool to develop your own tool.
 
+You can find more information on how to work in these documents:
+
+-  [Hotmaps_python_best_practices_tutorial_2017-08-07_v01.pdf](uploads/Hotmaps_python_best_practices_tutorial_2017-08-07_v01.pdf)
+-  [Hotmaps_Testing_in_python_tutorial_pytest_2017-08-07_v01.pdf](uploads\Hotmaps_Testing_in_python_tutorial_pytest_2017-08-07_v01.pdf)
+-  [GitFlow_Guidelines_CREM_2017-02-01.pdf](uploads\GitFlow_Guidelines_CREM_2017-02-01.pdf) 
+
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
 
 ## Description of IT infrastructure
@@ -84,15 +91,27 @@ Some partner organizations limited communication to port 80 only. To avoid the p
 
 1. Reverse proxy server : it serves as a unique entrypoint and distributes requests to the right services.
 2. Proxy-gen : it is a service that automatically maps all services in the reverse proxy. Thus, it is not necessary to manually add a new service to the proxy configuration
-3. lets-encrypt : it is a service that allows the use of the SSL protocol. It is necessary in order to activate the https protocol. The SLL certificates are signed by an email address configured in this service. 
+3. lets-encrypt : it is a service that allows the use of the SSL protocol. It is necessary in order to activate the https protocol. The SSL certificates are signed by an email address configured in this service. 
 
 Three networks exist :
 
-- hotmpas_neginx  allows the reverse proxy to communicate with the api, the frontend and the geoserver. It mainly allows to distribute a request to the correct service among the three.
-- hotmaps_backend allows the communication between all the components of the backend : api, frontend, geoserver and the postgresql database. 
+- hotmaps_nginx allows the reverse proxy to communicate with the api, the frontend and the geoserver. It mainly allows to distribute a request to the correct service among the three.
+- hotmaps_backend allows the communication between all the components of the backend : api, frontend, geoserver and the PostgreSQL database. 
 - hotmaps_cm-net allows the communication between each calculation modules and the api.
 
 Each calculation module has its own Docker container. 
+
+### Run with Docker
+
+Hotmaps uses [Docker](https://www.docker.com/) software and [Docker-Compose](https://docs.docker.com/compose/) tool to manage containers. A docker-compose.yml file contains the whole configuration of the Docker architecture (config. of containers, networks, links, ...). This allows containers to be run with one simple command : 
+
+```shell
+docker-compose up
+```
+
+*There is more about docker-compose on the webiste of Docker: [Compose command-line reference](https://docs.docker.com/compose/reference/) and [Compose file reference](https://docs.docker.com/compose/compose-file/).*
+
+There is only one container that is run separately from others: it's the database because it needs to stay up all the time. That's why it's not in the docker-compose configuration file.
 
 ### Server infrastructure
 
@@ -147,7 +166,9 @@ As an example, below are the results of the first beta release versus the future
 
 ## References
 
+<code><ins>**[To Top](#table-of-contents)**</ins></code>
 
+## How to cite
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
 
@@ -166,3 +187,7 @@ Reviewers:
 ## Acknowledgement
 
 We would like to convey our deepest appreciation to the Horizon 2020 [Hotmaps Project](https://www.hotmaps-project.eu) (Grant Agreement number 723677), which provided the funding to carry out the present investigation
+
+<code><ins>**[To Top](#table-of-contents)**</ins></code>
+
+## 

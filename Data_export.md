@@ -4,6 +4,7 @@
 
 - [Introduction](#Introduction)
 - [How to export a dataset](#How-to-export-a-dataset)
+- [References](#References)
 - [How to cite](#How-to-cite)
 - [Authors and reviewers](#Authors-and-reviewers)
 - [Acknowledgement](#Acknowledgement)
@@ -38,6 +39,10 @@ If you have any difficulties please read the following guides:
 Once all these steps are done you will have an export of one of the layers.
 
 You can then use it with your own tools and even edit it to import it back to the platform (see [Data upload](Data_upload) for indications on how to do it).
+
+<code><ins>**[To Top](#table-of-contents)**</ins></code>
+
+## References
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
 

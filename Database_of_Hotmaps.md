@@ -4,6 +4,7 @@
 
 - [Introduction](#Introduction)
 - [How to export a dataset](#How-to-export-a-dataset)
+- [References](#References)
 - [How to cite](#How-to-cite)
 - [Authors and reviewers](#Authors-and-reviewers)
 - [Acknowledgement](#acknowledgement)
@@ -37,6 +38,13 @@ The technologies used for the database are:
 - PostgreSQL version 9.6
 - PostGIS version 2.3
 - GeoServer version 2.11.2
+
+## References
+
+- Simon Pezzutto, Stefano Zambotti, Silvia Croce, Pietro Zambelli, Giulia Garegnani, Chiara Scaramuzzino, Ramón Pascual Pascuas, Alyona Zubaryeva, Franziska Haas, Dagmar Exner (EURAC), Andreas Mueller (e-think), Michael Hartner (TUW), Tobias Fleiter, Anna-Lena Klingler, Matthias Kühnbach, Pia Manz, Simon Marwitz, Matthias Rehfeldt, Jan Steinbach, Eftim Popovski (Fraunhofer ISI) Reviewed by Lukas Kranzl, Sara Fritz (TUW) Hotmaps Project, **D2.3 WP2 Report – Open Data Set for the EU28, 2018** 
+  [www.hotmaps-project.eu](http://www.hotmaps-project.eu/wp-content/uploads/2018/05/D2.3-Hotmaps_FINAL-VERSION_for-upload.pdf)
+
+<code><ins>**[To Top](#table-of-contents)**</ins></code>
 
 ## How to cite
 
