@@ -1,7 +1,9 @@
-<code>[Review this page](https://github.com/HotMaps/hotmaps_wiki/wiki/CM-Access/_edit/#Authors-and-reviewers)</code>
 # Table of contents
 1. [Introduction](#Introduction)
 1. [Structure of a calculation module](#Structure-of-a-calculation-module)
+1. [How to cite](#How-to-cite)
+1. [Authors and reviewers](#Authors-and-reviewers)
+1. [License](#License)
 
 # Introduction 
 In the following chapter we will describe how to acces a calculation module
@@ -35,6 +37,8 @@ Jeton Hasani, in Hotmaps-WIKI, https://github.com/HotMaps/hotmaps_wiki/wiki/CM-A
 
 
 ## Authors and reviewers
+<code>[Review this page !](https://github.com/HotMaps/hotmaps_wiki/wiki/CM-Access/_edit/#Authors-and-reviewers)</code>
+
 This page is written by Jeton Hasani\*.
 - [ ] This page was reviewed by <code>....</code>\*.
 
@@ -61,6 +65,8 @@ License-Text: https://spdx.org/licenses/CC-BY-4.0.html
 We would like to convey our deepest appreciation to the Horizon 2020 [Hotmaps Project](https://www.hotmaps-project.eu) (Grant Agreement number 723677), which provided the funding to carry out the present investigation.
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
+
+<code>[Review this page](https://github.com/HotMaps/hotmaps_wiki/wiki/CM-Access/_edit/#Authors-and-reviewers)</code>
 
 [cm_access]: https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/general_tool_functionalities_and_structure/calculation_module_access.gif
 
