@@ -12,7 +12,9 @@
    * [Show Result](#show-result)
    * [Feedback](#feedback)
 1. [Tiles](#Tiles)
-
+1. [How to cite](#How-to-cite)
+1. [Authors and reviewers](#Authors-and-reviewers)
+1. [License](#License)
 
 ## Introduction Page 
 Once the toolbox is opened, the disclaiming page is shown ([Fig.1](#Fig1)). Besides the disclaimer message, additional information regarding the objectives of the Hotmaps toolbox as well as the link to the Hotmaps project website and the data repositories is provided.
@@ -179,17 +181,37 @@ There are following configurations possible
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
 
+## How to cite
+
+Jeton Hasani, in Hotmaps-WIKI, https://github.com/HotMaps/hotmaps_wiki/wiki/CM-Access (March 2019)
+
+
+## Authors and reviewers
+<code>[Review this page !](https://github.com/HotMaps/hotmaps_wiki/wiki/Hotmaps-Graphical-User-Interface/_edit)</code>
+
+This page is written by Jeton Hasani\*.
+- [ ] This page was reviewed by <code>....</code>\.
+
+
+\* [Energy Economics Group - TU Wien](https://eeg.tuwien.ac.at/)
+Institute of Energy Systems and Electrical Drives
+Gusshausstrasse 27-29/370
+1040 Wien
+
+## License
+Copyright © Hotmaps
+Creative Commons Attribution 4.0 International License
+This work is licensed under a Creative Commons CC BY 4.0 International License.
+SPDX-License-Identifier: CC-BY-4.0
+License-Text: https://spdx.org/licenses/CC-BY-4.0.html
+
+
 ## Acknowledgement
-We would like to convey our deepest appreciation to the Horizon 2020 [Hotmaps Project](https://www.hotmaps-project.eu) (Grant Agreement number 723677), which provided the funding to carry out the present investigation
+We would like to convey our deepest appreciation to the Horizon 2020 [Hotmaps Project](https://www.hotmaps-project.eu) (Grant Agreement number 723677), which provided the funding to carry out the present investigation.
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
 
-
-
-
-
-
-
+<code>[Review this page](https://github.com/HotMaps/hotmaps_wiki/wiki/Hotmaps-Graphical-User-Interface/_edit)</code>
 
 [//]: # (Here are all the files to the links)
 
