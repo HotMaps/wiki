@@ -28,17 +28,19 @@ Here, a brief explanation of methodology is provided. For a more complete explan
 
 The aim of the calculation module is to find regions in which DH system can be built without exceeding a user-defined average specific cost ceiling in _*EUR/MWh*_. This is done under following assumptions:
 
-
+* The economic DH area with highest heat demand is considered as the only available heat source. It produces the heat for itself and all other economic coherent areas.
 * between two DH areas, heat can flow in one direction,
 * the annual DH demand is considered to remain constant after the last year of investment period
 * market share or energy saving has the same percentages within cells of a DH area and also within different DH areas.
-* The economic DH area with highest heat demand is considered as the only available heat source. It produces the heat for itself and all other economic coherent areas.
+
+The determination of economic DH areas is done in three steps.
+
+**STEP 1: Calculation of distribution grid costs based on heat demand and plot ratio using EHDM and EGFAM**
+
+**STEP 2: Determination of potential DH areas**
 
 
-The determination of economic DH areas is done in three steps:
-* calculation of distribution grid costs based on heat demand and plot ratio using EHDM and EGFAM
-* Determination of potential DH areas
-* Determination of economic DH areas and transmission line capacities and configuration required to connect these areas to each other.
+**STEP 3:  Determination of economic DH areas and transmission line capacities and configuration required to connect these areas to each other.**
 
 
 
@@ -69,13 +71,7 @@ The determination of economic DH areas is done in three steps:
 
 
 ## How to cite
-<div class="mt-2 mt-md-1 pb-3 gh-header-meta">
-      fallahnejad edited this page <relative-time datetime="2019-03-27T09:31:28Z">Mar 25, 2019</relative-time>
-      &middot;
-      <a href="/HotMaps/hotmaps_wiki/wiki/CM---District-Heating-Grid-Costs/_history" class="muted-link">
-        4 revisions
-      </a>
-    </div>
+Mostafa Fallahnejad, in Hotmaps-WIKI, https://github.com/HotMaps/hotmaps_wiki/wiki/CM---District-Heating-Grid-Costs (March 2019)
 
 
 
@@ -91,7 +87,7 @@ Gusshausstrasse 27-29/370
 
 
 ## License
-Copyright © 2016-2018: Mostafa Fallahnejad
+Copyright © 2016-2019: Mostafa Fallahnejad
 
 Creative Commons Attribution 4.0 International License
 This work is licensed under a Creative Commons CC BY 4.0 International License.

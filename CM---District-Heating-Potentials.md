@@ -45,7 +45,7 @@ The input parameters and layers as well as output layers and parameters are as f
 The potential for DH in a specific region can be defined by the overall heat demand and its spatial allocation. In the Hotmaps toolbox, the heating demand is shown in EHDM in form of a raster map. Any selection or cut from EHDM is constitute from one or more one-hectare cells. In order to properly define potential DH areas, both the heat demand in each cell and also in an area should reach a certain level. For starting point, the Hotmaps toolbox suggests default values for these two parameters. However, depending on the distribution of heat demand and also the local consideration, the hotmaps user can modify these values.
 The determination of DH areas is done in two steps:
 In the first step, all the cells with heating demand below the input parameter for the minimum heating demand in hectare are filtered. By eliminating these cells from the map, we obtain groups of cells that are attached to each other. Each set of these attached cells constitute small zones that here, are referred as “coherent areas”. In the second steps, the total heat demand in each coherent area is calculated. For each coherent area, if the total heat demand is higher than the input parameter for the "minimum heat demand in a DH area", then, it is considered as potential DH area.
-
+Finally, for the DH areas, the potential is calculated and presented in form of GIS layer, which can be seen in the toolbox.
 
 
 This code uses the concept of connected components from image processing library of Scipy in order to detect the potential district heating areas.
@@ -154,7 +154,7 @@ Gusshausstrasse 27-29/370
 
 
 ## License
-Copyright © 2016-2018: Mostafa Fallahnejad
+Copyright © 2016-2019: Mostafa Fallahnejad
 
 Creative Commons Attribution 4.0 International License
 This work is licensed under a Creative Commons CC BY 4.0 International License.
