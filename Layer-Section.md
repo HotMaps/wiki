@@ -1,8 +1,8 @@
 # Table Of Contents
-* [Introduction](#Introduction)
-* [Layers](#Layers)
-* [Raster Layers](#Raster-Layers)
-* [Vector Layers](#Vector-Layers)
+1. [Introduction](#Introduction)
+1. [Layers](#Layers)
+1. [Raster Layers](#Raster-Layers)
+1. [Vector Layers](#Vector-Layers)
 1. [How to cite](#How-to-cite)
 1. [Authors and reviewers](#Authors-and-reviewers)
 1. [License](#License)
