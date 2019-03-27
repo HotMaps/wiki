@@ -4,7 +4,7 @@
 
 # How to use the hotmaps toolbox for heating and cooling planning
 * [Introduction - Tutorial - First steps](Hotmaps-Graphical-User-Interface)
-* [How to retrieve basic indicators of heat demand in my region of interest](Indicators_section)
+* [How to retrieve basic indicators of heat demand in my region of interest](ndicator-Section)
 * [Heat density mapping in hotmaps](Layer-section)
 * [How to identify areas with district heating potentials in Hotmaps](CM---District-Heating-Potentials)  
 * [How to estimate costs of district heating with Hotmaps](tutorial5)  
@@ -14,7 +14,7 @@
 * [Introduction to User interface](Hotmaps-Graphical-User-Interface)
 * [Layers section in the Hotmaps toolbox](Layer-section)
 * [How to select a region in the Hotmaps toolbox](How-to-select-a-region-in-the-Hotmaps-toolbox)
-* [How to retrieve indicator on a selection](Indicator-section)
+* [How to retrieve indicator on a selection](ndicator-Section)
 * [How to access calculation models](CM_access)
 * [Database behind the Hotmaps toolbox](Database_of_Hotmaps)
 * [Data upload functionalities](Data_upload)
