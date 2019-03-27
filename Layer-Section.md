@@ -1,4 +1,3 @@
-> **# This Page Section is Under Construction !!!**
 # Table Of Contents
 * [Introduction](#Introduction)
 * [Raster Layers](#Raster-Layers)
@@ -14,7 +13,7 @@ By pressing the ![layers_button][layers_button] Button a sidebar with different 
 ![layers_tools.png][layers_tools]
 
 1. Shows the symbology section of the layer (legend)
-2. Shows the information section (primary a link to the GitLab repository)
+2. Shows the information section (primary a link to the GitLab repository, it is highly recommended to look for more information about the data in the [GitLab Repository](https://gitlab.com/hotmaps) )
 3. Download the layer for the selected region(s)
 4. Redircets you to the GitLab repository to download the whole layer
 
@@ -25,7 +24,7 @@ There are [two categories of layers](https://www.gislounge.com/geodatabases-expl
 2. Raster Layers
 
 
-Following layers can be found and visualized:
+Following layers can be found and visualized (you can see also the legend and also the information section of each layer):
 
 ![sidebar_layer.png][sidebar]
 
@@ -35,21 +34,21 @@ Following layers can be found and visualized:
 
 Following raster layers are visualized:
 
-**1. 17 x Buildings layers:**
+1. **17 x Buildings layers:**
    * Heat Density Map (total / residential / non residential)
    * Cooling Density Map (total / residential / non residential)
    * Gross Floor Area (total / residential / non residential)
    * Buildings Volumes (total / residential / non residential)
 
-**1. 1 x Population layer**
+1. **1 x Population layer**
    * Population Total
 
-**1. 3 x Renewable Energy Sources Potential layers:**
+1. **3 x Renewable Energy Sources Potential layers:**
    * Solar radiation on building footprint
    * Wind potential at 50m
    * Forest Residues
 
-**1. 5 x Climate layers:**
+1. **5 x Climate layers:**
    * Temperature
    * Cooling Degree Days
    * Heating Degree Days
@@ -64,13 +63,13 @@ Following raster layers are visualized:
 
 Following vector layers are visualized:
 
-**1. 4x Industry layers:**
+1. **4x Industry layers:**
    * Industrial Site Emission
    * Industrial Site Excess Heat
    * Industrial Site Company Name
    * Industrial Site Subsector 
 
-**1. 6 x Renewable Energy Sources Potential layers:**
+1. **6 x Renewable Energy Sources Potential layers:**
    * Waste Water Treatment Plants Power
    * Waste Water Treatment Plants Capacity
    * Argicultural Residues
@@ -79,7 +78,7 @@ Following vector layers are visualized:
    * Municipal Solid Waste
 
 
-**1. 1 x Electricity Layer:**
+1. **1 x Electricity Layer:**
    * Electricity CO2 Emissions Country Average
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
