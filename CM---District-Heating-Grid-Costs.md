@@ -70,7 +70,7 @@ The determination of economic DH areas is done in three steps:
 
 ## How to cite
 
-To be completed!
+fallahnejad edited this page <relative-time datetime="2019-03-25T13:26:20Z">Mar 25, 2019</relative-time>
 
 
 ## Authors and reviewers
