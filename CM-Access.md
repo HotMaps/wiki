@@ -37,7 +37,7 @@ Jeton Hasani, in Hotmaps-WIKI, https://github.com/HotMaps/hotmaps_wiki/wiki/CM-A
 
 
 ## Authors and reviewers
-<code>[Review this page !](https://github.com/HotMaps/hotmaps_wiki/wiki/CM-Access/_edit/#Authors-and-reviewers)</code>
+<code>[Review this page !](https://github.com/HotMaps/hotmaps_wiki/wiki/CM-Access/_edit)</code>
 
 This page is written by Jeton Hasani\*.
 - [ ] This page was reviewed by <code>....</code>\*.
@@ -48,16 +48,11 @@ Institute of Energy Systems and Electrical Drives
 Gusshausstrasse 27-29/370
 1040 Wien
 
-
-
 ## License
 Copyright © Hotmaps
-
 Creative Commons Attribution 4.0 International License
 This work is licensed under a Creative Commons CC BY 4.0 International License.
-
 SPDX-License-Identifier: CC-BY-4.0
-
 License-Text: https://spdx.org/licenses/CC-BY-4.0.html
 
 
