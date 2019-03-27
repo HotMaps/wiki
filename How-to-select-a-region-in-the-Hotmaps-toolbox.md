@@ -6,6 +6,9 @@
   * [NUTS 3- Selection](#NUTS-3--Selection)
   * [LAU - Selection](#LAU--Selection)
 * [Custom Selection](#Custom-Selection)
+* [How to cite](#How-to-cite)
+* [Authors and reviewers](#Authors-and-reviewers)
+* [License](#License)
 
 # Introduction
 There are two ways to select a region in the Hotmaps toolbox:
@@ -54,8 +57,39 @@ If you need a more flexibel way and want to analyze a region that is not covered
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
 
+## How to cite
+
+Jeton Hasani, in Hotmaps-WIKI, https://github.com/HotMaps/hotmaps_wiki/wiki/CM-Access (March 2019)
+
+
+## Authors and reviewers
+<code>[Review this page !](https://github.com/HotMaps/hotmaps_wiki/wiki/How-to-select-a-region-in-the-Hotmaps-toolbox/_edit)</code>
+
+This page is written by Jeton Hasani\*.
+- [ ] This page was reviewed by <code>....</code>\.
+
+
+\* [Energy Economics Group - TU Wien](https://eeg.tuwien.ac.at/)
+Institute of Energy Systems and Electrical Drives
+Gusshausstrasse 27-29/370
+1040 Wien
+
+## License
+Copyright © Hotmaps
+Creative Commons Attribution 4.0 International License
+This work is licensed under a Creative Commons CC BY 4.0 International License.
+SPDX-License-Identifier: CC-BY-4.0
+License-Text: https://spdx.org/licenses/CC-BY-4.0.html
+
+
 ## Acknowledgement
-We would like to convey our deepest appreciation to the Horizon 2020 [Hotmaps Project](https://www.hotmaps-project.eu) (Grant Agreement number 723677), which provided the funding to carry out the present investigation
+We would like to convey our deepest appreciation to the Horizon 2020 [Hotmaps Project](https://www.hotmaps-project.eu) (Grant Agreement number 723677), which provided the funding to carry out the present investigation.
+
+<code><ins>**[To Top](#table-of-contents)**</ins></code>
+
+<code>[Review this page](https://github.com/HotMaps/hotmaps_wiki/wiki/How-to-select-a-region-in-the-Hotmaps-toolbox/_edit)</code>
+
+[//]: # (Here are all the files to the links)
 
 
 [radio_buttons]: https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/general_tool_functionalities_and_structure/radio_buttons.png
