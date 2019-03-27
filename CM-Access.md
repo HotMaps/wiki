@@ -40,7 +40,7 @@ Jeton Hasani, in Hotmaps-WIKI, https://github.com/HotMaps/hotmaps_wiki/wiki/CM-A
 <code>[Review this page !](https://github.com/HotMaps/hotmaps_wiki/wiki/CM-Access/_edit)</code>
 
 This page is written by Jeton Hasani\*.
-- [ ] This page was reviewed by <code>....</code>\*.
+- [ ] This page was reviewed by <code>....</code>\.
 
 
 \* [Energy Economics Group - TU Wien](https://eeg.tuwien.ac.at/)
