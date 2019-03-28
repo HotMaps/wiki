@@ -38,16 +38,12 @@ The input parameters and layers as well as output layers and parameters are as f
 **Input parameters are:**
 
 * Gross floor area of the building in [_**m<sup>2</sup>**_]: a value between _*1*_ and _*10000*_
-* sector: residential or service
-* building type: single family or multi family house
-* building class: existing, renovated or new building
-* demand type: heating or cooling
-* year: year to be calculated for
-
-* r: interest rate
-* in_df_tech_info: input csv including the technologies and their parameters
-* in_df_energy_price: energy carrier price
-* in_df_specific_demand: specific heating or cooling demand in a country
+* Interest rate: a value between _*0*_ and _*1*_
+* Sector: residential or service (&#x1F53A; Currently, only residential is supported)
+* Building type: single family or multi family house
+* Building class: existing, renovated or new building
+* Demand type: heating or cooling (&#x1F53A; Currently, only heating is supported)
+* Year: (&#x1F53A; Currently, only for the year 2015 is supported)
 
 **Output are:**
 * graphs
