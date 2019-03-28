@@ -4,8 +4,8 @@
 * [Inputs and outputs](#inputs-and-outputs)
 * [Method](#method)
 * [Sample run](#sample-run)
-  * [Test Run 1: XXXXX](#test-run-1-default-input-values)
-  * [Test Run 2: YYYYY](#test-run-2-modified-input-values)
+  * [Test Run 1: default input values](#test-run-1-default-input-values)
+  * [Test Run 2: modified input values](#test-run-2-modified-input-values)
 * [References](#references)
 * [How to cite](#how-to-cite)
 * [Authors and reviewers](#authors-and-reviewers)
@@ -14,9 +14,20 @@
 
 ## Introduction
 
-The decentral heating cost calclulation module (CM) calculates the levelized cost of heat (LCOH) for the various technologies in residential and service sectors. The results will be shown for the selected building class, building and new building.
+The decentral heating cost calclulation module (CM) calculates the levelized cost of heat (LCOH) for the various technologies in residential or service sector. The technologies are as follows:
 
-&#x1F53A; <mark>**Note:** In the current version, dummy input values have been used!</mark>
+* Heat pump air-to-air, air-to-water and Brine-to-water,
+* Electric heater,
+* Bio-oil boiler,
+* Oil boiler,
+* Biomass automatic and manual,
+* Wood stove,
+* Natural gas,
+* Solar thermal
+
+The results will be shown for the selected building type and building class.
+
+&#x1F53A; <mark>**Note:** The current version on the toolbox is a test version. We are considering to use additional data and expand the functionality of this calculation module. </mark>
 
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
@@ -26,19 +37,21 @@ The input parameters and layers as well as output layers and parameters are as f
 
 **Input parameters are:**
 
+* Gross floor area of the building in [_**m<sup>2</sup>**_]: a value between _*1*_ and _*10000*_
 * sector: residential or service
 * building type: single family or multi family house
 * building class: existing, renovated or new building
 * demand type: heating or cooling
 * year: year to be calculated for
-* gfa: gross floor area of the building
+
 * r: interest rate
 * in_df_tech_info: input csv including the technologies and their parameters
 * in_df_energy_price: energy carrier price
 * in_df_specific_demand: specific heating or cooling demand in a country
 
 **Output are:**
-
+* graphs
+* indicators
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
 
