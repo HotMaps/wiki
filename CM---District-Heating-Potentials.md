@@ -144,7 +144,7 @@ Additionally, also two diagrams are generated. The first one shows the DH potent
 
 
 ## References
--
+
 
 
 ## How to cite
@@ -160,8 +160,11 @@ This page is written by Mostafa Fallahnejad\*.
 
 
 \* [Energy Economics Group - TU Wien](https://eeg.tuwien.ac.at/)
+
 Institute of Energy Systems and Electrical Drives
+
 Gusshausstrasse 27-29/370
+
 1040 Wien
 
 
