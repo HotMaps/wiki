@@ -28,6 +28,7 @@ The decentral heating cost calclulation module (CM) calculates the levelized cos
 The results will be shown for the selected building type and building class.
 
 &#x1F53A; <mark>**Note 1:** The current version on the toolbox is a test version. We are considering to use additional data and expand the functionality of this calculation module. </mark>
+
 &#x1F53A; <mark>**Note 2:** Due to wide range of taxation methods and tax refunds in different countries, it is not considered in this calculation module. </mark>
 
 
