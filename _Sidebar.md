@@ -25,7 +25,7 @@
 * [CM - District heating grid costs](CM---District-Heating-Grid-Costs)
 * [CM - District heating supply](CM_DH_supply)
 * [CM - Decentral heating costs](CM---Decentral-Heating-Costs)  
-* [CM - Renewable energy potentials](CM_renewable_potentials)
+* [CM - Solar PV potential](CM-solar-PV-potential)
 * [CM - Excess heat potential](CM_excess_heat)
 
 
