@@ -14,7 +14,7 @@
 
 ## Introduction
 
-The decentral heating cost calclulation module (CM) calculates the levelized cost of heat (LCOH) for the various technologies in residential or service sector. The technologies are as follows:
+The decentral heating cost calclulation module (CM) calculates the levelized cost of heat (LCOH) for the various technologies in residential or service sector. **This module can be run for NUTS 3 region.** The technologies are as follows:
 
 * Heat pump air-to-air, air-to-water and Brine-to-water,
 * Electric heater,
