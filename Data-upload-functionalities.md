@@ -1,4 +1,4 @@
-## Table Of Contents
+## Table of Contents
 
 - [Introduction](#Introduction)
 - [How to upload a layer with custom data](#How-to-upload-a-layer-with-custom-data)
