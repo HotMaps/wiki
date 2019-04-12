@@ -1,5 +1,3 @@
-# Database of Hotmaps
-
 ## Table Of Contents
 
 - [Introduction](#Introduction)
