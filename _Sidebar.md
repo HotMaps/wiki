@@ -23,7 +23,7 @@
 
 
 # For Developers
-* [Go to developers section](Developers)
+* [Developers section](Developers)
 * [Guidelines for defining indicators](Guidelines-for-defining-indicators)
 
 
