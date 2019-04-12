@@ -1,4 +1,4 @@
-## Table Of Contents
+## Table of Contents
 1. [Introduction](#Introduction)
 1. [Layers](#Layers)
 1. [Raster Layers](#Raster-Layers)
