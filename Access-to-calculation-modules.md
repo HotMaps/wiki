@@ -1,18 +1,18 @@
-# Table of contents
+## Table of Contents
 1. [Introduction](#Introduction)
 1. [Structure of a calculation module](#Structure-of-a-calculation-module)
 1. [How to cite](#How-to-cite)
 1. [Authors and reviewers](#Authors-and-reviewers)
 1. [License](#License)
 
-# Introduction 
+## Introduction 
 In the following chapter we will describe how to acces a calculation module
 
-### Steps to acces a calculation module
+**Steps to access a calculation module**
 
 ![cm_access.gif][cm_access]
 
-### Steps:
+**Steps:**
 
 1. Define a territorial scale 
 1. Select a region
@@ -25,7 +25,7 @@ In the following chapter we will describe how to acces a calculation module
 ![cm_access.png][cm_access_png]
 
 
-# Structure of a calculation module
+## Structure of a calculation module
 
 The picture below shows the structre of a calculation module
 
