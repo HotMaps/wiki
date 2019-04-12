@@ -24,6 +24,7 @@
 
 # For Developers
 * [Go to developers section](Developers)
+* [Guidelines for defining indicators](Guidelines-for-defining-indicators)
 
 
 
