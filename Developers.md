@@ -1,5 +1,3 @@
-# Developers
-
 ## Table Of Contents
 
 - [Introduction](#Introduction)
