@@ -153,7 +153,7 @@ Here, you can enter your desired values for running the calculation module. We s
 
 
 ## How to cite
-Mostafa Fallahnejad, in Hotmaps-Wiki, https://github.com/HotMaps/hotmaps_wiki/wiki/CM---Decentral-Heating-Costs (March 2019)
+Mostafa Fallahnejad, in Hotmaps-Wiki, https://github.com/HotMaps/hotmaps_wiki/wiki/CM-Decentral-heating-costs (April 2019)
 
 
 ## Authors and reviewers
