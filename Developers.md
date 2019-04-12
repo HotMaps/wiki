@@ -1,4 +1,4 @@
-## Table Of Contents
+## Table of Contents
 
 - [Introduction](#Introduction)
 - [Dataset integration](#Dataset-integration)
