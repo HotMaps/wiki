@@ -12,11 +12,11 @@
 
 ## Introduction
 
-The platform allows to upload some custom data from your computer to Hotmaps. This part is closely linked to the [export](#Data-export-functionalities) function as the final goal of those two functions is to export some data, make some edit to it and visualize it on the toolbox later by importing those data back. Please note that your uploaded data can only be visualized, no calculation modules can be performed on them at the moment.
+The platform allows to upload some custom data from your computer to Hotmaps. This part is closely linked to the [export](Data-export-functionalities) function as the final goal of those two functions is to export some data, make some edit to it and visualize it on the toolbox later by importing those data back. Please note that your uploaded data can only be visualized, no calculation modules can be performed on them at the moment.
 
-This operation **requires a user account**. The registration and login processes are explained on the following page: [User account](#Introduction-to-user-interface#Connect).
+This operation **requires a user account**. The registration and login processes are explained on the following page: [User account](Introduction-to-user-interface#Connect).
 
-In order to upload a dataset without any issue. Please use the [export](#Data-export-functionalities) function first, for the area you want to import (see [Data export](#Data-export-functionalities) page).
+In order to upload a dataset without any issue. Please use the [export](Data-export-functionalities) function first, for the area you want to import (see [Data export](Data-export-functionalities) page).
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
 
