@@ -1,4 +1,4 @@
-## Table Of Contents
+## Table of Contents
 * [Selection by NUTS boundaries](#Selection-by-NUTS-boundaries)
   * [NUTS 0- Selection](#NUTS-0--Selection)
   * [NUTS 1- Selection](#NUTS-1--Selection)
