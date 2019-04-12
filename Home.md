@@ -5,7 +5,7 @@
 The Hotmaps WIKI hosts the documentation, guidance and manual of the Hotmaps toolbox. It consists of three main parts:
 1. [General toolbox functionalities](#General-tool-functionalities-and-structure),
 2. [Calculation modules](#Calculation-modules),
-3. [Developers](Developers) section.
+3. [Developers](#For-developers) section.
 
 General toolbox functionalities guide the user through the interface of the toolbox. The section covers all general aspects of the toolbox, which are related to the user experience, e.g. navigating through different parts of the toolbox, layer selection, retrieving indicators, data upload and export functionalities etc.
 
