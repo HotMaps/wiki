@@ -183,7 +183,7 @@ There are following configurations possible
 
 ## How to cite
 
-Jeton Hasani, in Hotmaps-Wiki, https://github.com/HotMaps/hotmaps_wiki/wiki/CM-Access (March 2019)
+Jeton Hasani, in Hotmaps-Wiki, https://github.com/HotMaps/hotmaps_wiki/wiki/Introduction-to-user-interface (April 2019)
 
 
 ## Authors and reviewers
