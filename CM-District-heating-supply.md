@@ -104,13 +104,9 @@ The objective function tries to find the minimum of the difference from the cost
 
 ## References
 
-To be completed!
-
 
 
 ## How to cite
-
-To be completed!
 
 
 ## Authors and reviewers
