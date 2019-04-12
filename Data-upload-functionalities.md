@@ -1,5 +1,3 @@
-# Data upload functionalities
-
 ## Table Of Contents
 
 - [Introduction](#Introduction)
