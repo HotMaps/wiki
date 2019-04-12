@@ -1,5 +1,3 @@
-# Data export functionalities
-
 ## Table Of Contents
 
 - [Introduction](#Introduction)
