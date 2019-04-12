@@ -1,4 +1,4 @@
-# Table Of Contents
+## Table Of Contents
 1. [Introduction](#Introduction)
 1. [Layers](#Layers)
 1. [Raster Layers](#Raster-Layers)
@@ -7,7 +7,7 @@
 1. [Authors and reviewers](#Authors-and-reviewers)
 1. [License](#License)
 
-# Introduction
+## Introduction
 By pressing the ![layers_button][layers_button] Button a sidebar with different kind of layers is shown at the left of your screen.
 
 ![layers_gif][layers]
@@ -23,7 +23,7 @@ By pressing the ![layers_button][layers_button] Button a sidebar with different 
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
 
-# Layers
+## Layers
 There are [two categories of layers](https://www.gislounge.com/geodatabases-explored-vector-and-raster-data):  
 1. Vector Layers
 2. Raster Layers
@@ -34,7 +34,7 @@ Following layers can be found and visualized (you can see also the legend and al
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
 
-# Raster Layers
+## Raster Layers
 
 Following raster layers are visualized:
 
@@ -63,7 +63,7 @@ Following raster layers are visualized:
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
 
-# Vector Layers
+## Vector Layers
 
 Following vector layers are visualized:
 
