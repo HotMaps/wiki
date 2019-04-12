@@ -1,1 +1,0 @@
-# District heating potentials
