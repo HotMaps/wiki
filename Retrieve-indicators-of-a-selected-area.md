@@ -1,4 +1,4 @@
-# Table of Contents
+## Table of Contents
 1. [Introduction](#Introduction)
 1. [Indicators for raster layers](#Indicators-for-raster-layers)
    * [Buildings](#Buildings)
@@ -12,7 +12,7 @@
 1. [How to cite](#How-to-cite)
 1. [Authors and reviewers](#Authors-and-reviewers)
 1. [License](#License)
-# Indroduction 
+## Indroduction 
 
 Depending on the layers and region you selected indicators for your configuration are shown in a sidebar at the right of your screen 
 
@@ -22,7 +22,7 @@ Depending on the layers and region you selected indicators for your configuratio
 
 In the following we look at the indicators that are displayed for raster and vector layers.
 
-# Indicators for raster layers 
+## Indicators for raster layers 
 
 The indicators on raster layers are different from vector layers. With different we mean in terms of aggregation and disaggregation. This different behaviour comes from the territorial resolutions. 
 
@@ -34,93 +34,93 @@ On the other hand, raster layers are aggregated and disaggregated "arbitrarily"*
 
 *by the containing cells within the region you selected (naturally within the limit of the raster resolution itself)
 
-## Buildings
+### Buildings
 
-### Heat Density Map
+**Heat Density Map**
 
 ![hdm.png][hdm]
 
-### Extra Feature
+**Extra Feature**
 
 When you select the heat denisity layer and the Population Layer at the same time an extra indicator is shown (see picture below)
 
 ![hdm2.png][hdm2]
 
-## In General:
+### In General:
 When one of the bulding layers and the population layer is selected at the same time, an extra indicator will be shown as described before
 
 <code><ins>**[To Chapter](#Indicators-for-raster-layers)**</ins></code>
 
-### Cooling Density Map
+**Cooling Density Map**
 
 ![cdm.png][cdm]
 
 <code><ins>**[To Chapter](#Indicators-for-raster-layers)**</ins></code>
 
-### Building Volumes
+**Building Volumes**
 
 ![bvol.png][bvol]
 
 <code><ins>**[To Chapter](#Indicators-for-raster-layers)**</ins></code>
 
-### Gross floor area
+**Gross floor area**
 
 ![gfa.png][gfa]
 
 <code><ins>**[To Chapter](#Indicators-for-raster-layers)**</ins></code>
 
-## Population
+### Population
 
 ![pop.png][pop]
 
 <code><ins>**[To Chapter](#Indicators-for-raster-layers)**</ins></code>
 
-## Climate
-### Temperature
+### Climate
+**Temperature**
 
 ![temp.png][temp]
 
 <code><ins>**[To Chapter](#Indicators-for-raster-layers)**</ins></code>
 
-### Cooling Degree Days
+**Cooling Degree Days**
 
 ![cdd.png][cdd]
 
 <code><ins>**[To Chapter](#Indicators-for-raster-layers)**</ins></code>
 
-### Heating Degree Days
+**Heating Degree Days**
 
 ![hdd.png][hdd]
 
 <code><ins>**[To Chapter](#Indicators-for-raster-layers)**</ins></code>
 
-### Solar Radiation
+**Solar Radiation**
 
 ![rad.png][rad]
 
 <code><ins>**[To Chapter](#Indicators-for-raster-layers)**</ins></code>
 
-### Wind Speed
+**Wind Speed**
 
 ![wind.png][wind]
 
 <code><ins>**[To Chapter](#Indicators-for-raster-layers)**</ins></code>
 
-## RES Potentials
+### RES Potentials
 
-### Solar Radiation On Building Footprint
+**Solar Radiation On Building Footprint**
 
 ![srobf.png][srobf]
 
 <code><ins>**[To Chapter](#Indicators-for-raster-layers)**</ins></code>
 
-### Wind Potential at 50m
+**Wind Potential at 50m**
 
 ![wp.png][wp]
 
 <code><ins>**[To Chapter](#Indicators-for-raster-layers)**</ins></code>
 
-### Forest Residues
+**Forest Residues**
 
 ![forest.png][forest]
 
@@ -128,70 +128,70 @@ When one of the bulding layers and the population layer is selected at the same 
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
 
-# Indicators for vector layers 
+## Indicators for vector layers 
 
-## Industry
-### Industrial Site Emissions
+### Industry
+**Industrial Site Emissions**
 ![ise.png][ise]
 
 <code><ins>**[To Chapter](#Indicators-for-vector-layers)**</ins></code>
 
-### Industrial Site Excess Heat
+**Industrial Site Excess Heat**
 ![iseh.png][iseh]
 
 <code><ins>**[To Chapter](#Indicators-for-vector-layers)**</ins></code>
 
-### Industrial Site Company Name
+**Industrial Site Company Name**
 ![isec.png][isec]
 
 <code><ins>**[To Chapter](#Indicators-for-vector-layers)**</ins></code>
 
-### Industrial Site Subsector
+**Industrial Site Subsector**
 ![ises.png][ises]
 
 <code><ins>**[To Chapter](#Indicators-for-vector-layers)**</ins></code>
 
-## RES- Potentials
+### RES- Potentials
 
-### Waste Water Treatment Plants Power
+**Waste Water Treatment Plants Power**
 
 ![wwp.png][wwp]
 
 <code><ins>**[To Chapter](#Indicators-for-vector-layers)**</ins></code>
 
-### Waste Water Treatment Plants Capacity
+**Waste Water Treatment Plants Capacity**
 
 ![wwc.png][wwc]
 
 <code><ins>**[To Chapter](#Indicators-for-vector-layers)**</ins></code>
 
-### Argicultural Residues
+**Argicultural Residues**
 
 ![ar.png][ar]
 
 <code><ins>**[To Chapter](#Indicators-for-vector-layers)**</ins></code>
 
-### Lifestock Effluents
+**Lifestock Effluents**
 
 ![le.png][le]
 
 <code><ins>**[To Chapter](#Indicators-for-vector-layers)**</ins></code>
 
-### Municipal Solid Waste
+**Municipal Solid Waste**
 
 ![sw.png][sw]
 
 <code><ins>**[To Chapter](#Indicators-for-vector-layers)**</ins></code>
 
-### Geothermal Potential Heat Conductivity
+**Geothermal Potential Heat Conductivity**
 
 ![geothermal.png][geothermal]
 
 <code><ins>**[To Chapter](#Indicators-for-vector-layers)**</ins></code>
 
-## Electricity
+### Electricity
 
-## Electricity C02 Emissions
+**Electricity C02 Emissions**
 
 ![electricity.png][electricity]
 
@@ -199,7 +199,7 @@ When one of the bulding layers and the population layer is selected at the same 
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
 
-# Example 
+## Example 
 In the picture below you can see how it looks when all layers are visualized (here is Austria as NUTS0 selected)
 
 ![all_map.png][all_map]
