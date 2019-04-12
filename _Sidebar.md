@@ -3,7 +3,7 @@
 [Home](Home)
 
 ## General tool functionalities and structure
-* [Introduction to User interface](Introduction-to-user-interface)
+* [Introduction to user interface](Introduction-to-user-interface)
 * [Layers section in the Hotmaps toolbox](Layers-section-in-the-Hotmaps-toolbox)
 * [Select a region in the Hotmaps toolbox](Select-a-region-in-the-Hotmaps-toolbox)
 * [Retrieve indicators of a selected area](Retrieve-indicators-of-a-selected-area)
