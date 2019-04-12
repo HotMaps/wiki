@@ -149,7 +149,7 @@ Additionally, also two diagrams are generated. The first one shows the DH potent
 
 ## How to cite
 
-Mostafa Fallahnejad, in Hotmaps-Wiki, https://github.com/HotMaps/hotmaps_wiki/wiki/CM---District-Heating-Potentials (March 2019)
+Mostafa Fallahnejad, in Hotmaps-Wiki, https://github.com/HotMaps/hotmaps_wiki/wiki/CM-District-heating-potentials (April 2019)
 
 
 ## Authors and reviewers
