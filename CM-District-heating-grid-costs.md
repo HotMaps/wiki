@@ -71,7 +71,7 @@ The determination of economic DH areas is done in three steps.
 
 
 ## How to cite
-Mostafa Fallahnejad, in Hotmaps-Wiki, https://github.com/HotMaps/hotmaps_wiki/wiki/CM---District-Heating-Grid-Costs (March 2019)
+Mostafa Fallahnejad, in Hotmaps-Wiki, https://github.com/HotMaps/hotmaps_wiki/wiki/CM-District-heating-grid-costs (April 2019)
 
 
 
