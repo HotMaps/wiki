@@ -36,6 +36,9 @@ We hope you enjoy exploring the toolbox and find it helpful for your heating and
 * [CM - Solar PV potential](CM-Solar-PV-potential)
 * [CM - Excess heat potential](CM-Excess-heat-potential)
 
+## For developers
+* [Developers section](Developers)
+* [Guidelines for defining indicators](Guidelines-for-defining-indicators)
 
 
 **HAVE FUN EXPLORING THE HOTMAPS TOOLBOX!**
