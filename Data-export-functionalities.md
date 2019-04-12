@@ -1,4 +1,4 @@
-## Table Of Contents
+## Table of Contents
 
 - [Introduction](#Introduction)
 - [How to export a dataset](#How-to-export-a-dataset)
