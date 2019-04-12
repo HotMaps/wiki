@@ -1,4 +1,4 @@
-# Table Of Contents
+## Table Of Contents
 * [Selection by NUTS boundaries](#Selection-by-NUTS-boundaries)
   * [NUTS 0- Selection](#NUTS-0--Selection)
   * [NUTS 1- Selection](#NUTS-1--Selection)
@@ -10,7 +10,7 @@
 * [Authors and reviewers](#Authors-and-reviewers)
 * [License](#License)
 
-# Introduction
+## Introduction
 There are two ways to select a region in the Hotmaps toolbox:
 1. selection by the [NUTS classification (Nomenclature of territorial units for statistics))](https://ec.europa.eu/eurostat/web/nuts/background)
 2. custom hectar selection
@@ -21,48 +21,48 @@ With the [radio buttons](#Fig1) at the right of your screen you can choose the t
 
 Fig.1.: Radio buttons for the terretorial scale
 
-# Selection by NUTS boundaries:
+## Selection by NUTS boundaries:
 After selecting a region and pressing the _LOAD RESULTS Button_ the result sidebar at the right is shown and depending on what layer you selected some indicators for them are shown. You can see that by selecting another region the results will be aggregated on the fly.
 
-## NUTS 0- Selection
+### NUTS 0- Selection
 ![ selecting_nuts0_gif][ selecting_nuts0]
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
 
-## NUTS 1- Selection
+### NUTS 1- Selection
 ![ selecting_nuts1_gif][ selecting_nuts1]
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
 
-## NUTS 2- Selection
+### NUTS 2- Selection
 ![ selecting_nuts2_gif][ selecting_nuts2]
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
 
-## NUTS 3- Selection
+### NUTS 3- Selection
 ![ selecting_nuts3_gif][ selecting_nuts3]
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
 
-## LAU- Selection
+### LAU- Selection
 Beside the three NUTS Levels you have also the possibility to analyse in LAU level
 ![ selecting_lau_gif][selecting_lau]
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
 
-# Custom Selection:
+## Custom Selection:
 If you need a more flexibel way and want to analyze a region that is not covered by the NUTS or LAU boundaries then it is better to specify your own customs regions (see below).
 
 ![ selecting_hectare_gif][selecting_hectare]
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
 
-## How to cite
+### How to cite
 
 Jeton Hasani, in Hotmaps-WIKI, https://github.com/HotMaps/hotmaps_wiki/wiki/CM-Access (March 2019)
 
 
-## Authors and reviewers
+### Authors and reviewers
 <code>[Review this page !](https://github.com/HotMaps/hotmaps_wiki/wiki/How-to-select-a-region-in-the-Hotmaps-toolbox/_edit)</code>
 
 This page is written by Jeton Hasani\*.
