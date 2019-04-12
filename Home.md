@@ -19,14 +19,14 @@ We hope you enjoy exploring the toolbox and find it helpful for your heating and
 
 
 ## General tool functionalities and structure
-* [Introduction to User interface](Hotmaps-Graphical-User-Interface)
-* [Layers section in the Hotmaps toolbox](Layer-section)
-* [How to select a region in the Hotmaps toolbox](How-to-select-a-region-in-the-Hotmaps-toolbox)
-* [How to retrieve indicator on a selection](Indicator-Section)
-* [How to access calculation models](CM-Access)
-* [Database behind the Hotmaps toolbox](Database_of_Hotmaps)
-* [Data upload functionalities](Data_upload)
-* [Data export functionalities](Data_export)
+* [Introduction to User interface](Introduction-to-user-interface)
+* [Layers section in the Hotmaps toolbox](Layers-section-in-the-Hotmaps-toolbox)
+* [Select a region in the Hotmaps toolbox](Select-a-region-in-the-Hotmaps-toolbox)
+* [Retrieve indicators of a selected area](Retrieve-indicators-of-a-selected-area)
+* [Access to calculation modules](Access-to-calculation-modules)
+* [Database behind the Hotmaps toolbox](Database-behind-the-Hotmaps-toolbox)
+* [Data upload functionalities](Data-upload-functionalities)
+* [Data export functionalities](Data-export-functionalities)
 
 ## Calculation modules
 * [CM - District heating potentials](CM---District-Heating-Potentials)
