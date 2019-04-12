@@ -1,4 +1,4 @@
-## Table of Contents
+﻿## Table of Contents
 
 * [Introduction](#introduction)
 * [Inputs and outputs](#inputs-and-outputs)
@@ -56,7 +56,7 @@ The input parameters and layers as well as output layers and parameters are as f
 
 ## Method
 
-In the first step, based on the selected zone, the specific heating demand for the selected sector, building type, building class and demand type is extracted from the hotmap database. Heating system cost related parameters in selected zone also obtained from the hotmaps database.
+In the first step, based on the selected zone, the specific heating demand for the selected sector, building type, building class and demand type is extracted from the hotmap database. Heating system cost related parameters in selected zone also obtained from the Hotmaps database.
 By multiplying the specific heating demand and the gross floor area of the building, the energy demand is obtained. Subsequently, for calculation of the levelized cost of heat, the following steps should be taken:
 
 ```
@@ -153,7 +153,7 @@ Here, you can enter your desired values for running the calculation module. We s
 
 
 ## How to cite
-Mostafa Fallahnejad, in Hotmaps-WIKI, https://github.com/HotMaps/hotmaps_wiki/wiki/CM---Decentral-Heating-Costs (March 2019)
+Mostafa Fallahnejad, in Hotmaps-Wiki, https://github.com/HotMaps/hotmaps_wiki/wiki/CM---Decentral-Heating-Costs (March 2019)
 
 
 ## Authors and reviewers

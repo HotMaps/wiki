@@ -1,4 +1,4 @@
-## Table of Contents
+﻿## Table of Contents
 1. [Introduction](#Introduction)
 1. [Indicators for raster layers](#Indicators-for-raster-layers)
    * [Buildings](#Buildings)
@@ -212,7 +212,7 @@ Although this maps looks pretty messy, the indicators are straight forward illus
 
 ## How to cite
 
-Jeton Hasani, in Hotmaps-WIKI, https://github.com/HotMaps/hotmaps_wiki/wiki/CM-Access (March 2019)
+Jeton Hasani, in Hotmaps-Wiki, https://github.com/HotMaps/hotmaps_wiki/wiki/CM-Access (March 2019)
 
 
 ## Authors and reviewers

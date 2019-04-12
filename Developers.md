@@ -18,7 +18,7 @@
 
 ## Introduction
 
-This page contains all information required for developers to contribute to the HotMaps Platform or to understand how it is working.
+This page contains all information required for developers to contribute to the Hotmaps Platform or to understand how it is working.
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
 
@@ -51,11 +51,11 @@ Here is the specification:  [Hotmaps_Data-upload-on-Gitlab_2017-12-04_V4.pdf](up
 
 ## List of main repositories
 
-The code of the application is located on GitHub under the [HotMaps organization](https://github.com/HotMaps). This organization owns several repositories
+The code of the application is located on GitHub under the [Hotmaps organization](https://github.com/HotMaps). This organization owns several repositories
 
 * [Hotmaps-toolbox-client](https://github.com/HotMaps/Hotmaps-toolbox-service) contains the frontend of our application. It is an Angular project (JavaScript)
 * [Hotmaps-toolbox-service](https://github.com/HotMaps/Hotmaps-toolbox-service) contains the API for our application. It is based on Flask (Python)
-* [hotmaps-wiki](https://github.com/HotMaps/hotmaps_wiki) is the wiki you're currently reading
+* [Hotmaps-wiki](https://github.com/HotMaps/hotmaps_wiki) is the Wiki you're currently reading
 * [base-calculation-module](https://github.com/HotMaps/base_calculation_module) is the basic template you can use to create your own calculation modules for Hotmaps
 * a list of calculations modules
 
@@ -69,7 +69,7 @@ If you want to perform some work on the Git repository, please do not work direc
 
 ![git_workflow](images/git_workflow.png)
 
-In order to push something to some HotMaps repository you have to be a member of the HotMaps team, if you are not you are still able to perform a fork of our tool to develop your own tool.
+In order to push something to some Hotmaps repository you have to be a member of the Hotmaps team, if you are not you are still able to perform a fork of our tool to develop your own tool.
 
 You can find more information on how to work in these documents:
 

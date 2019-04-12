@@ -142,7 +142,7 @@ Depending on your experience and  local knowledge, you may increase or decrease 
 
 
 ## How to cite
-Giulia Garegnani, in Hotmaps-WIKI, https://github.com/HotMaps/hotmaps_wiki/wiki/CM---District-Heating-Potentials (March 2019)
+Giulia Garegnani, in Hotmaps-Wiki, https://github.com/HotMaps/hotmaps_wiki/wiki/CM---District-Heating-Potentials (March 2019)
 
 
 ## Authors and reviewers

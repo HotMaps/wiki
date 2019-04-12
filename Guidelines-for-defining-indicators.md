@@ -197,7 +197,7 @@ The result of the indicators are as follows:
 
 ## How to cite
 
-Mostafa Fallahnejad, in Hotmaps-WIKI, https://github.com/HotMaps/hotmaps_wiki/wiki/Guidelines-for-defining-indicators (April 2019)
+Mostafa Fallahnejad, in Hotmaps-Wiki, https://github.com/HotMaps/hotmaps_wiki/wiki/Guidelines-for-defining-indicators (April 2019)
 
 
 ## Authors and reviewers

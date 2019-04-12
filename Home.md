@@ -1,6 +1,6 @@
-# How to use the hotmaps toolbox for heating and cooling planning 
+# How to use the Hotmaps toolbox for heating and cooling planning 
 
-**Welcome to the Hotmaps wiki!**
+**Welcome to the Hotmaps Wiki!**
 
 The Hotmaps WIKI hosts the documentation, guidance and manual of the Hotmaps toolbox. It consists of three main parts:
 1. [General toolbox functionalities](#General-tool-functionalities-and-structure),
@@ -13,7 +13,7 @@ The calculation module section, on the other hand, provides an in-depth explanat
 
 The developers section contains all information required for developers to contribute to the Hotmaps toolbox or to understand how it works. It explains amongst all the IT infrastructure of the Hotmaps toolbox, data set integration, contribution in calculation module development etc.
 
-**The Hotmaps WIKI is a living document**, i.e. it grows as the Hotmaps toolbox grows. The Hotmaps developers continue updating Hotmaps WIKI pages by introduction of new updates, improvements, functionalities and calculation modules.
+**The Hotmaps Wiki is a living document**, i.e. it grows as the Hotmaps toolbox grows. The Hotmaps developers continue updating Hotmaps Wiki pages by introduction of new updates, improvements, functionalities and calculation modules.
 
 We hope you enjoy exploring the toolbox and find it helpful for your heating and cooling planning!
 

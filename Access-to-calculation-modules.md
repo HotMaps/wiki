@@ -1,4 +1,4 @@
-## Table of Contents
+﻿## Table of Contents
 1. [Introduction](#Introduction)
 1. [Structure of a calculation module](#Structure-of-a-calculation-module)
 1. [How to cite](#How-to-cite)
@@ -33,7 +33,7 @@ The picture below shows the structre of a calculation module
 
 ## How to cite
 
-Jeton Hasani, in Hotmaps-WIKI, https://github.com/HotMaps/hotmaps_wiki/wiki/CM-Access (March 2019)
+Jeton Hasani, in Hotmaps-Wiki, https://github.com/HotMaps/hotmaps_wiki/wiki/CM-Access (March 2019)
 
 
 ## Authors and reviewers

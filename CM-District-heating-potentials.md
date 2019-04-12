@@ -48,7 +48,7 @@ The input parameters and layers as well as output layers and parameters are as f
 
 
 ## Method
-The potential for DH in a specific region can be defined by the overall heat demand and its spatial allocation. In the Hotmaps toolbox, the heating demand is shown in EHDM in form of a raster map. Any selection or cut from EHDM is constitute from one or more one-hectare cells. In order to properly define potential DH areas, both the heat demand in each cell and also in an area should reach a certain level. For starting point, the Hotmaps toolbox suggests default values for these two parameters. However, depending on the distribution of heat demand and also the local consideration, the hotmaps user can modify these values.
+The potential for DH in a specific region can be defined by the overall heat demand and its spatial allocation. In the Hotmaps toolbox, the heating demand is shown in EHDM in form of a raster map. Any selection or cut from EHDM is constitute from one or more one-hectare cells. In order to properly define potential DH areas, both the heat demand in each cell and also in an area should reach a certain level. For starting point, the Hotmaps toolbox suggests default values for these two parameters. However, depending on the distribution of heat demand and also the local consideration, the Hotmaps user can modify these values.
 
 The determination of DH areas is done in two steps:
 
@@ -149,7 +149,7 @@ Additionally, also two diagrams are generated. The first one shows the DH potent
 
 ## How to cite
 
-Mostafa Fallahnejad, in Hotmaps-WIKI, https://github.com/HotMaps/hotmaps_wiki/wiki/CM---District-Heating-Potentials (March 2019)
+Mostafa Fallahnejad, in Hotmaps-Wiki, https://github.com/HotMaps/hotmaps_wiki/wiki/CM---District-Heating-Potentials (March 2019)
 
 
 ## Authors and reviewers
