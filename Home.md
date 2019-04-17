@@ -1,5 +1,18 @@
 # How to use the Hotmaps toolbox for heating and cooling planning 
 
+**Hotmaps toolbox
+Heating and cooling in residential and industrial sectors accounts for half of the EU’s energy consumption. According to the EU reports, 84% of heating and cooling is still generated from fossil fuels. Meanwhle, heat losses are also significantly high. This sector needs to be transformed! 
+Hotmaps is a website, which allows you to provide within 5 minutes a first estimation of heating and cooling demand in your region and the potentials of local renewable energy to cover this demand. 
+What we offer is an open source online software that supports planning processes of the energy sector on the local level in a transparent manner. We provide:
+* a starting data set, 
+* customisations of the software for your specific needs, 
+* training and support services.
+
+Thanks to this software, you will be able to take practical decisions in your area of interest (village, town, city, etc.). You will also save a lot of money for expensive consultant fees.
+We applied and demonstrated the values of the Hotmaps website in seven pilot areas. The website was developed by leading research institutions across Europe together with cities. Go on the website by clicking [HERE](www.hotmaps.eu) and discover your city’s climate neutral energy future. 
+
+
+
 **Welcome to the Hotmaps Wiki!**
 
 The Hotmaps WIKI hosts the documentation, guidance and manual of the Hotmaps toolbox. It consists of three main parts:
