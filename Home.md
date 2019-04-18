@@ -1,20 +1,19 @@
 ## Hotmaps toolbox
 
-Heating and cooling in residential and industrial sectors accounts for half of the EU’s energy consumption. According to the EU reports, 84% of heating and cooling is still generated from fossil fuels. Meanwhle, heat losses are also significantly high. This sector needs to be transformed! 
-Hotmaps is a website, which allows you to provide within 5 minutes a first estimation of heating and cooling demand in your region and the potentials of local renewable energy to cover this demand. 
+Heating and cooling in residential and industrial sectors accounts for half of the EU’s energy consumption. More than 80% of heating and cooling is still generated from fossil fuels [1](References). Meanwhile, heat losses are also significantly high. This sector needs to be transformed! 
+Hotmaps is a website, which allows you to provide within 5 minutes a first estimation of heating and cooling demand in your region and the potentials of local renewable energy to cover this demand. Subsequently, by using more detailed data and applying its calculation modules, you are able to elaborate much more comprehensive heating and cooling strategies.
 What we offer is an open source online software that supports planning processes of the energy sector on the local level in a transparent manner. We provide:
 * a starting data set, 
 * customisations of the software for your specific needs, 
 * training and support services.
 
-Thanks to this software, you will be able to take practical decisions in your area of interest (village, town, city, etc.). You will also save a lot of money for expensive consultant fees.
-We applied and demonstrated the values of the Hotmaps website in seven pilot areas. The website was developed by leading research institutions across Europe together with cities. Go on the website by clicking [HERE](https://www.hotmaps.hevs.ch/map) and discover your city’s climate neutral energy future. 
+Thanks to this software, you will be able to take practical decisions in your area of interest (village, town, city, etc.). We applied and demonstrated the values of the Hotmaps website in seven pilot areas. The website was developed by leading research institutions across Europe together with cities. Go on the website by clicking [HERE](https://www.hotmaps.hevs.ch/map) and discover your city’s climate neutral energy future. 
 
 
 ## How to use the Hotmaps toolbox for heating and cooling planning 
 **Welcome to the Hotmaps Wiki!**
 
-The Hotmaps WIKI hosts the documentation, guidance and manual of the Hotmaps toolbox. It consists of three main parts:
+The Hotmaps Wiki hosts the documentation, guidance and manual of the Hotmaps toolbox. It consists of three main parts:
 1. [General toolbox functionalities](#General-tool-functionalities-and-structure),
 2. [Calculation modules](#Calculation-modules),
 3. [Developers](#For-developers) section.
@@ -55,5 +54,7 @@ We hope you enjoy exploring the toolbox and find it helpful for your heating and
 
 **HAVE FUN EXPLORING THE HOTMAPS TOOLBOX!**
 
+## References
+[1] European Union. Overview of support activities and projects of the European Union onenergy efficiency and renewable energy in the heating and cooling sector. 2016. doi:10.2826/607102.
 
 ![](https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/Hotmaps_test.JPG)
