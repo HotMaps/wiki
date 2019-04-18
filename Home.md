@@ -1,6 +1,6 @@
 ## Hotmaps toolbox
 
-Heating and cooling in residential and industrial sectors accounts for half of the EU’s energy consumption. More than 80% of heating and cooling is still generated from fossil fuels [1](References). Meanwhile, heat losses are also significantly high. This sector needs to be transformed! 
+Heating and cooling in residential and industrial sectors accounts for half of the EU’s energy consumption. More than 80% of heating and cooling is still generated from fossil fuels [[1](#References)]. Meanwhile, heat losses are also significantly high. This sector needs to be transformed! 
 Hotmaps is a website, which allows you to provide within 5 minutes a first estimation of heating and cooling demand in your region and the potentials of local renewable energy to cover this demand. Subsequently, by using more detailed data and applying its calculation modules, you are able to elaborate much more comprehensive heating and cooling strategies.
 What we offer is an open source online software that supports planning processes of the energy sector on the local level in a transparent manner. We provide:
 * a starting data set, 
@@ -54,7 +54,7 @@ We hope you enjoy exploring the toolbox and find it helpful for your heating and
 
 **HAVE FUN EXPLORING THE HOTMAPS TOOLBOX!**
 
-## References
-[1] European Union. Overview of support activities and projects of the European Union onenergy efficiency and renewable energy in the heating and cooling sector. 2016. doi:10.2826/607102.
-
 ![](https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/Hotmaps_test.JPG)
+
+## References
+[1] EU H2020 Project: Mapping and analyses of the current and future (2020 - 2030) heat-ing/cooling fuel deployment (fossil/renewables). WP1 Report. 2016. accessed via https://ec.europa.eu/energy/sites/ener/files/documents/Report%20WP1.pdf
