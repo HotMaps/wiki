@@ -1,13 +1,13 @@
 ## Hotmaps toolbox
 
-Heating and cooling in residential and industrial sectors accounts for half of the EU’s energy consumption. More than 80% of heating and cooling is still generated from fossil fuels [[1](#References)]. Meanwhile, heat losses are also significantly high. This sector needs to be transformed! 
+Heating and cooling in residential and industrial sectors accounts for half of the EUâ€™s energy consumption. More than 80% of heating and cooling is still generated from fossil fuels [[1](#References)]. Meanwhile, heat losses are also significantly high. This sector needs to be transformed! 
 Hotmaps is a website, which allows you to provide within 5 minutes a first estimation of heating and cooling demand in your region and the potentials of local renewable energy to cover this demand. Subsequently, by using more detailed data and applying its calculation modules, you are able to elaborate much more comprehensive heating and cooling strategies.
 What we offer is an open source online software that supports planning processes of the energy sector on the local level in a transparent manner. We provide:
 * a starting data set, 
 * customisations of the software for your specific needs, 
 * training and support services.
 
-Thanks to this software, you will be able to take practical decisions in your area of interest (village, town, city, etc.). We applied and demonstrated the values of the Hotmaps website in seven pilot areas. The website was developed by leading research institutions across Europe together with cities. Go on the website by clicking [HERE](https://www.hotmaps.hevs.ch/map) and discover your city’s climate neutral energy future. 
+Thanks to this software, you will be able to take practical decisions in your area of interest (village, town, city, etc.). We applied and demonstrated the values of the Hotmaps website in seven pilot areas. The website was developed by leading research institutions across Europe together with cities. Go on the website by clicking [HERE](https://www.hotmaps.hevs.ch/map) and discover your cityâ€™s climate neutral energy future. 
 
 
 ## How to use the Hotmaps toolbox for heating and cooling planning 
@@ -45,6 +45,8 @@ We hope you enjoy exploring the toolbox and find it helpful for your heating and
 * [CM - District heating supply](CM-District-heating-supply)
 * [CM - Decentral heating costs](CM-Decentral-heating-costs)  
 * [CM - Solar PV potential](CM-Solar-PV-potential)
+* [CM - Shallow Geothermal potential](CM-Geothermal-potential)
+* [CM - Heat Sources potential](CM-Heat-Source-potential)
 * [CM - Excess heat potential](CM-Excess-heat-potential)
 
 ## For developers
