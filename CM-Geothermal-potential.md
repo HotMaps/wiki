@@ -85,7 +85,7 @@ The method to define the energy potential is based on the [G.pot](https://www.sc
 
 ## Authors and reviewers
 
-This page is written by Pietro Zambelli and Giulia Garegnani\*.
+This page is written by Pietro Zambelli\* and Giulia Garegnani\*.
 
 
 \* [Urban and Regional Energy System Group - EURAC Bozen](http://www.eurac.edu/en/research/technologies/renewableenergy/researchfields/Pages/Energy-strategies-and-planning.aspx)
