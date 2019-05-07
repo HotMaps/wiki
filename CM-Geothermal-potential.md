@@ -29,10 +29,10 @@ The input parameters and layers as well as output layers and parameters are as f
 
 **Input layers and parameters are:**
 
-* raster file:
-     * Raster with depth-averaged ground thermal conductivity [W m<sup>-1</sup> K<sup>-1</sup>]
-     * Raster with the Heating Season [0-365] days
-     * Raster with the initial ground temperature T0 [°C]
+* Vector with depth-averaged ground thermal conductivity [W m-1 K-1]
+* Value with the Heating Season [0-365] days
+* Raster with the initial ground temperature T0 [°C]
+* Value with depth-averaged ground thermal capacity [MJ m-3 K-1]
 * Value with depth-averaged ground thermal capacity [MJ m<sup>-3</sup> K<sup>-1</sup>]
 
 The advanced input are:
