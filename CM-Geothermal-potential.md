@@ -16,6 +16,7 @@
 ## Introduction
 
 It aims to compute the shallow geothermal potential based on [r.green.gshp.theoretical](https://grass.osgeo.org/grass76/manuals/addons/r.green.gshp.theoretical.html) according to the [G.pot methodology](https://www.sciencedirect.com/science/article/pii/S0360544216303358). 
+In this module the output is the theoretical maximum energy that can be converted in the ideal case without considering the financial and spatial constraints. 
 
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
@@ -29,19 +30,33 @@ The input parameters and layers as well as output layers and parameters are as f
 **Input layers and parameters are:**
 
 * raster file:
-     * bla 
-* bla
+     * Raster with depth-averaged ground thermal conductivity [W m<sup>-1</sup> K<sup>-1</sup>]
+     * Raster with the Heating Season [0-365] days
+     * Raster with the initial ground temperature T0 [°C]
+* Value with depth-averaged ground thermal capacity [MJ m<sup>-3</sup> K<sup>-1</sup>]
+
+The advanced input are:
+* Borehole radius [m]
+* Borehole thermal resistance [m K W<sup>-1</sup>]
+* Borehole length [m]
+* Pipe radius [m]
+* Number of pipes in the borehole
+* Thermal conductivity of the borehole filling (geothermal grout) [W m-1 K-1]
+* Minimum or maximum fluid temperature [°C]
+* Simulated lifetime of the plant [years]
 
 **Output layers and parameters are:**
 
-* a raster file with the energy potential
+* a raster map with the geothermal power potential [W]
+* a raster map with the geothermal energy potential [MWh]
+
+A deeper explanation of the default input raster is available in the [Hotmaps repository](https://gitlab.com/hotmaps/potential/potential_geothermal_raster)
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
 
 
 ## Method
-
-bla bla
+The method to define the energy potential is based on the [G.pot](https://www.sciencedirect.com/science/article/pii/S0360544216303358). The potential of shallow geothermal energy is computed by means of and empirical relationship proposed by [Casasso et al. (2016)](https://www.sciencedirect.com/science/article/pii/S0360544216303358).
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
 
