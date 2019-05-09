@@ -49,6 +49,8 @@ We hope you enjoy exploring the toolbox and find it helpful for your heating and
 * [CM - Heat Sources potential](CM-Heat-Source-potential)
 * [CM - Excess heat potential](CM-Excess-heat-potential)
 
+Each calculation module can be used to analyse different parts of the heating and cooling system and different analysis questions. The calculation modules can also be used as a chain of tools to derive scenarios for heating and cooling of defined regions / areas. For the demonstration of the Hotmaps toolbox the calculation modules are used according to the following toolchain:
+
 ![](https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/Hotmaps_toolchain_2019-05-09.png)
 
 ## For developers
