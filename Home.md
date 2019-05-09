@@ -49,6 +49,8 @@ We hope you enjoy exploring the toolbox and find it helpful for your heating and
 * [CM - Heat Sources potential](CM-Heat-Source-potential)
 * [CM - Excess heat potential](CM-Excess-heat-potential)
 
+![](https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/Hotmaps_toolchain_2019-05-09.png)
+
 ## For developers
 * [Developers section](Developers)
 * [Guidelines for defining indicators](Guidelines-for-defining-indicators)
