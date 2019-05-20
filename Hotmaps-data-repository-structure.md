@@ -1,0 +1,1 @@
+Hotmaps data repository structure
