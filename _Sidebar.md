@@ -1,6 +1,8 @@
 # Wiki Introduction
 
 [Home](Home)
+## Data sets
+* [Hotmaps repository structure](Hotmaps-data-repository-structure)
 
 ## General tool functionalities and structure
 * [Introduction to user interface](Introduction-to-user-interface)
