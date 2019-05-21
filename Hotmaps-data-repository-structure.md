@@ -9,7 +9,7 @@
 * [Final energy demand density for space heating and domestic hot water - Total](https://gitlab.com/hotmaps/heat/heat_tot_curr_density)
 * [Useful energy demand for space heating and domestic hot water at different NUTS levels](https://gitlab.com/hotmaps/regional_demand)
 
-&#x1F53A; `The data is coming from ESPON Project. I guess it should be final energy demand instad of useful energy demand.`
+    &#x1F53A; `The data is coming from ESPON Project. I guess it should be final energy demand instad of useful energy demand.`
 
 * [Useful energy demand and Final energy consumption for space heating, space cooling and domestic hot water at NUTS0 level](https://gitlab.com/hotmaps/space_heating_cooling_dhw_demand)
 * [Space cooling needs density map](https://gitlab.com/hotmaps/heat/cool_tot_curr_density)
@@ -29,7 +29,7 @@
 ### Construction Periods
 * [Share of gross floor area in construction periods](https://gitlab.com/hotmaps/construction_periods/share_gfa_per_construction_period/tree/master)
 
-&#x1F53A; `The README file of this repository is incomplete.`
+    &#x1F53A; `The README file of this repository is incomplete.`
 
 
 # Population
@@ -54,11 +54,11 @@
 * [Average heating degree days (HDD) and cooling degree days (CDD) at NUTS 3 level](https://gitlab.com/hotmaps/climate/climate_heating_cooling_degreeday)
 * [Heating degree days (HDD) for the reference period 2002-2012 on hectare level](https://gitlab.com/hotmaps/climate/HDD_ha_curr)
 
-&#x1F53A; `Reference period in title and in the description within the readme file does not match`
+    &#x1F53A; `Reference period in title and in the description within the readme file does not match`
 
 * [Cooling degree days (CDD) for the reference period 1999-2014 on hectare level](https://gitlab.com/hotmaps/climate/CDD_ha_curr)
 
-&#x1F53A; `Reference period in title and in the description within the readme file does not match`
+    &#x1F53A; `Reference period in title and in the description within the readme file does not match`
 
 
 
@@ -72,7 +72,7 @@
 * [Municipal solid waste energy potential](https://gitlab.com/hotmaps/potential/potential_municipal_solid_waste)
 * [Biomass energy potential - forest biomass potential (raster)](https://gitlab.com/hotmaps/potential/potential_forest)
 
-&#x1F53A; `In the readme file, explanation of agricultural residues and livestock effluents are provided; but, no data is available for this two.`
+    &#x1F53A; `In the readme file, explanation of agricultural residues and livestock effluents are provided; but, no data is available for this two.`
 
 * [Biomass energy potential - Agricultural residues, livestock effluents and forestry residues](https://gitlab.com/hotmaps/potential/potential_biomass)
 * [Waste water treatment plants energy potential](https://gitlab.com/hotmaps/potential/WWTP)
@@ -97,7 +97,7 @@
 * [Generic hourly profiles on NUTS 0 level in residential sector - **sanitary hot water**](https://gitlab.com/hotmaps/load_profile/load_profile_residential_shw_generic)
 * [Generic hourly profiles on NUTS 0 level in residential sector - **space heating demand**](https://gitlab.com/hotmaps/load_profile/load_profile_residential_heating_generic)
 
-&#x1F53A; `The title of the repository does not match with the title of the readme file and is misleading!`
+    &#x1F53A; `The title of the repository does not match with the title of the readme file and is misleading!`
 
 * [Generic hourly profiles on NUTS 0 level in residential sector - **space cooling**](https://gitlab.com/hotmaps/load_profile/load_profile_residential_cooling_generic)
 
@@ -133,12 +133,12 @@
 **Tertiary**
 * [Hourly profile on NUTS 2 level in tertiary sector in year 2010 for **sanitary hot water**](https://gitlab.com/hotmaps/load_profile/load_profile_tertiary_shw_yearlong_2010)
 
-&#x1F53A; `In the readme file title, it is written domestic hot water. Since this is for tertiary sector, it should be amended!`
+    &#x1F53A; `In the readme file title, it is written domestic hot water. Since this is for tertiary sector, it should be amended!`
 
 * [Hourly profile on NUTS 2 level in tertiary sector in year 2010 for **space heating**](https://gitlab.com/hotmaps/load_profile/load_profile_tertiary_heating_yearlong_2010)
 * [Hourly profile on NUTS 2 level in tertiary sector in year 2010 for **space heating and sanitary hot water**](https://gitlab.com/hotmaps/load_profile_tertiary_shw_and_heating_yearlong_2010)
 
-&#x1F53A; `In the readme file title, it is written domestic hot water. Since this is for tertiary sector, it should be amended!`
+    &#x1F53A; `In the readme file title, it is written domestic hot water. Since this is for tertiary sector, it should be amended!`
 
 * [Hourly profile on NUTS 2 level in tertiary sector in year 2010 for **space cooling**](https://gitlab.com/hotmaps/load_profile/load_profile_tertiary_cooling_yearlong_2010)
 
@@ -179,11 +179,11 @@
 
 * [Vehicle stock at NUTS 2 level](https://gitlab.com/hotmaps/transport/nuts2)
 
-&#x1F53A; `The README file of this repository is incomplete.`
+    &#x1F53A; `The README file of this repository is incomplete.`
 
 * [Vehicle stock at city level](https://gitlab.com/hotmaps/transport/city)
 
-&#x1F53A; `The README file of this repository is incomplete.`
+    &#x1F53A; `The README file of this repository is incomplete.`
 
 
 # Data sets for the operationo of the Hotmaps toolbox
@@ -191,4 +191,4 @@
 * [Hotmaps Local Administrative Boundaries](https://gitlab.com/hotmaps/HotmapsLAU)
 * [Hotmaps NUTS Boundaries](https://gitlab.com/hotmaps/NUTS)
 
-&#x1F53A; `Licens from EC is missing in this repository.`
+    &#x1F53A; `Licens from EC is missing in this repository.`
