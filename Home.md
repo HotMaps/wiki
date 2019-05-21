@@ -33,7 +33,6 @@ We hope you enjoy exploring the toolbox and find it helpful for your heating and
 
 ## General tool functionalities and structure
 * [Introduction to user interface](Introduction-to-user-interface)
-* [Datasets behind the toolbox: Hotmaps data repositories](Datasets-behind-the-toolbox)
 * [Layers section in the Hotmaps toolbox](Layers-section-in-the-Hotmaps-toolbox)
 * [Select a region in the Hotmaps toolbox](Select-a-region-in-the-Hotmaps-toolbox)
 * [Retrieve indicators of a selected area](Retrieve-indicators-of-a-selected-area)
