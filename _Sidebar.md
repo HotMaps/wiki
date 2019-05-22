@@ -16,12 +16,15 @@
 
 
 ## Calculation modules
-* [CM - District heating potentials](CM-District-heating-potentials)
-* [CM - District heating grid costs](CM-District-heating-grid-costs)
-* [CM - District heating supply](CM-District-heating-supply)
-* [CM - Decentral heating costs](CM-Decentral-heating-costs)
-* [CM - Solar PV potential](CM-Solar-PV-potential)
-* [CM - Excess heat potential](CM-Excess-heat-potential)
+* [CM - District heating potentials: user-defined thresholds](CM-District-heating-potentials---user-defined-thresholds)
+* [CM - District heating potentials: economic assessment](CM-District-heating-potentials---economic-assessment)
+* [CM - District heating supply dispatch](CM-District-heating-supply-dispatch)
+* [CM - Decentral heating costs](CM-Decentral-heating-costs)  
+* [CM - Solar thermal and PV potential](CM-Solar-thermal-and-PV-potential)
+* [CM - Shallow Geothermal potential](CM-Shallow-geothermal-potential)
+* [CM - Heat Sources potential](CM-Heat-Source-potential)
+* [CM - Excess heat transport potential](CM-Excess-heat-transport-potential)
+* [CM - Scenario assessment](CM-Scenario-assessment)
 
 
 # For Developers

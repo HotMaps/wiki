@@ -43,14 +43,16 @@ We hope you enjoy exploring the toolbox and find it helpful for your heating and
 * [Data export functionalities](Data-export-functionalities)
 
 ## Calculation modules
-* [CM - District heating potentials](CM-District-heating-potentials)
-* [CM - District heating grid costs](CM-District-heating-grid-costs)
-* [CM - District heating supply](CM-District-heating-supply)
+* [CM - District heating potentials: user-defined thresholds](CM-District-heating-potentials---user-defined-thresholds)
+* [CM - District heating potentials: economic assessment](CM-District-heating-potentials---economic-assessment)
+* [CM - District heating supply dispatch](CM-District-heating-supply-dispatch)
 * [CM - Decentral heating costs](CM-Decentral-heating-costs)  
-* [CM - Solar PV potential](CM-Solar-PV-potential)
-* [CM - Shallow Geothermal potential](CM-Geothermal-potential)
+* [CM - Solar thermal and PV potential](CM-Solar-thermal-and-PV-potential)
+* [CM - Shallow Geothermal potential](CM-Shallow-geothermal-potential)
 * [CM - Heat Sources potential](CM-Heat-Source-potential)
-* [CM - Excess heat potential](CM-Excess-heat-potential)
+* [CM - Excess heat transport potential](CM-Excess-heat-transport-potential)
+* [CM - Scenario assessment](CM-Scenario-assessment)
+
 
 Each calculation module can be used to analyse different parts of the heating and cooling system and different analysis questions. The calculation modules can also be used as a chain of tools to derive scenarios for heating and cooling of defined regions / areas. For the demonstration of the Hotmaps toolbox the calculation modules are used according to the following toolchain:
 
