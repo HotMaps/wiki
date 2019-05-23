@@ -35,8 +35,8 @@ The developers section contains all information required for developers to contr
 We hope you enjoy exploring the toolbox and find it helpful for your heating and cooling planning!
 
 ## Data sets
-* [Hotmaps repository structure](Hotmaps-data-repository-structure)
 * [Hotmaps open data set: data collection](Hotmaps-open-data-set-data-collection)
+* [Hotmaps repository structure](Hotmaps-data-repository-structure)
 
 ## General tool functionalities and structure
 * [Introduction to user interface](Introduction-to-user-interface)
