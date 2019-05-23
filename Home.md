@@ -36,6 +36,7 @@ We hope you enjoy exploring the toolbox and find it helpful for your heating and
 
 ## Data sets
 * [Hotmaps repository structure](Hotmaps-data-repository-structure)
+* [Hotmaps open data set: data collection](Hotmaps-open-data-set-data-collection)
 
 ## General tool functionalities and structure
 * [Introduction to user interface](Introduction-to-user-interface)
