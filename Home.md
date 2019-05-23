@@ -15,9 +15,10 @@ Thanks to this software, you will be able to take practical decisions in your ar
 
 The Hotmaps Wiki hosts the documentation, guidance and manual of the Hotmaps toolbox. It consists of three main parts:
 1. [Data sets](#Data-sets)
-2. [General toolbox functionalities](#General-tool-functionalities-and-structure),
-3. [Calculation modules](#Calculation-modules),
-4. [Developers](#For-developers) section.
+1. [General toolbox functionalities](#General-tool-functionalities-and-structure),
+1. [Calculation modules](#Calculation-modules),
+1. [How to apply hotmaps toolbox](#How-to-apply-Hotmaps-toolbox)
+1. [Developers](#For-developers) section.
 
 General toolbox functionalities guide the user through the interface of the toolbox. The section covers all general aspects of the toolbox, which are related to the user experience, e.g. navigating through different parts of the toolbox, layer selection, retrieving indicators, data upload and export functionalities etc.
 
@@ -56,6 +57,7 @@ We hope you enjoy exploring the toolbox and find it helpful for your heating and
 * [CM - Excess heat transport potential](CM-Excess-heat-transport-potential)
 * [CM - Scenario assessment](CM-Scenario-assessment)
 
+## How to apply hotmaps toolbox
 
 Each calculation module can be used to analyse different parts of the heating and cooling system and different analysis questions. The calculation modules can also be used as a chain of tools to derive scenarios for heating and cooling of defined regions / areas. For the demonstration of the Hotmaps toolbox the calculation modules are used according to the following toolchain:
 
