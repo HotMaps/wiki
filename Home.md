@@ -13,7 +13,7 @@ Thanks to this software, you will be able to take practical decisions in your ar
 ## How to use the Hotmaps toolbox for heating and cooling planning 
 **Welcome to the Hotmaps Wiki!**
 
-The Hotmaps Wiki hosts the documentation, guidance and manual of the Hotmaps toolbox. It consists of three main parts:
+The Hotmaps Wiki hosts the documentation, guidance and manual of the Hotmaps toolbox. It consists of the following main parts:
 1. [Data sets](#Data-sets)
 1. [General toolbox functionalities](#General-tool-functionalities-and-structure),
 1. [Calculation modules](#Calculation-modules),
