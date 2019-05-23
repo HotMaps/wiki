@@ -2,10 +2,10 @@
 
 
 ## Introduction
-In this Wiki page, we provide the links to the corresponding data sets in the Hotmaps data repositories. A detailed description of the datasets and the applied methods is also available in this [report](https://www.hotmaps-project.eu/wp-content/uploads/2018/03/D2.3-Hotmaps_for-upload_revised-final_.pdf).
 
-Within the scope of the Hotmaps project, data has been collected at various levels (national, regional and local levels). These data  have been  generated for  four  different  sectors:  residential  (single family  houses, multifamily houses,  and  apartment  blocks),  service  (offices,  trade,  education, health, hotels and restaurants,  and other non-residential buildings),  industry (iron and steel, non-ferrous metals, paper and printing, non-metallic minerals, chemical industry, food, drink and  tobacco,  engineering  and  others  not classified),and  transport (passenger  transport -public, private, rail and freight transport -heavy goods and light commercial vehicles). In the following sections, the links to these data sets are provided.
+Within the scope of the Hotmaps project, data has been collected at various levels (national, regional and local levels). These data  have been  generated for  four  different  sectors:  residential  (single family  houses, multifamily houses,  and  apartment  blocks),  service  (offices,  trade,  education, health, hotels and restaurants,  and other non-residential buildings),  industry (iron and steel, non-ferrous metals, paper and printing, non-metallic minerals, chemical industry, food, drink and  tobacco,  engineering  and  others  not classified),and  transport (passenger  transport -public, private, rail and freight transport -heavy goods and light commercial vehicles).
 
+All the above-mentioned data sets are stored in Hotmaps data repositories on GitLab and can be accessed and downloaded form there. The Hotmaps data repositories are extensive and composed of more than 70 repositories. In order to provide a better overview of all Hotmaps repositories, here, we clustered them into different classes and provided the direct link to them. For detailed explanations on data collection, methodologies, references, assumptions and limitations of Hotmaps data sets refer to this [report](https://www.hotmaps-project.eu/wp-content/uploads/2018/03/D2.3-Hotmaps_for-upload_revised-final_.pdf) [1].
 
 
 
