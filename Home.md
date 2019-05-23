@@ -47,7 +47,7 @@ We hope you enjoy exploring the toolbox and find it helpful for your heating and
 * [CM - Demand projection](CM-Demand-projection)
 * [CM - Heat load profiles](CM-Heat-load-profiles)
 * [CM - District heating potential: user-defined thresholds](CM-District-heating-potential-user-defined-thresholds)
-* [CM - District heating potentials: economic assessment](CM-District-heating-potentials---economic-assessment)
+* [CM - District heating potential: economic assessment](CM-District-heating-potential-economic-assessment)
 * [CM - District heating supply dispatch](CM-District-heating-supply-dispatch)
 * [CM - Decentral heating costs](CM-Decentral-heating-costs)  
 * [CM - Solar thermal and PV potential](CM-Solar-thermal-and-PV-potential)
