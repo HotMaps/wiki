@@ -46,7 +46,7 @@ We hope you enjoy exploring the toolbox and find it helpful for your heating and
 * [CM - Customized heat and floor area density maps](CM-Customized-heat-and-floor-area-density-maps)
 * [CM - Demand projection](CM-Demand-projection)
 * [CM - Heat load profiles](CM-Heat-load-profiles)
-* [CM - District heating potential: user-defined thresholds](CM-District-heating-potentials---user-defined-thresholds)
+* [CM - District heating potential: user-defined thresholds](CM-District-heating-potential-user-defined-thresholds)
 * [CM - District heating potentials: economic assessment](CM-District-heating-potentials---economic-assessment)
 * [CM - District heating supply dispatch](CM-District-heating-supply-dispatch)
 * [CM - Decentral heating costs](CM-Decentral-heating-costs)  
