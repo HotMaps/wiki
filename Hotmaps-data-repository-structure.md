@@ -6,7 +6,7 @@
   * [Heating and cooling demand density map](#Heating-and-cooling-demand-density-map)
   * [Gross floor area density map](#Gross-floor-area-density-map)
   * [Gross volume density map](#Gross-volume-density-map)
-  * [Construction periods](Construction-periods)
+  * [Construction periods](#Construction-periods)
 * [Population](#Population)
 * [Industry](#Industry)
 * [Climate](#Climate)
@@ -14,13 +14,13 @@
 * [Scenario data](#Scenario-data)
 * [Technology data](#Technology-data)
 * [Profiles](#Profiles)
-  * [Hourly heat load profiles - Generic profiles](Hourly-heat-load-profiles---Generic-profiles)
+  * [Hourly heat load profiles - Generic profiles](#Hourly-heat-load-profiles---Generic-profiles)
     * [Residential profiles - Generic](#Residential-profiles---Generic)
-    * [Tertiary profiles - Generic](Tertiary-profiles---Generic)
+    * [Tertiary profiles - Generic](#Tertiary-profiles---Generic)
     * [Industry profiles - Generic](#Industry-profiles---Generic)
   * [Hourly heat load profiles - Year specific profiles](#Hourly-heat-load-profiles---Year-specific-profiles)
     * [Residential profiles - Year specific](#Residential-profiles---Year-specific)
-    * [Tertiary profiles - Year specific](Tertiary-profiles---Year-specific)
+    * [Tertiary profiles - Year specific](#Tertiary-profiles---Year-specific)
     * [Industry profiles - Year specific](#Industry-profiles---Year-specific)
   * [Electricity load profiles](#Electricity-load-profiles)
   * [Temperature profiles](#Temperature-profiles)
@@ -72,6 +72,7 @@ All the above-mentioned data sets are stored in Hotmaps data repositories on Git
 * [Building gross floor area density map - **Non-Residential**](https://gitlab.com/hotmaps/building_footprint_nonres_curr)
 * [Building gross floor area density map - **Total**](https://gitlab.com/hotmaps/building_footprint_tot_curr)
 
+<code><ins>**[To Top](#table-of-contents)**</ins></code>
 
 ## Gross volume density map
 * [Heated building gross volume density map - **Residential**](https://gitlab.com/hotmaps/vol_res_curr_density)
@@ -92,7 +93,7 @@ All the above-mentioned data sets are stored in Hotmaps data repositories on Git
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
 
-# Industrial sites
+# Industry
 
 * [Georeferenced energy-intensive industrial sites](https://gitlab.com/hotmaps/industrial_sites/industrial_sites_Industrial_Database)
 * [Benchmark data on heating and cooling demand and excess heat potentials of industrial processes](https://gitlab.com/hotmaps/industrial_sites/industrial_sites_industryBenchmarks)
