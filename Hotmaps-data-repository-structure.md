@@ -51,6 +51,8 @@ All the above-mentioned data sets are stored in Hotmaps data repositories on Git
 ## EU Building stock
 * [Building stock at NUTS 0 level - Residential and service sectors](https://gitlab.com/hotmaps/building-stock)
 
+<code><ins>**[To Top](#table-of-contents)**</ins></code>
+
 ## Heating and cooling demand density map
 * [Final energy demand density for space heating and domestic hot water - Residential](https://gitlab.com/hotmaps/heat/heat_res_curr_density)
 * [Final energy demand density for space heating and domestic hot water - Non-Residential](https://gitlab.com/hotmaps/heat/heat_nonres_curr_density)
@@ -63,6 +65,8 @@ All the above-mentioned data sets are stored in Hotmaps data repositories on Git
 * [Space cooling needs density map](https://gitlab.com/hotmaps/heat/cool_tot_curr_density)
 
 
+<code><ins>**[To Top](#table-of-contents)**</ins></code>
+
 ## Gross floor area density map
 * [Building gross floor area density map - Residential](https://gitlab.com/hotmaps/building_footprint_res_curr)
 * [Building gross floor area density map - Non-Residential](https://gitlab.com/hotmaps/building_footprint_nonres_curr)
@@ -73,6 +77,8 @@ All the above-mentioned data sets are stored in Hotmaps data repositories on Git
 * [Heated building gross volume density map - Residential](https://gitlab.com/hotmaps/vol_res_curr_density)
 * [Heated building gross volume density map - Non-Residential](https://gitlab.com/hotmaps/vol_nonres_curr_density)
 * [Heated building gross volume density map - Total](https://gitlab.com/hotmaps/vol_tot_curr_density)
+
+<code><ins>**[To Top](#table-of-contents)**</ins></code>
 
 ## Construction Periods
 * [Share of gross floor area in construction periods](https://gitlab.com/hotmaps/construction_periods/share_gfa_per_construction_period/tree/master)
@@ -130,6 +136,10 @@ All the above-mentioned data sets are stored in Hotmaps data repositories on Git
 
 * [Biomass energy potential - Agricultural residues, livestock effluents and forestry residues](https://gitlab.com/hotmaps/potential/potential_biomass)
 * [Waste water treatment plants energy potential](https://gitlab.com/hotmaps/potential/WWTP)
+
+
+<code><ins>**[To Top](#table-of-contents)**</ins></code>
+
 
 # Scenario data
 * [Energy demand in industry until the year 2050 - Current scenario](https://gitlab.com/hotmaps/scen_current_industry_demand)
