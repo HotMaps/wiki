@@ -1,7 +1,43 @@
 # Table of Contents
 
+* [Introduction](#introduction)
+* [Building Stock](#Building-Stock)
+  * [EU Building stock](#EU-Building-stock)
+  * [Heating and cooling demand density map](#Heating-and-cooling-demand-density-map)
+  * [Gross floor area density map](#Gross-floor-area-density-map)
+  * [Gross volume density map](#Gross-volume-density-map)
+  * [Construction Periods](Construction-Periods)
+* [Population](#Population)
+* [Industrial sites](#Industrial-sites)
+* [Climate](#Climate)
+* [Potential](#Potential)
+* [Scenario data](#Scenario-data)
+* [Technology data](#Technology-data)
+* [Profiles](#Profiles)
+  * [Heat load profiles - Generic profiles](Heat-load-profiles---Generic-profiles)
+    * [Residential profiles - Generic](#Residential-profiles---Generic)
+    * [Tertiary profiles - Generic](Tertiary-profiles---Generic)
+    * [Industry profiles - Generic](#Industry-profiles---Generic)
+  * [Heat load profiles - Year specific profiles](#Heat-load-profiles---Year-specific-profiles)
+    * [Residential profiles - Year specific](#Residential-profiles---Year-specific)
+    * [Tertiary profiles - Year specific](Tertiary-profiles---Year-specific)
+    * [Industry profiles - Year specific](#Industry-profiles---Year-specific)
+  * [Electricity load profiles](#Electricity-load-profiles)
+  * [Temperature profiles](#Temperature-profiles)
+* [Transport](#Transport)
+* [Data sets for the operationo of the Hotmaps toolbox](#Data-sets-for-the-operationo-of-the-Hotmaps-toolbox)
+* [References](#References)
+* [How to cite](#how-to-cite)
+* [Authors and reviewers](#authors-and-reviewers)
+* [License](#license)
+* [Acknowledgement](#acknowledgement)
 
-## Introduction
+
+
+
+
+
+# Introduction
 
 Within the scope of the Hotmaps project, data has been collected at various levels (national, regional and local levels). These data  have been  generated for  four  different  sectors:  residential  (single family  houses, multifamily houses,  and  apartment  blocks),  service  (offices,  trade,  education, health, hotels and restaurants,  and other non-residential buildings),  industry (iron and steel, non-ferrous metals, paper and printing, non-metallic minerals, chemical industry, food, drink and  tobacco,  engineering  and  others  not classified),and  transport (passenger  transport -public, private, rail and freight transport -heavy goods and light commercial vehicles).
 
@@ -11,10 +47,10 @@ All the above-mentioned data sets are stored in Hotmaps data repositories on Git
 
 # Building Stock
 
-### EU Building stock
+## EU Building stock
 * [Building stock at NUTS 0 level - Residential and service sectors](https://gitlab.com/hotmaps/building-stock)
 
-### Heating and cooling demand
+## Heating and cooling demand density map
 * [Final energy demand density for space heating and domestic hot water - Residential](https://gitlab.com/hotmaps/heat/heat_res_curr_density)
 * [Final energy demand density for space heating and domestic hot water - Non-Residential](https://gitlab.com/hotmaps/heat/heat_nonres_curr_density)
 * [Final energy demand density for space heating and domestic hot water - Total](https://gitlab.com/hotmaps/heat/heat_tot_curr_density)
@@ -26,18 +62,18 @@ All the above-mentioned data sets are stored in Hotmaps data repositories on Git
 * [Space cooling needs density map](https://gitlab.com/hotmaps/heat/cool_tot_curr_density)
 
 
-### Gross floor area density
-* [Building gross floor area - Residential](https://gitlab.com/hotmaps/building_footprint_res_curr)
-* [Building gross floor area - Non-Residential](https://gitlab.com/hotmaps/building_footprint_nonres_curr)
-* [Building gross floor area - Total](https://gitlab.com/hotmaps/building_footprint_tot_curr)
+## Gross floor area density map
+* [Building gross floor area density map - Residential](https://gitlab.com/hotmaps/building_footprint_res_curr)
+* [Building gross floor area density map - Non-Residential](https://gitlab.com/hotmaps/building_footprint_nonres_curr)
+* [Building gross floor area density map - Total](https://gitlab.com/hotmaps/building_footprint_tot_curr)
 
 
-### Gross volume density
+## Gross volume density map
 * [Heated building gross volume density map - Residential](https://gitlab.com/hotmaps/vol_res_curr_density)
 * [Heated building gross volume density map - Non-Residential](https://gitlab.com/hotmaps/vol_nonres_curr_density)
 * [Heated building gross volume density map - Total](https://gitlab.com/hotmaps/vol_tot_curr_density)
 
-### Construction Periods
+## Construction Periods
 * [Share of gross floor area in construction periods](https://gitlab.com/hotmaps/construction_periods/share_gfa_per_construction_period/tree/master)
 
     &#x1F53A; `The README file of this repository is incomplete.`
@@ -47,6 +83,7 @@ All the above-mentioned data sets are stored in Hotmaps data repositories on Git
 * [Population distribution in EU28 on hectare (ha) level](https://gitlab.com/hotmaps/pop_tot_curr_density)
 
 # Industrial sites
+
 * [Industrial steam generation technologies - Lifetime](https://gitlab.com/hotmaps/industrial_sites/industrial_sites_SteamGenerationData_Lifetime)
 * [Industrial steam generation technologies - Capital expenditures (CAPEX)](https://gitlab.com/hotmaps/industrial_sites/industrial_sites_SteamGenerationData_CAPEX)
 * [Industrial steam generation technologies - Operational expenditures (OPEX)](https://gitlab.com/hotmaps/industrial_sites/industrial_sites_SteamGenerationData_OPEX)
@@ -97,14 +134,14 @@ All the above-mentioned data sets are stored in Hotmaps data repositories on Git
 * [Generation shares (nuclear, fossil, renewable) for electricity and district heating at NUTS 0 level](https://gitlab.com/hotmaps/scen_all_scenarios_electr_district_heat_generation_shares)
 * [Total conversion efficiencies for electricity and district heating at NUTS 0 level](https://gitlab.com/hotmaps/scen_all_scenarios_electr_district_heat_efficiency_total)
 
-## Technologies
+## Technology data
 * [Heating technology sheet](https://gitlab.com/hotmaps/heating_technologies)
 
 # Profiles
 
-### Heat load profiles - Generic profiles
+## Heat load profiles - Generic profiles
 
-**Residential**
+### Residential profiles - Generic
 * [Generic hourly profiles on NUTS 0 level in residential sector - **sanitary hot water**](https://gitlab.com/hotmaps/load_profile/load_profile_residential_shw_generic)
 * [Generic hourly profiles on NUTS 0 level in residential sector - **space heating demand**](https://gitlab.com/hotmaps/load_profile/load_profile_residential_heating_generic)
 
@@ -113,13 +150,13 @@ All the above-mentioned data sets are stored in Hotmaps data repositories on Git
 * [Generic hourly profiles on NUTS 0 level in residential sector - **space cooling**](https://gitlab.com/hotmaps/load_profile/load_profile_residential_cooling_generic)
 
 
-**Tertiary**
+### Tertiary profiles - Generic
 * [Generic hourly profiles on NUTS 0 level in tertiary sector - **sanitary hot water demand**](https://gitlab.com/hotmaps/load_profile/load_profile_industry_paper_generic)
 * [Generic hourly profiles on NUTS 0 level in tertiary sector - **space heating demand**](https://gitlab.com/hotmaps/load_profile/load_profile_tertiary_heating_generic)
 * [Generic hourly profiles on NUTS 0 level in tertiary sector - **space cooling demand**](https://gitlab.com/hotmaps/load_profile/load_profile_tertiary_cooling_generic)
 
 
-**Industry**
+### Industry profiles - Generic
 * [Generic hourly profiles for heat demand on NUTS 0 level in the **paper** industry](https://gitlab.com/hotmaps/load_profile/load_profile_industry_paper_generic)
 * [Generic hourly profiles for heat demand on NUTS 0 level in the **iron and steel** industry](https://gitlab.com/hotmaps/load_profile/load_profile_industry_iron_and_steel_generic)
 * [Generic hourly profiles for heat demand on NUTS 0 level in the **food and tobacco** industry](https://gitlab.com/hotmaps/load_profile/load_profile_industry_food_and_tobacco_generic)
@@ -131,9 +168,9 @@ All the above-mentioned data sets are stored in Hotmaps data repositories on Git
 
 
 
-### Heat load profiles - Year specific profiles
+## Heat load profiles - Year specific profiles
 
-**Residential**
+### Residential profiles - Year specific
 * [Hourly profile on NUTS 2 level in residential sector in year 2010 for **sanitary hot water**](https://gitlab.com/hotmaps/load_profile/load_profile_residential_shw_yearlong_2010)
 * [Hourly profile on NUTS 2 level in residential sector in year 2010 for **space heating**](https://gitlab.com/hotmaps/load_profile/load_profile_residential_heating_yearlong_2010)
 * [Hourly profile on NUTS 2 level in residential sector in year 2010 for **space heating and sanitary hot water**](https://gitlab.com/hotmaps/load_profile/load_profile_residential_shw_and_heating_yearlong_2010)
@@ -141,7 +178,7 @@ All the above-mentioned data sets are stored in Hotmaps data repositories on Git
 
 
 
-**Tertiary**
+### Tertiary profiles - Year specific
 * [Hourly profile on NUTS 2 level in tertiary sector in year 2010 for **sanitary hot water**](https://gitlab.com/hotmaps/load_profile/load_profile_tertiary_shw_yearlong_2010)
 
     &#x1F53A; `In the readme file title, it is written domestic hot water. Since this is for tertiary sector, it should be amended!`
@@ -154,7 +191,7 @@ All the above-mentioned data sets are stored in Hotmaps data repositories on Git
 * [Hourly profile on NUTS 2 level in tertiary sector in year 2010 for **space cooling**](https://gitlab.com/hotmaps/load_profile/load_profile_tertiary_cooling_yearlong_2010)
 
 
-**Industry**
+### Industry profiles - Year specific
 * [Hourly profiles for heat demand on NUTS 0 level in year 2018 in the **paper** industry](https://gitlab.com/hotmaps/load_profile/load_profile_industry_paper_yearlong_2018)
 * [Hourly profiles for heat demand on NUTS 0 level in year 2018 in the **iron and steel** industry](https://gitlab.com/hotmaps/load_profile/load_profile_industry_iron_and_steel_yearlong_2018)
 * [Hourly profiles for heat demand on NUTS 0 level in year 2018 in the **food and tobacco** industry](https://gitlab.com/hotmaps/load_profile/load_profile_industry_food_and_tobacco_yearlong_2018)
@@ -162,7 +199,7 @@ All the above-mentioned data sets are stored in Hotmaps data repositories on Git
 * [Hourly profiles for heat demand on NUTS 0 level in year 2018 in the **chemicals and petrochemicals** industry](https://gitlab.com/hotmaps/load_profile/load_profile_industry_chemicals_and_petrochemicals_yearlong_2018)
 
 
-### Electricity load
+## Electricity load profiles
 * [Annual electricity generation mix on NUTS 0 level](https://gitlab.com/hotmaps/load_electricity/electricity_generation_yearly)
 * [Average hourly CO2 emission factor on NUTS 0 level](https://gitlab.com/hotmaps/load_electricity/electricity_emissions_hourly)
 * [Hourly electricity prices in the year 2015 on NUTS 0 level](https://gitlab.com/hotmaps/load_electricity/electricity_prices_hourly)
@@ -170,7 +207,7 @@ All the above-mentioned data sets are stored in Hotmaps data repositories on Git
 * [Residual Electricity on NUTS 0 level](https://gitlab.com/hotmaps/load_profile/load_profile_electricity_residual_load_electricity_yearlong_2014_2015_2016_2017)
 * [Electricity supply from wind onshore, wind offshore and PV in years 2014 to 2017 on NUTS 0 level](https://gitlab.com/hotmaps/load_profile/load_profile_electricity_wind_on__wind_off__solar_yearlong_2014_2015_2016_2017)
 
-### Temperature profiles
+## Temperature profiles
 * [Daily average temperature of the year 2010 on NUTS 2 level - Residential sites](https://gitlab.com/hotmaps/hotmaps_task_2.7_temperature_profile_daily_avg_household_yearlong_2010)
 * [Daily average temperature of the year 2010 on NUTS 2 level - Industrial sites](https://gitlab.com/hotmaps/temperature_profile_daily_avg_industry_yearlong_2010)
 
@@ -183,7 +220,7 @@ All the above-mentioned data sets are stored in Hotmaps data repositories on Git
 
 
 
-## Transport
+# Transport
 * [Vehicle stock and projections at NUTS 0 level](https://gitlab.com/hotmaps/transport/nuts0)
   * Vehicle stock and projections
   * Electricity need for all transportation modes (electrified transport)
@@ -205,7 +242,7 @@ All the above-mentioned data sets are stored in Hotmaps data repositories on Git
     &#x1F53A; `Licens from EC is missing in this repository.`
 
 
-## References
+# References
 [1] Simon Pezzutto, Stefano Zambotti, Silvia Croce, Pietro Zambelli, Giulia Garegnani, Chiara Scaramuzzino, Ramón Pascual Pascuas, Alyona Zubaryeva, Franziska Haas, Dagmar Exner (EURAC), Andreas Müller (e‐think), Michael Hartner (TUW), Tobias Fleiter, Anna‐Lena Klingler, Matthias Kühnbach, Pia Manz, Simon Marwitz, Matthias Rehfeldt, Jan Steinbach, Eftim Popovski (Fraunhofer ISI) Reviewed by Lukas Kranzl, Sara Fritz (TUW); [Online Access](https://www.hotmaps-project.eu/wp-content/uploads/2018/03/D2.3-Hotmaps_for-upload_revised-final_.pdf)
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
@@ -217,11 +254,11 @@ Mostafa Fallahnejad, in Hotmaps-Wiki, https://github.com/HotMaps/hotmaps_wiki/wi
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
 
-## Authors and reviewers
+# Authors and reviewers
 
 This page is written by Mostafa Fallahnejad\*.
 
-- [ ] This page was reviewed by Lukas Kranzl\*.
+- [x] This page was reviewed by Lukas Kranzl\*.
 
 \* [Energy Economics Group - TU Wien](https://eeg.tuwien.ac.at/)
 

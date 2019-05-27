@@ -1,4 +1,4 @@
-﻿## Table of Contents
+## Table of Contents
 
 * [Introduction](#introduction)
 * [Inputs and outputs](#inputs-and-outputs)
