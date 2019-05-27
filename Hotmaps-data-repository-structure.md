@@ -1,31 +1,31 @@
 # Table of Contents
 
 * [Introduction](#introduction)
-* [Building Stock](#Building-Stock)
-  * [EU Building stock](#EU-Building-stock)
+* [Building stock](#Building-stock)
+  * [EU building stock](#EU-building-stock)
   * [Heating and cooling demand density map](#Heating-and-cooling-demand-density-map)
   * [Gross floor area density map](#Gross-floor-area-density-map)
   * [Gross volume density map](#Gross-volume-density-map)
-  * [Construction Periods](Construction-Periods)
+  * [Construction periods](Construction-periods)
 * [Population](#Population)
-* [Industrial sites](#Industrial-sites)
+* [Industry](#Industry)
 * [Climate](#Climate)
-* [Potential](#Potential)
+* [Renewable energy source potential](#Renewable-energy-source-potential)
 * [Scenario data](#Scenario-data)
 * [Technology data](#Technology-data)
 * [Profiles](#Profiles)
-  * [Heat load profiles - Generic profiles](Heat-load-profiles---Generic-profiles)
+  * [Hourly heat load profiles - Generic profiles](Hourly-heat-load-profiles---Generic-profiles)
     * [Residential profiles - Generic](#Residential-profiles---Generic)
     * [Tertiary profiles - Generic](Tertiary-profiles---Generic)
     * [Industry profiles - Generic](#Industry-profiles---Generic)
-  * [Heat load profiles - Year specific profiles](#Heat-load-profiles---Year-specific-profiles)
+  * [Hourly heat load profiles - Year specific profiles](#Hourly-heat-load-profiles---Year-specific-profiles)
     * [Residential profiles - Year specific](#Residential-profiles---Year-specific)
     * [Tertiary profiles - Year specific](Tertiary-profiles---Year-specific)
     * [Industry profiles - Year specific](#Industry-profiles---Year-specific)
   * [Electricity load profiles](#Electricity-load-profiles)
   * [Temperature profiles](#Temperature-profiles)
 * [Transport](#Transport)
-* [Data sets for the operationo of the Hotmaps toolbox](#Data-sets-for-the-operationo-of-the-Hotmaps-toolbox)
+* [Data sets for the operation of the Hotmaps toolbox](#Data-sets-for-the-operation-of-the-Hotmaps-toolbox)
 * [References](#References)
 * [How to cite](#how-to-cite)
 * [Authors and reviewers](#authors-and-reviewers)
@@ -46,17 +46,17 @@ All the above-mentioned data sets are stored in Hotmaps data repositories on Git
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
 
-# Building Stock
+# Building stock
 
-## EU Building stock
+## EU building stock
 * [Building stock at NUTS 0 level - Residential and service sectors](https://gitlab.com/hotmaps/building-stock)
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
 
 ## Heating and cooling demand density map
-* [Final energy demand density for space heating and domestic hot water - Residential](https://gitlab.com/hotmaps/heat/heat_res_curr_density)
-* [Final energy demand density for space heating and domestic hot water - Non-Residential](https://gitlab.com/hotmaps/heat/heat_nonres_curr_density)
-* [Final energy demand density for space heating and domestic hot water - Total](https://gitlab.com/hotmaps/heat/heat_tot_curr_density)
+* [Final energy demand density for space heating and domestic hot water - **Residential**](https://gitlab.com/hotmaps/heat/heat_res_curr_density)
+* [Final energy demand density for space heating and domestic hot water - **Non-Residential**](https://gitlab.com/hotmaps/heat/heat_nonres_curr_density)
+* [Final energy demand density for space heating and domestic hot water - **Total**](https://gitlab.com/hotmaps/heat/heat_tot_curr_density)
 * [Useful energy demand for space heating and domestic hot water at different NUTS levels](https://gitlab.com/hotmaps/regional_demand)
 
     &#x1F53A; `The data is coming from ESPON Project. I guess it should be final energy demand instad of useful energy demand.`
@@ -68,19 +68,19 @@ All the above-mentioned data sets are stored in Hotmaps data repositories on Git
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
 
 ## Gross floor area density map
-* [Building gross floor area density map - Residential](https://gitlab.com/hotmaps/building_footprint_res_curr)
-* [Building gross floor area density map - Non-Residential](https://gitlab.com/hotmaps/building_footprint_nonres_curr)
-* [Building gross floor area density map - Total](https://gitlab.com/hotmaps/building_footprint_tot_curr)
+* [Building gross floor area density map - **Residential**](https://gitlab.com/hotmaps/building_footprint_res_curr)
+* [Building gross floor area density map - **Non-Residential**](https://gitlab.com/hotmaps/building_footprint_nonres_curr)
+* [Building gross floor area density map - **Total**](https://gitlab.com/hotmaps/building_footprint_tot_curr)
 
 
 ## Gross volume density map
-* [Heated building gross volume density map - Residential](https://gitlab.com/hotmaps/vol_res_curr_density)
-* [Heated building gross volume density map - Non-Residential](https://gitlab.com/hotmaps/vol_nonres_curr_density)
-* [Heated building gross volume density map - Total](https://gitlab.com/hotmaps/vol_tot_curr_density)
+* [Heated building gross volume density map - **Residential**](https://gitlab.com/hotmaps/vol_res_curr_density)
+* [Heated building gross volume density map - **Non-Residential**](https://gitlab.com/hotmaps/vol_nonres_curr_density)
+* [Heated building gross volume density map - **Total**](https://gitlab.com/hotmaps/vol_tot_curr_density)
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
 
-## Construction Periods
+## Construction periods
 * [Share of gross floor area in construction periods](https://gitlab.com/hotmaps/construction_periods/share_gfa_per_construction_period/tree/master)
 
     &#x1F53A; `The README file of this repository is incomplete.`
@@ -94,22 +94,17 @@ All the above-mentioned data sets are stored in Hotmaps data repositories on Git
 
 # Industrial sites
 
-* [Industrial steam generation technologies - Lifetime](https://gitlab.com/hotmaps/industrial_sites/industrial_sites_SteamGenerationData_Lifetime)
-* [Industrial steam generation technologies - Capital expenditures (CAPEX)](https://gitlab.com/hotmaps/industrial_sites/industrial_sites_SteamGenerationData_CAPEX)
-* [Industrial steam generation technologies - Operational expenditures (OPEX)](https://gitlab.com/hotmaps/industrial_sites/industrial_sites_SteamGenerationData_OPEX)
-* [Industrial steam generation technologies - Thermal efficiency](https://gitlab.com/hotmaps/industrial_sites/industrial_sites_SteamGenerationData_ThermalEfficiency)
-* [Industrial steam generation technologies - Power to Heat Ratio](https://gitlab.com/hotmaps/industrial_sites/industrial_sites_SteamGenerationData_PowerToHeatRatio)
 * [Georeferenced energy-intensive industrial sites](https://gitlab.com/hotmaps/industrial_sites/industrial_sites_Industrial_Database)
 * [Benchmark data on heating and cooling demand and excess heat potentials of industrial processes](https://gitlab.com/hotmaps/industrial_sites/industrial_sites_industryBenchmarks)
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
 
 # Climate
-* [Annual average humidity at world level](https://gitlab.com/hotmaps/climate/climate_humidity)
-* [Annual average land surface temperature at world level](https://gitlab.com/hotmaps/climate/climate_land_surface_temperature)
-* [Annual average wind speed at world level](https://gitlab.com/hotmaps/climate/climate_wind_speed)
-* [Monthly average precipitation at world level](https://gitlab.com/hotmaps/climate/climate_precipitation)
-* [Monthly solar radiation on optimally inclined surfaces at world level](https://gitlab.com/hotmaps/climate/climate_solar_radiation)
+* [Annual average humidity at global scale](https://gitlab.com/hotmaps/climate/climate_humidity)
+* [Annual average land surface temperature at global scale](https://gitlab.com/hotmaps/climate/climate_land_surface_temperature)
+* [Annual average wind speed at global scale](https://gitlab.com/hotmaps/climate/climate_wind_speed)
+* [Monthly average precipitation at global scale](https://gitlab.com/hotmaps/climate/climate_precipitation)
+* [Monthly solar radiation on optimally inclined surfaces at global scale](https://gitlab.com/hotmaps/climate/climate_solar_radiation)
 * [Average heating degree days (HDD) and cooling degree days (CDD) at NUTS 3 level](https://gitlab.com/hotmaps/climate/climate_heating_cooling_degreeday)
 * [Heating degree days (HDD) for the reference period 2002-2012 on hectare level](https://gitlab.com/hotmaps/climate/HDD_ha_curr)
 
@@ -122,7 +117,7 @@ All the above-mentioned data sets are stored in Hotmaps data repositories on Git
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
 
-# Potential
+# Renewable energy source potential
 * [Shallow geothermal energy potential - Based on conductivity, ground temperature and seasonal length - Theorethical](https://gitlab.com/hotmaps/potential/potential_geothermal_raster)
 * [Shallow geothermal energy potential - From EC co-funded project ThermoMap](https://gitlab.com/hotmaps/potential/potential_shallowgeothermal)
 * [Solar Potential - Estimated restricted energy potential using open-field solar thermal collector](https://gitlab.com/hotmaps/potential/potential_solarthermal_collectors_open_field)
@@ -142,10 +137,10 @@ All the above-mentioned data sets are stored in Hotmaps data repositories on Git
 
 
 # Scenario data
-* [Energy demand in industry until the year 2050 - Current scenario](https://gitlab.com/hotmaps/scen_current_industry_demand)
-* [Energy demand in industry until the year 2050 - Ambitious scenario](https://gitlab.com/hotmaps/scen_ambitious_industry_demand)
-* [Energy demand in buidlings until the year 2050 - Current scenario](https://gitlab.com/hotmaps/scen_current_building_demand)
-* [Energy demand in buidlings until the year 2050 - Ambitious scenario](https://gitlab.com/hotmaps/scen_ambitious_building_demand)
+* [Energy demand in **industry** until the year 2050 - **Current scenario**](https://gitlab.com/hotmaps/scen_current_industry_demand)
+* [Energy demand in **industry** until the year 2050 - **Ambitious scenario**](https://gitlab.com/hotmaps/scen_ambitious_industry_demand)
+* [Energy demand in **buidlings** until the year 2050 - **Current scenario**](https://gitlab.com/hotmaps/scen_current_building_demand)
+* [Energy demand in **buidlings** until the year 2050 - **Ambitious scenario**](https://gitlab.com/hotmaps/scen_ambitious_building_demand)
 * [Average CO2 emission factors for electricity generation and district heating grids at NUTS 0 level](https://gitlab.com/hotmaps/scen_all_scenarios_electr_district_heat_CO2)
 * [Generation shares (nuclear, fossil, renewable) for electricity and district heating at NUTS 0 level](https://gitlab.com/hotmaps/scen_all_scenarios_electr_district_heat_generation_shares)
 * [Total conversion efficiencies for electricity and district heating at NUTS 0 level](https://gitlab.com/hotmaps/scen_all_scenarios_electr_district_heat_efficiency_total)
@@ -155,6 +150,11 @@ All the above-mentioned data sets are stored in Hotmaps data repositories on Git
 
 
 # Technology data
+* [Industrial steam generation technologies - Lifetime](https://gitlab.com/hotmaps/industrial_sites/industrial_sites_SteamGenerationData_Lifetime)
+* [Industrial steam generation technologies - Capital expenditures (CAPEX)](https://gitlab.com/hotmaps/industrial_sites/industrial_sites_SteamGenerationData_CAPEX)
+* [Industrial steam generation technologies - Operational expenditures (OPEX)](https://gitlab.com/hotmaps/industrial_sites/industrial_sites_SteamGenerationData_OPEX)
+* [Industrial steam generation technologies - Thermal efficiency](https://gitlab.com/hotmaps/industrial_sites/industrial_sites_SteamGenerationData_ThermalEfficiency)
+* [Industrial steam generation technologies - Power to Heat Ratio](https://gitlab.com/hotmaps/industrial_sites/industrial_sites_SteamGenerationData_PowerToHeatRatio)
 * [Heating technology sheet](https://gitlab.com/hotmaps/heating_technologies)
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
@@ -162,7 +162,7 @@ All the above-mentioned data sets are stored in Hotmaps data repositories on Git
 
 # Profiles
 
-## Heat load profiles - Generic profiles
+## Hourly heat load profiles - Generic profiles
 
 ### Residential profiles - Generic
 * [Generic hourly profiles on NUTS 0 level in residential sector - **sanitary hot water**](https://gitlab.com/hotmaps/load_profile/load_profile_residential_shw_generic)
@@ -191,7 +191,7 @@ All the above-mentioned data sets are stored in Hotmaps data repositories on Git
 
 
 
-## Heat load profiles - Year specific profiles
+## Hourly heat load profiles - Year specific profiles
 
 ### Residential profiles - Year specific
 * [Hourly profile on NUTS 2 level in residential sector in year 2010 for **sanitary hot water**](https://gitlab.com/hotmaps/load_profile/load_profile_residential_shw_yearlong_2010)
@@ -236,8 +236,8 @@ All the above-mentioned data sets are stored in Hotmaps data repositories on Git
 
 
 ## Temperature profiles
-* [Daily average temperature of the year 2010 on NUTS 2 level - Residential sites](https://gitlab.com/hotmaps/hotmaps_task_2.7_temperature_profile_daily_avg_household_yearlong_2010)
-* [Daily average temperature of the year 2010 on NUTS 2 level - Industrial sites](https://gitlab.com/hotmaps/temperature_profile_daily_avg_industry_yearlong_2010)
+* [Daily average temperature of the year 2010 on NUTS 2 level - **Residential** sites](https://gitlab.com/hotmaps/hotmaps_task_2.7_temperature_profile_daily_avg_household_yearlong_2010)
+* [Daily average temperature of the year 2010 on NUTS 2 level - **Industrial** sites](https://gitlab.com/hotmaps/temperature_profile_daily_avg_industry_yearlong_2010)
 
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
@@ -264,7 +264,7 @@ All the above-mentioned data sets are stored in Hotmaps data repositories on Git
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
 
-# Data sets for the operationo of the Hotmaps toolbox
+# Data sets for the operation of the Hotmaps toolbox
 * [Raster for querry on NUTS IDs](https://gitlab.com/hotmaps/nuts_id_number)
 * [Hotmaps Local Administrative Boundaries](https://gitlab.com/hotmaps/HotmapsLAU)
 * [Hotmaps NUTS Boundaries](https://gitlab.com/hotmaps/NUTS)
