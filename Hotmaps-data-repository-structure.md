@@ -247,7 +247,7 @@ All the above-mentioned data sets are stored in Hotmaps data repositories on Git
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
 
-## How to cite
+# How to cite
 
 Mostafa Fallahnejad, in Hotmaps-Wiki, https://github.com/HotMaps/hotmaps_wiki/wiki/Hotmaps-data-repository-structure (May 2019)
 
@@ -270,7 +270,7 @@ Gusshausstrasse 27-29/370
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
 
-## License
+# License
 
 Copyright © 2016-2019: Mostafa Fallahnejad
 
@@ -284,7 +284,7 @@ License-Text: https://spdx.org/licenses/CC-BY-4.0.html
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
 
-## Acknowledgement
+# Acknowledgement
 
 We would like to convey our deepest appreciation to the Horizon 2020 [Hotmaps Project](https://www.hotmaps-project.eu) (Grant Agreement number 723677), which provided the funding to carry out the present investigation.
 
