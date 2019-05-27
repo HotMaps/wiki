@@ -44,6 +44,7 @@ Within the scope of the Hotmaps project, data has been collected at various leve
 All the above-mentioned data sets are stored in Hotmaps data repositories on GitLab and can be accessed and downloaded form there. The Hotmaps data repositories are extensive and composed of more than 70 repositories. In order to provide a better overview of all Hotmaps repositories, here, we clustered them into different classes and provided the direct link to them. For detailed explanations on data collection, methodologies, references, assumptions and limitations of Hotmaps data sets refer to this [report](https://www.hotmaps-project.eu/wp-content/uploads/2018/03/D2.3-Hotmaps_for-upload_revised-final_.pdf) [1].
 
 
+<code><ins>**[To Top](#table-of-contents)**</ins></code>
 
 # Building Stock
 
@@ -78,9 +79,12 @@ All the above-mentioned data sets are stored in Hotmaps data repositories on Git
 
     &#x1F53A; `The README file of this repository is incomplete.`
 
+<code><ins>**[To Top](#table-of-contents)**</ins></code>
 
 # Population
 * [Population distribution in EU28 on hectare (ha) level](https://gitlab.com/hotmaps/pop_tot_curr_density)
+
+<code><ins>**[To Top](#table-of-contents)**</ins></code>
 
 # Industrial sites
 
@@ -92,6 +96,7 @@ All the above-mentioned data sets are stored in Hotmaps data repositories on Git
 * [Georeferenced energy-intensive industrial sites](https://gitlab.com/hotmaps/industrial_sites/industrial_sites_Industrial_Database)
 * [Benchmark data on heating and cooling demand and excess heat potentials of industrial processes](https://gitlab.com/hotmaps/industrial_sites/industrial_sites_industryBenchmarks)
 
+<code><ins>**[To Top](#table-of-contents)**</ins></code>
 
 # Climate
 * [Annual average humidity at world level](https://gitlab.com/hotmaps/climate/climate_humidity)
@@ -109,6 +114,7 @@ All the above-mentioned data sets are stored in Hotmaps data repositories on Git
     &#x1F53A; `Reference period in title and in the description within the readme file does not match`
 
 
+<code><ins>**[To Top](#table-of-contents)**</ins></code>
 
 # Potential
 * [Shallow geothermal energy potential - Based on conductivity, ground temperature and seasonal length - Theorethical](https://gitlab.com/hotmaps/potential/potential_geothermal_raster)
@@ -134,8 +140,15 @@ All the above-mentioned data sets are stored in Hotmaps data repositories on Git
 * [Generation shares (nuclear, fossil, renewable) for electricity and district heating at NUTS 0 level](https://gitlab.com/hotmaps/scen_all_scenarios_electr_district_heat_generation_shares)
 * [Total conversion efficiencies for electricity and district heating at NUTS 0 level](https://gitlab.com/hotmaps/scen_all_scenarios_electr_district_heat_efficiency_total)
 
-## Technology data
+
+<code><ins>**[To Top](#table-of-contents)**</ins></code>
+
+
+# Technology data
 * [Heating technology sheet](https://gitlab.com/hotmaps/heating_technologies)
+
+<code><ins>**[To Top](#table-of-contents)**</ins></code>
+
 
 # Profiles
 
@@ -164,7 +177,7 @@ All the above-mentioned data sets are stored in Hotmaps data repositories on Git
 * [Generic hourly profiles for heat demand on NUTS 0 level in the **chemicals and petrochemicals** industry](https://gitlab.com/hotmaps/load_profile/load_profile_industry_chemicals_and_petrochemicals_generic)
 
 
-
+<code><ins>**[To Top](#table-of-contents)**</ins></code>
 
 
 
@@ -198,6 +211,7 @@ All the above-mentioned data sets are stored in Hotmaps data repositories on Git
 * [Hourly profiles for heat demand on NUTS 0 level in year 2018 in the  **non-metallic minerals** industry](https://gitlab.com/hotmaps/load_profile/load_profile_industry_non_metalic_minerals_yearlong_2018)
 * [Hourly profiles for heat demand on NUTS 0 level in year 2018 in the **chemicals and petrochemicals** industry](https://gitlab.com/hotmaps/load_profile/load_profile_industry_chemicals_and_petrochemicals_yearlong_2018)
 
+<code><ins>**[To Top](#table-of-contents)**</ins></code>
 
 ## Electricity load profiles
 * [Annual electricity generation mix on NUTS 0 level](https://gitlab.com/hotmaps/load_electricity/electricity_generation_yearly)
@@ -207,12 +221,16 @@ All the above-mentioned data sets are stored in Hotmaps data repositories on Git
 * [Residual Electricity on NUTS 0 level](https://gitlab.com/hotmaps/load_profile/load_profile_electricity_residual_load_electricity_yearlong_2014_2015_2016_2017)
 * [Electricity supply from wind onshore, wind offshore and PV in years 2014 to 2017 on NUTS 0 level](https://gitlab.com/hotmaps/load_profile/load_profile_electricity_wind_on__wind_off__solar_yearlong_2014_2015_2016_2017)
 
+
+<code><ins>**[To Top](#table-of-contents)**</ins></code>
+
+
 ## Temperature profiles
 * [Daily average temperature of the year 2010 on NUTS 2 level - Residential sites](https://gitlab.com/hotmaps/hotmaps_task_2.7_temperature_profile_daily_avg_household_yearlong_2010)
 * [Daily average temperature of the year 2010 on NUTS 2 level - Industrial sites](https://gitlab.com/hotmaps/temperature_profile_daily_avg_industry_yearlong_2010)
 
 
-
+<code><ins>**[To Top](#table-of-contents)**</ins></code>
 
 
 
@@ -234,6 +252,8 @@ All the above-mentioned data sets are stored in Hotmaps data repositories on Git
     &#x1F53A; `The README file of this repository is incomplete.`
 
 
+<code><ins>**[To Top](#table-of-contents)**</ins></code>
+
 # Data sets for the operationo of the Hotmaps toolbox
 * [Raster for querry on NUTS IDs](https://gitlab.com/hotmaps/nuts_id_number)
 * [Hotmaps Local Administrative Boundaries](https://gitlab.com/hotmaps/HotmapsLAU)
@@ -241,6 +261,8 @@ All the above-mentioned data sets are stored in Hotmaps data repositories on Git
 
     &#x1F53A; `Licens from EC is missing in this repository.`
 
+
+<code><ins>**[To Top](#table-of-contents)**</ins></code>
 
 # References
 [1] Simon Pezzutto, Stefano Zambotti, Silvia Croce, Pietro Zambelli, Giulia Garegnani, Chiara Scaramuzzino, Ramón Pascual Pascuas, Alyona Zubaryeva, Franziska Haas, Dagmar Exner (EURAC), Andreas Müller (e‐think), Michael Hartner (TUW), Tobias Fleiter, Anna‐Lena Klingler, Matthias Kühnbach, Pia Manz, Simon Marwitz, Matthias Rehfeldt, Jan Steinbach, Eftim Popovski (Fraunhofer ISI) Reviewed by Lukas Kranzl, Sara Fritz (TUW); [Online Access](https://www.hotmaps-project.eu/wp-content/uploads/2018/03/D2.3-Hotmaps_for-upload_revised-final_.pdf)
