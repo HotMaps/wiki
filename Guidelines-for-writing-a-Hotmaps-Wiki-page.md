@@ -115,7 +115,7 @@ Here, the most important point is to keep track of all Hotmaps repositories on G
 
 ## Authors and reviewers
 This page is written by Mostafa Fallahnejad\*.
-- [ ] This page was reviewed by Lukas Kranzl\*.
+- [x] This page was reviewed by Lukas Kranzl\*.
 
 \* [Energy Economics Group - TU Wien](https://eeg.tuwien.ac.at/)
 Institute of Energy Systems and Electrical Drives
