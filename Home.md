@@ -48,11 +48,11 @@ We hope you enjoy exploring the toolbox and find it helpful for your heating and
 * [Data upload functionalities](Data-upload-functionalities)
 * [Data export functionalities](Data-export-functionalities)
 
-## Calculation modules
+## Calculation modules (CM)
 * [CM - Customized heat and floor area density maps](CM-Customized-heat-and-floor-area-density-maps)
 * [CM - Demand projection](CM-Demand-projection)
 * [CM - Heat load profiles](CM-Heat-load-profiles)
-* [CM - Potential district heating areas: user-defined thresholds](CM-Potential-district-heating-areas-user-defined-thresholds)
+* [CM - District heating potential areas: user-defined thresholds](CM-District-heating-potential-areas-user-defined-thresholds)
 * [CM - District heating potential: economic assessment](CM-District-heating-potential-economic-assessment)
 * [CM - District heating supply dispatch](CM-District-heating-supply-dispatch)
 * [CM - Decentral heating supply](CM-Decentral-heating-supply)  
