@@ -147,10 +147,14 @@ Additionally, also two diagrams are generated. The first one shows the DH potent
 
 
 
+<code><ins>**[To Top](#table-of-contents)**</ins></code>
+
 ## How to cite
 
 Mostafa Fallahnejad, in Hotmaps-Wiki, https://github.com/HotMaps/hotmaps_wiki/wiki/CM-District-heating-potentials (April 2019)
 
+
+<code><ins>**[To Top](#table-of-contents)**</ins></code>
 
 ## Authors and reviewers
 
@@ -167,6 +171,8 @@ Gusshausstrasse 27-29/370
 1040 Wien
 
 
+<code><ins>**[To Top](#table-of-contents)**</ins></code>
+
 ## License
 
 Copyright © 2016-2019: Mostafa Fallahnejad
@@ -179,6 +185,8 @@ SPDX-License-Identifier: CC-BY-4.0
 
 License-Text: https://spdx.org/licenses/CC-BY-4.0.html
 
+
+<code><ins>**[To Top](#table-of-contents)**</ins></code>
 
 ## Acknowledgement
 
