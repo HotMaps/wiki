@@ -2,8 +2,8 @@
 
 [Home](Home)
 ## Data sets
-* [Hotmaps open data set: data collection](Hotmaps-open-data-set-data-collection)
-* [Hotmaps repository structure](Hotmaps-data-repository-structure)
+* [Hotmaps data set: Method of data collection](Hotmaps-data-set-method-of-data-collection)
+* [Hotmaps open data repositories](Hotmaps-open-data-repositories)
 
 ## General tool functionalities and structure
 * [Introduction to user interface](Introduction-to-user-interface)
