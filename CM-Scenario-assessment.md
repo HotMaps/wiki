@@ -74,6 +74,8 @@ Note: the supply cost in scenario assessment may become very large if we show it
 
 ### CM - Excess heat transport potential
 
+* Available Excess heat potential in _*MWh*_
+* Cost of excess heat in _*EUR/MWh*_
 
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
