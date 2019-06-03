@@ -58,7 +58,7 @@ In the following, required indicators from each calculation module for the "**ca
 * Energy carrier mix in form of stacked bar chart:
   * Consumption level in _*MWh*_
   * CO<sub>2</sub> emissions in _*tons/year*_ per energy carrier
-  * Supply cost in _*EUR/MWh*_ per energy carrier: CAPEX + OPEX + Energy Costs
+  * Overall supply cost in _*EUR/MWh*_ for the whole carrier mix: CAPEX + OPEX + Energy Costs
 
 ```
 Note: the supply cost in scenario assessment may become very large if we show it in form of bar charts for all energy carriers. It shall be disscussed further for the implementation.
@@ -67,7 +67,7 @@ Note: the supply cost in scenario assessment may become very large if we show it
 ### CM - Decentral heating supply
 
 * Energy carrier mix in form of stacked bar chart:
-  * Referenced heat cost per energy carrier in _*EUR/MWh*_: CAPEX + OPEX + Energy Costs
+  * Referenced heat cost for the whole energy carrier mix in _*EUR/MWh*_: CAPEX + OPEX + Energy Costs
   * Decentral heating CO<sub>2</sub> emission per energy carrier in _*tons/year*_
 * Weighted average levelized cost of heat for the building stock in _*EUR/MWh*_
 
