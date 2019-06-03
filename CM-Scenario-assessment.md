@@ -25,7 +25,7 @@ In the following, required indicators from each calculation module for the "**ca
 ### CM - Customized heat and floor area density maps
 
 * Total floor area in _*m<sup>2</sup>*_
-* Total heat demand in _*MWh_*
+* Total heat demand in _*MWh*_
 
 
 ### CM - Scale heat and cool density maps
