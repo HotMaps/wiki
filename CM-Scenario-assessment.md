@@ -28,9 +28,6 @@ In the following, required indicators from each calculation module for the "**ca
 * Total heat demand in _*MWh*_
 
 
-### CM - Scale heat and cool density maps
-
-
 
 ### CM - Demand projection
 
