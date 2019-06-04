@@ -79,6 +79,11 @@ Note: the supply cost in scenario assessment may become very large if we show it
 
 ## Overall scenario assessment
 
+The indicators for this part originate from two calculation modules:
+
+1. CM - Decentral heating supply
+1. CM - District heating supply dispatch
+
 For each scenario tag, the following three indicators are shown in form of **stacked bar chart**:
 
 * Overall (aggregated) costs of heat supply by **district heating system** and **decentral heating system** in _*EUR*_
