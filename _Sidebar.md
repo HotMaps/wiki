@@ -28,6 +28,8 @@
 * [CM - Solar thermal and PV potential](CM-Solar-thermal-and-PV-potential)
 * [CM - Shallow geothermal potential](CM-Shallow-geothermal-potential)
 * [CM - Heat sources potential](CM-Heat-source-potential)
+* [CM - Biomass potential](CM-Biomass-potential)
+* [CM - Wind potential](CM-Wind-potential)
 * [CM - Excess heat transport potential](CM-Excess-heat-transport-potential)
 * [CM - Scenario assessment](CM-Scenario-assessment)
 
