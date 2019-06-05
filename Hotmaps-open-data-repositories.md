@@ -106,6 +106,9 @@ All the above-mentioned data sets are stored in Hotmaps data repositories on Git
 * [Annual average wind speed at global scale](https://gitlab.com/hotmaps/climate/climate_wind_speed)
 * [Monthly average precipitation at global scale](https://gitlab.com/hotmaps/climate/climate_precipitation)
 * [Monthly solar radiation on optimally inclined surfaces at global scale](https://gitlab.com/hotmaps/climate/climate_solar_radiation)
+
+    &#x1F53A; `Readme is misleading. in the table within the readme file, it is written annual value. However, in the explanation it is written monthly values!`
+
 * [Average heating degree days (HDD) and cooling degree days (CDD) at NUTS 3 level](https://gitlab.com/hotmaps/climate/climate_heating_cooling_degreeday)
 * [Heating degree days (HDD) for the reference period 2002-2012 on hectare level](https://gitlab.com/hotmaps/climate/HDD_ha_curr)
 
