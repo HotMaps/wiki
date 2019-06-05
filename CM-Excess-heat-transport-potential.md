@@ -16,15 +16,26 @@ The use of excess heat for district heating.
 
 * District heating areas (for now directly provided by the district heating potential CM)
 * Industrial database (by default provided by the toolbox)
-* Serach radius in km
-* Investment period in years
+* Search radius in km
+* Lifetime of equipment in years
+* Discount rate in %
+* Cost factor
+* Operational costs in %
 * Threshold value for transmission lines in ct/kWh
 
 ### Output layers and indicators
 
 * Transmission lines
-* Total flow and costs and cost per flow
-
+* Total excess heat in selected area in GWh
+* Excess heat connected in GWh
+* Excess heat used in GWh
+* Cost of network in €
+* Annual costs of network in €/year
+* Levelised costs of heat supply in ct/kWh
+* Graphic showing DH potential, total excess heat, connected excess heat and used excess heat
+* Graphic showing monthly heat demand and excess
+* Graphic showing average daily heat demand and excess
+ 
 ## Method
 ### Overview
 The key element of the excess heat module is the source sink model used.
