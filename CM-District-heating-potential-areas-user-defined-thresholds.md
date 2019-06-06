@@ -63,7 +63,7 @@ This code uses the concept of connected components from image processing library
 
 ## GitHub Repository of this calculation module
 
-[Here](#https://github.com/HotMaps/dh_potential/tree/develop) you get the bleeding-edge development for this calculation module.
+[Here](https://github.com/HotMaps/dh_potential/tree/develop) you get the bleeding-edge development for this calculation module.
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
 
