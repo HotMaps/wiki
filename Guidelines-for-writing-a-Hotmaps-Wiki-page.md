@@ -70,7 +70,7 @@ Here, the most important point is to keep track of all Hotmaps repositories on G
 * __Introduction__
 * __Inputs and outputs__
 * __Method__
-* __GitHub Repository of this calculation module__
+* __GitHub repository of this calculation module__
 * __Sample run__
   * Test Run 1: XXXXX
   * Test Run 2: YYYYY
