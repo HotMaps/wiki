@@ -3,7 +3,7 @@
 * [Introduction](#introduction)
 * [Inputs and outputs](#inputs-and-outputs)
 * [Method](#method)
-* [GitHub Repository of this calculation module](#GitHub-Repository-of-this-calculation-module)
+* [GitHub repository of this calculation module](#GitHub-Repository-of-this-calculation-module)
 * [Sample run](#sample-run)
   * [Test Run 1: default input values](#test-run-1-default-input-values)
   * [Test Run 2: modified input values](#test-run-2-modified-input-values)
@@ -61,7 +61,7 @@ This code uses the concept of connected components from image processing library
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
 
-## GitHub Repository of this calculation module
+## GitHub repository of this calculation module
 
 [Here](https://github.com/HotMaps/dh_potential/tree/develop) you get the bleeding-edge development for this calculation module.
 
