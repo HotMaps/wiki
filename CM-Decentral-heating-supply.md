@@ -3,6 +3,7 @@
 * [Introduction](#introduction)
 * [Inputs and outputs](#inputs-and-outputs)
 * [Method](#method)
+* [GitHub Repository of this calculation module](#GitHub-Repository-of-this-calculation-module)
 * [Sample run](#sample-run)
   * [Test Run 1: single family house, existing building](#test-run-1-single-family-house-existing-building)
   * [Test Run 2: multi-family house, new building](#test-run-2-multi---family-house-new-building)
@@ -81,6 +82,13 @@ LCOH = total_costs / energy_demand
 ```
 The above process is performed for all heating systems mentioned in the [Introductio](#Introduction) section.  The summary of the results is presented in form of graphs and indicators in the toolbox.
 
+
+<code><ins>**[To Top](#table-of-contents)**</ins></code>
+
+
+## GitHub Repository of this calculation module
+
+[Here](https://github.com/HotMaps/lcoh/tree/develop) you get the bleeding-edge development for this calculation module.
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
 
