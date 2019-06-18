@@ -175,18 +175,18 @@ All the above-mentioned data sets are stored in Hotmaps data repositories on Git
 ## Hourly heat load profiles - Generic profiles
 
 ### Residential profiles - Generic
-* [Generic hourly profiles on NUTS 0 level in residential sector - **sanitary hot water**](https://gitlab.com/hotmaps/load_profile/load_profile_residential_shw_generic)
-* [Generic hourly profiles on NUTS 0 level in residential sector - **space heating demand**](https://gitlab.com/hotmaps/load_profile/load_profile_residential_heating_generic)
+* [Generic hourly profiles on NUTS 2 level in residential sector - **sanitary hot water**](https://gitlab.com/hotmaps/load_profile/load_profile_residential_shw_generic)
+* [Generic hourly profiles on NUTS 2 level in residential sector - **space heating demand**](https://gitlab.com/hotmaps/load_profile/load_profile_residential_heating_generic)
 
     &#x1F53A; `The title of the repository does not match with the title of the readme file and is misleading!`
 
-* [Generic hourly profiles on NUTS 0 level in residential sector - **space cooling**](https://gitlab.com/hotmaps/load_profile/load_profile_residential_cooling_generic)
+* [Generic hourly profiles on NUTS 2 level in residential sector - **space cooling**](https://gitlab.com/hotmaps/load_profile/load_profile_residential_cooling_generic)
 
 
 ### Tertiary profiles - Generic
-* [Generic hourly profiles on NUTS 0 level in tertiary sector - **sanitary hot water demand**](https://gitlab.com/hotmaps/load_profile/load_profile_tertiary_shw_generic)
-* [Generic hourly profiles on NUTS 0 level in tertiary sector - **space heating demand**](https://gitlab.com/hotmaps/load_profile/load_profile_tertiary_heating_generic)
-* [Generic hourly profiles on NUTS 0 level in tertiary sector - **space cooling demand**](https://gitlab.com/hotmaps/load_profile/load_profile_tertiary_cooling_generic)
+* [Generic hourly profiles on NUTS 2 level in tertiary sector - **sanitary hot water demand**](https://gitlab.com/hotmaps/load_profile/load_profile_tertiary_shw_generic)
+* [Generic hourly profiles on NUTS 2 level in tertiary sector - **space heating demand**](https://gitlab.com/hotmaps/load_profile/load_profile_tertiary_heating_generic)
+* [Generic hourly profiles on NUTS 2 level in tertiary sector - **space cooling demand**](https://gitlab.com/hotmaps/load_profile/load_profile_tertiary_cooling_generic)
 
 
 ### Industry profiles - Generic
