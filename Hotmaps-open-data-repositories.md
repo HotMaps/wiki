@@ -184,7 +184,7 @@ All the above-mentioned data sets are stored in Hotmaps data repositories on Git
 
 
 ### Tertiary profiles - Generic
-* [Generic hourly profiles on NUTS 0 level in tertiary sector - **sanitary hot water demand**](https://gitlab.com/hotmaps/load_profile/load_profile_industry_paper_generic)
+* [Generic hourly profiles on NUTS 0 level in tertiary sector - **sanitary hot water demand**](https://gitlab.com/hotmaps/load_profile/load_profile_tertiary_shw_generic)
 * [Generic hourly profiles on NUTS 0 level in tertiary sector - **space heating demand**](https://gitlab.com/hotmaps/load_profile/load_profile_tertiary_heating_generic)
 * [Generic hourly profiles on NUTS 0 level in tertiary sector - **space cooling demand**](https://gitlab.com/hotmaps/load_profile/load_profile_tertiary_cooling_generic)
 
