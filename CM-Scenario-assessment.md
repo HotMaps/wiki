@@ -61,7 +61,7 @@ In the following, required indicators from each calculation module for the "**ca
 Note: the supply cost in scenario assessment may become very large if we show it in form of bar charts for all energy carriers. It shall be disscussed further for the implementation.
 ```
 
-### CM - Decentral heating supply
+### CM - Decentral heating supply - City level
 
 * Energy carrier mix in form of stacked bar chart:
   * Referenced heat cost for the whole energy carrier mix in _*EUR/MWh*_: CAPEX + OPEX + Energy Costs
