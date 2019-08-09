@@ -16,7 +16,7 @@ Thanks to this software, you will be able to take practical decisions in your ar
 The Hotmaps Wiki hosts the documentation, guidance and manual of the Hotmaps toolbox. It consists of the following main parts:
 1. [Data sets](#Data-sets)
 1. [General toolbox functionalities](#General-tool-functionalities-and-structure),
-1. [Calculation modules](#Calculation-modules),
+1. [Calculation modules](#Calculation-modules-cm),
 1. [How to apply hotmaps toolbox?](#How-to-apply-Hotmaps-toolbox)
 1. [Developers](#For-developers) section.
 
