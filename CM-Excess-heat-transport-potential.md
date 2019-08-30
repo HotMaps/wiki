@@ -17,8 +17,8 @@ The use of excess heat for district heating.
 * District heating areas (for now directly provided by the district heating potential CM)
 * Industrial database (by default provided by the toolbox)
 #### Provided by user
-* Min. heat demand in hectare. See *\ [DH Potential CM](https://github.com/HotMaps/hotmaps_wiki/wiki/CM-District-heating-potential-areas-user-defined-thresholds)
-* Min. heat demand in a DH area. See *\ [DH Potential CM](https://github.com/HotMaps/hotmaps_wiki/wiki/CM-District-heating-potential-areas-user-defined-thresholds)
+* Min. heat demand in hectare. See [DH Potential CM](https://github.com/HotMaps/hotmaps_wiki/wiki/CM-District-heating-potential-areas-user-defined-thresholds)
+* Min. heat demand in a DH area. See [DH Potential CM](https://github.com/HotMaps/hotmaps_wiki/wiki/CM-District-heating-potential-areas-user-defined-thresholds)
 * Search radius in km
 * Lifetime of equipment in years
 * Discount rate in %
