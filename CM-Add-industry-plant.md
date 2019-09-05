@@ -8,7 +8,7 @@
 * [Acknowledgement](#acknowledgement)
 
 ## Introduction
-This module provides the possibility to add additional industry sites with their process heating and cooling demand and excess heat potential to the HotMaps toolbox. It is possible to add additional energy-intensive as well as less-energy intensive industries. The user enters the necessary data in a stand-alone Excel-tool, which then generates a datasheet to be uploaded on the HotMaps toolbox.   
+This module provides the possibility to add additional industry sites with their heating and cooling demand and excess heat potential to the HotMaps toolbox. It is possible to add additional energy-intensive as well as less-energy intensive industries. The user enters the necessary data in a stand-alone Excel-tool, which then generates a datasheet to be uploaded on the HotMaps toolbox.   
 
 ## Inputs and outputs (How-to-use)
 
@@ -19,7 +19,7 @@ Please download the provided Excel-tool here: xxx
 #### Add general information
 Where? Tabsheet "Input - General information"
 
-In the first step please enter all necessary general information about the sites for which process heat and cooling demand and excess heat potential should be calculated. It is possible to add up to 10 industrial sites. 
+In the first step please enter all necessary general information about the sites for which heat and cooling demand and excess heat potential should be calculated. It is possible to add up to 10 industrial sites. 
 
 xxx Screenshot Tabsheet & General information Box xxx
 
@@ -37,3 +37,5 @@ Please fill in manually, if data on heat/ cooling demand and excess heat potenti
 ##### Option 2: Plant selection
 
 ##### Option 3: Sector selection
+
+### Data upload on HotMaps toolbox
