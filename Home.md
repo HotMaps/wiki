@@ -63,6 +63,7 @@ We hope you enjoy exploring the toolbox and find it helpful for your heating and
 * [CM - Biomass potential](CM-Biomass-potential)
 * [CM - Wind potential](CM-Wind-potential)
 * [CM - Excess heat transport potential](CM-Excess-heat-transport-potential)
+* [CM - Add industry plant](CM-add-industry-plant)
 * [CM - Scenario assessment](CM-Scenario-assessment)
 
 ## How to apply Hotmaps toolbox
