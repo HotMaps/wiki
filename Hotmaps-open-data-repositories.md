@@ -124,11 +124,11 @@ All the above-mentioned data sets are stored in Hotmaps data repositories on Git
 # Renewable energy source potential
 * [Shallow geothermal energy potential - Based on conductivity, ground temperature and seasonal length - Theorethical](https://gitlab.com/hotmaps/potential/potential_geothermal_raster)
 * [Shallow geothermal energy potential - From EC co-funded project ThermoMap](https://gitlab.com/hotmaps/potential/potential_shallowgeothermal)
-* [Solar Potential - Estimated restricted energy potential using open-field solar thermal collector](https://gitlab.com/hotmaps/potential/potential_solarthermal_collectors_open_field)
+* [Solar Potential - Average solar thermal potential using open-field solar thermal collector](https://gitlab.com/hotmaps/potential/potential_solarthermal_collectors_open_field)
 
 &#x1F53A; `The unit of the data set has not been mentioned in the Readme file nor in the datapackage file.`
 
-* [Solar Potential - Estimated restricted energy potential using roof-mounted solar thermal collectors](https://gitlab.com/hotmaps/potential/potential_solarthermal_collectors_rooftop)
+* [Solar Potential - Average solar thermal potential using roof-mounted solar thermal collectors](https://gitlab.com/hotmaps/potential/potential_solarthermal_collectors_rooftop)
 
 &#x1F53A; `The unit of the data set has not been mentioned in the Readme file nor in the datapackage file.`
 
