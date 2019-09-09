@@ -149,8 +149,8 @@ All the above-mentioned data sets are stored in Hotmaps data repositories on Git
 # Scenario data
 * [Energy demand in **industry** until the year 2050 - **Current scenario**](https://gitlab.com/hotmaps/scen_current_industry_demand)
 * [Energy demand in **industry** until the year 2050 - **Ambitious scenario**](https://gitlab.com/hotmaps/scen_ambitious_industry_demand)
-* [Energy demand in **buidlings** until the year 2050 - **Current scenario**](https://gitlab.com/hotmaps/scen_current_building_demand)
-* [Energy demand in **buidlings** until the year 2050 - **Ambitious scenario**](https://gitlab.com/hotmaps/scen_ambitious_building_demand)
+* [Energy demand in **buildings** until the year 2050 - **Current scenario**](https://gitlab.com/hotmaps/scen_current_building_demand)
+* [Energy demand in **buildings** until the year 2050 - **Ambitious scenario**](https://gitlab.com/hotmaps/scen_ambitious_building_demand)
 * [Average CO2 emission factors for electricity generation and district heating grids at NUTS 0 level](https://gitlab.com/hotmaps/scen_all_scenarios_electr_district_heat_CO2)
 * [Generation shares (nuclear, fossil, renewable) for electricity and district heating at NUTS 0 level](https://gitlab.com/hotmaps/scen_all_scenarios_electr_district_heat_generation_shares)
 * [Total conversion efficiencies for electricity and district heating at NUTS 0 level](https://gitlab.com/hotmaps/scen_all_scenarios_electr_district_heat_efficiency_total)
