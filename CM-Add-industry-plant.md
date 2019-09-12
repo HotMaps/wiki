@@ -27,7 +27,7 @@ In the first step please enter all necessary general information about the sites
 
 In the second step there are 3 options how heat and cooling demand and excess heat potential can be estimated. Please note, that it is possible to switch between the three options for the different companies but not within a company itself.
 
-With regard to the temperature of the unused excess heat it has to be mentioned that low temperature heat (< 100°C) can be entered into the Excel-Tool but is not yet evaluated in the HotMaps toolbox. If low temperature heat should be considered the application of a heat pump is necessary. Therefor the user can include the electricity demand of a heat pump in the final energy demand for electricity and lift the temperature of generated excess heat up to the range of 100-200°C.
+With regard to the excess heat temperature it has to be mentioned, that low temperature heat (< 100°C) can be entered into the Excel-Tool but is not yet evaluated in the HotMaps toolbox. If low temperature heat should be considered, the application of a heat pump is necessary. Therefor the user can include the electricity demand of a heat pump in the final energy demand for electricity and lift the temperature of the generated excess heat up to the range of 100-200°C.
 
 xxx Img Steps xxx
 
@@ -55,6 +55,7 @@ Please note: At the moment the upload of CSV-files is not yet implemented on the
 ## Method
 
 If the heat/ cooling demand and excess heat potential of a plant is not known, two indicator based methods are offered to the user for the calculation of heat demand and excess heat potential. 
+
 It has to be mentioned that these values are only indicative approximate values for typical plants (option 2) or on a sectorial level (option 3) and don't replace a detailed analysis and measurement of heat demand and excess heat of a plant.
 
 
@@ -67,19 +68,19 @@ For the calculation of heat and cooling demand it is necessary to assume convers
 The whole database used for option 2 is available here: Repository_Link
 
 ### Option 3: Sector selection
-Option 3 provides a broad based assessment of heat demand an excess heat for the sectors of the manufacturing industrie (according to NACE 2008). 
+Option 3 provides a broad based assessment of heat demand and excess heat for the sectors of the manufacturing industry (according to NACE 2008). 
 
 #### Calculation of excess heat potentials on sectorial level
-For the calculation of the excess heat potential for the different sectors excess heat factors according to Brückner 2016 are used (see figure xxx). The excess heat factor is defined as waste heat generated per fuel consumption.
+For the calculation of the excess heat potential of the different sectors excess heat factors according to Brückner 2016 are used (see figure xxx). The excess heat factor is defined as waste heat generated per fuel consumption.
 In Brückner 2016 the available data to determine the excess heat potential in the manufacturing industry originates from the emissions survey carried out every four years on state level in germany. 
-According to the EMission Declaration ordinance (1. BImSchG) all operators of plants, which are subject to approval, have to submit a declaration of their emissions every four years. 
-For the year 2008 data on company level consisting of exhaust gas volume flows and their temperature level are evaluated. In addition available information on the type and quantitiy of fuel is utilized and the excess heat factor of a plant is calculated as
+According to the Emission Declaration Ordinance (1. BImSchG) all operators of plants, which are subject to approval, have to submit a declaration of their emissions every four years. 
+For the year 2008 data on company level consisting of exhaust gas volume flows and their temperature level are evaluated. Together with available information on the type and quantitiy of fuel consumption of the plants, the excess heat factor of a plant is calculated as
 
 Excess heat factor = Excess heat / fuel consumption
 
 Finally the excess heat factor is calculated not only at company level but also on sector level. For detailed information see Brückner 2016.
 
-The excess heat factors according to Brückner 2016 includes excess heat from process heat as well as hot water and space heat generation, since only an exhaust gas volume flow leaving the plant in analyzed without separating the fuel consumption into space heating, hot water and process heat.
+The excess heat factors according to Brückner 2016 include excess heat coming from process heat as well as space heat generation and hot water. This is due to the fact that only an exhaust gas volume flow leaving the plant is analyzed without separating the fuel consumption into space heating, hot water and process heat.
 
 #### Calculation of heat demand on sectorial level
 
