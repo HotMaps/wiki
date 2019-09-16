@@ -45,7 +45,7 @@ To add datasets on the list of public datasets, they must be pushed to a new Git
 
 Once a day the repositories are checked for new commits and integrated if so. The integration process checks whether the data conforms to the specification or not. 
 
-Here is the specification:  [Hotmaps_Data-upload-on-Gitlab_2017-12-04_V4.pdf](en-uploads\Hotmaps_Data-upload-on-Gitlab_2017-12-04_V4.pdf) 
+Here is the specification:  [Hotmaps_Data-upload-on-Gitlab_2017-12-04_V4.pdf](uploads/Hotmaps_Data-upload-on-Gitlab_2017-12-04_V4.pdf) 
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
 
@@ -73,9 +73,9 @@ In order to push something to some Hotmaps repository you have to be a member of
 
 You can find more information on how to work in these documents:
 
--  [Hotmaps_python_best_practices_tutorial_2017-08-07_v01.pdf](en-uploads/Hotmaps_python_best_practices_tutorial_2017-08-07_v01.pdf)
--  [Hotmaps_Testing_in_python_tutorial_pytest_2017-08-07_v01.pdf](en-uploads\Hotmaps_Testing_in_python_tutorial_pytest_2017-08-07_v01.pdf)
--  [GitFlow_Guidelines_CREM_2017-02-01.pdf](en-uploads\GitFlow_Guidelines_CREM_2017-02-01.pdf) 
+-  [Hotmaps_python_best_practices_tutorial_2017-08-07_v01.pdf](uploads/Hotmaps_python_best_practices_tutorial_2017-08-07_v01.pdf)
+-  [Hotmaps_Testing_in_python_tutorial_pytest_2017-08-07_v01.pdf](uploads/Hotmaps_Testing_in_python_tutorial_pytest_2017-08-07_v01.pdf)
+-  [GitFlow_Guidelines_CREM_2017-02-01.pdf](uploads/GitFlow_Guidelines_CREM_2017-02-01.pdf) 
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
 
