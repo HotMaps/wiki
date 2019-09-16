@@ -15,7 +15,7 @@
 
 ## Introduction
 
-The decentral heating cost calclulation module (CM) calculates the levelized cost of heat (LCOH) for the various technologies in residential or service sector. **This module can be run for NUTS 3 region.** The technologies are as follows:
+The decentral heating cost calclulation module (en-CM) calculates the levelized cost of heat (LCOH) for the various technologies in residential or service sector. **This module can be run for NUTS 3 region.** The technologies are as follows:
 
 * Heat pump air-to-air, air-to-water and Brine-to-water,
 * Electric heater,
@@ -64,19 +64,19 @@ By multiplying the specific heating demand and the gross floor area of the build
 # final energy demand [kWh]
 final_energy_demand = energy_demand / efficiency_heating_system
 
-# OPEX: Operational Expenditure (EUR)
+# OPEX: Operational Expenditure (en-EUR)
 OPEX = fix_operation_and_maintenance * heat_load + variable_operation_and_maintenance * final_energy_demand
 
-# CAPEX: Capital Expenditure (EUR)
+# CAPEX: Capital Expenditure (en-EUR)
 CAPEX = heat_load * specific_investment_cost_of_heating_system * annuity_factor
 
-# energy costs (EUR)
+# energy costs (en-EUR)
 energy_costs = final_energy_demand * energy_price
 
-# total costs heat supply (EUR)
+# total costs heat supply (en-EUR)
 total_costs = OPEX + CAPEX + energy_costs
 
-# levelized cost of heat (LCOH) [EUR/kWh]
+# levelized cost of heat (en-LCOH) [EUR/kWh]
 LCOH = total_costs / energy_demand
 
 ```
@@ -88,7 +88,7 @@ The above process is performed for all heating systems mentioned in the [Introdu
 
 ## GitHub repository of this calculation module
 
-[Here](https://github.com/HotMaps/lcoh/tree/develop) you get the bleeding-edge development for this calculation module.
+[Here](en-https://github.com/HotMaps/lcoh/tree/develop) you get the bleeding-edge development for this calculation module.
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
 
@@ -98,60 +98,60 @@ Here, the calculation module is run for a building with gross floor area of _100
 
 First, use the "Go To Place" bar to navigate to Frankfurt and select the city.
 
-![Fig. 1](https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/cm_decentral_heating/2.png "Navigate to a location")
+![Fig. 1](en-https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/cm_decentral_heating/2.png "Navigate to a location")
 
 Follow the steps as shown in the figure below:
 * Click on the "Layers" button to open the "Layers" window:
 * Click on the "CALCULATION MODULE" tab.
 * Click on the "DISTRICT HEATING POTENTIAL" button.
 
-![Fig. 2](https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/cm_decentral_heating/3.png "Calculation module tab")
+![Fig. 2](en-https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/cm_decentral_heating/3.png "Calculation module tab")
 
 
 * Now, the "DECENTRAL HEATING COSTS" opens and is ready to run.
 
-![Fig. 3](https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/cm_decentral_heating/4.png "DECENTRAL HEATING COSTS")
+![Fig. 3](en-https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/cm_decentral_heating/4.png "DECENTRAL HEATING COSTS")
 
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
 
 ### Test Run 1: single family house, existing building
-Here, you can enter your desired values for running the calculation module. We set the input values as it is described in (Sample run)[#Sample-run] section. To run the calculation module, follow the next steps:
+Here, you can enter your desired values for running the calculation module. We set the input values as it is described in (en-Sample run)[#Sample-run] section. To run the calculation module, follow the next steps:
 
-* Assign a name to the run session (optional - here, we chose "Test Run 1") and set the input parameters (here, default values were used).
+* Assign a name to the run session (en-optional - here, we chose "Test Run 1") and set the input parameters (here, default values were used).
 
 
-![Fig. 5](https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/cm_decentral_heating/5.png "Name the run session")
+![Fig. 5](en-https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/cm_decentral_heating/5.png "Name the run session")
 
 * Once you entered the input data, press run button and wait until the process is finished.
 * As output, indicators and diagrams are shown in the "RESULTS" window.
 
-![Fig. 6](https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/cm_decentral_heating/6.png "INDICATORS tab")
+![Fig. 6](en-https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/cm_decentral_heating/6.png "INDICATORS tab")
 
 * Additionally, also several diagrams are generated.
 
-![Fig. 7](https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/cm_decentral_heating/7.png "GRAPHICS tab")
+![Fig. 7](en-https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/cm_decentral_heating/7.png "GRAPHICS tab")
 
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
 
 ### Test Run 2: multi-family house, new building
 
-Here, you can enter your desired values for running the calculation module. We set the input values as it is described in (Sample run)[#Sample-run] section. To run the calculation module, follow the next steps:
+Here, you can enter your desired values for running the calculation module. We set the input values as it is described in (en-Sample run)[#Sample-run] section. To run the calculation module, follow the next steps:
 
-* Assign a name to the run session (optional - here, we chose "Test Run 1") and set the input parameters (here, default values were used).
+* Assign a name to the run session (en-optional - here, we chose "Test Run 1") and set the input parameters (here, default values were used).
 
 
-![Fig. 8](https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/cm_decentral_heating/8.png "Name the run session")
+![Fig. 8](en-https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/cm_decentral_heating/8.png "Name the run session")
 
 * Once you entered the input data, press run button and wait until the process is finished.
 * As output, indicators and diagrams are shown in the "RESULTS" window.
 
-![Fig. 9](https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/cm_decentral_heating/9.png "INDICATORS tab")
+![Fig. 9](en-https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/cm_decentral_heating/9.png "INDICATORS tab")
 
 * Additionally, also several diagrams are generated.
 
-![Fig. 10](https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/cm_decentral_heating/10.png "GRAPHICS tab")
+![Fig. 10](en-https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/cm_decentral_heating/10.png "GRAPHICS tab")
 
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
@@ -161,14 +161,14 @@ Here, you can enter your desired values for running the calculation module. We s
 
 
 ## How to cite
-Mostafa Fallahnejad, in Hotmaps-Wiki, https://github.com/HotMaps/hotmaps_wiki/wiki/CM-Decentral-heating-costs (April 2019)
+Mostafa Fallahnejad, in Hotmaps-Wiki, https://github.com/HotMaps/hotmaps_wiki/wiki/CM-Decentral-heating-costs (en-April 2019)
 
 
 ## Authors and reviewers
 This page is written by Mostafa Fallahnejad\*.
 - [ ] This page was reviewed by Lukas Kranzl\*.
 
-\* [Energy Economics Group - TU Wien](https://eeg.tuwien.ac.at/)
+\* [Energy Economics Group - TU Wien](en-https://eeg.tuwien.ac.at/)
 
 Institute of Energy Systems and Electrical Drives
 
@@ -191,12 +191,12 @@ License-Text: https://spdx.org/licenses/CC-BY-4.0.html
 
 
 ## Acknowledgement
-We would like to convey our deepest appreciation to the Horizon 2020 [Hotmaps Project](https://www.hotmaps-project.eu) (Grant Agreement number 723677), which provided the funding to carry out the present investigation.
+We would like to convey our deepest appreciation to the Horizon 2020 [Hotmaps Project](en-https://www.hotmaps-project.eu) (Grant Agreement number 723677), which provided the funding to carry out the present investigation.
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
 
 View in another language:
 
- [Bulgarian](../bg/CM-Decentral-heating-supply.md)<sup>\*</sup> [Croatian](../hr/CM-Decentral-heating-supply.md)<sup>\*</sup> [Czech](../cs/CM-Decentral-heating-supply.md)<sup>\*</sup> [Danish](../da/CM-Decentral-heating-supply.md)<sup>\*</sup> [Dutch](../nl/CM-Decentral-heating-supply.md)<sup>\*</sup> [Estonian](../et/CM-Decentral-heating-supply.md)<sup>\*</sup> [Finnish](../fi/CM-Decentral-heating-supply.md)<sup>\*</sup> [French](../fr/CM-Decentral-heating-supply.md)<sup>\*</sup> [German](../de/CM-Decentral-heating-supply.md)<sup>\*</sup> [Greek](../el/CM-Decentral-heating-supply.md)<sup>\*</sup> [Hungarian](../hu/CM-Decentral-heating-supply.md)<sup>\*</sup> [Irish](../ga/CM-Decentral-heating-supply.md)<sup>\*</sup> [Italian](../it/CM-Decentral-heating-supply.md)<sup>\*</sup> [Latvian](../lv/CM-Decentral-heating-supply.md)<sup>\*</sup> [Lithuanian](../lt/CM-Decentral-heating-supply.md)<sup>\*</sup> [Maltese](../mt/CM-Decentral-heating-supply.md)<sup>\*</sup> [Polish](../pl/CM-Decentral-heating-supply.md)<sup>\*</sup> [Portuguese (Portugal, Brazil)](../pt/CM-Decentral-heating-supply.md)<sup>\*</sup> [Romanian](../ro/CM-Decentral-heating-supply.md)<sup>\*</sup> [Slovak](../sk/CM-Decentral-heating-supply.md)<sup>\*</sup> [Slovenian](../sl/CM-Decentral-heating-supply.md)<sup>\*</sup> [Spanish](../es/CM-Decentral-heating-supply.md)<sup>\*</sup> [Swedish](../sv/CM-Decentral-heating-supply.md)<sup>\*</sup> 
+ [Bulgarian](../bg/CM-Decentral-heating-supply.md)<sup>\*</sup> [Croatian](../hr/CM-Decentral-heating-supply.md)<sup>\*</sup> [Czech](../cs/CM-Decentral-heating-supply.md)<sup>\*</sup> [Danish](../da/CM-Decentral-heating-supply.md)<sup>\*</sup> [Dutch](../nl/CM-Decentral-heating-supply.md)<sup>\*</sup> [Estonian](../et/CM-Decentral-heating-supply.md)<sup>\*</sup> [Finnish](../fi/CM-Decentral-heating-supply.md)<sup>\*</sup> [French](../fr/CM-Decentral-heating-supply.md)<sup>\*</sup> [German](../de/CM-Decentral-heating-supply.md)<sup>\*</sup> [Greek](../el/CM-Decentral-heating-supply.md)<sup>\*</sup> [Hungarian](../hu/CM-Decentral-heating-supply.md)<sup>\*</sup> [Irish](../ga/CM-Decentral-heating-supply.md)<sup>\*</sup> [Italian](../it/CM-Decentral-heating-supply.md)<sup>\*</sup> [Latvian](../lv/CM-Decentral-heating-supply.md)<sup>\*</sup> [Lithuanian](../lt/CM-Decentral-heating-supply.md)<sup>\*</sup> [Maltese](../mt/CM-Decentral-heating-supply.md)<sup>\*</sup> [Polish](../pl/CM-Decentral-heating-supply.md)<sup>\*</sup> [Portuguese (en-Portugal, Brazil)](../pt/CM-Decentral-heating-supply.md)<sup>\*</sup> [Romanian](../ro/CM-Decentral-heating-supply.md)<sup>\*</sup> [Slovak](../sk/CM-Decentral-heating-supply.md)<sup>\*</sup> [Slovenian](../sl/CM-Decentral-heating-supply.md)<sup>\*</sup> [Spanish](../es/CM-Decentral-heating-supply.md)<sup>\*</sup> [Swedish](../sv/CM-Decentral-heating-supply.md)<sup>\*</sup> 
 
 <sup>\*</sup>: machine translated

@@ -33,17 +33,17 @@ The picture below shows the structre of a calculation module
 
 ## How to cite
 
-Jeton Hasani, in Hotmaps-Wiki, https://github.com/HotMaps/hotmaps_wiki/wiki/Access-to-calculation-modules (April 2019)
+Jeton Hasani, in Hotmaps-Wiki, https://github.com/HotMaps/hotmaps_wiki/wiki/Access-to-calculation-modules (en-April 2019)
 
 
 ## Authors and reviewers
-<code>[Review this page !](https://github.com/HotMaps/hotmaps_wiki/wiki/CM-Access/_edit)</code>
+<code>[Review this page !](en-https://github.com/HotMaps/hotmaps_wiki/wiki/CM-Access/_edit)</code>
 
 This page is written by Jeton Hasani\*.
 - [ ] This page was reviewed by <code>....</code>\.
 
 
-\* [Energy Economics Group - TU Wien](https://eeg.tuwien.ac.at/)
+\* [Energy Economics Group - TU Wien](en-https://eeg.tuwien.ac.at/)
 Institute of Energy Systems and Electrical Drives
 Gusshausstrasse 27-29/370
 1040 Wien
@@ -57,11 +57,11 @@ License-Text: https://spdx.org/licenses/CC-BY-4.0.html
 
 
 ## Acknowledgement
-We would like to convey our deepest appreciation to the Horizon 2020 [Hotmaps Project](https://www.hotmaps-project.eu) (Grant Agreement number 723677), which provided the funding to carry out the present investigation.
+We would like to convey our deepest appreciation to the Horizon 2020 [Hotmaps Project](en-https://www.hotmaps-project.eu) (Grant Agreement number 723677), which provided the funding to carry out the present investigation.
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
 
-<code>[Review this page](https://github.com/HotMaps/hotmaps_wiki/wiki/CM-Access/_edit/#Authors-and-reviewers)</code>
+<code>[Review this page](en-https://github.com/HotMaps/hotmaps_wiki/wiki/CM-Access/_edit/#Authors-and-reviewers)</code>
 
 [cm_access]: https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/general_tool_functionalities_and_structure/calculation_module_access.gif
 
@@ -71,6 +71,6 @@ We would like to convey our deepest appreciation to the Horizon 2020 [Hotmaps Pr
 
 View in another language:
 
- [Bulgarian](../bg/Access-to-calculation-modules.md)<sup>\*</sup> [Croatian](../hr/Access-to-calculation-modules.md)<sup>\*</sup> [Czech](../cs/Access-to-calculation-modules.md)<sup>\*</sup> [Danish](../da/Access-to-calculation-modules.md)<sup>\*</sup> [Dutch](../nl/Access-to-calculation-modules.md)<sup>\*</sup> [Estonian](../et/Access-to-calculation-modules.md)<sup>\*</sup> [Finnish](../fi/Access-to-calculation-modules.md)<sup>\*</sup> [French](../fr/Access-to-calculation-modules.md)<sup>\*</sup> [German](../de/Access-to-calculation-modules.md)<sup>\*</sup> [Greek](../el/Access-to-calculation-modules.md)<sup>\*</sup> [Hungarian](../hu/Access-to-calculation-modules.md)<sup>\*</sup> [Irish](../ga/Access-to-calculation-modules.md)<sup>\*</sup> [Italian](../it/Access-to-calculation-modules.md)<sup>\*</sup> [Latvian](../lv/Access-to-calculation-modules.md)<sup>\*</sup> [Lithuanian](../lt/Access-to-calculation-modules.md)<sup>\*</sup> [Maltese](../mt/Access-to-calculation-modules.md)<sup>\*</sup> [Polish](../pl/Access-to-calculation-modules.md)<sup>\*</sup> [Portuguese (Portugal, Brazil)](../pt/Access-to-calculation-modules.md)<sup>\*</sup> [Romanian](../ro/Access-to-calculation-modules.md)<sup>\*</sup> [Slovak](../sk/Access-to-calculation-modules.md)<sup>\*</sup> [Slovenian](../sl/Access-to-calculation-modules.md)<sup>\*</sup> [Spanish](../es/Access-to-calculation-modules.md)<sup>\*</sup> [Swedish](../sv/Access-to-calculation-modules.md)<sup>\*</sup> 
+ [Bulgarian](../bg/Access-to-calculation-modules.md)<sup>\*</sup> [Croatian](../hr/Access-to-calculation-modules.md)<sup>\*</sup> [Czech](../cs/Access-to-calculation-modules.md)<sup>\*</sup> [Danish](../da/Access-to-calculation-modules.md)<sup>\*</sup> [Dutch](../nl/Access-to-calculation-modules.md)<sup>\*</sup> [Estonian](../et/Access-to-calculation-modules.md)<sup>\*</sup> [Finnish](../fi/Access-to-calculation-modules.md)<sup>\*</sup> [French](../fr/Access-to-calculation-modules.md)<sup>\*</sup> [German](../de/Access-to-calculation-modules.md)<sup>\*</sup> [Greek](../el/Access-to-calculation-modules.md)<sup>\*</sup> [Hungarian](../hu/Access-to-calculation-modules.md)<sup>\*</sup> [Irish](../ga/Access-to-calculation-modules.md)<sup>\*</sup> [Italian](../it/Access-to-calculation-modules.md)<sup>\*</sup> [Latvian](../lv/Access-to-calculation-modules.md)<sup>\*</sup> [Lithuanian](../lt/Access-to-calculation-modules.md)<sup>\*</sup> [Maltese](../mt/Access-to-calculation-modules.md)<sup>\*</sup> [Polish](../pl/Access-to-calculation-modules.md)<sup>\*</sup> [Portuguese (en-Portugal, Brazil)](../pt/Access-to-calculation-modules.md)<sup>\*</sup> [Romanian](../ro/Access-to-calculation-modules.md)<sup>\*</sup> [Slovak](../sk/Access-to-calculation-modules.md)<sup>\*</sup> [Slovenian](../sl/Access-to-calculation-modules.md)<sup>\*</sup> [Spanish](../es/Access-to-calculation-modules.md)<sup>\*</sup> [Swedish](../sv/Access-to-calculation-modules.md)<sup>\*</sup> 
 
 <sup>\*</sup>: machine translated

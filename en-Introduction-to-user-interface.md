@@ -56,7 +56,7 @@ Here you can:
 
 ## Login
 
-After [registering](#register) and activating your account you should be able to login with your email and password (see [Fig.4](#Fig4) below).
+After [registering](#register) and activating your account you should be able to login with your email and password (en-see [Fig.4](#Fig4) below).
 
 ![login_gif][login_gif]
 
@@ -80,7 +80,7 @@ _Fig.5.: RegisterForm_
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
 
 ## Recover
-If you ever forget your password you can recover it under this menu (see [Fig.6.](#Fig6) below). Please be aware to set a new password afterwards. 
+If you ever forget your password you can recover it under this menu (en-see [Fig.6.](#Fig6) below). Please be aware to set a new password afterwards. 
 
 ![recover_gif][recover_gif]
 
@@ -91,7 +91,7 @@ _Fig.6.: Recover Form_
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
 
 ## Go To Place
-You can zoom to a specify region by typing its name (see animation below)
+You can zoom to a specify region by typing its name (en-see animation below)
  
 ![go_to_place_gif][go_to_place]
 
@@ -167,7 +167,7 @@ and set a priority:
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
 
 ## Tiles
-You can choose the terretorial scale that you want to analyze (NUTS regions or hectar level) and set te tile of the map
+You can choose the terretorial scale that you want to analyze (en-NUTS regions or hectar level) and set te tile of the map
 
 ![maping_gif][mapping_gif]
 
@@ -183,17 +183,17 @@ There are following configurations possible
 
 ## How to cite
 
-Jeton Hasani, in Hotmaps-Wiki, https://github.com/HotMaps/hotmaps_wiki/wiki/Introduction-to-user-interface (April 2019)
+Jeton Hasani, in Hotmaps-Wiki, https://github.com/HotMaps/hotmaps_wiki/wiki/Introduction-to-user-interface (en-April 2019)
 
 
 ## Authors and reviewers
-<code>[Review this page !](https://github.com/HotMaps/hotmaps_wiki/wiki/Hotmaps-Graphical-User-Interface/_edit)</code>
+<code>[Review this page !](en-https://github.com/HotMaps/hotmaps_wiki/wiki/Hotmaps-Graphical-User-Interface/_edit)</code>
 
 This page is written by Jeton Hasani\*.
 - [ ] This page was reviewed by <code>....</code>\.
 
 
-\* [Energy Economics Group - TU Wien](https://eeg.tuwien.ac.at/)
+\* [Energy Economics Group - TU Wien](en-https://eeg.tuwien.ac.at/)
 Institute of Energy Systems and Electrical Drives
 Gusshausstrasse 27-29/370
 1040 Wien
@@ -207,13 +207,13 @@ License-Text: https://spdx.org/licenses/CC-BY-4.0.html
 
 
 ## Acknowledgement
-We would like to convey our deepest appreciation to the Horizon 2020 [Hotmaps Project](https://www.hotmaps-project.eu) (Grant Agreement number 723677), which provided the funding to carry out the present investigation.
+We would like to convey our deepest appreciation to the Horizon 2020 [Hotmaps Project](en-https://www.hotmaps-project.eu) (Grant Agreement number 723677), which provided the funding to carry out the present investigation.
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
 
-<code>[Review this page](https://github.com/HotMaps/hotmaps_wiki/wiki/Hotmaps-Graphical-User-Interface/_edit)</code>
+<code>[Review this page](en-https://github.com/HotMaps/hotmaps_wiki/wiki/Hotmaps-Graphical-User-Interface/_edit)</code>
 
-[//]: # (Here are all the files to the links)
+[//]: # (en-Here are all the files to the links)
 
 
 [Fig1]: https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/general_tool_functionalities_and_structure/disclaimer.png
@@ -265,6 +265,6 @@ We would like to convey our deepest appreciation to the Horizon 2020 [Hotmaps Pr
 
 View in another language:
 
- [Bulgarian](../bg/Introduction-to-user-interface.md)<sup>\*</sup> [Croatian](../hr/Introduction-to-user-interface.md)<sup>\*</sup> [Czech](../cs/Introduction-to-user-interface.md)<sup>\*</sup> [Danish](../da/Introduction-to-user-interface.md)<sup>\*</sup> [Dutch](../nl/Introduction-to-user-interface.md)<sup>\*</sup> [Estonian](../et/Introduction-to-user-interface.md)<sup>\*</sup> [Finnish](../fi/Introduction-to-user-interface.md)<sup>\*</sup> [French](../fr/Introduction-to-user-interface.md)<sup>\*</sup> [German](../de/Introduction-to-user-interface.md)<sup>\*</sup> [Greek](../el/Introduction-to-user-interface.md)<sup>\*</sup> [Hungarian](../hu/Introduction-to-user-interface.md)<sup>\*</sup> [Irish](../ga/Introduction-to-user-interface.md)<sup>\*</sup> [Italian](../it/Introduction-to-user-interface.md)<sup>\*</sup> [Latvian](../lv/Introduction-to-user-interface.md)<sup>\*</sup> [Lithuanian](../lt/Introduction-to-user-interface.md)<sup>\*</sup> [Maltese](../mt/Introduction-to-user-interface.md)<sup>\*</sup> [Polish](../pl/Introduction-to-user-interface.md)<sup>\*</sup> [Portuguese (Portugal, Brazil)](../pt/Introduction-to-user-interface.md)<sup>\*</sup> [Romanian](../ro/Introduction-to-user-interface.md)<sup>\*</sup> [Slovak](../sk/Introduction-to-user-interface.md)<sup>\*</sup> [Slovenian](../sl/Introduction-to-user-interface.md)<sup>\*</sup> [Spanish](../es/Introduction-to-user-interface.md)<sup>\*</sup> [Swedish](../sv/Introduction-to-user-interface.md)<sup>\*</sup> 
+ [Bulgarian](../bg/Introduction-to-user-interface.md)<sup>\*</sup> [Croatian](../hr/Introduction-to-user-interface.md)<sup>\*</sup> [Czech](../cs/Introduction-to-user-interface.md)<sup>\*</sup> [Danish](../da/Introduction-to-user-interface.md)<sup>\*</sup> [Dutch](../nl/Introduction-to-user-interface.md)<sup>\*</sup> [Estonian](../et/Introduction-to-user-interface.md)<sup>\*</sup> [Finnish](../fi/Introduction-to-user-interface.md)<sup>\*</sup> [French](../fr/Introduction-to-user-interface.md)<sup>\*</sup> [German](../de/Introduction-to-user-interface.md)<sup>\*</sup> [Greek](../el/Introduction-to-user-interface.md)<sup>\*</sup> [Hungarian](../hu/Introduction-to-user-interface.md)<sup>\*</sup> [Irish](../ga/Introduction-to-user-interface.md)<sup>\*</sup> [Italian](../it/Introduction-to-user-interface.md)<sup>\*</sup> [Latvian](../lv/Introduction-to-user-interface.md)<sup>\*</sup> [Lithuanian](../lt/Introduction-to-user-interface.md)<sup>\*</sup> [Maltese](../mt/Introduction-to-user-interface.md)<sup>\*</sup> [Polish](../pl/Introduction-to-user-interface.md)<sup>\*</sup> [Portuguese (en-Portugal, Brazil)](../pt/Introduction-to-user-interface.md)<sup>\*</sup> [Romanian](../ro/Introduction-to-user-interface.md)<sup>\*</sup> [Slovak](../sk/Introduction-to-user-interface.md)<sup>\*</sup> [Slovenian](../sl/Introduction-to-user-interface.md)<sup>\*</sup> [Spanish](../es/Introduction-to-user-interface.md)<sup>\*</sup> [Swedish](../sv/Introduction-to-user-interface.md)<sup>\*</sup> 
 
 <sup>\*</sup>: machine translated

@@ -12,10 +12,10 @@
 
 ## Introduction
 There are two ways to select a region in the Hotmaps toolbox:
-1. selection by the [NUTS classification (Nomenclature of territorial units for statistics))](https://ec.europa.eu/eurostat/web/nuts/background)
+1. selection by the [NUTS classification (en-Nomenclature of territorial units for statistics))](https://ec.europa.eu/eurostat/web/nuts/background)
 2. custom hectar selection
 
-With the [radio buttons](#Fig1) at the right of your screen you can choose the terretorial scale that you want to analyze (NUTS regions, [LAU (Local Administrative Units](https://ec.europa.eu/eurostat/web/nuts/local-administrative-units) or hectar level)
+With the [radio buttons](#Fig1) at the right of your screen you can choose the terretorial scale that you want to analyze (en-NUTS regions, [LAU (Local Administrative Units](https://ec.europa.eu/eurostat/web/nuts/local-administrative-units) or hectar level)
 
 <a name ="Fig1">![radio_buttons_png][radio_buttons]</a>
 
@@ -51,7 +51,7 @@ Beside the three NUTS Levels you have also the possibility to analyse in LAU lev
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
 
 ## Custom Selection:
-If you need a more flexibel way and want to analyze a region that is not covered by the NUTS or LAU boundaries then it is better to specify your own customs regions (see below).
+If you need a more flexibel way and want to analyze a region that is not covered by the NUTS or LAU boundaries then it is better to specify your own customs regions (en-see below).
 
 ![ selecting_hectare_gif][selecting_hectare]
 
@@ -59,17 +59,17 @@ If you need a more flexibel way and want to analyze a region that is not covered
 
 ### How to cite
 
-Jeton Hasani, in Hotmaps-Wiki, https://github.com/HotMaps/hotmaps_wiki/wiki/Select-a-region-in-the-Hotmaps-toolbox (April 2019)
+Jeton Hasani, in Hotmaps-Wiki, https://github.com/HotMaps/hotmaps_wiki/wiki/Select-a-region-in-the-Hotmaps-toolbox (en-April 2019)
 
 
 ### Authors and reviewers
-<code>[Review this page !](https://github.com/HotMaps/hotmaps_wiki/wiki/How-to-select-a-region-in-the-Hotmaps-toolbox/_edit)</code>
+<code>[Review this page !](en-https://github.com/HotMaps/hotmaps_wiki/wiki/How-to-select-a-region-in-the-Hotmaps-toolbox/_edit)</code>
 
 This page is written by Jeton Hasani\*.
 - [ ] This page was reviewed by <code>....</code>\.
 
 
-\* [Energy Economics Group - TU Wien](https://eeg.tuwien.ac.at/)
+\* [Energy Economics Group - TU Wien](en-https://eeg.tuwien.ac.at/)
 Institute of Energy Systems and Electrical Drives
 Gusshausstrasse 27-29/370
 1040 Wien
@@ -83,13 +83,13 @@ License-Text: https://spdx.org/licenses/CC-BY-4.0.html
 
 
 ## Acknowledgement
-We would like to convey our deepest appreciation to the Horizon 2020 [Hotmaps Project](https://www.hotmaps-project.eu) (Grant Agreement number 723677), which provided the funding to carry out the present investigation.
+We would like to convey our deepest appreciation to the Horizon 2020 [Hotmaps Project](en-https://www.hotmaps-project.eu) (Grant Agreement number 723677), which provided the funding to carry out the present investigation.
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
 
-<code>[Review this page](https://github.com/HotMaps/hotmaps_wiki/wiki/How-to-select-a-region-in-the-Hotmaps-toolbox/_edit)</code>
+<code>[Review this page](en-https://github.com/HotMaps/hotmaps_wiki/wiki/How-to-select-a-region-in-the-Hotmaps-toolbox/_edit)</code>
 
-[//]: # (Here are all the files to the links)
+[//]: # (en-Here are all the files to the links)
 
 
 [radio_buttons]: https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/general_tool_functionalities_and_structure/radio_buttons.png
@@ -110,6 +110,6 @@ We would like to convey our deepest appreciation to the Horizon 2020 [Hotmaps Pr
 
 View in another language:
 
- [Bulgarian](../bg/Select-a-region-in-the-Hotmaps-toolbox.md)<sup>\*</sup> [Croatian](../hr/Select-a-region-in-the-Hotmaps-toolbox.md)<sup>\*</sup> [Czech](../cs/Select-a-region-in-the-Hotmaps-toolbox.md)<sup>\*</sup> [Danish](../da/Select-a-region-in-the-Hotmaps-toolbox.md)<sup>\*</sup> [Dutch](../nl/Select-a-region-in-the-Hotmaps-toolbox.md)<sup>\*</sup> [Estonian](../et/Select-a-region-in-the-Hotmaps-toolbox.md)<sup>\*</sup> [Finnish](../fi/Select-a-region-in-the-Hotmaps-toolbox.md)<sup>\*</sup> [French](../fr/Select-a-region-in-the-Hotmaps-toolbox.md)<sup>\*</sup> [German](../de/Select-a-region-in-the-Hotmaps-toolbox.md)<sup>\*</sup> [Greek](../el/Select-a-region-in-the-Hotmaps-toolbox.md)<sup>\*</sup> [Hungarian](../hu/Select-a-region-in-the-Hotmaps-toolbox.md)<sup>\*</sup> [Irish](../ga/Select-a-region-in-the-Hotmaps-toolbox.md)<sup>\*</sup> [Italian](../it/Select-a-region-in-the-Hotmaps-toolbox.md)<sup>\*</sup> [Latvian](../lv/Select-a-region-in-the-Hotmaps-toolbox.md)<sup>\*</sup> [Lithuanian](../lt/Select-a-region-in-the-Hotmaps-toolbox.md)<sup>\*</sup> [Maltese](../mt/Select-a-region-in-the-Hotmaps-toolbox.md)<sup>\*</sup> [Polish](../pl/Select-a-region-in-the-Hotmaps-toolbox.md)<sup>\*</sup> [Portuguese (Portugal, Brazil)](../pt/Select-a-region-in-the-Hotmaps-toolbox.md)<sup>\*</sup> [Romanian](../ro/Select-a-region-in-the-Hotmaps-toolbox.md)<sup>\*</sup> [Slovak](../sk/Select-a-region-in-the-Hotmaps-toolbox.md)<sup>\*</sup> [Slovenian](../sl/Select-a-region-in-the-Hotmaps-toolbox.md)<sup>\*</sup> [Spanish](../es/Select-a-region-in-the-Hotmaps-toolbox.md)<sup>\*</sup> [Swedish](../sv/Select-a-region-in-the-Hotmaps-toolbox.md)<sup>\*</sup> 
+ [Bulgarian](../bg/Select-a-region-in-the-Hotmaps-toolbox.md)<sup>\*</sup> [Croatian](../hr/Select-a-region-in-the-Hotmaps-toolbox.md)<sup>\*</sup> [Czech](../cs/Select-a-region-in-the-Hotmaps-toolbox.md)<sup>\*</sup> [Danish](../da/Select-a-region-in-the-Hotmaps-toolbox.md)<sup>\*</sup> [Dutch](../nl/Select-a-region-in-the-Hotmaps-toolbox.md)<sup>\*</sup> [Estonian](../et/Select-a-region-in-the-Hotmaps-toolbox.md)<sup>\*</sup> [Finnish](../fi/Select-a-region-in-the-Hotmaps-toolbox.md)<sup>\*</sup> [French](../fr/Select-a-region-in-the-Hotmaps-toolbox.md)<sup>\*</sup> [German](../de/Select-a-region-in-the-Hotmaps-toolbox.md)<sup>\*</sup> [Greek](../el/Select-a-region-in-the-Hotmaps-toolbox.md)<sup>\*</sup> [Hungarian](../hu/Select-a-region-in-the-Hotmaps-toolbox.md)<sup>\*</sup> [Irish](../ga/Select-a-region-in-the-Hotmaps-toolbox.md)<sup>\*</sup> [Italian](../it/Select-a-region-in-the-Hotmaps-toolbox.md)<sup>\*</sup> [Latvian](../lv/Select-a-region-in-the-Hotmaps-toolbox.md)<sup>\*</sup> [Lithuanian](../lt/Select-a-region-in-the-Hotmaps-toolbox.md)<sup>\*</sup> [Maltese](../mt/Select-a-region-in-the-Hotmaps-toolbox.md)<sup>\*</sup> [Polish](../pl/Select-a-region-in-the-Hotmaps-toolbox.md)<sup>\*</sup> [Portuguese (en-Portugal, Brazil)](../pt/Select-a-region-in-the-Hotmaps-toolbox.md)<sup>\*</sup> [Romanian](../ro/Select-a-region-in-the-Hotmaps-toolbox.md)<sup>\*</sup> [Slovak](../sk/Select-a-region-in-the-Hotmaps-toolbox.md)<sup>\*</sup> [Slovenian](../sl/Select-a-region-in-the-Hotmaps-toolbox.md)<sup>\*</sup> [Spanish](../es/Select-a-region-in-the-Hotmaps-toolbox.md)<sup>\*</sup> [Swedish](../sv/Select-a-region-in-the-Hotmaps-toolbox.md)<sup>\*</sup> 
 
 <sup>\*</sup>: machine translated

@@ -18,7 +18,7 @@ The Hotmaps Wiki pages are categorized in four classes:
 * Developers area
 
 For each section, a structure with several sections is suggested. The sections in **BOLD** must be part of the WIKI page. The rest, on the other hand, should be added if applicable.
-As a sample page, please have a look into [this Wiki page](https://github.com/HotMaps/hotmaps_wiki/wiki/CM-District-heating-potential-user-defined-thresholds).
+As a sample page, please have a look into [this Wiki page](en-https://github.com/HotMaps/hotmaps_wiki/wiki/CM-District-heating-potential-user-defined-thresholds).
 
 Wiki pages can become very long due to embedded figures. In order to help the readers to navigate in a page easily and easily find what they are looking for, please add a “**Table of contents**” on top of each page that you are writing. Additionally, use a “<code><ins>**[To Top](#table-of-contents)**</ins></code>” button at the end of each section with a hyperlink to the “Table of content” at the top of the Wiki page.
 
@@ -27,7 +27,7 @@ In case you should use your own figures, please first create a new folder for yo
 Once you finished writing your Wiki page, ask your colleagues to review your page and give feedback to you. In this way, we can minimize the written mistakes and make sure that Wiki pages are written clearly. Add the name of the reviewer in the "Authors and reviewers" section. Follow the same structure as of the provided sample page.
 
 
-**NOTE**: The Wiki pages are usually written in Markdown language (some additional formats are also possible). If you are not familiar with Markdown, read [here](https://guides.github.com/features/mastering-markdown/) the short tutorial provided by GitHub.
+**NOTE**: The Wiki pages are usually written in Markdown language (en-some additional formats are also possible). If you are not familiar with Markdown, read [here](https://guides.github.com/features/mastering-markdown/) the short tutorial provided by GitHub.
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
 
@@ -118,7 +118,7 @@ Here, the most important point is to keep track of all Hotmaps repositories on G
 This page is written by Mostafa Fallahnejad\*.
 - [x] This page was reviewed by Lukas Kranzl\*.
 
-\* [Energy Economics Group - TU Wien](https://eeg.tuwien.ac.at/)
+\* [Energy Economics Group - TU Wien](en-https://eeg.tuwien.ac.at/)
 Institute of Energy Systems and Electrical Drives
 Gusshausstrasse 27-29/370
 1040 Wien
@@ -138,12 +138,12 @@ License-Text: https://spdx.org/licenses/CC-BY-4.0.html
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
 
 ## Acknowledgement
-We would like to convey our deepest appreciation to the Horizon 2020 [Hotmaps Project](https://www.hotmaps-project.eu) (Grant Agreement number 723677), which provided the funding to carry out the present investigation.
+We would like to convey our deepest appreciation to the Horizon 2020 [Hotmaps Project](en-https://www.hotmaps-project.eu) (Grant Agreement number 723677), which provided the funding to carry out the present investigation.
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
 
 View in another language:
 
- [Bulgarian](../bg/Guidelines-for-writing-a-Hotmaps-Wiki-page.md)<sup>\*</sup> [Croatian](../hr/Guidelines-for-writing-a-Hotmaps-Wiki-page.md)<sup>\*</sup> [Czech](../cs/Guidelines-for-writing-a-Hotmaps-Wiki-page.md)<sup>\*</sup> [Danish](../da/Guidelines-for-writing-a-Hotmaps-Wiki-page.md)<sup>\*</sup> [Dutch](../nl/Guidelines-for-writing-a-Hotmaps-Wiki-page.md)<sup>\*</sup> [Estonian](../et/Guidelines-for-writing-a-Hotmaps-Wiki-page.md)<sup>\*</sup> [Finnish](../fi/Guidelines-for-writing-a-Hotmaps-Wiki-page.md)<sup>\*</sup> [French](../fr/Guidelines-for-writing-a-Hotmaps-Wiki-page.md)<sup>\*</sup> [German](../de/Guidelines-for-writing-a-Hotmaps-Wiki-page.md)<sup>\*</sup> [Greek](../el/Guidelines-for-writing-a-Hotmaps-Wiki-page.md)<sup>\*</sup> [Hungarian](../hu/Guidelines-for-writing-a-Hotmaps-Wiki-page.md)<sup>\*</sup> [Irish](../ga/Guidelines-for-writing-a-Hotmaps-Wiki-page.md)<sup>\*</sup> [Italian](../it/Guidelines-for-writing-a-Hotmaps-Wiki-page.md)<sup>\*</sup> [Latvian](../lv/Guidelines-for-writing-a-Hotmaps-Wiki-page.md)<sup>\*</sup> [Lithuanian](../lt/Guidelines-for-writing-a-Hotmaps-Wiki-page.md)<sup>\*</sup> [Maltese](../mt/Guidelines-for-writing-a-Hotmaps-Wiki-page.md)<sup>\*</sup> [Polish](../pl/Guidelines-for-writing-a-Hotmaps-Wiki-page.md)<sup>\*</sup> [Portuguese (Portugal, Brazil)](../pt/Guidelines-for-writing-a-Hotmaps-Wiki-page.md)<sup>\*</sup> [Romanian](../ro/Guidelines-for-writing-a-Hotmaps-Wiki-page.md)<sup>\*</sup> [Slovak](../sk/Guidelines-for-writing-a-Hotmaps-Wiki-page.md)<sup>\*</sup> [Slovenian](../sl/Guidelines-for-writing-a-Hotmaps-Wiki-page.md)<sup>\*</sup> [Spanish](../es/Guidelines-for-writing-a-Hotmaps-Wiki-page.md)<sup>\*</sup> [Swedish](../sv/Guidelines-for-writing-a-Hotmaps-Wiki-page.md)<sup>\*</sup> 
+ [Bulgarian](../bg/Guidelines-for-writing-a-Hotmaps-Wiki-page.md)<sup>\*</sup> [Croatian](../hr/Guidelines-for-writing-a-Hotmaps-Wiki-page.md)<sup>\*</sup> [Czech](../cs/Guidelines-for-writing-a-Hotmaps-Wiki-page.md)<sup>\*</sup> [Danish](../da/Guidelines-for-writing-a-Hotmaps-Wiki-page.md)<sup>\*</sup> [Dutch](../nl/Guidelines-for-writing-a-Hotmaps-Wiki-page.md)<sup>\*</sup> [Estonian](../et/Guidelines-for-writing-a-Hotmaps-Wiki-page.md)<sup>\*</sup> [Finnish](../fi/Guidelines-for-writing-a-Hotmaps-Wiki-page.md)<sup>\*</sup> [French](../fr/Guidelines-for-writing-a-Hotmaps-Wiki-page.md)<sup>\*</sup> [German](../de/Guidelines-for-writing-a-Hotmaps-Wiki-page.md)<sup>\*</sup> [Greek](../el/Guidelines-for-writing-a-Hotmaps-Wiki-page.md)<sup>\*</sup> [Hungarian](../hu/Guidelines-for-writing-a-Hotmaps-Wiki-page.md)<sup>\*</sup> [Irish](../ga/Guidelines-for-writing-a-Hotmaps-Wiki-page.md)<sup>\*</sup> [Italian](../it/Guidelines-for-writing-a-Hotmaps-Wiki-page.md)<sup>\*</sup> [Latvian](../lv/Guidelines-for-writing-a-Hotmaps-Wiki-page.md)<sup>\*</sup> [Lithuanian](../lt/Guidelines-for-writing-a-Hotmaps-Wiki-page.md)<sup>\*</sup> [Maltese](../mt/Guidelines-for-writing-a-Hotmaps-Wiki-page.md)<sup>\*</sup> [Polish](../pl/Guidelines-for-writing-a-Hotmaps-Wiki-page.md)<sup>\*</sup> [Portuguese (en-Portugal, Brazil)](../pt/Guidelines-for-writing-a-Hotmaps-Wiki-page.md)<sup>\*</sup> [Romanian](../ro/Guidelines-for-writing-a-Hotmaps-Wiki-page.md)<sup>\*</sup> [Slovak](../sk/Guidelines-for-writing-a-Hotmaps-Wiki-page.md)<sup>\*</sup> [Slovenian](../sl/Guidelines-for-writing-a-Hotmaps-Wiki-page.md)<sup>\*</sup> [Spanish](../es/Guidelines-for-writing-a-Hotmaps-Wiki-page.md)<sup>\*</sup> [Swedish](../sv/Guidelines-for-writing-a-Hotmaps-Wiki-page.md)<sup>\*</sup> 
 
 <sup>\*</sup>: machine translated

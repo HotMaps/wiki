@@ -16,19 +16,19 @@ By pressing the ![layers_button][layers_button] Button a sidebar with different 
 
 ![layers_tools.png][layers_tools]
 
-1. Shows the symbology section of the layer (legend)
-2. Shows the information section (primary a link to the GitLab repository, it is highly recommended to look for more information about the data in the [GitLab Repository](https://gitlab.com/hotmaps) )
-3. Download the layer for the selected region(s)
+1. Shows the symbology section of the layer (en-legend)
+2. Shows the information section (en-primary a link to the GitLab repository, it is highly recommended to look for more information about the data in the [GitLab Repository](https://gitlab.com/hotmaps) )
+3. Download the layer for the selected region(en-s)
 4. Redircets you to the GitLab repository to download the whole layer
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
 
 ## Layers
-There are [two categories of layers](https://www.gislounge.com/geodatabases-explored-vector-and-raster-data):  
+There are [two categories of layers](en-https://www.gislounge.com/geodatabases-explored-vector-and-raster-data):  
 1. Vector Layers
 2. Raster Layers
 
-Following layers can be found and visualized (you can see also the legend and also the information section of each layer):
+Following layers can be found and visualized (en-you can see also the legend and also the information section of each layer):
 
 ![sidebar_layer.png][sidebar]
 
@@ -39,10 +39,10 @@ Following layers can be found and visualized (you can see also the legend and al
 Following raster layers are visualized:
 
 1. **17 x Buildings layers:**
-   * Heat Density Map (total / residential / non residential)
-   * Cooling Density Map (total / residential / non residential)
-   * Gross Floor Area (total / residential / non residential)
-   * Buildings Volumes (total / residential / non residential)
+   * Heat Density Map (en-total / residential / non residential)
+   * Cooling Density Map (en-total / residential / non residential)
+   * Gross Floor Area (en-total / residential / non residential)
+   * Buildings Volumes (en-total / residential / non residential)
 
 1. **1 x Population layer**
    * Population Total
@@ -89,17 +89,17 @@ Following vector layers are visualized:
 
 ## How to cite
 
-Jeton Hasani, in Hotmaps-Wiki, https://github.com/HotMaps/hotmaps_wiki/wiki/Layers-section-in-the-Hotmaps-toolbox (April 2019)
+Jeton Hasani, in Hotmaps-Wiki, https://github.com/HotMaps/hotmaps_wiki/wiki/Layers-section-in-the-Hotmaps-toolbox (en-April 2019)
 
 
 ## Authors and reviewers
-<code>[Review this page !](https://github.com/HotMaps/hotmaps_wiki/wiki/Layer-Section/_edit)</code>
+<code>[Review this page !](en-https://github.com/HotMaps/hotmaps_wiki/wiki/Layer-Section/_edit)</code>
 
 This page is written by Jeton Hasani\*.
 - [ ] This page was reviewed by <code>....</code>\.
 
 
-\* [Energy Economics Group - TU Wien](https://eeg.tuwien.ac.at/)
+\* [Energy Economics Group - TU Wien](en-https://eeg.tuwien.ac.at/)
 Institute of Energy Systems and Electrical Drives
 Gusshausstrasse 27-29/370
 1040 Wien
@@ -113,13 +113,13 @@ License-Text: https://spdx.org/licenses/CC-BY-4.0.html
 
 
 ## Acknowledgement
-We would like to convey our deepest appreciation to the Horizon 2020 [Hotmaps Project](https://www.hotmaps-project.eu) (Grant Agreement number 723677), which provided the funding to carry out the present investigation.
+We would like to convey our deepest appreciation to the Horizon 2020 [Hotmaps Project](en-https://www.hotmaps-project.eu) (Grant Agreement number 723677), which provided the funding to carry out the present investigation.
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
 
-<code>[Review this page](https://github.com/HotMaps/hotmaps_wiki/wiki/Layer-Section/_edit)</code>
+<code>[Review this page](en-https://github.com/HotMaps/hotmaps_wiki/wiki/Layer-Section/_edit)</code>
 
-[//]: # (Here are all the files to the links)
+[//]: # (en-Here are all the files to the links)
 
 
 [layers]: https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/general_tool_functionalities_and_structure/layers.gif
@@ -132,6 +132,6 @@ We would like to convey our deepest appreciation to the Horizon 2020 [Hotmaps Pr
 
 View in another language:
 
- [Bulgarian](../bg/Layers-section-in-the-Hotmaps-toolbox.md)<sup>\*</sup> [Croatian](../hr/Layers-section-in-the-Hotmaps-toolbox.md)<sup>\*</sup> [Czech](../cs/Layers-section-in-the-Hotmaps-toolbox.md)<sup>\*</sup> [Danish](../da/Layers-section-in-the-Hotmaps-toolbox.md)<sup>\*</sup> [Dutch](../nl/Layers-section-in-the-Hotmaps-toolbox.md)<sup>\*</sup> [Estonian](../et/Layers-section-in-the-Hotmaps-toolbox.md)<sup>\*</sup> [Finnish](../fi/Layers-section-in-the-Hotmaps-toolbox.md)<sup>\*</sup> [French](../fr/Layers-section-in-the-Hotmaps-toolbox.md)<sup>\*</sup> [German](../de/Layers-section-in-the-Hotmaps-toolbox.md)<sup>\*</sup> [Greek](../el/Layers-section-in-the-Hotmaps-toolbox.md)<sup>\*</sup> [Hungarian](../hu/Layers-section-in-the-Hotmaps-toolbox.md)<sup>\*</sup> [Irish](../ga/Layers-section-in-the-Hotmaps-toolbox.md)<sup>\*</sup> [Italian](../it/Layers-section-in-the-Hotmaps-toolbox.md)<sup>\*</sup> [Latvian](../lv/Layers-section-in-the-Hotmaps-toolbox.md)<sup>\*</sup> [Lithuanian](../lt/Layers-section-in-the-Hotmaps-toolbox.md)<sup>\*</sup> [Maltese](../mt/Layers-section-in-the-Hotmaps-toolbox.md)<sup>\*</sup> [Polish](../pl/Layers-section-in-the-Hotmaps-toolbox.md)<sup>\*</sup> [Portuguese (Portugal, Brazil)](../pt/Layers-section-in-the-Hotmaps-toolbox.md)<sup>\*</sup> [Romanian](../ro/Layers-section-in-the-Hotmaps-toolbox.md)<sup>\*</sup> [Slovak](../sk/Layers-section-in-the-Hotmaps-toolbox.md)<sup>\*</sup> [Slovenian](../sl/Layers-section-in-the-Hotmaps-toolbox.md)<sup>\*</sup> [Spanish](../es/Layers-section-in-the-Hotmaps-toolbox.md)<sup>\*</sup> [Swedish](../sv/Layers-section-in-the-Hotmaps-toolbox.md)<sup>\*</sup> 
+ [Bulgarian](../bg/Layers-section-in-the-Hotmaps-toolbox.md)<sup>\*</sup> [Croatian](../hr/Layers-section-in-the-Hotmaps-toolbox.md)<sup>\*</sup> [Czech](../cs/Layers-section-in-the-Hotmaps-toolbox.md)<sup>\*</sup> [Danish](../da/Layers-section-in-the-Hotmaps-toolbox.md)<sup>\*</sup> [Dutch](../nl/Layers-section-in-the-Hotmaps-toolbox.md)<sup>\*</sup> [Estonian](../et/Layers-section-in-the-Hotmaps-toolbox.md)<sup>\*</sup> [Finnish](../fi/Layers-section-in-the-Hotmaps-toolbox.md)<sup>\*</sup> [French](../fr/Layers-section-in-the-Hotmaps-toolbox.md)<sup>\*</sup> [German](../de/Layers-section-in-the-Hotmaps-toolbox.md)<sup>\*</sup> [Greek](../el/Layers-section-in-the-Hotmaps-toolbox.md)<sup>\*</sup> [Hungarian](../hu/Layers-section-in-the-Hotmaps-toolbox.md)<sup>\*</sup> [Irish](../ga/Layers-section-in-the-Hotmaps-toolbox.md)<sup>\*</sup> [Italian](../it/Layers-section-in-the-Hotmaps-toolbox.md)<sup>\*</sup> [Latvian](../lv/Layers-section-in-the-Hotmaps-toolbox.md)<sup>\*</sup> [Lithuanian](../lt/Layers-section-in-the-Hotmaps-toolbox.md)<sup>\*</sup> [Maltese](../mt/Layers-section-in-the-Hotmaps-toolbox.md)<sup>\*</sup> [Polish](../pl/Layers-section-in-the-Hotmaps-toolbox.md)<sup>\*</sup> [Portuguese (en-Portugal, Brazil)](../pt/Layers-section-in-the-Hotmaps-toolbox.md)<sup>\*</sup> [Romanian](../ro/Layers-section-in-the-Hotmaps-toolbox.md)<sup>\*</sup> [Slovak](../sk/Layers-section-in-the-Hotmaps-toolbox.md)<sup>\*</sup> [Slovenian](../sl/Layers-section-in-the-Hotmaps-toolbox.md)<sup>\*</sup> [Spanish](../es/Layers-section-in-the-Hotmaps-toolbox.md)<sup>\*</sup> [Swedish](../sv/Layers-section-in-the-Hotmaps-toolbox.md)<sup>\*</sup> 
 
 <sup>\*</sup>: machine translated

@@ -7,7 +7,7 @@ What we offer is an open source online software that supports planning processes
 * customisations of the software for your specific needs, 
 * training and support services.
 
-Thanks to this software, you will be able to take practical decisions in your area of interest (village, town, city, etc.). We applied and demonstrated the values of the Hotmaps website in seven pilot areas. The website was developed by leading research institutions across Europe together with cities. Go on the website by clicking [HERE](https://www.hotmaps.hevs.ch/map) and discover your city’s climate neutral energy future. 
+Thanks to this software, you will be able to take practical decisions in your area of interest (en-village, town, city, etc.). We applied and demonstrated the values of the Hotmaps website in seven pilot areas. The website was developed by leading research institutions across Europe together with cities. Go on the website by clicking [HERE](https://www.hotmaps.hevs.ch/map) and discover your city’s climate neutral energy future. 
 
 
 ## How to use the Hotmaps toolbox for heating and cooling planning 
@@ -30,68 +30,68 @@ The aim of section "How to apply hotmaps toolbox?" is to guide the Hotmaps users
 
 The developers section contains all information required for developers to contribute to the Hotmaps toolbox or to understand how it works. It explains amongst all the IT infrastructure of the Hotmaps toolbox, data set integration, contribution in calculation module development etc.
 
-**The Hotmaps Wiki is a living document**, i.e. it grows as the Hotmaps toolbox grows. The Hotmaps developers continue updating Hotmaps Wiki pages by introduction of new updates, improvements, functionalities and calculation modules. Please use [this guideline](https://github.com/HotMaps/hotmaps_wiki/wiki/Guidelines-for-writing-a-Hotmaps-Wiki-page) for writing a Hotmaps Wiki page.
+**The Hotmaps Wiki is a living document**, i.e. it grows as the Hotmaps toolbox grows. The Hotmaps developers continue updating Hotmaps Wiki pages by introduction of new updates, improvements, functionalities and calculation modules. Please use [this guideline](en-https://github.com/HotMaps/hotmaps_wiki/wiki/Guidelines-for-writing-a-Hotmaps-Wiki-page) for writing a Hotmaps Wiki page.
 
 We hope you enjoy exploring the toolbox and find it helpful for your heating and cooling planning!
 
 ## Data sets
-* [Hotmaps data set: Method of data collection](Hotmaps-data-set-method-of-data-collection)
-* [Hotmaps open data repositories](Hotmaps-open-data-repositories)
+* [Hotmaps data set: Method of data collection](en-Hotmaps-data-set-method-of-data-collection)
+* [Hotmaps open data repositories](en-Hotmaps-open-data-repositories)
 
 ## General tool functionalities and structure
-* [Introduction to user interface](Introduction-to-user-interface)
-* [Layers section in the Hotmaps toolbox](Layers-section-in-the-Hotmaps-toolbox)
-* [Select a region in the Hotmaps toolbox](Select-a-region-in-the-Hotmaps-toolbox)
-* [Retrieve indicators of a selected area](Retrieve-indicators-of-a-selected-area)
-* [Access to calculation modules](Access-to-calculation-modules)
-* [Database behind the Hotmaps toolbox](Database-behind-the-Hotmaps-toolbox)
-* [Data upload functionalities](Data-upload-functionalities)
-* [Data export functionalities](Data-export-functionalities)
+* [Introduction to user interface](en-Introduction-to-user-interface)
+* [Layers section in the Hotmaps toolbox](en-Layers-section-in-the-Hotmaps-toolbox)
+* [Select a region in the Hotmaps toolbox](en-Select-a-region-in-the-Hotmaps-toolbox)
+* [Retrieve indicators of a selected area](en-Retrieve-indicators-of-a-selected-area)
+* [Access to calculation modules](en-Access-to-calculation-modules)
+* [Database behind the Hotmaps toolbox](en-Database-behind-the-Hotmaps-toolbox)
+* [Data upload functionalities](en-Data-upload-functionalities)
+* [Data export functionalities](en-Data-export-functionalities)
 
-## Calculation modules (CM)
-* [CM - Customized heat and floor area density maps](CM-Customized-heat-and-floor-area-density-maps)
-* [CM - Scale heat and cool density maps](CM-Scale-heat-and-cool-density-maps)
-* [CM - Demand projection](CM-Demand-projection)
-* [CM - Heat load profiles](CM-Heat-load-profiles)
-* [CM - District heating potential areas: user-defined thresholds](CM-District-heating-potential-areas-user-defined-thresholds)
-* [CM - District heating potential: economic assessment](CM-District-heating-potential-economic-assessment)
-* [CM - District heating supply dispatch](CM-District-heating-supply-dispatch)
-* [CM - Decentral heating supply](CM-Decentral-heating-supply)  
-* [CM - Solar thermal and PV potential](CM-Solar-thermal-and-PV-potential)
-* [CM - Shallow geothermal potential](CM-Shallow-geothermal-potential)
-* [CM - Heat sources potential](CM-Heat-source-potential)
-* [CM - Biomass potential](CM-Biomass-potential)
-* [CM - Wind potential](CM-Wind-potential)
-* [CM - Excess heat transport potential](CM-Excess-heat-transport-potential)
-* [CM - Add industry plant](CM-add-industry-plant)
-* [CM - Scenario assessment](CM-Scenario-assessment)
+## Calculation modules (en-CM)
+* [CM - Customized heat and floor area density maps](en-CM-Customized-heat-and-floor-area-density-maps)
+* [CM - Scale heat and cool density maps](en-CM-Scale-heat-and-cool-density-maps)
+* [CM - Demand projection](en-CM-Demand-projection)
+* [CM - Heat load profiles](en-CM-Heat-load-profiles)
+* [CM - District heating potential areas: user-defined thresholds](en-CM-District-heating-potential-areas-user-defined-thresholds)
+* [CM - District heating potential: economic assessment](en-CM-District-heating-potential-economic-assessment)
+* [CM - District heating supply dispatch](en-CM-District-heating-supply-dispatch)
+* [CM - Decentral heating supply](en-CM-Decentral-heating-supply)  
+* [CM - Solar thermal and PV potential](en-CM-Solar-thermal-and-PV-potential)
+* [CM - Shallow geothermal potential](en-CM-Shallow-geothermal-potential)
+* [CM - Heat sources potential](en-CM-Heat-source-potential)
+* [CM - Biomass potential](en-CM-Biomass-potential)
+* [CM - Wind potential](en-CM-Wind-potential)
+* [CM - Excess heat transport potential](en-CM-Excess-heat-transport-potential)
+* [CM - Add industry plant](en-CM-add-industry-plant)
+* [CM - Scenario assessment](en-CM-Scenario-assessment)
 
 ## How to apply Hotmaps toolbox
 Each calculation module can be used to analyse different parts of the heating and cooling system and different analysis questions. The calculation modules can also be used as a chain of tools to derive scenarios for heating and cooling of defined regions / areas. For the demonstration of the Hotmaps toolbox the calculation modules are used according to the following toolchain:
 
-![](https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/Hotmaps_toolchain_2019-05-09.png)
+![](en-https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/Hotmaps_toolchain_2019-05-09.png)
 
 For additional supports on heating and cooling planning, please refer to the Hotmaps handbook:
-* [Summary of the Hotmaps Handbooks for strategic heat planning](https://www.hotmaps-project.eu/wp-content/uploads/2019/04/Summary-Hotmaps-Handbook.pdf)
-* [Handbook 1 – Definition & experiences of strategic heat planning](https://vbn.aau.dk/da/publications/definition-amp-experiences-of-strategic-heat-planning)
-* [Handbook 2 – Guidance for comprehensive assessment of efficient heating and cooling](https://vbn.aau.dk/da/publications/guidance-for-the-comprehensive-assessment-of-efficient-heating-an)
-* [Appendix report to the Handbook for strategic heat planning: Case descriptions](https://vbn.aau.dk/da/publications/appendix-report-to-the-hotmaps-handbook-for-strategic-heat-planni)
+* [Summary of the Hotmaps Handbooks for strategic heat planning](en-https://www.hotmaps-project.eu/wp-content/uploads/2019/04/Summary-Hotmaps-Handbook.pdf)
+* [Handbook 1 – Definition & experiences of strategic heat planning](en-https://vbn.aau.dk/da/publications/definition-amp-experiences-of-strategic-heat-planning)
+* [Handbook 2 – Guidance for comprehensive assessment of efficient heating and cooling](en-https://vbn.aau.dk/da/publications/guidance-for-the-comprehensive-assessment-of-efficient-heating-an)
+* [Appendix report to the Handbook for strategic heat planning: Case descriptions](en-https://vbn.aau.dk/da/publications/appendix-report-to-the-hotmaps-handbook-for-strategic-heat-planni)
 
 
 ## For developers
-* [Developers section](Developers)
-* [Guidelines for defining indicators](Guidelines-for-defining-indicators)
+* [Developers section](en-Developers)
+* [Guidelines for defining indicators](en-Guidelines-for-defining-indicators)
 
 
 **HAVE FUN EXPLORING THE HOTMAPS TOOLBOX!**
 
-![](https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/Hotmaps_test.JPG)
+![](en-https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/Hotmaps_test.JPG)
 
 ## References
-[1] EU H2020 Project: Mapping and analyses of the current and future (2020 - 2030) heat-ing/cooling fuel deployment (fossil/renewables). WP1 Report. 2016. accessed via https://ec.europa.eu/energy/sites/ener/files/documents/Report%20WP1.pdf
+[1] EU H2020 Project: Mapping and analyses of the current and future (2020 - 2030) heat-ing/cooling fuel deployment (en-fossil/renewables). WP1 Report. 2016. accessed via https://ec.europa.eu/energy/sites/ener/files/documents/Report%20WP1.pdf
 
 View in another language:
 
- [Bulgarian](../bg/Home.md)<sup>\*</sup> [Croatian](../hr/Home.md)<sup>\*</sup> [Czech](../cs/Home.md)<sup>\*</sup> [Danish](../da/Home.md)<sup>\*</sup> [Dutch](../nl/Home.md)<sup>\*</sup> [Estonian](../et/Home.md)<sup>\*</sup> [Finnish](../fi/Home.md)<sup>\*</sup> [French](../fr/Home.md)<sup>\*</sup> [German](../de/Home.md)<sup>\*</sup> [Greek](../el/Home.md)<sup>\*</sup> [Hungarian](../hu/Home.md)<sup>\*</sup> [Irish](../ga/Home.md)<sup>\*</sup> [Italian](../it/Home.md)<sup>\*</sup> [Latvian](../lv/Home.md)<sup>\*</sup> [Lithuanian](../lt/Home.md)<sup>\*</sup> [Maltese](../mt/Home.md)<sup>\*</sup> [Polish](../pl/Home.md)<sup>\*</sup> [Portuguese (Portugal, Brazil)](../pt/Home.md)<sup>\*</sup> [Romanian](../ro/Home.md)<sup>\*</sup> [Slovak](../sk/Home.md)<sup>\*</sup> [Slovenian](../sl/Home.md)<sup>\*</sup> [Spanish](../es/Home.md)<sup>\*</sup> [Swedish](../sv/Home.md)<sup>\*</sup> 
+ [Bulgarian](../bg/Home.md)<sup>\*</sup> [Croatian](../hr/Home.md)<sup>\*</sup> [Czech](../cs/Home.md)<sup>\*</sup> [Danish](../da/Home.md)<sup>\*</sup> [Dutch](../nl/Home.md)<sup>\*</sup> [Estonian](../et/Home.md)<sup>\*</sup> [Finnish](../fi/Home.md)<sup>\*</sup> [French](../fr/Home.md)<sup>\*</sup> [German](../de/Home.md)<sup>\*</sup> [Greek](../el/Home.md)<sup>\*</sup> [Hungarian](../hu/Home.md)<sup>\*</sup> [Irish](../ga/Home.md)<sup>\*</sup> [Italian](../it/Home.md)<sup>\*</sup> [Latvian](../lv/Home.md)<sup>\*</sup> [Lithuanian](../lt/Home.md)<sup>\*</sup> [Maltese](../mt/Home.md)<sup>\*</sup> [Polish](../pl/Home.md)<sup>\*</sup> [Portuguese (en-Portugal, Brazil)](../pt/Home.md)<sup>\*</sup> [Romanian](../ro/Home.md)<sup>\*</sup> [Slovak](../sk/Home.md)<sup>\*</sup> [Slovenian](../sl/Home.md)<sup>\*</sup> [Spanish](../es/Home.md)<sup>\*</sup> [Swedish](../sv/Home.md)<sup>\*</sup> 
 
 <sup>\*</sup>: machine translated

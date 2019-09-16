@@ -86,8 +86,8 @@ The indicators for this part originate from two calculation modules:
 
 For each scenario tag, the following three indicators are shown in form of **stacked bar chart**:
 
-* Overall (aggregated) costs of heat supply by **district heating system** and **decentral heating system** in _*EUR*_
-* Overall (aggregated) CO<sub>2</sub> emissions by **district heating system** and **decentral heating system** in _*tons/year*_
+* Overall (en-aggregated) costs of heat supply by **district heating system** and **decentral heating system** in _*EUR*_
+* Overall (en-aggregated) CO<sub>2</sub> emissions by **district heating system** and **decentral heating system** in _*tons/year*_
 * Overall energy carrier mix in _*MWh*_
 
 
@@ -121,7 +121,7 @@ For each scenario tag, the following three indicators are shown in form of **sta
 
 ## How to cite
 
-Mostafa Fallahnejad, in Hotmaps-Wiki, https://github.com/HotMaps/hotmaps_wiki/wiki/CM-Scenario-assessment (June 2019)
+Mostafa Fallahnejad, in Hotmaps-Wiki, https://github.com/HotMaps/hotmaps_wiki/wiki/CM-Scenario-assessment (en-June 2019)
 
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
@@ -132,7 +132,7 @@ This page is written by Mostafa Fallahnejad\*.
 
 - [ ] This page was reviewed by Lukas Kranzl\*.
 
-\* [Energy Economics Group - TU Wien](https://eeg.tuwien.ac.at/)
+\* [Energy Economics Group - TU Wien](en-https://eeg.tuwien.ac.at/)
 
 Institute of Energy Systems and Electrical Drives
 
@@ -158,7 +158,7 @@ License-Text: https://spdx.org/licenses/CC-BY-4.0.html
 
 ## Acknowledgement
 
-We would like to convey our deepest appreciation to the Horizon 2020 [Hotmaps Project](https://www.hotmaps-project.eu) (Grant Agreement number 723677), which provided the funding to carry out the present investigation.
+We would like to convey our deepest appreciation to the Horizon 2020 [Hotmaps Project](en-https://www.hotmaps-project.eu) (Grant Agreement number 723677), which provided the funding to carry out the present investigation.
 
 
 
@@ -166,6 +166,6 @@ We would like to convey our deepest appreciation to the Horizon 2020 [Hotmaps Pr
 
 View in another language:
 
- [Bulgarian](../bg/CM-Scenario-assessment.md)<sup>\*</sup> [Croatian](../hr/CM-Scenario-assessment.md)<sup>\*</sup> [Czech](../cs/CM-Scenario-assessment.md)<sup>\*</sup> [Danish](../da/CM-Scenario-assessment.md)<sup>\*</sup> [Dutch](../nl/CM-Scenario-assessment.md)<sup>\*</sup> [Estonian](../et/CM-Scenario-assessment.md)<sup>\*</sup> [Finnish](../fi/CM-Scenario-assessment.md)<sup>\*</sup> [French](../fr/CM-Scenario-assessment.md)<sup>\*</sup> [German](../de/CM-Scenario-assessment.md)<sup>\*</sup> [Greek](../el/CM-Scenario-assessment.md)<sup>\*</sup> [Hungarian](../hu/CM-Scenario-assessment.md)<sup>\*</sup> [Irish](../ga/CM-Scenario-assessment.md)<sup>\*</sup> [Italian](../it/CM-Scenario-assessment.md)<sup>\*</sup> [Latvian](../lv/CM-Scenario-assessment.md)<sup>\*</sup> [Lithuanian](../lt/CM-Scenario-assessment.md)<sup>\*</sup> [Maltese](../mt/CM-Scenario-assessment.md)<sup>\*</sup> [Polish](../pl/CM-Scenario-assessment.md)<sup>\*</sup> [Portuguese (Portugal, Brazil)](../pt/CM-Scenario-assessment.md)<sup>\*</sup> [Romanian](../ro/CM-Scenario-assessment.md)<sup>\*</sup> [Slovak](../sk/CM-Scenario-assessment.md)<sup>\*</sup> [Slovenian](../sl/CM-Scenario-assessment.md)<sup>\*</sup> [Spanish](../es/CM-Scenario-assessment.md)<sup>\*</sup> [Swedish](../sv/CM-Scenario-assessment.md)<sup>\*</sup> 
+ [Bulgarian](../bg/CM-Scenario-assessment.md)<sup>\*</sup> [Croatian](../hr/CM-Scenario-assessment.md)<sup>\*</sup> [Czech](../cs/CM-Scenario-assessment.md)<sup>\*</sup> [Danish](../da/CM-Scenario-assessment.md)<sup>\*</sup> [Dutch](../nl/CM-Scenario-assessment.md)<sup>\*</sup> [Estonian](../et/CM-Scenario-assessment.md)<sup>\*</sup> [Finnish](../fi/CM-Scenario-assessment.md)<sup>\*</sup> [French](../fr/CM-Scenario-assessment.md)<sup>\*</sup> [German](../de/CM-Scenario-assessment.md)<sup>\*</sup> [Greek](../el/CM-Scenario-assessment.md)<sup>\*</sup> [Hungarian](../hu/CM-Scenario-assessment.md)<sup>\*</sup> [Irish](../ga/CM-Scenario-assessment.md)<sup>\*</sup> [Italian](../it/CM-Scenario-assessment.md)<sup>\*</sup> [Latvian](../lv/CM-Scenario-assessment.md)<sup>\*</sup> [Lithuanian](../lt/CM-Scenario-assessment.md)<sup>\*</sup> [Maltese](../mt/CM-Scenario-assessment.md)<sup>\*</sup> [Polish](../pl/CM-Scenario-assessment.md)<sup>\*</sup> [Portuguese (en-Portugal, Brazil)](../pt/CM-Scenario-assessment.md)<sup>\*</sup> [Romanian](../ro/CM-Scenario-assessment.md)<sup>\*</sup> [Slovak](../sk/CM-Scenario-assessment.md)<sup>\*</sup> [Slovenian](../sl/CM-Scenario-assessment.md)<sup>\*</sup> [Spanish](../es/CM-Scenario-assessment.md)<sup>\*</sup> [Swedish](../sv/CM-Scenario-assessment.md)<sup>\*</sup> 
 
 <sup>\*</sup>: machine translated

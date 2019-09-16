@@ -17,17 +17,17 @@ The district heating supply module is a dispatch model which tries to find a cos
 
 ![concept.png][concept]
 
-> The method described here is to be understood as a first concept and can deviate from the actual implementation (model complexity, inputs and outputs, etc. must be seen from this point of view).
+> The method described here is to be understood as a first concept and can deviate from the actual implementation (en-model complexity, inputs and outputs, etc. must be seen from this point of view).
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
 
 ## Inputs and outputs
 
 ### Main inputs
-1. Heat demand of the grid (selected region)
+1. Heat demand of the grid (en-selected region)
 1. Installed capacities of heat generators/storage
-1. Technical(efficiencies) and fincancal paramters(opex,capex,lifetime) of heat generators/storages
-1. Profiles (time series of the heat demand,solar radiation, temperature, electricity prices, etc..)
+1. Technical(en-efficiencies) and fincancal paramters(opex,capex,lifetime) of heat generators/storages
+1. Profiles (en-time series of the heat demand,solar radiation, temperature, electricity prices, etc..)
 1. ...
 
 ### Main outputs
@@ -50,7 +50,7 @@ The objective function tries to find the minimum of the difference from the cost
 
 #### The total costs <code>c<sub>total</sub></code> yield from the sum of:
  
-##### investment costs <code>IC</code> (installed capacities multiplied by the annuities of the specific investment costs) 
+##### investment costs <code>IC</code> (en-installed capacities multiplied by the annuities of the specific investment costs) 
 
 ![ic.png][ic] 
 
@@ -62,18 +62,18 @@ The objective function tries to find the minimum of the difference from the cost
 
 ![opex.png][opex]
     
-##### ramp costs of CHP and waste incineration plants (rough Estimation) :
+##### ramp costs of CHP and waste incineration plants (en-rough Estimation) :
 
 ![ramp.png][ramp]
 
-##### assumed costs for the peak electrical load in the winter time (rough Estimation):
+##### assumed costs for the peak electrical load in the winter time (en-rough Estimation):
 
 ![peak.png][peak]
 
 
 #### The total revenues <code>rev<sub>total</sub></code> yield from::
 
-##### the sale of electricity (for example from CHP plants and waste incineration plants).:
+##### the sale of electricity (en-for example from CHP plants and waste incineration plants).:
 
 ![rev.png][rev]
 
@@ -113,7 +113,7 @@ The objective function tries to find the minimum of the difference from the cost
 This page is written by Jeton Hasani\*.
 - [ ] This page was reviewed by Lukas Kranzl\*.
 
-\* [Energy Economics Group - TU Wien](https://eeg.tuwien.ac.at/)
+\* [Energy Economics Group - TU Wien](en-https://eeg.tuwien.ac.at/)
 Institute of Energy Systems and Electrical Drives
 Gusshausstrasse 27-29/370
 1040 Wien
@@ -129,14 +129,14 @@ License-Text: https://spdx.org/licenses/CC-BY-4.0.html
 
 
 ## Acknowledgement
-We would like to convey our deepest appreciation to the Horizon 2020 [Hotmaps Project](https://www.hotmaps-project.eu) (Grant Agreement number 723677), which provided the funding to carry out the present investigation.
+We would like to convey our deepest appreciation to the Horizon 2020 [Hotmaps Project](en-https://www.hotmaps-project.eu) (Grant Agreement number 723677), which provided the funding to carry out the present investigation.
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
 
-<code>[Review this page](https://github.com/HotMaps/hotmaps_wiki/wiki/CM_DH_supply/_edit)</code>
+<code>[Review this page](en-https://github.com/HotMaps/hotmaps_wiki/wiki/CM_DH_supply/_edit)</code>
 
 
-[//]: # (Here are all the files to the links)
+[//]: # (en-Here are all the files to the links)
 [concept]: https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/dh_supply/concept.png
 [lp_fragment]: https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/dh_supply/lp_fragment.png
 [ic]: https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/dh_supply/ic.png
@@ -149,6 +149,6 @@ We would like to convey our deepest appreciation to the Horizon 2020 [Hotmaps Pr
 
 View in another language:
 
- [Bulgarian](../bg/CM-District-heating-supply-dispatch.md)<sup>\*</sup> [Croatian](../hr/CM-District-heating-supply-dispatch.md)<sup>\*</sup> [Czech](../cs/CM-District-heating-supply-dispatch.md)<sup>\*</sup> [Danish](../da/CM-District-heating-supply-dispatch.md)<sup>\*</sup> [Dutch](../nl/CM-District-heating-supply-dispatch.md)<sup>\*</sup> [Estonian](../et/CM-District-heating-supply-dispatch.md)<sup>\*</sup> [Finnish](../fi/CM-District-heating-supply-dispatch.md)<sup>\*</sup> [French](../fr/CM-District-heating-supply-dispatch.md)<sup>\*</sup> [German](../de/CM-District-heating-supply-dispatch.md)<sup>\*</sup> [Greek](../el/CM-District-heating-supply-dispatch.md)<sup>\*</sup> [Hungarian](../hu/CM-District-heating-supply-dispatch.md)<sup>\*</sup> [Irish](../ga/CM-District-heating-supply-dispatch.md)<sup>\*</sup> [Italian](../it/CM-District-heating-supply-dispatch.md)<sup>\*</sup> [Latvian](../lv/CM-District-heating-supply-dispatch.md)<sup>\*</sup> [Lithuanian](../lt/CM-District-heating-supply-dispatch.md)<sup>\*</sup> [Maltese](../mt/CM-District-heating-supply-dispatch.md)<sup>\*</sup> [Polish](../pl/CM-District-heating-supply-dispatch.md)<sup>\*</sup> [Portuguese (Portugal, Brazil)](../pt/CM-District-heating-supply-dispatch.md)<sup>\*</sup> [Romanian](../ro/CM-District-heating-supply-dispatch.md)<sup>\*</sup> [Slovak](../sk/CM-District-heating-supply-dispatch.md)<sup>\*</sup> [Slovenian](../sl/CM-District-heating-supply-dispatch.md)<sup>\*</sup> [Spanish](../es/CM-District-heating-supply-dispatch.md)<sup>\*</sup> [Swedish](../sv/CM-District-heating-supply-dispatch.md)<sup>\*</sup> 
+ [Bulgarian](../bg/CM-District-heating-supply-dispatch.md)<sup>\*</sup> [Croatian](../hr/CM-District-heating-supply-dispatch.md)<sup>\*</sup> [Czech](../cs/CM-District-heating-supply-dispatch.md)<sup>\*</sup> [Danish](../da/CM-District-heating-supply-dispatch.md)<sup>\*</sup> [Dutch](../nl/CM-District-heating-supply-dispatch.md)<sup>\*</sup> [Estonian](../et/CM-District-heating-supply-dispatch.md)<sup>\*</sup> [Finnish](../fi/CM-District-heating-supply-dispatch.md)<sup>\*</sup> [French](../fr/CM-District-heating-supply-dispatch.md)<sup>\*</sup> [German](../de/CM-District-heating-supply-dispatch.md)<sup>\*</sup> [Greek](../el/CM-District-heating-supply-dispatch.md)<sup>\*</sup> [Hungarian](../hu/CM-District-heating-supply-dispatch.md)<sup>\*</sup> [Irish](../ga/CM-District-heating-supply-dispatch.md)<sup>\*</sup> [Italian](../it/CM-District-heating-supply-dispatch.md)<sup>\*</sup> [Latvian](../lv/CM-District-heating-supply-dispatch.md)<sup>\*</sup> [Lithuanian](../lt/CM-District-heating-supply-dispatch.md)<sup>\*</sup> [Maltese](../mt/CM-District-heating-supply-dispatch.md)<sup>\*</sup> [Polish](../pl/CM-District-heating-supply-dispatch.md)<sup>\*</sup> [Portuguese (en-Portugal, Brazil)](../pt/CM-District-heating-supply-dispatch.md)<sup>\*</sup> [Romanian](../ro/CM-District-heating-supply-dispatch.md)<sup>\*</sup> [Slovak](../sk/CM-District-heating-supply-dispatch.md)<sup>\*</sup> [Slovenian](../sl/CM-District-heating-supply-dispatch.md)<sup>\*</sup> [Spanish](../es/CM-District-heating-supply-dispatch.md)<sup>\*</sup> [Swedish](../sv/CM-District-heating-supply-dispatch.md)<sup>\*</sup> 
 
 <sup>\*</sup>: machine translated

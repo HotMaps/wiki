@@ -15,7 +15,7 @@
 
 ## Introduction
 
-It aims to compute the shallow geothermal potential based on [r.green.gshp.theoretical](https://grass.osgeo.org/grass76/manuals/addons/r.green.gshp.theoretical.html) according to the [G.pot methodology](https://www.sciencedirect.com/science/article/pii/S0360544216303358). 
+It aims to compute the shallow geothermal potential based on [r.green.gshp.theoretical](en-https://grass.osgeo.org/grass76/manuals/addons/r.green.gshp.theoretical.html) according to the [G.pot methodology](https://www.sciencedirect.com/science/article/pii/S0360544216303358). 
 In this module the output is the theoretical maximum energy that can be converted in the ideal case without considering the financial and spatial constraints. 
 
 
@@ -41,7 +41,7 @@ The advanced input are:
 * Borehole length [m]
 * Pipe radius [m]
 * Number of pipes in the borehole
-* Thermal conductivity of the borehole filling (geothermal grout) [W m-1 K-1]
+* Thermal conductivity of the borehole filling (en-geothermal grout) [W m-1 K-1]
 * Minimum or maximum fluid temperature [°C]
 * Simulated lifetime of the plant [years]
 
@@ -50,13 +50,13 @@ The advanced input are:
 * a raster map with the geothermal power potential [W]
 * a raster map with the geothermal energy potential [MWh]
 
-A deeper explanation of the default input raster is available in the [Hotmaps repository](https://gitlab.com/hotmaps/potential/potential_geothermal_raster)
+A deeper explanation of the default input raster is available in the [Hotmaps repository](en-https://gitlab.com/hotmaps/potential/potential_geothermal_raster)
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
 
 
 ## Method
-The method to define the energy potential is based on the [G.pot](https://www.sciencedirect.com/science/article/pii/S0360544216303358). The potential of shallow geothermal energy is computed by means of and empirical relationship proposed by [Casasso et al. (2016)](https://www.sciencedirect.com/science/article/pii/S0360544216303358).
+The method to define the energy potential is based on the [G.pot](en-https://www.sciencedirect.com/science/article/pii/S0360544216303358). The potential of shallow geothermal energy is computed by means of and empirical relationship proposed by [Casasso et al. (2016)](https://www.sciencedirect.com/science/article/pii/S0360544216303358).
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
 
@@ -88,7 +88,7 @@ The method to define the energy potential is based on the [G.pot](https://www.sc
 This page is written by Pietro Zambelli\* and Giulia Garegnani\*.
 
 
-\* [Urban and Regional Energy System Group - EURAC Bozen](http://www.eurac.edu/en/research/technologies/renewableenergy/researchfields/Pages/Energy-strategies-and-planning.aspx)
+\* [Urban and Regional Energy System Group - EURAC Bozen](en-http://www.eurac.edu/en/research/technologies/renewableenergy/researchfields/Pages/Energy-strategies-and-planning.aspx)
 
 Institute of Renewable Energy
 Drususallee/Viale Druso 1
@@ -111,7 +111,7 @@ License-Text: https://spdx.org/licenses/CC-BY-4.0.html
 
 ## Acknowledgement
 
-We would like to convey our deepest appreciation to the Horizon 2020 [Hotmaps Project](https://www.hotmaps-project.eu) (Grant Agreement number 723677), which provided the funding to carry out the present investigation.
+We would like to convey our deepest appreciation to the Horizon 2020 [Hotmaps Project](en-https://www.hotmaps-project.eu) (Grant Agreement number 723677), which provided the funding to carry out the present investigation.
 
 
 
@@ -124,6 +124,6 @@ We would like to convey our deepest appreciation to the Horizon 2020 [Hotmaps Pr
 
 View in another language:
 
- [Bulgarian](../bg/CM-Shallow-geothermal-potential.md)<sup>\*</sup> [Croatian](../hr/CM-Shallow-geothermal-potential.md)<sup>\*</sup> [Czech](../cs/CM-Shallow-geothermal-potential.md)<sup>\*</sup> [Danish](../da/CM-Shallow-geothermal-potential.md)<sup>\*</sup> [Dutch](../nl/CM-Shallow-geothermal-potential.md)<sup>\*</sup> [Estonian](../et/CM-Shallow-geothermal-potential.md)<sup>\*</sup> [Finnish](../fi/CM-Shallow-geothermal-potential.md)<sup>\*</sup> [French](../fr/CM-Shallow-geothermal-potential.md)<sup>\*</sup> [German](../de/CM-Shallow-geothermal-potential.md)<sup>\*</sup> [Greek](../el/CM-Shallow-geothermal-potential.md)<sup>\*</sup> [Hungarian](../hu/CM-Shallow-geothermal-potential.md)<sup>\*</sup> [Irish](../ga/CM-Shallow-geothermal-potential.md)<sup>\*</sup> [Italian](../it/CM-Shallow-geothermal-potential.md)<sup>\*</sup> [Latvian](../lv/CM-Shallow-geothermal-potential.md)<sup>\*</sup> [Lithuanian](../lt/CM-Shallow-geothermal-potential.md)<sup>\*</sup> [Maltese](../mt/CM-Shallow-geothermal-potential.md)<sup>\*</sup> [Polish](../pl/CM-Shallow-geothermal-potential.md)<sup>\*</sup> [Portuguese (Portugal, Brazil)](../pt/CM-Shallow-geothermal-potential.md)<sup>\*</sup> [Romanian](../ro/CM-Shallow-geothermal-potential.md)<sup>\*</sup> [Slovak](../sk/CM-Shallow-geothermal-potential.md)<sup>\*</sup> [Slovenian](../sl/CM-Shallow-geothermal-potential.md)<sup>\*</sup> [Spanish](../es/CM-Shallow-geothermal-potential.md)<sup>\*</sup> [Swedish](../sv/CM-Shallow-geothermal-potential.md)<sup>\*</sup> 
+ [Bulgarian](../bg/CM-Shallow-geothermal-potential.md)<sup>\*</sup> [Croatian](../hr/CM-Shallow-geothermal-potential.md)<sup>\*</sup> [Czech](../cs/CM-Shallow-geothermal-potential.md)<sup>\*</sup> [Danish](../da/CM-Shallow-geothermal-potential.md)<sup>\*</sup> [Dutch](../nl/CM-Shallow-geothermal-potential.md)<sup>\*</sup> [Estonian](../et/CM-Shallow-geothermal-potential.md)<sup>\*</sup> [Finnish](../fi/CM-Shallow-geothermal-potential.md)<sup>\*</sup> [French](../fr/CM-Shallow-geothermal-potential.md)<sup>\*</sup> [German](../de/CM-Shallow-geothermal-potential.md)<sup>\*</sup> [Greek](../el/CM-Shallow-geothermal-potential.md)<sup>\*</sup> [Hungarian](../hu/CM-Shallow-geothermal-potential.md)<sup>\*</sup> [Irish](../ga/CM-Shallow-geothermal-potential.md)<sup>\*</sup> [Italian](../it/CM-Shallow-geothermal-potential.md)<sup>\*</sup> [Latvian](../lv/CM-Shallow-geothermal-potential.md)<sup>\*</sup> [Lithuanian](../lt/CM-Shallow-geothermal-potential.md)<sup>\*</sup> [Maltese](../mt/CM-Shallow-geothermal-potential.md)<sup>\*</sup> [Polish](../pl/CM-Shallow-geothermal-potential.md)<sup>\*</sup> [Portuguese (en-Portugal, Brazil)](../pt/CM-Shallow-geothermal-potential.md)<sup>\*</sup> [Romanian](../ro/CM-Shallow-geothermal-potential.md)<sup>\*</sup> [Slovak](../sk/CM-Shallow-geothermal-potential.md)<sup>\*</sup> [Slovenian](../sl/CM-Shallow-geothermal-potential.md)<sup>\*</sup> [Spanish](../es/CM-Shallow-geothermal-potential.md)<sup>\*</sup> [Swedish](../sv/CM-Shallow-geothermal-potential.md)<sup>\*</sup> 
 
 <sup>\*</sup>: machine translated

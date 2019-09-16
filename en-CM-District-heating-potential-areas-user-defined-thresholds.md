@@ -16,9 +16,9 @@
 
 ## Introduction
 
-The heat demand plays an important role in determination of potential district heating (DH) areas. For example, implementation of district heating in areas with low heat demand is not economically viable. On the other hand, defining any area with high heat demand density as potential DH area can also be inaccurate. A high heat demand density in an area could be due to presence of a few consumers with a very high heat demand within that area. In contrary, a low average heat demand density could be a sign of zones with a very low heat demand within the selected area. The aim of DH potential module is to provide a reasonable balance between heat demand density in an area and its constituting zones.
+The heat demand plays an important role in determination of potential district heating (en-DH) areas. For example, implementation of district heating in areas with low heat demand is not economically viable. On the other hand, defining any area with high heat demand density as potential DH area can also be inaccurate. A high heat demand density in an area could be due to presence of a few consumers with a very high heat demand within that area. In contrary, a low average heat demand density could be a sign of zones with a very low heat demand within the selected area. The aim of DH potential module is to provide a reasonable balance between heat demand density in an area and its constituting zones.
 
-The DH potential module determines the DH areas and their corresponding DH potential based on heat demand densities. The heat demand densities are obtained from the input GIS layer, namely **[European Heat Density Map (EHDM)](https://gitlab.com/hotmaps/heat/heat_tot_curr_density)**, which was developed in course of  **[Hotmaps project](https://www.hotmaps-project.eu)**. The EHDM is in raster format and has a resolution of one hectare and Coordinate Reference System (CRS) of "_*ETRS89 / LAEA Europe - EPSG 3035*_". The cells in EHDM show the heating densities in _**MWh/ha**_.
+The DH potential module determines the DH areas and their corresponding DH potential based on heat demand densities. The heat demand densities are obtained from the input GIS layer, namely **[European Heat Density Map (en-EHDM)](https://gitlab.com/hotmaps/heat/heat_tot_curr_density)**, which was developed in course of  **[Hotmaps project](https://www.hotmaps-project.eu)**. The EHDM is in raster format and has a resolution of one hectare and Coordinate Reference System (CRS) of "_*ETRS89 / LAEA Europe - EPSG 3035*_". The cells in EHDM show the heating densities in _**MWh/ha**_.
 
 As output, one GIS layer, three indicators and two diagrams are presented. These outputs are explained in detail in [Sample Run](#sample-run) section. The output layer demonstrates the potential DH areas. By clicking on each area on the map, a window is popped up and the DH potential corresponding to that area is shown. Within the indicator/graph window, relevant indicators and charts regarding DH potential within the selected zone and potentials in sub-zones are illustrated.
 
@@ -33,7 +33,7 @@ The input parameters and layers as well as output layers and parameters are as f
 
 **Input layers and parameters are:**
 
-* Heat density map (by default is provided by the toolbox)
+* Heat density map (en-by default is provided by the toolbox)
   * in raster format (\*.tif)
   * with 1 hectare resolution
   * demand densities in _**MWh/ha**_
@@ -63,7 +63,7 @@ This code uses the concept of connected components from image processing library
 
 ## GitHub repository of this calculation module
 
-[Here](https://github.com/HotMaps/dh_potential/tree/develop) you get the bleeding-edge development for this calculation module.
+[Here](en-https://github.com/HotMaps/dh_potential/tree/develop) you get the bleeding-edge development for this calculation module.
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
 
@@ -72,18 +72,18 @@ Here, the calculation module is run for the case study of Aalborg in Denmark.
 
 * First, use the "Go To Place" bar to navigate to Aalborg and select the city.
 
-![Fig. 1](https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/cm_dh_potential/1.png "Navigate to a location")
+![Fig. 1](en-https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/cm_dh_potential/1.png "Navigate to a location")
 
 * Follow the steps as shown in the figure below:
   * Click on the "Layers" button to open the "Layers" window:
   * Click on the "CALCULATION MODULE" tab.
   * Click on the "DISTRICT HEATING POTENTIAL" button.
 
-![Fig. 2](https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/cm_dh_potential/2.png "Calculation module tab")
+![Fig. 2](en-https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/cm_dh_potential/2.png "Calculation module tab")
 
 * Now, the "DISTRICT HEATING POTENTIAL" opens and is ready to run.
 
-![Fig. 3](https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/cm_dh_potential/3.png "NDISTRICT HEATING POTENTIAL")
+![Fig. 3](en-https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/cm_dh_potential/3.png "NDISTRICT HEATING POTENTIAL")
 
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
@@ -95,9 +95,9 @@ The default input values show the general conditions under which an area can be 
 
 To run the calculation module, follow the next steps:
 
-* Assign a name to the run session (optional - here, we chose "Test Run 1") and set the input parameters (here, default values were used).
+* Assign a name to the run session (en-optional - here, we chose "Test Run 1") and set the input parameters (here, default values were used).
 
-![Fig. 4-0](https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/cm_dh_potential/4-0.png "Name the run session")
+![Fig. 4-0](en-https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/cm_dh_potential/4-0.png "Name the run session")
 
 * Wait until the process is finished.
 * As output, indicators and diagrams are shown in the "RESULTS" window. The indicators show:
@@ -105,15 +105,15 @@ To run the calculation module, follow the next steps:
   * total DH potential in _*GWh*_ within the selected zone,
   * the share of DH potential from totoal demand, which is obtained by division of DH potential by total heat demand in the region.
 
-![Fig. 4-1](https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/cm_dh_potential/4-1.png "INDICATORS tab")
+![Fig. 4-1](en-https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/cm_dh_potential/4-1.png "INDICATORS tab")
 
 Additionally, also two diagrams are generated. The first one shows the DH potential in each DH area. The correponding labels can be found in the map, too. The second diagram illustrates the total DH potential in comparision with the total heat demand in the selected area.
 
-![Fig. 4-2](https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/cm_dh_potential/4-2.png "GRAPHICS tab")
+![Fig. 4-2](en-https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/cm_dh_potential/4-2.png "GRAPHICS tab")
 
 * Also a new layer is added to the canvas showing DH areas. This layer is added to the list of layers under the "Calculation module" category. The run session name distinguishes the outputs of this run from other ones.
 
-![Fig. 4-3](https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/cm_dh_potential/4-3.png "Calculation module layers")
+![Fig. 4-3](en-https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/cm_dh_potential/4-3.png "Calculation module layers")
 
 Following these steps, you will get an impression about the input values and potential DH areas.
 
@@ -126,9 +126,9 @@ Following these steps, you will get an impression about the input values and pot
 
 Depending on your experience and  local knowledge, you may increase or decrease the input values to obtain better results. In case of Aalborg, for instance, you may know that the heat demand in outer city areas is relatively close to the central part of the city and DH system is also feasible in those areas. Therefore, you may decide to reduce the minimum heat demand in cells that are part of a DH area; however, to guarantee enough heat demand, you may increase the minimum heat demand in a DH area. Here you re-run the calculation modules with new input parameters.
 
-* Assign a name to the run session (optional - here, we chose "Test Run 2") and set the input parameters (_*250 MWh/ha*_ for min. heat demand in hectare and _*35 GWh/year*_ for the minimum demand in DH area).
+* Assign a name to the run session (en-optional - here, we chose "Test Run 2") and set the input parameters (_*250 MWh/ha*_ for min. heat demand in hectare and _*35 GWh/year*_ for the minimum demand in DH area).
 
-![Fig. 5-0](https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/cm_dh_potential/5-0.png "Name the run session")
+![Fig. 5-0](en-https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/cm_dh_potential/5-0.png "Name the run session")
 
 * Wait until the process is finished.
 * As output, indicators and diagrams are shown in the "RESULTS" window.  The indicators show:
@@ -136,15 +136,15 @@ Depending on your experience and  local knowledge, you may increase or decrease 
   * total DH potential in _*GWh*_ within the selected zone,
   * the share of DH potential from totoal demand, which is obtained by division of DH potential by total heat demand in the region.
 
-![Fig. 5-1](https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/cm_dh_potential/5-1.png "INDICATORS tab")
+![Fig. 5-1](en-https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/cm_dh_potential/5-1.png "INDICATORS tab")
 
 Additionally, also two diagrams are generated. The first one shows the DH potential in each DH area. The correponding labels can be found in the map, too. The second diagram illustrates the total DH potential in comparision with the total heat demand in the selected area.
 
-![Fig. 5-2](https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/cm_dh_potential/5-2.png "GRAPHICS tab")
+![Fig. 5-2](en-https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/cm_dh_potential/5-2.png "GRAPHICS tab")
 
 * Also a new layer is added to the canvas showing DH areas. This layer is added to the list of layers under the "Calculation module" category. The run session name distiguishes the outputs of this run from other ones.
 
-![Fig. 5-3](https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/cm_dh_potential/5-3.png "Calculation module layers")
+![Fig. 5-3](en-https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/cm_dh_potential/5-3.png "Calculation module layers")
 
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
@@ -158,7 +158,7 @@ Additionally, also two diagrams are generated. The first one shows the DH potent
 
 ## How to cite
 
-Mostafa Fallahnejad, in Hotmaps-Wiki, https://github.com/HotMaps/hotmaps_wiki/wiki/CM-District-heating-potentials (April 2019)
+Mostafa Fallahnejad, in Hotmaps-Wiki, https://github.com/HotMaps/hotmaps_wiki/wiki/CM-District-heating-potentials (en-April 2019)
 
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
@@ -169,7 +169,7 @@ This page is written by Mostafa Fallahnejad\*.
 
 - [ ] This page was reviewed by Lukas Kranzl\*.
 
-\* [Energy Economics Group - TU Wien](https://eeg.tuwien.ac.at/)
+\* [Energy Economics Group - TU Wien](en-https://eeg.tuwien.ac.at/)
 
 Institute of Energy Systems and Electrical Drives
 
@@ -197,7 +197,7 @@ License-Text: https://spdx.org/licenses/CC-BY-4.0.html
 
 ## Acknowledgement
 
-We would like to convey our deepest appreciation to the Horizon 2020 [Hotmaps Project](https://www.hotmaps-project.eu) (Grant Agreement number 723677), which provided the funding to carry out the present investigation.
+We would like to convey our deepest appreciation to the Horizon 2020 [Hotmaps Project](en-https://www.hotmaps-project.eu) (Grant Agreement number 723677), which provided the funding to carry out the present investigation.
 
 
 
@@ -205,6 +205,6 @@ We would like to convey our deepest appreciation to the Horizon 2020 [Hotmaps Pr
 
 View in another language:
 
- [Bulgarian](../bg/CM-District-heating-potential-areas-user-defined-thresholds.md)<sup>\*</sup> [Croatian](../hr/CM-District-heating-potential-areas-user-defined-thresholds.md)<sup>\*</sup> [Czech](../cs/CM-District-heating-potential-areas-user-defined-thresholds.md)<sup>\*</sup> [Danish](../da/CM-District-heating-potential-areas-user-defined-thresholds.md)<sup>\*</sup> [Dutch](../nl/CM-District-heating-potential-areas-user-defined-thresholds.md)<sup>\*</sup> [Estonian](../et/CM-District-heating-potential-areas-user-defined-thresholds.md)<sup>\*</sup> [Finnish](../fi/CM-District-heating-potential-areas-user-defined-thresholds.md)<sup>\*</sup> [French](../fr/CM-District-heating-potential-areas-user-defined-thresholds.md)<sup>\*</sup> [German](../de/CM-District-heating-potential-areas-user-defined-thresholds.md)<sup>\*</sup> [Greek](../el/CM-District-heating-potential-areas-user-defined-thresholds.md)<sup>\*</sup> [Hungarian](../hu/CM-District-heating-potential-areas-user-defined-thresholds.md)<sup>\*</sup> [Irish](../ga/CM-District-heating-potential-areas-user-defined-thresholds.md)<sup>\*</sup> [Italian](../it/CM-District-heating-potential-areas-user-defined-thresholds.md)<sup>\*</sup> [Latvian](../lv/CM-District-heating-potential-areas-user-defined-thresholds.md)<sup>\*</sup> [Lithuanian](../lt/CM-District-heating-potential-areas-user-defined-thresholds.md)<sup>\*</sup> [Maltese](../mt/CM-District-heating-potential-areas-user-defined-thresholds.md)<sup>\*</sup> [Polish](../pl/CM-District-heating-potential-areas-user-defined-thresholds.md)<sup>\*</sup> [Portuguese (Portugal, Brazil)](../pt/CM-District-heating-potential-areas-user-defined-thresholds.md)<sup>\*</sup> [Romanian](../ro/CM-District-heating-potential-areas-user-defined-thresholds.md)<sup>\*</sup> [Slovak](../sk/CM-District-heating-potential-areas-user-defined-thresholds.md)<sup>\*</sup> [Slovenian](../sl/CM-District-heating-potential-areas-user-defined-thresholds.md)<sup>\*</sup> [Spanish](../es/CM-District-heating-potential-areas-user-defined-thresholds.md)<sup>\*</sup> [Swedish](../sv/CM-District-heating-potential-areas-user-defined-thresholds.md)<sup>\*</sup> 
+ [Bulgarian](../bg/CM-District-heating-potential-areas-user-defined-thresholds.md)<sup>\*</sup> [Croatian](../hr/CM-District-heating-potential-areas-user-defined-thresholds.md)<sup>\*</sup> [Czech](../cs/CM-District-heating-potential-areas-user-defined-thresholds.md)<sup>\*</sup> [Danish](../da/CM-District-heating-potential-areas-user-defined-thresholds.md)<sup>\*</sup> [Dutch](../nl/CM-District-heating-potential-areas-user-defined-thresholds.md)<sup>\*</sup> [Estonian](../et/CM-District-heating-potential-areas-user-defined-thresholds.md)<sup>\*</sup> [Finnish](../fi/CM-District-heating-potential-areas-user-defined-thresholds.md)<sup>\*</sup> [French](../fr/CM-District-heating-potential-areas-user-defined-thresholds.md)<sup>\*</sup> [German](../de/CM-District-heating-potential-areas-user-defined-thresholds.md)<sup>\*</sup> [Greek](../el/CM-District-heating-potential-areas-user-defined-thresholds.md)<sup>\*</sup> [Hungarian](../hu/CM-District-heating-potential-areas-user-defined-thresholds.md)<sup>\*</sup> [Irish](../ga/CM-District-heating-potential-areas-user-defined-thresholds.md)<sup>\*</sup> [Italian](../it/CM-District-heating-potential-areas-user-defined-thresholds.md)<sup>\*</sup> [Latvian](../lv/CM-District-heating-potential-areas-user-defined-thresholds.md)<sup>\*</sup> [Lithuanian](../lt/CM-District-heating-potential-areas-user-defined-thresholds.md)<sup>\*</sup> [Maltese](../mt/CM-District-heating-potential-areas-user-defined-thresholds.md)<sup>\*</sup> [Polish](../pl/CM-District-heating-potential-areas-user-defined-thresholds.md)<sup>\*</sup> [Portuguese (en-Portugal, Brazil)](../pt/CM-District-heating-potential-areas-user-defined-thresholds.md)<sup>\*</sup> [Romanian](../ro/CM-District-heating-potential-areas-user-defined-thresholds.md)<sup>\*</sup> [Slovak](../sk/CM-District-heating-potential-areas-user-defined-thresholds.md)<sup>\*</sup> [Slovenian](../sl/CM-District-heating-potential-areas-user-defined-thresholds.md)<sup>\*</sup> [Spanish](../es/CM-District-heating-potential-areas-user-defined-thresholds.md)<sup>\*</sup> [Swedish](../sv/CM-District-heating-potential-areas-user-defined-thresholds.md)<sup>\*</sup> 
 
 <sup>\*</sup>: machine translated

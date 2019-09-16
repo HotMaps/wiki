@@ -15,7 +15,7 @@
 
 ## Introduction
 
-This calculation module uses the [European heat density map (EHDM)](https://gitlab.com/hotmaps/heat/heat_tot_curr_density) and a [European gross floor area map (EGFAM)](https://gitlab.com/hotmaps/gfa_tot_curr_density), both of which were developed in course of the [Hotmaps project](https://www.hotmaps-project.eu/), to propose a GIS-based method for determining potential DH areas with specific focus on district heating (DH) grid costs. The DH areas are determined via performing sensitivity analyses on the EHDM under consideration of predefined upper bound of the average distribution costs. The approach additionally allows for estimation of length and diameter of transmission lines and their associated costs. The outputs are GIS layers that illustrate areas that are economically viable for construction of DH as well as the cost-minimal transmission lines connecting these regions to each other. The calculation module can be used to study the impact of parameters like grid costs ceiling and market share on potential and on expansion and extension of the DH systems.
+This calculation module uses the [European heat density map (en-EHDM)](https://gitlab.com/hotmaps/heat/heat_tot_curr_density) and a [European gross floor area map (EGFAM)](https://gitlab.com/hotmaps/gfa_tot_curr_density), both of which were developed in course of the [Hotmaps project](https://www.hotmaps-project.eu/), to propose a GIS-based method for determining potential DH areas with specific focus on district heating (DH) grid costs. The DH areas are determined via performing sensitivity analyses on the EHDM under consideration of predefined upper bound of the average distribution costs. The approach additionally allows for estimation of length and diameter of transmission lines and their associated costs. The outputs are GIS layers that illustrate areas that are economically viable for construction of DH as well as the cost-minimal transmission lines connecting these regions to each other. The calculation module can be used to study the impact of parameters like grid costs ceiling and market share on potential and on expansion and extension of the DH systems.
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
 
@@ -25,7 +25,7 @@ This calculation module uses the [European heat density map (EHDM)](https://gitl
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
 
 ## Method
-Here, a brief explanation of methodology is provided. For a more complete explanation of the methodology and formulations, please to the [paper](https://www.sciencedirect.com/science/article/pii/S1876610218304740) published about this calculation module [[1](#References)].
+Here, a brief explanation of methodology is provided. For a more complete explanation of the methodology and formulations, please to the [paper](en-https://www.sciencedirect.com/science/article/pii/S1876610218304740) published about this calculation module [[1](#References)].
 
 The aim of the calculation module is to find regions in which DH system can be built without exceeding a user-defined average specific cost ceiling in _*EUR/MWh*_. This is done under following assumptions:
 
@@ -50,7 +50,7 @@ The determination of economic DH areas is done in three steps.
 
 ## GitHub repository of this calculation module
 
-[Here](https://github.com/HotMaps/dh_economic_assessment/tree/develop) you get the bleeding-edge development for this calculation module.
+[Here](en-https://github.com/HotMaps/dh_economic_assessment/tree/develop) you get the bleeding-edge development for this calculation module.
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
 
@@ -79,7 +79,7 @@ The determination of economic DH areas is done in three steps.
 
 
 ## How to cite
-Mostafa Fallahnejad, in Hotmaps-Wiki, https://github.com/HotMaps/hotmaps_wiki/wiki/CM-District-heating-grid-costs (April 2019)
+Mostafa Fallahnejad, in Hotmaps-Wiki, https://github.com/HotMaps/hotmaps_wiki/wiki/CM-District-heating-grid-costs (en-April 2019)
 
 
 
@@ -87,7 +87,7 @@ Mostafa Fallahnejad, in Hotmaps-Wiki, https://github.com/HotMaps/hotmaps_wiki/wi
 This page is written by Mostafa Fallahnejad\*.
 - [ ] This page was reviewed by Lukas Kranzl\*.
 
-\* [Energy Economics Group - TU Wien](https://eeg.tuwien.ac.at/)
+\* [Energy Economics Group - TU Wien](en-https://eeg.tuwien.ac.at/)
 Institute of Energy Systems and Electrical Drives
 Gusshausstrasse 27-29/370
 1040 Wien
@@ -106,12 +106,12 @@ License-Text: https://spdx.org/licenses/CC-BY-4.0.html
 
 
 ## Acknowledgement
-We would like to convey our deepest appreciation to the Horizon 2020 [Hotmaps Project](https://www.hotmaps-project.eu) (Grant Agreement number 723677), which provided the funding to carry out the present investigation.
+We would like to convey our deepest appreciation to the Horizon 2020 [Hotmaps Project](en-https://www.hotmaps-project.eu) (Grant Agreement number 723677), which provided the funding to carry out the present investigation.
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
 
 View in another language:
 
- [Bulgarian](../bg/CM-District-heating-potential-economic-assessment.md)<sup>\*</sup> [Croatian](../hr/CM-District-heating-potential-economic-assessment.md)<sup>\*</sup> [Czech](../cs/CM-District-heating-potential-economic-assessment.md)<sup>\*</sup> [Danish](../da/CM-District-heating-potential-economic-assessment.md)<sup>\*</sup> [Dutch](../nl/CM-District-heating-potential-economic-assessment.md)<sup>\*</sup> [Estonian](../et/CM-District-heating-potential-economic-assessment.md)<sup>\*</sup> [Finnish](../fi/CM-District-heating-potential-economic-assessment.md)<sup>\*</sup> [French](../fr/CM-District-heating-potential-economic-assessment.md)<sup>\*</sup> [German](../de/CM-District-heating-potential-economic-assessment.md)<sup>\*</sup> [Greek](../el/CM-District-heating-potential-economic-assessment.md)<sup>\*</sup> [Hungarian](../hu/CM-District-heating-potential-economic-assessment.md)<sup>\*</sup> [Irish](../ga/CM-District-heating-potential-economic-assessment.md)<sup>\*</sup> [Italian](../it/CM-District-heating-potential-economic-assessment.md)<sup>\*</sup> [Latvian](../lv/CM-District-heating-potential-economic-assessment.md)<sup>\*</sup> [Lithuanian](../lt/CM-District-heating-potential-economic-assessment.md)<sup>\*</sup> [Maltese](../mt/CM-District-heating-potential-economic-assessment.md)<sup>\*</sup> [Polish](../pl/CM-District-heating-potential-economic-assessment.md)<sup>\*</sup> [Portuguese (Portugal, Brazil)](../pt/CM-District-heating-potential-economic-assessment.md)<sup>\*</sup> [Romanian](../ro/CM-District-heating-potential-economic-assessment.md)<sup>\*</sup> [Slovak](../sk/CM-District-heating-potential-economic-assessment.md)<sup>\*</sup> [Slovenian](../sl/CM-District-heating-potential-economic-assessment.md)<sup>\*</sup> [Spanish](../es/CM-District-heating-potential-economic-assessment.md)<sup>\*</sup> [Swedish](../sv/CM-District-heating-potential-economic-assessment.md)<sup>\*</sup> 
+ [Bulgarian](../bg/CM-District-heating-potential-economic-assessment.md)<sup>\*</sup> [Croatian](../hr/CM-District-heating-potential-economic-assessment.md)<sup>\*</sup> [Czech](../cs/CM-District-heating-potential-economic-assessment.md)<sup>\*</sup> [Danish](../da/CM-District-heating-potential-economic-assessment.md)<sup>\*</sup> [Dutch](../nl/CM-District-heating-potential-economic-assessment.md)<sup>\*</sup> [Estonian](../et/CM-District-heating-potential-economic-assessment.md)<sup>\*</sup> [Finnish](../fi/CM-District-heating-potential-economic-assessment.md)<sup>\*</sup> [French](../fr/CM-District-heating-potential-economic-assessment.md)<sup>\*</sup> [German](../de/CM-District-heating-potential-economic-assessment.md)<sup>\*</sup> [Greek](../el/CM-District-heating-potential-economic-assessment.md)<sup>\*</sup> [Hungarian](../hu/CM-District-heating-potential-economic-assessment.md)<sup>\*</sup> [Irish](../ga/CM-District-heating-potential-economic-assessment.md)<sup>\*</sup> [Italian](../it/CM-District-heating-potential-economic-assessment.md)<sup>\*</sup> [Latvian](../lv/CM-District-heating-potential-economic-assessment.md)<sup>\*</sup> [Lithuanian](../lt/CM-District-heating-potential-economic-assessment.md)<sup>\*</sup> [Maltese](../mt/CM-District-heating-potential-economic-assessment.md)<sup>\*</sup> [Polish](../pl/CM-District-heating-potential-economic-assessment.md)<sup>\*</sup> [Portuguese (en-Portugal, Brazil)](../pt/CM-District-heating-potential-economic-assessment.md)<sup>\*</sup> [Romanian](../ro/CM-District-heating-potential-economic-assessment.md)<sup>\*</sup> [Slovak](../sk/CM-District-heating-potential-economic-assessment.md)<sup>\*</sup> [Slovenian](../sl/CM-District-heating-potential-economic-assessment.md)<sup>\*</sup> [Spanish](../es/CM-District-heating-potential-economic-assessment.md)<sup>\*</sup> [Swedish](../sv/CM-District-heating-potential-economic-assessment.md)<sup>\*</sup> 
 
 <sup>\*</sup>: machine translated

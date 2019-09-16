@@ -9,7 +9,7 @@
 
 
 ## Data collection
-Hotmaps provides a large array of open data sets. The data has been provided as default for the entire EU28 with the aim to support local, regional and national heating and cooling (H&C) planning. Hotmaps data sets provide data various categories including:
+Hotmaps provides a large array of open data sets. The data has been provided as default for the entire EU28 with the aim to support local, regional and national heating and cooling (en-H&C) planning. Hotmaps data sets provide data various categories including:
 
 * Building stock analysis;
 * Space heating, cooling and domestic hot water demand;
@@ -21,19 +21,19 @@ Hotmaps provides a large array of open data sets. The data has been provided as 
 * Electricity system module and
 * Transport.
 
-All the approaches for data collection and analysis in the different sectors (i.e. residential, service, industrial and transportation sectors) are described in [this report](https://www.hotmaps-project.eu/wp-content/uploads/2018/03/D2.3-Hotmaps_for-upload_revised-final_.pdf) [1].
+All the approaches for data collection and analysis in the different sectors (en-i.e. residential, service, industrial and transportation sectors) are described in [this report](https://www.hotmaps-project.eu/wp-content/uploads/2018/03/D2.3-Hotmaps_for-upload_revised-final_.pdf) [1].
 
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
 
 ## References
-[1] Simon Pezzutto, Stefano Zambotti, Silvia Croce, Pietro Zambelli, Giulia Garegnani, Chiara Scaramuzzino, Ramón Pascual Pascuas, Alyona Zubaryeva, Franziska Haas, Dagmar Exner (EURAC), Andreas Müller (e‐think), Michael Hartner (TUW), Tobias Fleiter, Anna‐Lena Klingler, Matthias Kühnbach, Pia Manz, Simon Marwitz, Matthias Rehfeldt, Jan Steinbach, Eftim Popovski (Fraunhofer ISI) Reviewed by Lukas Kranzl, Sara Fritz (TUW); [Online Access](https://www.hotmaps-project.eu/wp-content/uploads/2018/03/D2.3-Hotmaps_for-upload_revised-final_.pdf)
+[1] Simon Pezzutto, Stefano Zambotti, Silvia Croce, Pietro Zambelli, Giulia Garegnani, Chiara Scaramuzzino, Ramón Pascual Pascuas, Alyona Zubaryeva, Franziska Haas, Dagmar Exner (en-EURAC), Andreas Müller (e‐think), Michael Hartner (TUW), Tobias Fleiter, Anna‐Lena Klingler, Matthias Kühnbach, Pia Manz, Simon Marwitz, Matthias Rehfeldt, Jan Steinbach, Eftim Popovski (Fraunhofer ISI) Reviewed by Lukas Kranzl, Sara Fritz (TUW); [Online Access](https://www.hotmaps-project.eu/wp-content/uploads/2018/03/D2.3-Hotmaps_for-upload_revised-final_.pdf)
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
 
 ## How to cite
 
-Mostafa Fallahnejad, in Hotmaps-Wiki, https://github.com/HotMaps/hotmaps_wiki/wiki/Hotmaps-open-data-set-data-collection (May 2019)
+Mostafa Fallahnejad, in Hotmaps-Wiki, https://github.com/HotMaps/hotmaps_wiki/wiki/Hotmaps-open-data-set-data-collection (en-May 2019)
 
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
@@ -44,7 +44,7 @@ This page is written by Mostafa Fallahnejad\*.
 
 - [ ] This page was reviewed by Lukas Kranzl\*.
 
-\* [Energy Economics Group - TU Wien](https://eeg.tuwien.ac.at/)
+\* [Energy Economics Group - TU Wien](en-https://eeg.tuwien.ac.at/)
 
 Institute of Energy Systems and Electrical Drives
 
@@ -70,7 +70,7 @@ License-Text: https://spdx.org/licenses/CC-BY-4.0.html
 
 ## Acknowledgement
 
-We would like to convey our deepest appreciation to the Horizon 2020 [Hotmaps Project](https://www.hotmaps-project.eu) (Grant Agreement number 723677), which provided the funding to carry out the present investigation.
+We would like to convey our deepest appreciation to the Horizon 2020 [Hotmaps Project](en-https://www.hotmaps-project.eu) (Grant Agreement number 723677), which provided the funding to carry out the present investigation.
 
 
 
@@ -78,6 +78,6 @@ We would like to convey our deepest appreciation to the Horizon 2020 [Hotmaps Pr
 
 View in another language:
 
- [Bulgarian](../bg/Hotmaps-data-set-method-of-data-collection.md)<sup>\*</sup> [Croatian](../hr/Hotmaps-data-set-method-of-data-collection.md)<sup>\*</sup> [Czech](../cs/Hotmaps-data-set-method-of-data-collection.md)<sup>\*</sup> [Danish](../da/Hotmaps-data-set-method-of-data-collection.md)<sup>\*</sup> [Dutch](../nl/Hotmaps-data-set-method-of-data-collection.md)<sup>\*</sup> [Estonian](../et/Hotmaps-data-set-method-of-data-collection.md)<sup>\*</sup> [Finnish](../fi/Hotmaps-data-set-method-of-data-collection.md)<sup>\*</sup> [French](../fr/Hotmaps-data-set-method-of-data-collection.md)<sup>\*</sup> [German](../de/Hotmaps-data-set-method-of-data-collection.md)<sup>\*</sup> [Greek](../el/Hotmaps-data-set-method-of-data-collection.md)<sup>\*</sup> [Hungarian](../hu/Hotmaps-data-set-method-of-data-collection.md)<sup>\*</sup> [Irish](../ga/Hotmaps-data-set-method-of-data-collection.md)<sup>\*</sup> [Italian](../it/Hotmaps-data-set-method-of-data-collection.md)<sup>\*</sup> [Latvian](../lv/Hotmaps-data-set-method-of-data-collection.md)<sup>\*</sup> [Lithuanian](../lt/Hotmaps-data-set-method-of-data-collection.md)<sup>\*</sup> [Maltese](../mt/Hotmaps-data-set-method-of-data-collection.md)<sup>\*</sup> [Polish](../pl/Hotmaps-data-set-method-of-data-collection.md)<sup>\*</sup> [Portuguese (Portugal, Brazil)](../pt/Hotmaps-data-set-method-of-data-collection.md)<sup>\*</sup> [Romanian](../ro/Hotmaps-data-set-method-of-data-collection.md)<sup>\*</sup> [Slovak](../sk/Hotmaps-data-set-method-of-data-collection.md)<sup>\*</sup> [Slovenian](../sl/Hotmaps-data-set-method-of-data-collection.md)<sup>\*</sup> [Spanish](../es/Hotmaps-data-set-method-of-data-collection.md)<sup>\*</sup> [Swedish](../sv/Hotmaps-data-set-method-of-data-collection.md)<sup>\*</sup> 
+ [Bulgarian](../bg/Hotmaps-data-set-method-of-data-collection.md)<sup>\*</sup> [Croatian](../hr/Hotmaps-data-set-method-of-data-collection.md)<sup>\*</sup> [Czech](../cs/Hotmaps-data-set-method-of-data-collection.md)<sup>\*</sup> [Danish](../da/Hotmaps-data-set-method-of-data-collection.md)<sup>\*</sup> [Dutch](../nl/Hotmaps-data-set-method-of-data-collection.md)<sup>\*</sup> [Estonian](../et/Hotmaps-data-set-method-of-data-collection.md)<sup>\*</sup> [Finnish](../fi/Hotmaps-data-set-method-of-data-collection.md)<sup>\*</sup> [French](../fr/Hotmaps-data-set-method-of-data-collection.md)<sup>\*</sup> [German](../de/Hotmaps-data-set-method-of-data-collection.md)<sup>\*</sup> [Greek](../el/Hotmaps-data-set-method-of-data-collection.md)<sup>\*</sup> [Hungarian](../hu/Hotmaps-data-set-method-of-data-collection.md)<sup>\*</sup> [Irish](../ga/Hotmaps-data-set-method-of-data-collection.md)<sup>\*</sup> [Italian](../it/Hotmaps-data-set-method-of-data-collection.md)<sup>\*</sup> [Latvian](../lv/Hotmaps-data-set-method-of-data-collection.md)<sup>\*</sup> [Lithuanian](../lt/Hotmaps-data-set-method-of-data-collection.md)<sup>\*</sup> [Maltese](../mt/Hotmaps-data-set-method-of-data-collection.md)<sup>\*</sup> [Polish](../pl/Hotmaps-data-set-method-of-data-collection.md)<sup>\*</sup> [Portuguese (en-Portugal, Brazil)](../pt/Hotmaps-data-set-method-of-data-collection.md)<sup>\*</sup> [Romanian](../ro/Hotmaps-data-set-method-of-data-collection.md)<sup>\*</sup> [Slovak](../sk/Hotmaps-data-set-method-of-data-collection.md)<sup>\*</sup> [Slovenian](../sl/Hotmaps-data-set-method-of-data-collection.md)<sup>\*</sup> [Spanish](../es/Hotmaps-data-set-method-of-data-collection.md)<sup>\*</sup> [Swedish](../sv/Hotmaps-data-set-method-of-data-collection.md)<sup>\*</sup> 
 
 <sup>\*</sup>: machine translated

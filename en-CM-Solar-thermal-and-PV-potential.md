@@ -71,11 +71,11 @@ The energy production of each pixel considers to cover only a fraction of the ro
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
 
 ## Test Run 1
-Here, the calculation module is run for the Lombardy region in Italy (NUTS2).
+Here, the calculation module is run for the Lombardy region in Italy (en-NUTS2).
 
 * First, select Nuts2 and the chosen area.
 
-![Fig. 1](https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/cm_solar_PV/default_values_01.png "Select a region")
+![Fig. 1](en-https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/cm_solar_PV/default_values_01.png "Select a region")
 
 * Follow the steps as shown in the figure below:
   * Click on the "Layers" button to open the "Layers" window:
@@ -94,9 +94,9 @@ The default input values considers the possibility to install roof-mounted PV pa
 
 To run the calculation module, follow the next steps:
 
-* Assign a name to the run session (optional - here, we chose "Test Run 1") and set the input parameters (here, default values were used).
+* Assign a name to the run session (en-optional - here, we chose "Test Run 1") and set the input parameters (here, default values were used).
 
-![Fig. 2](https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/cm_solar_PV/default_values_02.png "Test run 1 with default values")
+![Fig. 2](en-https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/cm_solar_PV/default_values_02.png "Test run 1 with default values")
 
 * Wait until the process is finished.
 * As output, indicators and diagrams are shown in the "RESULTS" window. The indicators show:
@@ -106,13 +106,13 @@ To run the calculation module, follow the next steps:
   * Levelized Cost of Energy
 
 
-![Fig. 3](https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/cm_solar_PV/default_values_03.png "Test run 1 INDICATORS tab")
+![Fig. 3](en-https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/cm_solar_PV/default_values_03.png "Test run 1 INDICATORS tab")
 
 
 * Also a new layer is added to the canvas showing the buildings with higher energy potential. This layer is added to the list of layers under the "Calculation module" category. The run session name distinguishes the outputs of this run from other ones.
 If you deselected the default layers and select TEST RUN 1 you can visualize the most suitable areas for PV plants installations.
 
-![Fig. 4](https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/cm_solar_PV/default_values_03.png "Test run 1 Calculation module LAYERS")
+![Fig. 4](en-https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/cm_solar_PV/default_values_03.png "Test run 1 Calculation module LAYERS")
 
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
@@ -123,7 +123,7 @@ If you deselected the default layers and select TEST RUN 1 you can visualize the
 
 Depending on your experience and  local knowledge, you may increase or decrease the input values to obtain better results. You may decide to increase the building surface suitable for PV plants.
 
-* Assign a name to the run session (optional - here, we chose "Test Run 2") and set the input parameters Percentage of buildings with solar panels equal to 50. It means that we are covering the 50% of the available building roofs. Notice that since each pixel can represent more than one building and we are not covering the whole roof with PV panels, the user can set also the Effective building roof utilization factor. The default values is set to 0.15. This means that only the 15% of the roof surface in a pixel is covered by PV panels.
+* Assign a name to the run session (en-optional - here, we chose "Test Run 2") and set the input parameters Percentage of buildings with solar panels equal to 50. It means that we are covering the 50% of the available building roofs. Notice that since each pixel can represent more than one building and we are not covering the whole roof with PV panels, the user can set also the Effective building roof utilization factor. The default values is set to 0.15. This means that only the 15% of the roof surface in a pixel is covered by PV panels.
 
 * Wait until the process is finished.
 * As output, indicators and diagrams are shown in the "RESULTS" window. The indicators show:
@@ -142,7 +142,7 @@ Depending on your experience and  local knowledge, you may increase or decrease 
 
 
 ## How to cite
-Giulia Garegnani, in Hotmaps-Wiki, https://github.com/HotMaps/hotmaps_wiki/wiki/CM-Solar-PV-potential (April 2019)
+Giulia Garegnani, in Hotmaps-Wiki, https://github.com/HotMaps/hotmaps_wiki/wiki/CM-Solar-PV-potential (en-April 2019)
 
 
 ## Authors and reviewers
@@ -150,7 +150,7 @@ Giulia Garegnani, in Hotmaps-Wiki, https://github.com/HotMaps/hotmaps_wiki/wiki/
 This page is written by Giulia Garegnani\*.
 
 
-\* [Urban and Regional Energy System Group - EURAC Bozen](http://www.eurac.edu/en/research/technologies/renewableenergy/researchfields/Pages/Energy-strategies-and-planning.aspx)
+\* [Urban and Regional Energy System Group - EURAC Bozen](en-http://www.eurac.edu/en/research/technologies/renewableenergy/researchfields/Pages/Energy-strategies-and-planning.aspx)
 
 Institute of Renewable Energy
 Drususallee/Viale Druso 1
@@ -173,7 +173,7 @@ License-Text: https://spdx.org/licenses/CC-BY-4.0.html
 
 ## Acknowledgement
 
-We would like to convey our deepest appreciation to the Horizon 2020 [Hotmaps Project](https://www.hotmaps-project.eu) (Grant Agreement number 723677), which provided the funding to carry out the present investigation.
+We would like to convey our deepest appreciation to the Horizon 2020 [Hotmaps Project](en-https://www.hotmaps-project.eu) (Grant Agreement number 723677), which provided the funding to carry out the present investigation.
 
 
 
@@ -186,6 +186,6 @@ We would like to convey our deepest appreciation to the Horizon 2020 [Hotmaps Pr
 
 View in another language:
 
- [Bulgarian](../bg/CM-Solar-thermal-and-PV-potential.md)<sup>\*</sup> [Croatian](../hr/CM-Solar-thermal-and-PV-potential.md)<sup>\*</sup> [Czech](../cs/CM-Solar-thermal-and-PV-potential.md)<sup>\*</sup> [Danish](../da/CM-Solar-thermal-and-PV-potential.md)<sup>\*</sup> [Dutch](../nl/CM-Solar-thermal-and-PV-potential.md)<sup>\*</sup> [Estonian](../et/CM-Solar-thermal-and-PV-potential.md)<sup>\*</sup> [Finnish](../fi/CM-Solar-thermal-and-PV-potential.md)<sup>\*</sup> [French](../fr/CM-Solar-thermal-and-PV-potential.md)<sup>\*</sup> [German](../de/CM-Solar-thermal-and-PV-potential.md)<sup>\*</sup> [Greek](../el/CM-Solar-thermal-and-PV-potential.md)<sup>\*</sup> [Hungarian](../hu/CM-Solar-thermal-and-PV-potential.md)<sup>\*</sup> [Irish](../ga/CM-Solar-thermal-and-PV-potential.md)<sup>\*</sup> [Italian](../it/CM-Solar-thermal-and-PV-potential.md)<sup>\*</sup> [Latvian](../lv/CM-Solar-thermal-and-PV-potential.md)<sup>\*</sup> [Lithuanian](../lt/CM-Solar-thermal-and-PV-potential.md)<sup>\*</sup> [Maltese](../mt/CM-Solar-thermal-and-PV-potential.md)<sup>\*</sup> [Polish](../pl/CM-Solar-thermal-and-PV-potential.md)<sup>\*</sup> [Portuguese (Portugal, Brazil)](../pt/CM-Solar-thermal-and-PV-potential.md)<sup>\*</sup> [Romanian](../ro/CM-Solar-thermal-and-PV-potential.md)<sup>\*</sup> [Slovak](../sk/CM-Solar-thermal-and-PV-potential.md)<sup>\*</sup> [Slovenian](../sl/CM-Solar-thermal-and-PV-potential.md)<sup>\*</sup> [Spanish](../es/CM-Solar-thermal-and-PV-potential.md)<sup>\*</sup> [Swedish](../sv/CM-Solar-thermal-and-PV-potential.md)<sup>\*</sup> 
+ [Bulgarian](../bg/CM-Solar-thermal-and-PV-potential.md)<sup>\*</sup> [Croatian](../hr/CM-Solar-thermal-and-PV-potential.md)<sup>\*</sup> [Czech](../cs/CM-Solar-thermal-and-PV-potential.md)<sup>\*</sup> [Danish](../da/CM-Solar-thermal-and-PV-potential.md)<sup>\*</sup> [Dutch](../nl/CM-Solar-thermal-and-PV-potential.md)<sup>\*</sup> [Estonian](../et/CM-Solar-thermal-and-PV-potential.md)<sup>\*</sup> [Finnish](../fi/CM-Solar-thermal-and-PV-potential.md)<sup>\*</sup> [French](../fr/CM-Solar-thermal-and-PV-potential.md)<sup>\*</sup> [German](../de/CM-Solar-thermal-and-PV-potential.md)<sup>\*</sup> [Greek](../el/CM-Solar-thermal-and-PV-potential.md)<sup>\*</sup> [Hungarian](../hu/CM-Solar-thermal-and-PV-potential.md)<sup>\*</sup> [Irish](../ga/CM-Solar-thermal-and-PV-potential.md)<sup>\*</sup> [Italian](../it/CM-Solar-thermal-and-PV-potential.md)<sup>\*</sup> [Latvian](../lv/CM-Solar-thermal-and-PV-potential.md)<sup>\*</sup> [Lithuanian](../lt/CM-Solar-thermal-and-PV-potential.md)<sup>\*</sup> [Maltese](../mt/CM-Solar-thermal-and-PV-potential.md)<sup>\*</sup> [Polish](../pl/CM-Solar-thermal-and-PV-potential.md)<sup>\*</sup> [Portuguese (en-Portugal, Brazil)](../pt/CM-Solar-thermal-and-PV-potential.md)<sup>\*</sup> [Romanian](../ro/CM-Solar-thermal-and-PV-potential.md)<sup>\*</sup> [Slovak](../sk/CM-Solar-thermal-and-PV-potential.md)<sup>\*</sup> [Slovenian](../sl/CM-Solar-thermal-and-PV-potential.md)<sup>\*</sup> [Spanish](../es/CM-Solar-thermal-and-PV-potential.md)<sup>\*</sup> [Swedish](../sv/CM-Solar-thermal-and-PV-potential.md)<sup>\*</sup> 
 
 <sup>\*</sup>: machine translated

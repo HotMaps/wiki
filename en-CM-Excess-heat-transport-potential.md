@@ -14,11 +14,11 @@ The use of excess heat for district heating.
 
 ### Input layers and parameters
 #### Provided by Toolbox
-* District heating areas (for now directly provided by the district heating potential CM)
-* Industrial database (by default provided by the toolbox)
+* District heating areas (en-for now directly provided by the district heating potential CM)
+* Industrial database (en-by default provided by the toolbox)
 #### Provided by user
-* Min. heat demand in hectare. See [DH Potential CM](https://github.com/HotMaps/hotmaps_wiki/wiki/CM-District-heating-potential-areas-user-defined-thresholds)
-* Min. heat demand in a DH area. See [DH Potential CM](https://github.com/HotMaps/hotmaps_wiki/wiki/CM-District-heating-potential-areas-user-defined-thresholds)
+* Min. heat demand in hectare. See [DH Potential CM](en-https://github.com/HotMaps/hotmaps_wiki/wiki/CM-District-heating-potential-areas-user-defined-thresholds)
+* Min. heat demand in a DH area. See [DH Potential CM](en-https://github.com/HotMaps/hotmaps_wiki/wiki/CM-District-heating-potential-areas-user-defined-thresholds)
 * Search radius in km
 * Lifetime of equipment in years
 * Discount rate in %
@@ -26,7 +26,7 @@ The use of excess heat for district heating.
 * Operational costs in %
 * Threshold value for transmission lines in ct/kWh
 #### Performance Parameters
-* Time resolution (hour, day, week, month, year)
+* Time resolution (en-hour, day, week, month, year)
 * Spatial resolution in km
 
 ### Output layers and indicators
@@ -148,7 +148,7 @@ The heat sinks are based on coherent areas with a known heat demand. The coheren
 
 #### Load profiles
 
-The mentioned load profiles consist of 8760 points which represent the load for every hour of the 365 days. Further information about the **[load profiles can be found here.](https://gitlab.com/hotmaps/load_profile)**
+The mentioned load profiles consist of 8760 points which represent the load for every hour of the 365 days. Further information about the **[load profiles can be found here.](en-https://gitlab.com/hotmaps/load_profile)**
 
 #### Computation of costs
 
@@ -175,19 +175,19 @@ Since district heating systems have a large heat capacity a peak in flow does no
 
 The costs of the heat exchanger on the source side which is assumed as air to liquid is computed with
 
-C<sub>HSource</sub>(P) = P<sub>peak</sub> * 15,000€/MW.
+C<sub>HSource</sub>(en-P) = P<sub>peak</sub> * 15,000€/MW.
 
 The costs of the liquid to liquid heat exchanger on the sink side is determined with
 
-C<sub>HSink</sub>(P) = P<sub>peak</sub> * 265,000€/MW if P<sub>peak</sub> < 1MW or
+C<sub>HSink</sub>(en-P) = P<sub>peak</sub> * 265,000€/MW if P<sub>peak</sub> < 1MW or
 
-C<sub>HSink</sub>(P) = P<sub>peak</sub> * 100,000€/MW else.
+C<sub>HSink</sub>(en-P) = P<sub>peak</sub> * 100,000€/MW else.
 
 The costs of the pump follow
 
-C<sub>Pump</sub>(P) = P<sub>peak</sub> * 240,000€/MW if P<sub>peak</sub> < 1MW or
+C<sub>Pump</sub>(en-P) = P<sub>peak</sub> * 240,000€/MW if P<sub>peak</sub> < 1MW or
 
-C<sub>Pump</sub>(P) = P<sub>peak</sub> * 90,000€/MW else.
+C<sub>Pump</sub>(en-P) = P<sub>peak</sub> * 90,000€/MW else.
 
 #### Removal of transmission lines
 
@@ -213,7 +213,7 @@ The total costs are 13.7 M€ and the total annual flow is 185 GWh which results
 This page is written by Ali Aydemir \* and David Schilling \*
 - [ ] This page was reviewed by Tobias Fleiter\*.
 
-\* [Fraunhofer ISI](https://isi.fraunhofer.de/)
+\* [Fraunhofer ISI](en-https://isi.fraunhofer.de/)
 Fraunhofer ISI, Breslauer Str. 48, 
 76139 Karlsruhe
 
@@ -229,13 +229,13 @@ License-Text: https://spdx.org/licenses/CC-BY-4.0.html
 
 
 ## Acknowledgement
-We would like to convey our deepest appreciation to the Horizon 2020 [Hotmaps Project](https://www.hotmaps-project.eu) (Grant Agreement number 723677), which provided the funding to carry out the present investigation.
+We would like to convey our deepest appreciation to the Horizon 2020 [Hotmaps Project](en-https://www.hotmaps-project.eu) (Grant Agreement number 723677), which provided the funding to carry out the present investigation.
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
 
 
 View in another language:
 
- [Bulgarian](../bg/CM-Excess-heat-transport-potential.md)<sup>\*</sup> [Croatian](../hr/CM-Excess-heat-transport-potential.md)<sup>\*</sup> [Czech](../cs/CM-Excess-heat-transport-potential.md)<sup>\*</sup> [Danish](../da/CM-Excess-heat-transport-potential.md)<sup>\*</sup> [Dutch](../nl/CM-Excess-heat-transport-potential.md)<sup>\*</sup> [Estonian](../et/CM-Excess-heat-transport-potential.md)<sup>\*</sup> [Finnish](../fi/CM-Excess-heat-transport-potential.md)<sup>\*</sup> [French](../fr/CM-Excess-heat-transport-potential.md)<sup>\*</sup> [German](../de/CM-Excess-heat-transport-potential.md)<sup>\*</sup> [Greek](../el/CM-Excess-heat-transport-potential.md)<sup>\*</sup> [Hungarian](../hu/CM-Excess-heat-transport-potential.md)<sup>\*</sup> [Irish](../ga/CM-Excess-heat-transport-potential.md)<sup>\*</sup> [Italian](../it/CM-Excess-heat-transport-potential.md)<sup>\*</sup> [Latvian](../lv/CM-Excess-heat-transport-potential.md)<sup>\*</sup> [Lithuanian](../lt/CM-Excess-heat-transport-potential.md)<sup>\*</sup> [Maltese](../mt/CM-Excess-heat-transport-potential.md)<sup>\*</sup> [Polish](../pl/CM-Excess-heat-transport-potential.md)<sup>\*</sup> [Portuguese (Portugal, Brazil)](../pt/CM-Excess-heat-transport-potential.md)<sup>\*</sup> [Romanian](../ro/CM-Excess-heat-transport-potential.md)<sup>\*</sup> [Slovak](../sk/CM-Excess-heat-transport-potential.md)<sup>\*</sup> [Slovenian](../sl/CM-Excess-heat-transport-potential.md)<sup>\*</sup> [Spanish](../es/CM-Excess-heat-transport-potential.md)<sup>\*</sup> [Swedish](../sv/CM-Excess-heat-transport-potential.md)<sup>\*</sup> 
+ [Bulgarian](../bg/CM-Excess-heat-transport-potential.md)<sup>\*</sup> [Croatian](../hr/CM-Excess-heat-transport-potential.md)<sup>\*</sup> [Czech](../cs/CM-Excess-heat-transport-potential.md)<sup>\*</sup> [Danish](../da/CM-Excess-heat-transport-potential.md)<sup>\*</sup> [Dutch](../nl/CM-Excess-heat-transport-potential.md)<sup>\*</sup> [Estonian](../et/CM-Excess-heat-transport-potential.md)<sup>\*</sup> [Finnish](../fi/CM-Excess-heat-transport-potential.md)<sup>\*</sup> [French](../fr/CM-Excess-heat-transport-potential.md)<sup>\*</sup> [German](../de/CM-Excess-heat-transport-potential.md)<sup>\*</sup> [Greek](../el/CM-Excess-heat-transport-potential.md)<sup>\*</sup> [Hungarian](../hu/CM-Excess-heat-transport-potential.md)<sup>\*</sup> [Irish](../ga/CM-Excess-heat-transport-potential.md)<sup>\*</sup> [Italian](../it/CM-Excess-heat-transport-potential.md)<sup>\*</sup> [Latvian](../lv/CM-Excess-heat-transport-potential.md)<sup>\*</sup> [Lithuanian](../lt/CM-Excess-heat-transport-potential.md)<sup>\*</sup> [Maltese](../mt/CM-Excess-heat-transport-potential.md)<sup>\*</sup> [Polish](../pl/CM-Excess-heat-transport-potential.md)<sup>\*</sup> [Portuguese (en-Portugal, Brazil)](../pt/CM-Excess-heat-transport-potential.md)<sup>\*</sup> [Romanian](../ro/CM-Excess-heat-transport-potential.md)<sup>\*</sup> [Slovak](../sk/CM-Excess-heat-transport-potential.md)<sup>\*</sup> [Slovenian](../sl/CM-Excess-heat-transport-potential.md)<sup>\*</sup> [Spanish](../es/CM-Excess-heat-transport-potential.md)<sup>\*</sup> [Swedish](../sv/CM-Excess-heat-transport-potential.md)<sup>\*</sup> 
 
 <sup>\*</sup>: machine translated
