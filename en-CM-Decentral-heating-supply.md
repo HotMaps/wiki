@@ -28,12 +28,9 @@ The decentral heating cost calclulation module (CM) calculates the levelized cos
 
 The results will be shown for the selected building type and building class.
 
-&#x1F53A; <mark>**Note 1:** The current version on the toolbox is a test version. We are considering to use additional data and expand the functionality of this calculation module. </mark>
+🔺 <mark>**Note 1:** The current version on the toolbox is a test version. We are considering to use additional data and expand the functionality of this calculation module. </mark>
 
-&#x1F53A; <mark>**Note 2:** Due to wide range of taxation methods and tax refunds in different countries, it is not considered in this calculation module. </mark>
-
-
-
+🔺 <mark>**Note 2:** Due to wide range of taxation methods and tax refunds in different countries, it is not considered in this calculation module. </mark>
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
 
 ## Inputs and outputs
@@ -43,11 +40,11 @@ The input parameters and layers as well as output layers and parameters are as f
 
 * Gross floor area of the building in [_**m<sup>2</sup>**_]: a value between _*1*_ and _*10000*_
 * Interest rate: a value between _*0*_ and _*1*_
-* Sector: residential or service (&#x1F53A; Currently, only residential is supported)
+* Sector: residential or service (🔺 Currently, only residential is supported)
 * Building type: single family or multi family house
 * Building class: existing, renovated or new building
-* Demand type: heating or cooling (&#x1F53A; Currently, only heating is supported)
-* Year: (&#x1F53A; Currently, only for the year 2015 is supported)
+* Demand type: heating or cooling (🔺 Currently, only heating is supported)
+* Year: (🔺 Currently, only for the year 2015 is supported)
 
 **Output are:**
 * graphs
@@ -197,6 +194,5 @@ We would like to convey our deepest appreciation to the Horizon 2020 [Hotmaps Pr
 
 View in another language:
 
- [Bulgarian](bg-CM-Decentral-heating-supply)<sup>\*</sup> [Croatian](hr-CM-Decentral-heating-supply)<sup>\*</sup> [Czech](cs-CM-Decentral-heating-supply)<sup>\*</sup> [Danish](da-CM-Decentral-heating-supply)<sup>\*</sup> [Dutch](nl-CM-Decentral-heating-supply)<sup>\*</sup> [Estonian](et-CM-Decentral-heating-supply)<sup>\*</sup> [Finnish](fi-CM-Decentral-heating-supply)<sup>\*</sup> [French](fr-CM-Decentral-heating-supply)<sup>\*</sup> [German](de-CM-Decentral-heating-supply)<sup>\*</sup> [Greek](el-CM-Decentral-heating-supply)<sup>\*</sup> [Hungarian](hu-CM-Decentral-heating-supply)<sup>\*</sup> [Irish](ga-CM-Decentral-heating-supply)<sup>\*</sup> [Italian](it-CM-Decentral-heating-supply)<sup>\*</sup> [Latvian](lv-CM-Decentral-heating-supply)<sup>\*</sup> [Lithuanian](lt-CM-Decentral-heating-supply)<sup>\*</sup> [Maltese](mt-CM-Decentral-heating-supply)<sup>\*</sup> [Polish](pl-CM-Decentral-heating-supply)<sup>\*</sup> [Portuguese (Portugal, Brazil)](pt-CM-Decentral-heating-supply)<sup>\*</sup> [Romanian](ro-CM-Decentral-heating-supply)<sup>\*</sup> [Slovak](sk-CM-Decentral-heating-supply)<sup>\*</sup> [Slovenian](sl-CM-Decentral-heating-supply)<sup>\*</sup> [Spanish](es-CM-Decentral-heating-supply)<sup>\*</sup> [Swedish](sv-CM-Decentral-heating-supply)<sup>\*</sup> 
-
+ [Bulgarian](bg-CM-Decentral-heating-supply)<sup>\*</sup> [Croatian](hr-CM-Decentral-heating-supply)<sup>\*</sup> [Czech](cs-CM-Decentral-heating-supply)<sup>\*</sup> [Danish](da-CM-Decentral-heating-supply)<sup>\*</sup> [Dutch](nl-CM-Decentral-heating-supply)<sup>\*</sup> [Estonian](et-CM-Decentral-heating-supply)<sup>\*</sup> [Finnish](fi-CM-Decentral-heating-supply)<sup>\*</sup> [French](fr-CM-Decentral-heating-supply)<sup>\*</sup> [German](de-CM-Decentral-heating-supply)<sup>\*</sup> [Greek](el-CM-Decentral-heating-supply)<sup>\*</sup> [Hungarian](hu-CM-Decentral-heating-supply)<sup>\*</sup> [Irish](ga-CM-Decentral-heating-supply)<sup>\*</sup> [Italian](it-CM-Decentral-heating-supply)<sup>\*</sup> [Latvian](lv-CM-Decentral-heating-supply)<sup>\*</sup> [Lithuanian](lt-CM-Decentral-heating-supply)<sup>\*</sup> [Maltese](mt-CM-Decentral-heating-supply)<sup>\*</sup> [Polish](pl-CM-Decentral-heating-supply)<sup>\*</sup> [Portuguese (Portugal, Brazil)](pt-CM-Decentral-heating-supply)<sup>\*</sup> [Romanian](ro-CM-Decentral-heating-supply)<sup>\*</sup> [Slovak](sk-CM-Decentral-heating-supply)<sup>\*</sup> [Slovenian](sl-CM-Decentral-heating-supply)<sup>\*</sup> [Spanish](es-CM-Decentral-heating-supply)<sup>\*</sup> [Swedish](sv-CM-Decentral-heating-supply)<sup>\*</sup>
 <sup>\*</sup>: machine translated

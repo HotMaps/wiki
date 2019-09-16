@@ -87,7 +87,7 @@ Type of the layer in the database (Values: 'vector' or 'raster').
 
 - 'Indicators'
 
-There are 2 types of indicators (Simple indicators & Cross indicators).
+There are 2 types of indicators (Simple indicators &amp; Cross indicators).
 
 
 ### Simple indicator
@@ -238,6 +238,5 @@ We would like to convey our deepest appreciation to the Horizon 2020 [Hotmaps Pr
 
 View in another language:
 
- [Bulgarian](bg-Guidelines-for-defining-indicators)<sup>\*</sup> [Croatian](hr-Guidelines-for-defining-indicators)<sup>\*</sup> [Czech](cs-Guidelines-for-defining-indicators)<sup>\*</sup> [Danish](da-Guidelines-for-defining-indicators)<sup>\*</sup> [Dutch](nl-Guidelines-for-defining-indicators)<sup>\*</sup> [Estonian](et-Guidelines-for-defining-indicators)<sup>\*</sup> [Finnish](fi-Guidelines-for-defining-indicators)<sup>\*</sup> [French](fr-Guidelines-for-defining-indicators)<sup>\*</sup> [German](de-Guidelines-for-defining-indicators)<sup>\*</sup> [Greek](el-Guidelines-for-defining-indicators)<sup>\*</sup> [Hungarian](hu-Guidelines-for-defining-indicators)<sup>\*</sup> [Irish](ga-Guidelines-for-defining-indicators)<sup>\*</sup> [Italian](it-Guidelines-for-defining-indicators)<sup>\*</sup> [Latvian](lv-Guidelines-for-defining-indicators)<sup>\*</sup> [Lithuanian](lt-Guidelines-for-defining-indicators)<sup>\*</sup> [Maltese](mt-Guidelines-for-defining-indicators)<sup>\*</sup> [Polish](pl-Guidelines-for-defining-indicators)<sup>\*</sup> [Portuguese (Portugal, Brazil)](pt-Guidelines-for-defining-indicators)<sup>\*</sup> [Romanian](ro-Guidelines-for-defining-indicators)<sup>\*</sup> [Slovak](sk-Guidelines-for-defining-indicators)<sup>\*</sup> [Slovenian](sl-Guidelines-for-defining-indicators)<sup>\*</sup> [Spanish](es-Guidelines-for-defining-indicators)<sup>\*</sup> [Swedish](sv-Guidelines-for-defining-indicators)<sup>\*</sup> 
-
+ [Bulgarian](bg-Guidelines-for-defining-indicators)<sup>\*</sup> [Croatian](hr-Guidelines-for-defining-indicators)<sup>\*</sup> [Czech](cs-Guidelines-for-defining-indicators)<sup>\*</sup> [Danish](da-Guidelines-for-defining-indicators)<sup>\*</sup> [Dutch](nl-Guidelines-for-defining-indicators)<sup>\*</sup> [Estonian](et-Guidelines-for-defining-indicators)<sup>\*</sup> [Finnish](fi-Guidelines-for-defining-indicators)<sup>\*</sup> [French](fr-Guidelines-for-defining-indicators)<sup>\*</sup> [German](de-Guidelines-for-defining-indicators)<sup>\*</sup> [Greek](el-Guidelines-for-defining-indicators)<sup>\*</sup> [Hungarian](hu-Guidelines-for-defining-indicators)<sup>\*</sup> [Irish](ga-Guidelines-for-defining-indicators)<sup>\*</sup> [Italian](it-Guidelines-for-defining-indicators)<sup>\*</sup> [Latvian](lv-Guidelines-for-defining-indicators)<sup>\*</sup> [Lithuanian](lt-Guidelines-for-defining-indicators)<sup>\*</sup> [Maltese](mt-Guidelines-for-defining-indicators)<sup>\*</sup> [Polish](pl-Guidelines-for-defining-indicators)<sup>\*</sup> [Portuguese (Portugal, Brazil)](pt-Guidelines-for-defining-indicators)<sup>\*</sup> [Romanian](ro-Guidelines-for-defining-indicators)<sup>\*</sup> [Slovak](sk-Guidelines-for-defining-indicators)<sup>\*</sup> [Slovenian](sl-Guidelines-for-defining-indicators)<sup>\*</sup> [Spanish](es-Guidelines-for-defining-indicators)<sup>\*</sup> [Swedish](sv-Guidelines-for-defining-indicators)<sup>\*</sup>
 <sup>\*</sup>: machine translated

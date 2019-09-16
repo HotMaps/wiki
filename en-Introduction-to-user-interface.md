@@ -127,12 +127,10 @@ The figure below shows the appearance of the tools:
 <li>shows how many regions you selected</li>
 <li>shows the scale you selected from right toolbar</li>
 </ol>
-
 <ol type="a">
 <li>button for loading the results of your selected region and selected layers</li>
 <li>button for deleting a selected region</li>
 </ol>
-
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
 
 ## Show Result
@@ -153,8 +151,7 @@ Please fill out the [form](#Fig7) below:
 ![feedback_gif][feedback]
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
-
-<a name ="Fig7">![feedback.png][feedback_png]</a>
+<a name="Fig7">![feedback.png][feedback_png]</a>
 
 you can choose from following types:
 
@@ -210,7 +207,6 @@ License-Text: https://spdx.org/licenses/CC-BY-4.0.html
 We would like to convey our deepest appreciation to the Horizon 2020 [Hotmaps Project](en-https://www.hotmaps-project.eu) (Grant Agreement number 723677), which provided the funding to carry out the present investigation.
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
-
 <code>[Review this page](en-https://github.com/HotMaps/hotmaps_wiki/wiki/Hotmaps-Graphical-User-Interface/_edit)</code>
 
 [//]: # (Here are all the files to the links)
@@ -265,6 +261,5 @@ We would like to convey our deepest appreciation to the Horizon 2020 [Hotmaps Pr
 
 View in another language:
 
- [Bulgarian](bg-Introduction-to-user-interface)<sup>\*</sup> [Croatian](hr-Introduction-to-user-interface)<sup>\*</sup> [Czech](cs-Introduction-to-user-interface)<sup>\*</sup> [Danish](da-Introduction-to-user-interface)<sup>\*</sup> [Dutch](nl-Introduction-to-user-interface)<sup>\*</sup> [Estonian](et-Introduction-to-user-interface)<sup>\*</sup> [Finnish](fi-Introduction-to-user-interface)<sup>\*</sup> [French](fr-Introduction-to-user-interface)<sup>\*</sup> [German](de-Introduction-to-user-interface)<sup>\*</sup> [Greek](el-Introduction-to-user-interface)<sup>\*</sup> [Hungarian](hu-Introduction-to-user-interface)<sup>\*</sup> [Irish](ga-Introduction-to-user-interface)<sup>\*</sup> [Italian](it-Introduction-to-user-interface)<sup>\*</sup> [Latvian](lv-Introduction-to-user-interface)<sup>\*</sup> [Lithuanian](lt-Introduction-to-user-interface)<sup>\*</sup> [Maltese](mt-Introduction-to-user-interface)<sup>\*</sup> [Polish](pl-Introduction-to-user-interface)<sup>\*</sup> [Portuguese (Portugal, Brazil)](pt-Introduction-to-user-interface)<sup>\*</sup> [Romanian](ro-Introduction-to-user-interface)<sup>\*</sup> [Slovak](sk-Introduction-to-user-interface)<sup>\*</sup> [Slovenian](sl-Introduction-to-user-interface)<sup>\*</sup> [Spanish](es-Introduction-to-user-interface)<sup>\*</sup> [Swedish](sv-Introduction-to-user-interface)<sup>\*</sup> 
-
+ [Bulgarian](bg-Introduction-to-user-interface)<sup>\*</sup> [Croatian](hr-Introduction-to-user-interface)<sup>\*</sup> [Czech](cs-Introduction-to-user-interface)<sup>\*</sup> [Danish](da-Introduction-to-user-interface)<sup>\*</sup> [Dutch](nl-Introduction-to-user-interface)<sup>\*</sup> [Estonian](et-Introduction-to-user-interface)<sup>\*</sup> [Finnish](fi-Introduction-to-user-interface)<sup>\*</sup> [French](fr-Introduction-to-user-interface)<sup>\*</sup> [German](de-Introduction-to-user-interface)<sup>\*</sup> [Greek](el-Introduction-to-user-interface)<sup>\*</sup> [Hungarian](hu-Introduction-to-user-interface)<sup>\*</sup> [Irish](ga-Introduction-to-user-interface)<sup>\*</sup> [Italian](it-Introduction-to-user-interface)<sup>\*</sup> [Latvian](lv-Introduction-to-user-interface)<sup>\*</sup> [Lithuanian](lt-Introduction-to-user-interface)<sup>\*</sup> [Maltese](mt-Introduction-to-user-interface)<sup>\*</sup> [Polish](pl-Introduction-to-user-interface)<sup>\*</sup> [Portuguese (Portugal, Brazil)](pt-Introduction-to-user-interface)<sup>\*</sup> [Romanian](ro-Introduction-to-user-interface)<sup>\*</sup> [Slovak](sk-Introduction-to-user-interface)<sup>\*</sup> [Slovenian](sl-Introduction-to-user-interface)<sup>\*</sup> [Spanish](es-Introduction-to-user-interface)<sup>\*</sup> [Swedish](sv-Introduction-to-user-interface)<sup>\*</sup>
 <sup>\*</sup>: machine translated

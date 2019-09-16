@@ -59,7 +59,7 @@ All the above-mentioned data sets are stored in Hotmaps data repositories on Git
 * [Final energy demand density for space heating and domestic hot water - **Total**](https://gitlab.com/hotmaps/heat/heat_tot_curr_density)
 * [Useful energy demand for space heating and domestic hot water at different NUTS levels](https://gitlab.com/hotmaps/regional_demand)
 
-    &#x1F53A; `The data is coming from ESPON Project. I guess it should be final energy demand instad of useful energy demand.`
+    🔺 `The data is coming from ESPON Project. I guess it should be final energy demand instad of useful energy demand.`
 
 * [Useful energy demand and Final energy consumption for space heating, space cooling and domestic hot water at NUTS0 level](https://gitlab.com/hotmaps/space_heating_cooling_dhw_demand)
 * [Space cooling needs density map](https://gitlab.com/hotmaps/heat/cool_tot_curr_density)
@@ -84,7 +84,7 @@ All the above-mentioned data sets are stored in Hotmaps data repositories on Git
 ## Construction periods
 * [Share of gross floor area in construction periods](https://gitlab.com/hotmaps/construction_periods/share_gfa_per_construction_period/tree/master)
 
-    &#x1F53A; `The README file of this repository is incomplete.`
+    🔺 `The README file of this repository is incomplete.`
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
 
@@ -107,16 +107,16 @@ All the above-mentioned data sets are stored in Hotmaps data repositories on Git
 * [Monthly average precipitation at global scale](https://gitlab.com/hotmaps/climate/climate_precipitation)
 * [Monthly solar radiation on optimally inclined surfaces at global scale](https://gitlab.com/hotmaps/climate/climate_solar_radiation)
 
-    &#x1F53A; `Readme is misleading. in the table within the readme file, it is written annual value. However, in the explanation it is written monthly values!`
+    🔺 `Readme is misleading. in the table within the readme file, it is written annual value. However, in the explanation it is written monthly values!`
 
 * [Average heating degree days (HDD) and cooling degree days (CDD) at NUTS 3 level](https://gitlab.com/hotmaps/climate/climate_heating_cooling_degreeday)
 * [Heating degree days (HDD) for the reference period 2002-2012 on hectare level](https://gitlab.com/hotmaps/climate/HDD_ha_curr)
 
-    &#x1F53A; `Reference period in title and in the description within the readme file does not match`
+    🔺 `Reference period in title and in the description within the readme file does not match`
 
 * [Cooling degree days (CDD) for the reference period 1999-2014 on hectare level](https://gitlab.com/hotmaps/climate/CDD_ha_curr)
 
-    &#x1F53A; `Reference period in title and in the description within the readme file does not match`
+    🔺 `Reference period in title and in the description within the readme file does not match`
 
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
@@ -126,18 +126,18 @@ All the above-mentioned data sets are stored in Hotmaps data repositories on Git
 * [Shallow geothermal energy potential - From EC co-funded project ThermoMap](https://gitlab.com/hotmaps/potential/potential_shallowgeothermal)
 * [Solar Potential - Average solar thermal potential using open-field solar thermal collector](https://gitlab.com/hotmaps/potential/potential_solarthermal_collectors_open_field)
 
-&#x1F53A; `The unit of the data set has not been mentioned in the Readme file nor in the datapackage file.`
+🔺 `The unit of the data set has not been mentioned in the Readme file nor in the datapackage file.`
 
 * [Solar Potential - Average solar thermal potential using roof-mounted solar thermal collectors](https://gitlab.com/hotmaps/potential/potential_solarthermal_collectors_rooftop)
 
-&#x1F53A; `The unit of the data set has not been mentioned in the Readme file nor in the datapackage file.`
+🔺 `The unit of the data set has not been mentioned in the Readme file nor in the datapackage file.`
 
 * [Solar Potential - Annual global solar radiation on globally inclined surfaces by considering the building footprint](https://gitlab.com/hotmaps/potential/potential_solar)
 * [Wind Potential - Total energy potential at NUTS 3 level](https://gitlab.com/hotmaps/potential/potential_wind)
 * [Municipal solid waste energy potential](https://gitlab.com/hotmaps/potential/potential_municipal_solid_waste)
 * [Biomass energy potential - forest biomass potential (raster)](https://gitlab.com/hotmaps/potential/potential_forest)
 
-    &#x1F53A; `In the readme file, explanation of agricultural residues and livestock effluents are provided; but, no data is available for this two.`
+    🔺 `In the readme file, explanation of agricultural residues and livestock effluents are provided; but, no data is available for this two.`
 
 * [Biomass energy potential - Agricultural residues, livestock effluents and forestry residues](https://gitlab.com/hotmaps/potential/potential_biomass)
 * [Waste water treatment plants energy potential](https://gitlab.com/hotmaps/potential/WWTP)
@@ -178,7 +178,7 @@ All the above-mentioned data sets are stored in Hotmaps data repositories on Git
 * [Generic hourly profiles on NUTS 2 level in residential sector - **sanitary hot water**](https://gitlab.com/hotmaps/load_profile/load_profile_residential_shw_generic)
 * [Generic hourly profiles on NUTS 2 level in residential sector - **space heating demand**](https://gitlab.com/hotmaps/load_profile/load_profile_residential_heating_generic)
 
-    &#x1F53A; `The title of the repository does not match with the title of the readme file and is misleading!`
+    🔺 `The title of the repository does not match with the title of the readme file and is misleading!`
 
 * [Generic hourly profiles on NUTS 2 level in residential sector - **space cooling**](https://gitlab.com/hotmaps/load_profile/load_profile_residential_cooling_generic)
 
@@ -214,12 +214,12 @@ All the above-mentioned data sets are stored in Hotmaps data repositories on Git
 ### Tertiary profiles - Year specific
 * [Hourly profile on NUTS 2 level in tertiary sector in year 2010 for **sanitary hot water**](https://gitlab.com/hotmaps/load_profile/load_profile_tertiary_shw_yearlong_2010)
 
-    &#x1F53A; `In the readme file title, it is written domestic hot water. Since this is for tertiary sector, it should be amended!`
+    🔺 `In the readme file title, it is written domestic hot water. Since this is for tertiary sector, it should be amended!`
 
 * [Hourly profile on NUTS 2 level in tertiary sector in year 2010 for **space heating**](https://gitlab.com/hotmaps/load_profile/load_profile_tertiary_heating_yearlong_2010)
 * [Hourly profile on NUTS 2 level in tertiary sector in year 2010 for **space heating and sanitary hot water**](https://gitlab.com/hotmaps/load_profile_tertiary_shw_and_heating_yearlong_2010)
 
-    &#x1F53A; `In the readme file title, it is written domestic hot water. Since this is for tertiary sector, it should be amended!`
+    🔺 `In the readme file title, it is written domestic hot water. Since this is for tertiary sector, it should be amended!`
 
 * [Hourly profile on NUTS 2 level in tertiary sector in year 2010 for **space cooling**](https://gitlab.com/hotmaps/load_profile/load_profile_tertiary_cooling_yearlong_2010)
 
@@ -265,11 +265,11 @@ All the above-mentioned data sets are stored in Hotmaps data repositories on Git
 
 * [Vehicle stock at NUTS 2 level](https://gitlab.com/hotmaps/transport/nuts2)
 
-    &#x1F53A; `The README file of this repository is incomplete.`
+    🔺 `The README file of this repository is incomplete.`
 
 * [Vehicle stock at city level](https://gitlab.com/hotmaps/transport/city)
 
-    &#x1F53A; `The README file of this repository is incomplete.`
+    🔺 `The README file of this repository is incomplete.`
 
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
@@ -279,7 +279,7 @@ All the above-mentioned data sets are stored in Hotmaps data repositories on Git
 * [Hotmaps Local Administrative Boundaries](https://gitlab.com/hotmaps/HotmapsLAU)
 * [Hotmaps NUTS Boundaries](https://gitlab.com/hotmaps/NUTS)
 
-    &#x1F53A; `Licens from EC is missing in this repository.`
+    🔺 `Licens from EC is missing in this repository.`
 
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
@@ -336,6 +336,5 @@ We would like to convey our deepest appreciation to the Horizon 2020 [Hotmaps Pr
 
 View in another language:
 
- [Bulgarian](bg-Hotmaps-open-data-repositories)<sup>\*</sup> [Croatian](hr-Hotmaps-open-data-repositories)<sup>\*</sup> [Czech](cs-Hotmaps-open-data-repositories)<sup>\*</sup> [Danish](da-Hotmaps-open-data-repositories)<sup>\*</sup> [Dutch](nl-Hotmaps-open-data-repositories)<sup>\*</sup> [Estonian](et-Hotmaps-open-data-repositories)<sup>\*</sup> [Finnish](fi-Hotmaps-open-data-repositories)<sup>\*</sup> [French](fr-Hotmaps-open-data-repositories)<sup>\*</sup> [German](de-Hotmaps-open-data-repositories)<sup>\*</sup> [Greek](el-Hotmaps-open-data-repositories)<sup>\*</sup> [Hungarian](hu-Hotmaps-open-data-repositories)<sup>\*</sup> [Irish](ga-Hotmaps-open-data-repositories)<sup>\*</sup> [Italian](it-Hotmaps-open-data-repositories)<sup>\*</sup> [Latvian](lv-Hotmaps-open-data-repositories)<sup>\*</sup> [Lithuanian](lt-Hotmaps-open-data-repositories)<sup>\*</sup> [Maltese](mt-Hotmaps-open-data-repositories)<sup>\*</sup> [Polish](pl-Hotmaps-open-data-repositories)<sup>\*</sup> [Portuguese (Portugal, Brazil)](pt-Hotmaps-open-data-repositories)<sup>\*</sup> [Romanian](ro-Hotmaps-open-data-repositories)<sup>\*</sup> [Slovak](sk-Hotmaps-open-data-repositories)<sup>\*</sup> [Slovenian](sl-Hotmaps-open-data-repositories)<sup>\*</sup> [Spanish](es-Hotmaps-open-data-repositories)<sup>\*</sup> [Swedish](sv-Hotmaps-open-data-repositories)<sup>\*</sup> 
-
+ [Bulgarian](bg-Hotmaps-open-data-repositories)<sup>\*</sup> [Croatian](hr-Hotmaps-open-data-repositories)<sup>\*</sup> [Czech](cs-Hotmaps-open-data-repositories)<sup>\*</sup> [Danish](da-Hotmaps-open-data-repositories)<sup>\*</sup> [Dutch](nl-Hotmaps-open-data-repositories)<sup>\*</sup> [Estonian](et-Hotmaps-open-data-repositories)<sup>\*</sup> [Finnish](fi-Hotmaps-open-data-repositories)<sup>\*</sup> [French](fr-Hotmaps-open-data-repositories)<sup>\*</sup> [German](de-Hotmaps-open-data-repositories)<sup>\*</sup> [Greek](el-Hotmaps-open-data-repositories)<sup>\*</sup> [Hungarian](hu-Hotmaps-open-data-repositories)<sup>\*</sup> [Irish](ga-Hotmaps-open-data-repositories)<sup>\*</sup> [Italian](it-Hotmaps-open-data-repositories)<sup>\*</sup> [Latvian](lv-Hotmaps-open-data-repositories)<sup>\*</sup> [Lithuanian](lt-Hotmaps-open-data-repositories)<sup>\*</sup> [Maltese](mt-Hotmaps-open-data-repositories)<sup>\*</sup> [Polish](pl-Hotmaps-open-data-repositories)<sup>\*</sup> [Portuguese (Portugal, Brazil)](pt-Hotmaps-open-data-repositories)<sup>\*</sup> [Romanian](ro-Hotmaps-open-data-repositories)<sup>\*</sup> [Slovak](sk-Hotmaps-open-data-repositories)<sup>\*</sup> [Slovenian](sl-Hotmaps-open-data-repositories)<sup>\*</sup> [Spanish](es-Hotmaps-open-data-repositories)<sup>\*</sup> [Swedish](sv-Hotmaps-open-data-repositories)<sup>\*</sup>
 <sup>\*</sup>: machine translated

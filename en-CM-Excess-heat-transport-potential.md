@@ -75,8 +75,8 @@ For the computation of the distance between two points a small angle approximati
 If two points are in range of the radius it is stored in an adjacency list. The creation of such adjacency lists is performed between sources and sources, sinks and sinks, and sources and sinks. The reason for the separation lies in the flexibility to add certain temperature requirements for sources or sinks.
 
 <figure>
-  <img src="https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/cm_excess_heat/search.svg" alt=""/>
-  <figcaption><i><br />
+<img alt="" src="https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/cm_excess_heat/search.svg"/>
+<figcaption><i><br/>
 Example of a fixed radius search. The red vertices represent sources and the blue ones sinks. The numbers represent the distance between the points. Drawing is not to scale.</i></figcaption>
 </figure>
 
@@ -88,8 +88,8 @@ The NetworkGraph class describes only one network on the surface but contains 3 
 Only contains the real sources and sinks as vertices.
 
 <figure>
-  <img src="https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/cm_excess_heat/graph.svg" alt=""/>
-  <figcaption><i> <br />
+<img alt="" src="https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/cm_excess_heat/graph.svg"/>
+<figcaption><i> <br/>
 Example of a graph. The red vertices represent sources and the blue ones sinks.</i></figcaption>
 </figure>
 
@@ -98,39 +98,39 @@ Example of a graph. The red vertices represent sources and the blue ones sinks.<
 Every sink needs a correspondence id, which indicates, if it is internally connected by an already existing network like in coherent areas. Sinks with the same correspondence id are connected to a new vertex with edges with zero weights. This is crucial for the computation of a minimum spanning tree and the reason the correspondence graph is used for it. This feature is also implemented for sources but not used.
 
 <figure>
-  <img src="https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/cm_excess_heat/correspondence_graph.svg" alt=""/>
-  <figcaption><i> <br /> Example of a correspondence graph. The red vertices represent sources and the blue ones sinks. The three sinks on the right are coherent connected by an additional larger vertex</i></figcaption>
+<img alt="" src="https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/cm_excess_heat/correspondence_graph.svg"/>
+<figcaption><i> <br/> Example of a correspondence graph. The red vertices represent sources and the blue ones sinks. The three sinks on the right are coherent connected by an additional larger vertex</i></figcaption>
 </figure>
 
 ##### Maximum flow graph
 Since igraph does not support multiple sources and sinks in its maximum flow function an auxiliary graph is needed. It introduces an infinite source and sink vertex. Every real source is connected to the infinite source and every real sink is connected to the infinite sink by an edge. Note that if a sink is connected to a correspondence vertex this vertex will be connected rather than the sink itself.
 
 <figure>
-  <img src="https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/cm_excess_heat/max_flow_graph.svg" alt=""/>
-  <figcaption><i> <br /> Example of a maximum flow graph.</i></figcaption>
+<img alt="" src="https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/cm_excess_heat/max_flow_graph.svg"/>
+<figcaption><i> <br/> Example of a maximum flow graph.</i></figcaption>
 </figure>
 
 ##### Minimum spanning tree computation
 Based on the correspondence graph the minimum spanning tree is computed. The edges connecting the coherent sinks always have the weight 0 so they will always remain part of the minimum spanning tree.
 
 <figure>
-  <img src="https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/cm_excess_heat/correspondence_graph_with_weigths.svg" alt=""/>
-  <figcaption><i> <br /> Example of a correspondence graph with the weights of every edge and its minimum spanning tree.</i></figcaption>
+<img alt="" src="https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/cm_excess_heat/correspondence_graph_with_weigths.svg"/>
+<figcaption><i> <br/> Example of a correspondence graph with the weights of every edge and its minimum spanning tree.</i></figcaption>
 </figure>
 
 ##### Maximum flow computation
 The flow through the edges connecting the real sources or sinks to the infinite source or sink respectively is capped to the real capacity of each source or sink. For numerical reasons the capacities are normalized so that the largest capacity is 1. The flow through the subset of edges contained in the correspondence graph is limited to 1000 which should, for all intense and purposes offer unrestricted flow. Then the maximum flow from the infinite source to the infinite sink is computed and the flow rescaled to its original size. Since coherent sinks are not directly connected to the infinite sink vertex but by the correspondence vertex the flow through it is limited to the sum of all coherent sinks.
 
 <figure>
-  <img src="https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/cm_excess_heat/max_flow_graph_with_capacities.svg" alt=""/>
-  <figcaption><i> <br /> Example of a maximum flow graph and the capacites of each source and sink. The right graph shows the maximum flow allowed through each edge after the normalization. Note that the maximum flow allowed through the edges with infinity symbol is actually capped to 1000 in the implementation.</i></figcaption>
+<img alt="" src="https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/cm_excess_heat/max_flow_graph_with_capacities.svg"/>
+<figcaption><i> <br/> Example of a maximum flow graph and the capacites of each source and sink. The right graph shows the maximum flow allowed through each edge after the normalization. Note that the maximum flow allowed through the edges with infinity symbol is actually capped to 1000 in the implementation.</i></figcaption>
 </figure>
 
 The implementation of the igraph maximum flow function uses the Push-relabel algorithm. This type of algorithm is not cost sensitive and might not always find the shortest way of routing the flow. A cost sensitive algorithm is not available in igraph and the performance would be likely to low to be able to resolve an hourly based flow throughout the year. But because of the prior reduction to a minimum spanning tree the cases in which a non-ideal solution is chosen are very limited and unlikely. The Push-relabel algorithm also has tendency to rout the flow through the least amount of edges. The igraph implementation seems to be deterministic in the order of allocation of the flow if the graphs are at least automorphisms, which is important for the hourly based flow calculation since any artificially introduced flow oscillation between edges is undesirable.
 
 <figure>
-  <img src="https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/cm_excess_heat/max_flow_graph_with_flows.svg" alt=""/>
-  <figcaption><i> <br /> Flow computed by the max flow algorithm and the rescaling to the original size.</i></figcaption>
+<img alt="" src="https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/cm_excess_heat/max_flow_graph_with_flows.svg"/>
+<figcaption><i> <br/> Flow computed by the max flow algorithm and the rescaling to the original size.</i></figcaption>
 </figure>
 
 #### Heat sources
@@ -142,8 +142,8 @@ The heat sources are taken from the **[industrial database.]( https://gitlab.com
 The heat sinks are based on coherent areas with a known heat demand. The coherent areas form a mask for a grid on which equidistant points are placed as entry points. Depending on the selected Nuts2 ID a residential heating profile is assigned to the sinks. The custom addition of entry points and sinks is planned.
 
 <figure>
-  <img src="https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/cm_excess_heat/coherent_aera_entry_points.svg" alt=""/>
-  <figcaption><i> <br /> Example of a coherent area and its generated entry points.</i></figcaption>
+<img alt="" src="https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/cm_excess_heat/coherent_aera_entry_points.svg"/>
+<figcaption><i> <br/> Example of a coherent area and its generated entry points.</i></figcaption>
 </figure>
 
 #### Load profiles
@@ -158,20 +158,20 @@ Since district heating systems have a large heat capacity a peak in flow does no
 
 | Power in MW   | Costs in €/m  | Temperature in °C  |
 | ------------- |:-------------:| -----:|
-| 0.2           | 195           | <150 |
-| 0.3           | 206           | <150 |
-| 0.6           | 220           | <150 |
-| 1.2           | 240           | <150 |
-| 1.9           | 261           | <150 |
-| 3.6           | 288           | <150 |
-| 6.1           | 323           | <150 |
-| 9.8           | 357           | <150 |
-| 20            | 426           | <150 |
-| 45            | 564           | <150 |
-| 75            | 701           | <150 |
-| 125           | 839           | <150 |
-| 190           | 976           | <150 |
-| >190          | 976           | <150 |
+| 0.2           | 195           | &lt;150 |
+| 0.3           | 206           | &lt;150 |
+| 0.6           | 220           | &lt;150 |
+| 1.2           | 240           | &lt;150 |
+| 1.9           | 261           | &lt;150 |
+| 3.6           | 288           | &lt;150 |
+| 6.1           | 323           | &lt;150 |
+| 9.8           | 357           | &lt;150 |
+| 20            | 426           | &lt;150 |
+| 45            | 564           | &lt;150 |
+| 75            | 701           | &lt;150 |
+| 125           | 839           | &lt;150 |
+| 190           | 976           | &lt;150 |
+| &gt;190          | 976           | &lt;150 |
 
 The costs of the heat exchanger on the source side which is assumed as air to liquid is computed with
 
@@ -179,13 +179,13 @@ C<sub>HSource</sub>(en-P) = P<sub>peak</sub> * 15,000€/MW.
 
 The costs of the liquid to liquid heat exchanger on the sink side is determined with
 
-C<sub>HSink</sub>(en-P) = P<sub>peak</sub> * 265,000€/MW if P<sub>peak</sub> < 1MW or
+C<sub>HSink</sub>(en-P) = P<sub>peak</sub> * 265,000€/MW if P<sub>peak</sub> &lt; 1MW or
 
 C<sub>HSink</sub>(en-P) = P<sub>peak</sub> * 100,000€/MW else.
 
 The costs of the pump follow
 
-C<sub>Pump</sub>(en-P) = P<sub>peak</sub> * 240,000€/MW if P<sub>peak</sub> < 1MW or
+C<sub>Pump</sub>(en-P) = P<sub>peak</sub> * 240,000€/MW if P<sub>peak</sub> &lt; 1MW or
 
 C<sub>Pump</sub>(en-P) = P<sub>peak</sub> * 90,000€/MW else.
 
@@ -202,8 +202,8 @@ First the heat sources and sinks are loaded with their load profiles. Then the f
 Sample run in Aalborg.
 
 <figure>
-  <img src="https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/cm_excess_heat/aalborg.png" alt=""/>
-  <figcaption><i>Sample run in Aalborg. The blue aeras represent the district heating. The orange point the heat source and the yellow points the entry points to the district heating network.</i></figcaption>
+<img alt="" src="https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/cm_excess_heat/aalborg.png"/>
+<figcaption><i>Sample run in Aalborg. The blue aeras represent the district heating. The orange point the heat source and the yellow points the entry points to the district heating network.</i></figcaption>
 </figure>
 
 The total costs are 13.7 M€ and the total annual flow is 185 GWh which results in 0.74 ct/kWh for an investment period of 10 years.
@@ -236,6 +236,5 @@ We would like to convey our deepest appreciation to the Horizon 2020 [Hotmaps Pr
 
 View in another language:
 
- [Bulgarian](bg-CM-Excess-heat-transport-potential)<sup>\*</sup> [Croatian](hr-CM-Excess-heat-transport-potential)<sup>\*</sup> [Czech](cs-CM-Excess-heat-transport-potential)<sup>\*</sup> [Danish](da-CM-Excess-heat-transport-potential)<sup>\*</sup> [Dutch](nl-CM-Excess-heat-transport-potential)<sup>\*</sup> [Estonian](et-CM-Excess-heat-transport-potential)<sup>\*</sup> [Finnish](fi-CM-Excess-heat-transport-potential)<sup>\*</sup> [French](fr-CM-Excess-heat-transport-potential)<sup>\*</sup> [German](de-CM-Excess-heat-transport-potential)<sup>\*</sup> [Greek](el-CM-Excess-heat-transport-potential)<sup>\*</sup> [Hungarian](hu-CM-Excess-heat-transport-potential)<sup>\*</sup> [Irish](ga-CM-Excess-heat-transport-potential)<sup>\*</sup> [Italian](it-CM-Excess-heat-transport-potential)<sup>\*</sup> [Latvian](lv-CM-Excess-heat-transport-potential)<sup>\*</sup> [Lithuanian](lt-CM-Excess-heat-transport-potential)<sup>\*</sup> [Maltese](mt-CM-Excess-heat-transport-potential)<sup>\*</sup> [Polish](pl-CM-Excess-heat-transport-potential)<sup>\*</sup> [Portuguese (Portugal, Brazil)](pt-CM-Excess-heat-transport-potential)<sup>\*</sup> [Romanian](ro-CM-Excess-heat-transport-potential)<sup>\*</sup> [Slovak](sk-CM-Excess-heat-transport-potential)<sup>\*</sup> [Slovenian](sl-CM-Excess-heat-transport-potential)<sup>\*</sup> [Spanish](es-CM-Excess-heat-transport-potential)<sup>\*</sup> [Swedish](sv-CM-Excess-heat-transport-potential)<sup>\*</sup> 
-
+ [Bulgarian](bg-CM-Excess-heat-transport-potential)<sup>\*</sup> [Croatian](hr-CM-Excess-heat-transport-potential)<sup>\*</sup> [Czech](cs-CM-Excess-heat-transport-potential)<sup>\*</sup> [Danish](da-CM-Excess-heat-transport-potential)<sup>\*</sup> [Dutch](nl-CM-Excess-heat-transport-potential)<sup>\*</sup> [Estonian](et-CM-Excess-heat-transport-potential)<sup>\*</sup> [Finnish](fi-CM-Excess-heat-transport-potential)<sup>\*</sup> [French](fr-CM-Excess-heat-transport-potential)<sup>\*</sup> [German](de-CM-Excess-heat-transport-potential)<sup>\*</sup> [Greek](el-CM-Excess-heat-transport-potential)<sup>\*</sup> [Hungarian](hu-CM-Excess-heat-transport-potential)<sup>\*</sup> [Irish](ga-CM-Excess-heat-transport-potential)<sup>\*</sup> [Italian](it-CM-Excess-heat-transport-potential)<sup>\*</sup> [Latvian](lv-CM-Excess-heat-transport-potential)<sup>\*</sup> [Lithuanian](lt-CM-Excess-heat-transport-potential)<sup>\*</sup> [Maltese](mt-CM-Excess-heat-transport-potential)<sup>\*</sup> [Polish](pl-CM-Excess-heat-transport-potential)<sup>\*</sup> [Portuguese (Portugal, Brazil)](pt-CM-Excess-heat-transport-potential)<sup>\*</sup> [Romanian](ro-CM-Excess-heat-transport-potential)<sup>\*</sup> [Slovak](sk-CM-Excess-heat-transport-potential)<sup>\*</sup> [Slovenian](sl-CM-Excess-heat-transport-potential)<sup>\*</sup> [Spanish](es-CM-Excess-heat-transport-potential)<sup>\*</sup> [Swedish](sv-CM-Excess-heat-transport-potential)<sup>\*</sup>
 <sup>\*</sup>: machine translated

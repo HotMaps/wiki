@@ -125,7 +125,6 @@ When one of the bulding layers and the population layer is selected at the same 
 ![forest.png][forest]
 
 <code><ins>**[To Chapter](#Indicators-for-raster-layers)**</ins></code>
-
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
 
 ## Indicators for vector layers 
@@ -196,7 +195,6 @@ When one of the bulding layers and the population layer is selected at the same 
 ![electricity.png][electricity]
 
 <code><ins>**[To Chapter](#Indicators-for-vector-layers)**</ins></code>
-
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
 
 ## Example 
@@ -239,7 +237,6 @@ License-Text: https://spdx.org/licenses/CC-BY-4.0.html
 We would like to convey our deepest appreciation to the Horizon 2020 [Hotmaps Project](en-https://www.hotmaps-project.eu) (Grant Agreement number 723677), which provided the funding to carry out the present investigation.
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
-
 <code>[Review this page](en-https://github.com/HotMaps/hotmaps_wiki/wiki/Indicator-Section/_edit)</code>
 
 [//]: # (Here are all the files to the links)
@@ -278,6 +275,5 @@ We would like to convey our deepest appreciation to the Horizon 2020 [Hotmaps Pr
 
 View in another language:
 
- [Bulgarian](bg-Retrieve-indicators-of-a-selected-area)<sup>\*</sup> [Croatian](hr-Retrieve-indicators-of-a-selected-area)<sup>\*</sup> [Czech](cs-Retrieve-indicators-of-a-selected-area)<sup>\*</sup> [Danish](da-Retrieve-indicators-of-a-selected-area)<sup>\*</sup> [Dutch](nl-Retrieve-indicators-of-a-selected-area)<sup>\*</sup> [Estonian](et-Retrieve-indicators-of-a-selected-area)<sup>\*</sup> [Finnish](fi-Retrieve-indicators-of-a-selected-area)<sup>\*</sup> [French](fr-Retrieve-indicators-of-a-selected-area)<sup>\*</sup> [German](de-Retrieve-indicators-of-a-selected-area)<sup>\*</sup> [Greek](el-Retrieve-indicators-of-a-selected-area)<sup>\*</sup> [Hungarian](hu-Retrieve-indicators-of-a-selected-area)<sup>\*</sup> [Irish](ga-Retrieve-indicators-of-a-selected-area)<sup>\*</sup> [Italian](it-Retrieve-indicators-of-a-selected-area)<sup>\*</sup> [Latvian](lv-Retrieve-indicators-of-a-selected-area)<sup>\*</sup> [Lithuanian](lt-Retrieve-indicators-of-a-selected-area)<sup>\*</sup> [Maltese](mt-Retrieve-indicators-of-a-selected-area)<sup>\*</sup> [Polish](pl-Retrieve-indicators-of-a-selected-area)<sup>\*</sup> [Portuguese (Portugal, Brazil)](pt-Retrieve-indicators-of-a-selected-area)<sup>\*</sup> [Romanian](ro-Retrieve-indicators-of-a-selected-area)<sup>\*</sup> [Slovak](sk-Retrieve-indicators-of-a-selected-area)<sup>\*</sup> [Slovenian](sl-Retrieve-indicators-of-a-selected-area)<sup>\*</sup> [Spanish](es-Retrieve-indicators-of-a-selected-area)<sup>\*</sup> [Swedish](sv-Retrieve-indicators-of-a-selected-area)<sup>\*</sup> 
-
+ [Bulgarian](bg-Retrieve-indicators-of-a-selected-area)<sup>\*</sup> [Croatian](hr-Retrieve-indicators-of-a-selected-area)<sup>\*</sup> [Czech](cs-Retrieve-indicators-of-a-selected-area)<sup>\*</sup> [Danish](da-Retrieve-indicators-of-a-selected-area)<sup>\*</sup> [Dutch](nl-Retrieve-indicators-of-a-selected-area)<sup>\*</sup> [Estonian](et-Retrieve-indicators-of-a-selected-area)<sup>\*</sup> [Finnish](fi-Retrieve-indicators-of-a-selected-area)<sup>\*</sup> [French](fr-Retrieve-indicators-of-a-selected-area)<sup>\*</sup> [German](de-Retrieve-indicators-of-a-selected-area)<sup>\*</sup> [Greek](el-Retrieve-indicators-of-a-selected-area)<sup>\*</sup> [Hungarian](hu-Retrieve-indicators-of-a-selected-area)<sup>\*</sup> [Irish](ga-Retrieve-indicators-of-a-selected-area)<sup>\*</sup> [Italian](it-Retrieve-indicators-of-a-selected-area)<sup>\*</sup> [Latvian](lv-Retrieve-indicators-of-a-selected-area)<sup>\*</sup> [Lithuanian](lt-Retrieve-indicators-of-a-selected-area)<sup>\*</sup> [Maltese](mt-Retrieve-indicators-of-a-selected-area)<sup>\*</sup> [Polish](pl-Retrieve-indicators-of-a-selected-area)<sup>\*</sup> [Portuguese (Portugal, Brazil)](pt-Retrieve-indicators-of-a-selected-area)<sup>\*</sup> [Romanian](ro-Retrieve-indicators-of-a-selected-area)<sup>\*</sup> [Slovak](sk-Retrieve-indicators-of-a-selected-area)<sup>\*</sup> [Slovenian](sl-Retrieve-indicators-of-a-selected-area)<sup>\*</sup> [Spanish](es-Retrieve-indicators-of-a-selected-area)<sup>\*</sup> [Swedish](sv-Retrieve-indicators-of-a-selected-area)<sup>\*</sup>
 <sup>\*</sup>: machine translated

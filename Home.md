@@ -26,5 +26,4 @@ Please select your language:
 *    [Slovenian](sl-Home)<sup>\*</sup>
 *    [Spanish](es-Home)<sup>\*</sup>
 *    [Swedish](sv-Home)<sup>\*</sup>
-
 <sup>\*</sup>: machine translated

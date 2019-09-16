@@ -17,7 +17,7 @@ The district heating supply module is a dispatch model which tries to find a cos
 
 ![concept.png][concept]
 
-> The method described here is to be understood as a first concept and can deviate from the actual implementation (model complexity, inputs and outputs, etc. must be seen from this point of view).
+&gt; The method described here is to be understood as a first concept and can deviate from the actual implementation (model complexity, inputs and outputs, etc. must be seen from this point of view).
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
 
@@ -86,8 +86,7 @@ The objective function tries to find the minimum of the difference from the cost
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
 
 ## Sample run
-<code> NOT IMPLEMENTED> </code> 
-
+<code> NOT IMPLEMENTED&gt; </code>
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
 
 ### Test Run 1: default input values
@@ -132,7 +131,6 @@ License-Text: https://spdx.org/licenses/CC-BY-4.0.html
 We would like to convey our deepest appreciation to the Horizon 2020 [Hotmaps Project](en-https://www.hotmaps-project.eu) (Grant Agreement number 723677), which provided the funding to carry out the present investigation.
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
-
 <code>[Review this page](en-https://github.com/HotMaps/hotmaps_wiki/wiki/CM_DH_supply/_edit)</code>
 
 
@@ -149,6 +147,5 @@ We would like to convey our deepest appreciation to the Horizon 2020 [Hotmaps Pr
 
 View in another language:
 
- [Bulgarian](bg-CM-District-heating-supply-dispatch)<sup>\*</sup> [Croatian](hr-CM-District-heating-supply-dispatch)<sup>\*</sup> [Czech](cs-CM-District-heating-supply-dispatch)<sup>\*</sup> [Danish](da-CM-District-heating-supply-dispatch)<sup>\*</sup> [Dutch](nl-CM-District-heating-supply-dispatch)<sup>\*</sup> [Estonian](et-CM-District-heating-supply-dispatch)<sup>\*</sup> [Finnish](fi-CM-District-heating-supply-dispatch)<sup>\*</sup> [French](fr-CM-District-heating-supply-dispatch)<sup>\*</sup> [German](de-CM-District-heating-supply-dispatch)<sup>\*</sup> [Greek](el-CM-District-heating-supply-dispatch)<sup>\*</sup> [Hungarian](hu-CM-District-heating-supply-dispatch)<sup>\*</sup> [Irish](ga-CM-District-heating-supply-dispatch)<sup>\*</sup> [Italian](it-CM-District-heating-supply-dispatch)<sup>\*</sup> [Latvian](lv-CM-District-heating-supply-dispatch)<sup>\*</sup> [Lithuanian](lt-CM-District-heating-supply-dispatch)<sup>\*</sup> [Maltese](mt-CM-District-heating-supply-dispatch)<sup>\*</sup> [Polish](pl-CM-District-heating-supply-dispatch)<sup>\*</sup> [Portuguese (Portugal, Brazil)](pt-CM-District-heating-supply-dispatch)<sup>\*</sup> [Romanian](ro-CM-District-heating-supply-dispatch)<sup>\*</sup> [Slovak](sk-CM-District-heating-supply-dispatch)<sup>\*</sup> [Slovenian](sl-CM-District-heating-supply-dispatch)<sup>\*</sup> [Spanish](es-CM-District-heating-supply-dispatch)<sup>\*</sup> [Swedish](sv-CM-District-heating-supply-dispatch)<sup>\*</sup> 
-
+ [Bulgarian](bg-CM-District-heating-supply-dispatch)<sup>\*</sup> [Croatian](hr-CM-District-heating-supply-dispatch)<sup>\*</sup> [Czech](cs-CM-District-heating-supply-dispatch)<sup>\*</sup> [Danish](da-CM-District-heating-supply-dispatch)<sup>\*</sup> [Dutch](nl-CM-District-heating-supply-dispatch)<sup>\*</sup> [Estonian](et-CM-District-heating-supply-dispatch)<sup>\*</sup> [Finnish](fi-CM-District-heating-supply-dispatch)<sup>\*</sup> [French](fr-CM-District-heating-supply-dispatch)<sup>\*</sup> [German](de-CM-District-heating-supply-dispatch)<sup>\*</sup> [Greek](el-CM-District-heating-supply-dispatch)<sup>\*</sup> [Hungarian](hu-CM-District-heating-supply-dispatch)<sup>\*</sup> [Irish](ga-CM-District-heating-supply-dispatch)<sup>\*</sup> [Italian](it-CM-District-heating-supply-dispatch)<sup>\*</sup> [Latvian](lv-CM-District-heating-supply-dispatch)<sup>\*</sup> [Lithuanian](lt-CM-District-heating-supply-dispatch)<sup>\*</sup> [Maltese](mt-CM-District-heating-supply-dispatch)<sup>\*</sup> [Polish](pl-CM-District-heating-supply-dispatch)<sup>\*</sup> [Portuguese (Portugal, Brazil)](pt-CM-District-heating-supply-dispatch)<sup>\*</sup> [Romanian](ro-CM-District-heating-supply-dispatch)<sup>\*</sup> [Slovak](sk-CM-District-heating-supply-dispatch)<sup>\*</sup> [Slovenian](sl-CM-District-heating-supply-dispatch)<sup>\*</sup> [Spanish](es-CM-District-heating-supply-dispatch)<sup>\*</sup> [Swedish](sv-CM-District-heating-supply-dispatch)<sup>\*</sup>
 <sup>\*</sup>: machine translated

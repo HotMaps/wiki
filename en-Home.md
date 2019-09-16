@@ -73,7 +73,7 @@ Each calculation module can be used to analyse different parts of the heating an
 
 For additional supports on heating and cooling planning, please refer to the Hotmaps handbook:
 * [Summary of the Hotmaps Handbooks for strategic heat planning](en-https://www.hotmaps-project.eu/wp-content/uploads/2019/04/Summary-Hotmaps-Handbook.pdf)
-* [Handbook 1 – Definition & experiences of strategic heat planning](en-https://vbn.aau.dk/da/publications/definition-amp-experiences-of-strategic-heat-planning)
+* [Handbook 1 – Definition &amp; experiences of strategic heat planning](en-https://vbn.aau.dk/da/publications/definition-amp-experiences-of-strategic-heat-planning)
 * [Handbook 2 – Guidance for comprehensive assessment of efficient heating and cooling](en-https://vbn.aau.dk/da/publications/guidance-for-the-comprehensive-assessment-of-efficient-heating-an)
 * [Appendix report to the Handbook for strategic heat planning: Case descriptions](en-https://vbn.aau.dk/da/publications/appendix-report-to-the-hotmaps-handbook-for-strategic-heat-planni)
 
@@ -92,6 +92,5 @@ For additional supports on heating and cooling planning, please refer to the Hot
 
 View in another language:
 
- [Bulgarian](bg-Home)<sup>\*</sup> [Croatian](hr-Home)<sup>\*</sup> [Czech](cs-Home)<sup>\*</sup> [Danish](da-Home)<sup>\*</sup> [Dutch](nl-Home)<sup>\*</sup> [Estonian](et-Home)<sup>\*</sup> [Finnish](fi-Home)<sup>\*</sup> [French](fr-Home)<sup>\*</sup> [German](de-Home)<sup>\*</sup> [Greek](el-Home)<sup>\*</sup> [Hungarian](hu-Home)<sup>\*</sup> [Irish](ga-Home)<sup>\*</sup> [Italian](it-Home)<sup>\*</sup> [Latvian](lv-Home)<sup>\*</sup> [Lithuanian](lt-Home)<sup>\*</sup> [Maltese](mt-Home)<sup>\*</sup> [Polish](pl-Home)<sup>\*</sup> [Portuguese (Portugal, Brazil)](pt-Home)<sup>\*</sup> [Romanian](ro-Home)<sup>\*</sup> [Slovak](sk-Home)<sup>\*</sup> [Slovenian](sl-Home)<sup>\*</sup> [Spanish](es-Home)<sup>\*</sup> [Swedish](sv-Home)<sup>\*</sup> 
-
+ [Bulgarian](bg-Home)<sup>\*</sup> [Croatian](hr-Home)<sup>\*</sup> [Czech](cs-Home)<sup>\*</sup> [Danish](da-Home)<sup>\*</sup> [Dutch](nl-Home)<sup>\*</sup> [Estonian](et-Home)<sup>\*</sup> [Finnish](fi-Home)<sup>\*</sup> [French](fr-Home)<sup>\*</sup> [German](de-Home)<sup>\*</sup> [Greek](el-Home)<sup>\*</sup> [Hungarian](hu-Home)<sup>\*</sup> [Irish](ga-Home)<sup>\*</sup> [Italian](it-Home)<sup>\*</sup> [Latvian](lv-Home)<sup>\*</sup> [Lithuanian](lt-Home)<sup>\*</sup> [Maltese](mt-Home)<sup>\*</sup> [Polish](pl-Home)<sup>\*</sup> [Portuguese (Portugal, Brazil)](pt-Home)<sup>\*</sup> [Romanian](ro-Home)<sup>\*</sup> [Slovak](sk-Home)<sup>\*</sup> [Slovenian](sl-Home)<sup>\*</sup> [Spanish](es-Home)<sup>\*</sup> [Swedish](sv-Home)<sup>\*</sup>
 <sup>\*</sup>: machine translated
