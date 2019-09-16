@@ -16,9 +16,9 @@
 
 ## Introduction
 
-The heat demand plays an important role in determination of potential district heating (en-DH) areas. For example, implementation of district heating in areas with low heat demand is not economically viable. On the other hand, defining any area with high heat demand density as potential DH area can also be inaccurate. A high heat demand density in an area could be due to presence of a few consumers with a very high heat demand within that area. In contrary, a low average heat demand density could be a sign of zones with a very low heat demand within the selected area. The aim of DH potential module is to provide a reasonable balance between heat demand density in an area and its constituting zones.
+The heat demand plays an important role in determination of potential district heating (DH) areas. For example, implementation of district heating in areas with low heat demand is not economically viable. On the other hand, defining any area with high heat demand density as potential DH area can also be inaccurate. A high heat demand density in an area could be due to presence of a few consumers with a very high heat demand within that area. In contrary, a low average heat demand density could be a sign of zones with a very low heat demand within the selected area. The aim of DH potential module is to provide a reasonable balance between heat demand density in an area and its constituting zones.
 
-The DH potential module determines the DH areas and their corresponding DH potential based on heat demand densities. The heat demand densities are obtained from the input GIS layer, namely **[European Heat Density Map (en-EHDM)](https://gitlab.com/hotmaps/heat/heat_tot_curr_density)**, which was developed in course of  **[Hotmaps project](https://www.hotmaps-project.eu)**. The EHDM is in raster format and has a resolution of one hectare and Coordinate Reference System (CRS) of "_*ETRS89 / LAEA Europe - EPSG 3035*_". The cells in EHDM show the heating densities in _**MWh/ha**_.
+The DH potential module determines the DH areas and their corresponding DH potential based on heat demand densities. The heat demand densities are obtained from the input GIS layer, namely **[European Heat Density Map (EHDM)](https://gitlab.com/hotmaps/heat/heat_tot_curr_density)**, which was developed in course of  **[Hotmaps project](https://www.hotmaps-project.eu)**. The EHDM is in raster format and has a resolution of one hectare and Coordinate Reference System (CRS) of "_*ETRS89 / LAEA Europe - EPSG 3035*_". The cells in EHDM show the heating densities in _**MWh/ha**_.
 
 As output, one GIS layer, three indicators and two diagrams are presented. These outputs are explained in detail in [Sample Run](#sample-run) section. The output layer demonstrates the potential DH areas. By clicking on each area on the map, a window is popped up and the DH potential corresponding to that area is shown. Within the indicator/graph window, relevant indicators and charts regarding DH potential within the selected zone and potentials in sub-zones are illustrated.
 
@@ -33,7 +33,7 @@ The input parameters and layers as well as output layers and parameters are as f
 
 **Input layers and parameters are:**
 
-* Heat density map (en-by default is provided by the toolbox)
+* Heat density map (by default is provided by the toolbox)
   * in raster format (\*.tif)
   * with 1 hectare resolution
   * demand densities in _**MWh/ha**_
@@ -95,7 +95,7 @@ The default input values show the general conditions under which an area can be 
 
 To run the calculation module, follow the next steps:
 
-* Assign a name to the run session (en-optional - here, we chose "Test Run 1") and set the input parameters (here, default values were used).
+* Assign a name to the run session (optional - here, we chose "Test Run 1") and set the input parameters (here, default values were used).
 
 ![Fig. 4-0](en-https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/cm_dh_potential/4-0.png "Name the run session")
 
@@ -126,7 +126,7 @@ Following these steps, you will get an impression about the input values and pot
 
 Depending on your experience and  local knowledge, you may increase or decrease the input values to obtain better results. In case of Aalborg, for instance, you may know that the heat demand in outer city areas is relatively close to the central part of the city and DH system is also feasible in those areas. Therefore, you may decide to reduce the minimum heat demand in cells that are part of a DH area; however, to guarantee enough heat demand, you may increase the minimum heat demand in a DH area. Here you re-run the calculation modules with new input parameters.
 
-* Assign a name to the run session (en-optional - here, we chose "Test Run 2") and set the input parameters (_*250 MWh/ha*_ for min. heat demand in hectare and _*35 GWh/year*_ for the minimum demand in DH area).
+* Assign a name to the run session (optional - here, we chose "Test Run 2") and set the input parameters (_*250 MWh/ha*_ for min. heat demand in hectare and _*35 GWh/year*_ for the minimum demand in DH area).
 
 ![Fig. 5-0](en-https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/cm_dh_potential/5-0.png "Name the run session")
 
@@ -158,7 +158,7 @@ Additionally, also two diagrams are generated. The first one shows the DH potent
 
 ## How to cite
 
-Mostafa Fallahnejad, in Hotmaps-Wiki, https://github.com/HotMaps/hotmaps_wiki/wiki/CM-District-heating-potentials (en-April 2019)
+Mostafa Fallahnejad, in Hotmaps-Wiki, https://github.com/HotMaps/hotmaps_wiki/wiki/CM-District-heating-potentials (April 2019)
 
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>

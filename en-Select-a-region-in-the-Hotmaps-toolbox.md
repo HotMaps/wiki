@@ -12,10 +12,10 @@
 
 ## Introduction
 There are two ways to select a region in the Hotmaps toolbox:
-1. selection by the [NUTS classification (en-Nomenclature of territorial units for statistics))](https://ec.europa.eu/eurostat/web/nuts/background)
+1. selection by the [NUTS classification (Nomenclature of territorial units for statistics))](https://ec.europa.eu/eurostat/web/nuts/background)
 2. custom hectar selection
 
-With the [radio buttons](#Fig1) at the right of your screen you can choose the terretorial scale that you want to analyze (en-NUTS regions, [LAU (Local Administrative Units](https://ec.europa.eu/eurostat/web/nuts/local-administrative-units) or hectar level)
+With the [radio buttons](#Fig1) at the right of your screen you can choose the terretorial scale that you want to analyze (NUTS regions, [LAU (Local Administrative Units](https://ec.europa.eu/eurostat/web/nuts/local-administrative-units) or hectar level)
 
 <a name ="Fig1">![radio_buttons_png][radio_buttons]</a>
 
@@ -51,7 +51,7 @@ Beside the three NUTS Levels you have also the possibility to analyse in LAU lev
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
 
 ## Custom Selection:
-If you need a more flexibel way and want to analyze a region that is not covered by the NUTS or LAU boundaries then it is better to specify your own customs regions (en-see below).
+If you need a more flexibel way and want to analyze a region that is not covered by the NUTS or LAU boundaries then it is better to specify your own customs regions (see below).
 
 ![ selecting_hectare_gif][selecting_hectare]
 
@@ -59,7 +59,7 @@ If you need a more flexibel way and want to analyze a region that is not covered
 
 ### How to cite
 
-Jeton Hasani, in Hotmaps-Wiki, https://github.com/HotMaps/hotmaps_wiki/wiki/Select-a-region-in-the-Hotmaps-toolbox (en-April 2019)
+Jeton Hasani, in Hotmaps-Wiki, https://github.com/HotMaps/hotmaps_wiki/wiki/Select-a-region-in-the-Hotmaps-toolbox (April 2019)
 
 
 ### Authors and reviewers
@@ -89,7 +89,7 @@ We would like to convey our deepest appreciation to the Horizon 2020 [Hotmaps Pr
 
 <code>[Review this page](en-https://github.com/HotMaps/hotmaps_wiki/wiki/How-to-select-a-region-in-the-Hotmaps-toolbox/_edit)</code>
 
-[//]: # (en-Here are all the files to the links)
+[//]: # (Here are all the files to the links)
 
 
 [radio_buttons]: https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/general_tool_functionalities_and_structure/radio_buttons.png

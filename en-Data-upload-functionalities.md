@@ -38,7 +38,7 @@ Once this is done, a success message will be displayed and the layer appears in 
 
 Each user has a limited disk space, once the user has not enough free space, it won't be able to add more files, you can visualize your left space with the pie chart on the User diskspace field.
 
-Before being able to display the layer on the map, the server will need some time (en-up to several minutes) after the success message to import the dataset correctly. The dataset is available to be displayed once its size is no longer 0.
+Before being able to display the layer on the map, the server will need some time (up to several minutes) after the success message to import the dataset correctly. The dataset is available to be displayed once its size is no longer 0.
 
 ![upload_complete](en-images/upload_complete.png)
 

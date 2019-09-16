@@ -27,7 +27,7 @@ In case you should use your own figures, please first create a new folder for yo
 Once you finished writing your Wiki page, ask your colleagues to review your page and give feedback to you. In this way, we can minimize the written mistakes and make sure that Wiki pages are written clearly. Add the name of the reviewer in the "Authors and reviewers" section. Follow the same structure as of the provided sample page.
 
 
-**NOTE**: The Wiki pages are usually written in Markdown language (en-some additional formats are also possible). If you are not familiar with Markdown, read [here](https://guides.github.com/features/mastering-markdown/) the short tutorial provided by GitHub.
+**NOTE**: The Wiki pages are usually written in Markdown language (some additional formats are also possible). If you are not familiar with Markdown, read [here](https://guides.github.com/features/mastering-markdown/) the short tutorial provided by GitHub.
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
 

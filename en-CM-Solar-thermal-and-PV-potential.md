@@ -71,7 +71,7 @@ The energy production of each pixel considers to cover only a fraction of the ro
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
 
 ## Test Run 1
-Here, the calculation module is run for the Lombardy region in Italy (en-NUTS2).
+Here, the calculation module is run for the Lombardy region in Italy (NUTS2).
 
 * First, select Nuts2 and the chosen area.
 
@@ -94,7 +94,7 @@ The default input values considers the possibility to install roof-mounted PV pa
 
 To run the calculation module, follow the next steps:
 
-* Assign a name to the run session (en-optional - here, we chose "Test Run 1") and set the input parameters (here, default values were used).
+* Assign a name to the run session (optional - here, we chose "Test Run 1") and set the input parameters (here, default values were used).
 
 ![Fig. 2](en-https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/cm_solar_PV/default_values_02.png "Test run 1 with default values")
 
@@ -123,7 +123,7 @@ If you deselected the default layers and select TEST RUN 1 you can visualize the
 
 Depending on your experience and  local knowledge, you may increase or decrease the input values to obtain better results. You may decide to increase the building surface suitable for PV plants.
 
-* Assign a name to the run session (en-optional - here, we chose "Test Run 2") and set the input parameters Percentage of buildings with solar panels equal to 50. It means that we are covering the 50% of the available building roofs. Notice that since each pixel can represent more than one building and we are not covering the whole roof with PV panels, the user can set also the Effective building roof utilization factor. The default values is set to 0.15. This means that only the 15% of the roof surface in a pixel is covered by PV panels.
+* Assign a name to the run session (optional - here, we chose "Test Run 2") and set the input parameters Percentage of buildings with solar panels equal to 50. It means that we are covering the 50% of the available building roofs. Notice that since each pixel can represent more than one building and we are not covering the whole roof with PV panels, the user can set also the Effective building roof utilization factor. The default values is set to 0.15. This means that only the 15% of the roof surface in a pixel is covered by PV panels.
 
 * Wait until the process is finished.
 * As output, indicators and diagrams are shown in the "RESULTS" window. The indicators show:
@@ -142,7 +142,7 @@ Depending on your experience and  local knowledge, you may increase or decrease 
 
 
 ## How to cite
-Giulia Garegnani, in Hotmaps-Wiki, https://github.com/HotMaps/hotmaps_wiki/wiki/CM-Solar-PV-potential (en-April 2019)
+Giulia Garegnani, in Hotmaps-Wiki, https://github.com/HotMaps/hotmaps_wiki/wiki/CM-Solar-PV-potential (April 2019)
 
 
 ## Authors and reviewers

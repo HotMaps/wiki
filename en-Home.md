@@ -7,7 +7,7 @@ What we offer is an open source online software that supports planning processes
 * customisations of the software for your specific needs, 
 * training and support services.
 
-Thanks to this software, you will be able to take practical decisions in your area of interest (en-village, town, city, etc.). We applied and demonstrated the values of the Hotmaps website in seven pilot areas. The website was developed by leading research institutions across Europe together with cities. Go on the website by clicking [HERE](https://www.hotmaps.hevs.ch/map) and discover your city’s climate neutral energy future. 
+Thanks to this software, you will be able to take practical decisions in your area of interest (village, town, city, etc.). We applied and demonstrated the values of the Hotmaps website in seven pilot areas. The website was developed by leading research institutions across Europe together with cities. Go on the website by clicking [HERE](https://www.hotmaps.hevs.ch/map) and discover your city’s climate neutral energy future. 
 
 
 ## How to use the Hotmaps toolbox for heating and cooling planning 
@@ -48,7 +48,7 @@ We hope you enjoy exploring the toolbox and find it helpful for your heating and
 * [Data upload functionalities](en-Data-upload-functionalities)
 * [Data export functionalities](en-Data-export-functionalities)
 
-## Calculation modules (en-CM)
+## Calculation modules (CM)
 * [CM - Customized heat and floor area density maps](en-CM-Customized-heat-and-floor-area-density-maps)
 * [CM - Scale heat and cool density maps](en-CM-Scale-heat-and-cool-density-maps)
 * [CM - Demand projection](en-CM-Demand-projection)
@@ -88,7 +88,7 @@ For additional supports on heating and cooling planning, please refer to the Hot
 ![](en-https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/Hotmaps_test.JPG)
 
 ## References
-[1] EU H2020 Project: Mapping and analyses of the current and future (2020 - 2030) heat-ing/cooling fuel deployment (en-fossil/renewables). WP1 Report. 2016. accessed via https://ec.europa.eu/energy/sites/ener/files/documents/Report%20WP1.pdf
+[1] EU H2020 Project: Mapping and analyses of the current and future (2020 - 2030) heat-ing/cooling fuel deployment (fossil/renewables). WP1 Report. 2016. accessed via https://ec.europa.eu/energy/sites/ener/files/documents/Report%20WP1.pdf
 
 View in another language:
 

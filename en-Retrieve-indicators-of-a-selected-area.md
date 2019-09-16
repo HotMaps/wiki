@@ -32,7 +32,7 @@ That mean on the one hand for example that if you select a vector layer which is
 
 On the other hand, raster layers are aggregated and disaggregated "arbitrarily"* 
 
-*by the containing cells within the region you selected (en-naturally within the limit of the raster resolution itself)
+*by the containing cells within the region you selected (naturally within the limit of the raster resolution itself)
 
 ### Buildings
 
@@ -42,7 +42,7 @@ On the other hand, raster layers are aggregated and disaggregated "arbitrarily"*
 
 **Extra Feature**
 
-When you select the heat denisity layer and the Population Layer at the same time an extra indicator is shown (en-see picture below)
+When you select the heat denisity layer and the Population Layer at the same time an extra indicator is shown (see picture below)
 
 ![hdm2.png][hdm2]
 
@@ -200,11 +200,11 @@ When one of the bulding layers and the population layer is selected at the same 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
 
 ## Example 
-In the picture below you can see how it looks when all layers are visualized (en-here is Austria as NUTS0 selected)
+In the picture below you can see how it looks when all layers are visualized (here is Austria as NUTS0 selected)
 
 ![all_map.png][all_map]
 
-Although this maps looks pretty messy, the indicators are straight forward illustrated. See below all indicators that are described in the result sidebar when you select all layers for Austria (en-NUTS0)
+Although this maps looks pretty messy, the indicators are straight forward illustrated. See below all indicators that are described in the result sidebar when you select all layers for Austria (NUTS0)
 
 ![all_results.png][all_results]
 
@@ -212,7 +212,7 @@ Although this maps looks pretty messy, the indicators are straight forward illus
 
 ## How to cite
 
-Jeton Hasani, in Hotmaps-Wiki, https://github.com/HotMaps/hotmaps_wiki/wiki/Retrieve-indicators-of-a-selected-area (en-April 2019)
+Jeton Hasani, in Hotmaps-Wiki, https://github.com/HotMaps/hotmaps_wiki/wiki/Retrieve-indicators-of-a-selected-area (April 2019)
 
 
 ## Authors and reviewers
@@ -242,7 +242,7 @@ We would like to convey our deepest appreciation to the Horizon 2020 [Hotmaps Pr
 
 <code>[Review this page](en-https://github.com/HotMaps/hotmaps_wiki/wiki/Indicator-Section/_edit)</code>
 
-[//]: # (en-Here are all the files to the links)
+[//]: # (Here are all the files to the links)
 
 [results]: https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/general_tool_functionalities_and_structure/results.png
 

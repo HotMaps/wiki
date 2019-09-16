@@ -14,8 +14,8 @@ The use of excess heat for district heating.
 
 ### Input layers and parameters
 #### Provided by Toolbox
-* District heating areas (en-for now directly provided by the district heating potential CM)
-* Industrial database (en-by default provided by the toolbox)
+* District heating areas (for now directly provided by the district heating potential CM)
+* Industrial database (by default provided by the toolbox)
 #### Provided by user
 * Min. heat demand in hectare. See [DH Potential CM](en-https://github.com/HotMaps/hotmaps_wiki/wiki/CM-District-heating-potential-areas-user-defined-thresholds)
 * Min. heat demand in a DH area. See [DH Potential CM](en-https://github.com/HotMaps/hotmaps_wiki/wiki/CM-District-heating-potential-areas-user-defined-thresholds)
@@ -26,7 +26,7 @@ The use of excess heat for district heating.
 * Operational costs in %
 * Threshold value for transmission lines in ct/kWh
 #### Performance Parameters
-* Time resolution (en-hour, day, week, month, year)
+* Time resolution (hour, day, week, month, year)
 * Spatial resolution in km
 
 ### Output layers and indicators

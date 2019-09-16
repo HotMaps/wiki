@@ -15,7 +15,7 @@
 
 ## Introduction
 
-The decentral heating cost calclulation module (en-CM) calculates the levelized cost of heat (LCOH) for the various technologies in residential or service sector. **This module can be run for NUTS 3 region.** The technologies are as follows:
+The decentral heating cost calclulation module (CM) calculates the levelized cost of heat (LCOH) for the various technologies in residential or service sector. **This module can be run for NUTS 3 region.** The technologies are as follows:
 
 * Heat pump air-to-air, air-to-water and Brine-to-water,
 * Electric heater,
@@ -64,19 +64,19 @@ By multiplying the specific heating demand and the gross floor area of the build
 # final energy demand [kWh]
 final_energy_demand = energy_demand / efficiency_heating_system
 
-# OPEX: Operational Expenditure (en-EUR)
+# OPEX: Operational Expenditure (EUR)
 OPEX = fix_operation_and_maintenance * heat_load + variable_operation_and_maintenance * final_energy_demand
 
-# CAPEX: Capital Expenditure (en-EUR)
+# CAPEX: Capital Expenditure (EUR)
 CAPEX = heat_load * specific_investment_cost_of_heating_system * annuity_factor
 
-# energy costs (en-EUR)
+# energy costs (EUR)
 energy_costs = final_energy_demand * energy_price
 
-# total costs heat supply (en-EUR)
+# total costs heat supply (EUR)
 total_costs = OPEX + CAPEX + energy_costs
 
-# levelized cost of heat (en-LCOH) [EUR/kWh]
+# levelized cost of heat (LCOH) [EUR/kWh]
 LCOH = total_costs / energy_demand
 
 ```
@@ -116,9 +116,9 @@ Follow the steps as shown in the figure below:
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
 
 ### Test Run 1: single family house, existing building
-Here, you can enter your desired values for running the calculation module. We set the input values as it is described in (en-Sample run)[#Sample-run] section. To run the calculation module, follow the next steps:
+Here, you can enter your desired values for running the calculation module. We set the input values as it is described in (Sample run)[#Sample-run] section. To run the calculation module, follow the next steps:
 
-* Assign a name to the run session (en-optional - here, we chose "Test Run 1") and set the input parameters (here, default values were used).
+* Assign a name to the run session (optional - here, we chose "Test Run 1") and set the input parameters (here, default values were used).
 
 
 ![Fig. 5](en-https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/cm_decentral_heating/5.png "Name the run session")
@@ -137,9 +137,9 @@ Here, you can enter your desired values for running the calculation module. We s
 
 ### Test Run 2: multi-family house, new building
 
-Here, you can enter your desired values for running the calculation module. We set the input values as it is described in (en-Sample run)[#Sample-run] section. To run the calculation module, follow the next steps:
+Here, you can enter your desired values for running the calculation module. We set the input values as it is described in (Sample run)[#Sample-run] section. To run the calculation module, follow the next steps:
 
-* Assign a name to the run session (en-optional - here, we chose "Test Run 1") and set the input parameters (here, default values were used).
+* Assign a name to the run session (optional - here, we chose "Test Run 1") and set the input parameters (here, default values were used).
 
 
 ![Fig. 8](en-https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/cm_decentral_heating/8.png "Name the run session")
@@ -161,7 +161,7 @@ Here, you can enter your desired values for running the calculation module. We s
 
 
 ## How to cite
-Mostafa Fallahnejad, in Hotmaps-Wiki, https://github.com/HotMaps/hotmaps_wiki/wiki/CM-Decentral-heating-costs (en-April 2019)
+Mostafa Fallahnejad, in Hotmaps-Wiki, https://github.com/HotMaps/hotmaps_wiki/wiki/CM-Decentral-heating-costs (April 2019)
 
 
 ## Authors and reviewers

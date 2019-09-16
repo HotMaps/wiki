@@ -41,7 +41,7 @@ The advanced input are:
 * Borehole length [m]
 * Pipe radius [m]
 * Number of pipes in the borehole
-* Thermal conductivity of the borehole filling (en-geothermal grout) [W m-1 K-1]
+* Thermal conductivity of the borehole filling (geothermal grout) [W m-1 K-1]
 * Minimum or maximum fluid temperature [°C]
 * Simulated lifetime of the plant [years]
 

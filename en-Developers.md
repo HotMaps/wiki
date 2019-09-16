@@ -33,7 +33,7 @@ Integration of new public datasets is handled as follow:
 
 ![data integration](en-images/data-integration-workflow.png)
 
-If a dataset fails during integration, an issue is created on Taiga (en-project management platform). The issue shows the error raised and the developer should fix it and push again his work to Git so that the script can try to integrate it again the next evening.
+If a dataset fails during integration, an issue is created on Taiga (project management platform). The issue shows the error raised and the developer should fix it and push again his work to Git so that the script can try to integrate it again the next evening.
 
 The source code of the integration script is available at this link: [Data integration](en-https://github.com/HotMaps/CI_DatasetIntegration)
 
@@ -115,7 +115,7 @@ There is only one container that is run separately from others: it's the databas
 
 #### Infrastructure
 
-For the moment, the server is hosted at the HES-SO in Switzerland. There are 2 machines available: one for development (en-development and testing) and one for production (the actual toolbox, available at [www.hotmaps.eu](https://www.hotmaps.eu)).
+For the moment, the server is hosted at the HES-SO in Switzerland. There are 2 machines available: one for development (development and testing) and one for production (the actual toolbox, available at [www.hotmaps.eu](https://www.hotmaps.eu)).
 
 Both machines have the same specification:
 
@@ -143,7 +143,7 @@ As an example, below are the results of the first beta release versus the future
 | 200                   | na           | na     | na       | na       | na                   |
 | 300                   | na           | na     | na       | na       | na                   |
 
-**Future release on the DEV (en-march 2019)**
+**Future release on the DEV (march 2019)**
 
 | Nb of simulated users | Average time | Median | Max time | Min time | Percentage of errors |
 | --------------------- | ------------ | ------ | -------- | -------- | -------------------- |

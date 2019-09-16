@@ -9,7 +9,7 @@
 
 
 ## Data collection
-Hotmaps provides a large array of open data sets. The data has been provided as default for the entire EU28 with the aim to support local, regional and national heating and cooling (en-H&C) planning. Hotmaps data sets provide data various categories including:
+Hotmaps provides a large array of open data sets. The data has been provided as default for the entire EU28 with the aim to support local, regional and national heating and cooling (H&C) planning. Hotmaps data sets provide data various categories including:
 
 * Building stock analysis;
 * Space heating, cooling and domestic hot water demand;
@@ -21,19 +21,19 @@ Hotmaps provides a large array of open data sets. The data has been provided as 
 * Electricity system module and
 * Transport.
 
-All the approaches for data collection and analysis in the different sectors (en-i.e. residential, service, industrial and transportation sectors) are described in [this report](https://www.hotmaps-project.eu/wp-content/uploads/2018/03/D2.3-Hotmaps_for-upload_revised-final_.pdf) [1].
+All the approaches for data collection and analysis in the different sectors (i.e. residential, service, industrial and transportation sectors) are described in [this report](https://www.hotmaps-project.eu/wp-content/uploads/2018/03/D2.3-Hotmaps_for-upload_revised-final_.pdf) [1].
 
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
 
 ## References
-[1] Simon Pezzutto, Stefano Zambotti, Silvia Croce, Pietro Zambelli, Giulia Garegnani, Chiara Scaramuzzino, Ramón Pascual Pascuas, Alyona Zubaryeva, Franziska Haas, Dagmar Exner (en-EURAC), Andreas Müller (e‐think), Michael Hartner (TUW), Tobias Fleiter, Anna‐Lena Klingler, Matthias Kühnbach, Pia Manz, Simon Marwitz, Matthias Rehfeldt, Jan Steinbach, Eftim Popovski (Fraunhofer ISI) Reviewed by Lukas Kranzl, Sara Fritz (TUW); [Online Access](https://www.hotmaps-project.eu/wp-content/uploads/2018/03/D2.3-Hotmaps_for-upload_revised-final_.pdf)
+[1] Simon Pezzutto, Stefano Zambotti, Silvia Croce, Pietro Zambelli, Giulia Garegnani, Chiara Scaramuzzino, Ramón Pascual Pascuas, Alyona Zubaryeva, Franziska Haas, Dagmar Exner (EURAC), Andreas Müller (e‐think), Michael Hartner (TUW), Tobias Fleiter, Anna‐Lena Klingler, Matthias Kühnbach, Pia Manz, Simon Marwitz, Matthias Rehfeldt, Jan Steinbach, Eftim Popovski (Fraunhofer ISI) Reviewed by Lukas Kranzl, Sara Fritz (TUW); [Online Access](https://www.hotmaps-project.eu/wp-content/uploads/2018/03/D2.3-Hotmaps_for-upload_revised-final_.pdf)
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
 
 ## How to cite
 
-Mostafa Fallahnejad, in Hotmaps-Wiki, https://github.com/HotMaps/hotmaps_wiki/wiki/Hotmaps-open-data-set-data-collection (en-May 2019)
+Mostafa Fallahnejad, in Hotmaps-Wiki, https://github.com/HotMaps/hotmaps_wiki/wiki/Hotmaps-open-data-set-data-collection (May 2019)
 
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>

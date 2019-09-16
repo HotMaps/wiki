@@ -45,19 +45,19 @@ This documentation explain how to manage indicators on the Hotmaps toolbox. An i
 
 - 'tablename'
 
-Name of the DB table. (en-Exemple: 'heat_tot_curr_density_tif')
+Name of the DB table. (Exemple: 'heat_tot_curr_density_tif')
 
 - 'from_indicator_name'
 
-Subtablename for the selection of indicators. **Must be unique.** (en-Exemple: 'stat_heat_tot_curr_density_tif')
+Subtablename for the selection of indicators. **Must be unique.** (Exemple: 'stat_heat_tot_curr_density_tif')
 
 - 'data_aggregated'
 
-Is the data aggregated or not (en-Values: True or False)
+Is the data aggregated or not (Values: True or False)
 
 - 'scalelvl_column'
 
-Scale level column name if different to default one (en-Exemple: 'code')
+Scale level column name if different to default one (Exemple: 'code')
 
 - 'data_lvl'
 
@@ -65,29 +65,29 @@ Levels available for the data in the database
 
 - 'schema_scalelvl'
 
-Table schema location for the nuts level. (en-Exemple: 'geo', 'stat', 'public')
+Table schema location for the nuts level. (Exemple: 'geo', 'stat', 'public')
 
 - 'schema_hectare'
 
-Table schema location for the hectare level. (en-Exemple: 'geo', 'stat', 'public')
+Table schema location for the hectare level. (Exemple: 'geo', 'stat', 'public')
 
 - 'crs'
 
-Projection of the geometry (en-Exemple: '3035', '4326', '4258')
+Projection of the geometry (Exemple: '3035', '4326', '4258')
 
 - 'geo_column'
 
-Name of the geometry column in the database (en-Exemple: 'geom', 'geometry')
+Name of the geometry column in the database (Exemple: 'geom', 'geometry')
 
 - 'table_type'
 
-Type of the layer in the database (en-Values: 'vector' or 'raster'). 
+Type of the layer in the database (Values: 'vector' or 'raster'). 
 
 ***Important :*** If it is a raster, the column available are **count, sum, mean, stddev, min and max**
 
 - 'Indicators'
 
-There are 2 types of indicators (en-Simple indicators & Cross indicators).
+There are 2 types of indicators (Simple indicators & Cross indicators).
 
 
 ### Simple indicator
@@ -104,17 +104,17 @@ A simple indicator is an object with 3 parameters.
 
 - 'table_column'
 
-This is the table column that is selected in the table. (en-Exemple: 'count')
+This is the table column that is selected in the table. (Exemple: 'count')
 
 ![tablecolumnselection](/api/assets/table_image.png)
 
 - 'unit'
 
-This is the unit of the indicator. (en-Exemple: 'cells', 'MWh')
+This is the unit of the indicator. (Exemple: 'cells', 'MWh')
 
 - 'indicator_id'
 
-This is the indicator identifier of the indicator (en-Like an ID). This name **must be unique** in the array of indicator.
+This is the indicator identifier of the indicator (Like an ID). This name **must be unique** in the array of indicator.
 
 
 
@@ -139,11 +139,11 @@ Corresponds to the identifier of a simple indicator. This name **must be defined
 
 - 'reference_tablename_indicator_id_1'
 
-Reference of the layer tablename that reference the value number 1. (en-Exemple: 'heat_tot_curr_density_tif')
+Reference of the layer tablename that reference the value number 1. (Exemple: 'heat_tot_curr_density_tif')
 
 - 'operator'
 
-Calcul rule to apply to the 2 values (en-Values: '/' or '*' or '+' or '-')
+Calcul rule to apply to the 2 values (Values: '/' or '*' or '+' or '-')
 
 - 'reference_indicator_id_1'
 
@@ -151,15 +151,15 @@ Corresponds to the identifier of a simple indicator. This name **must be defined
 
 - 'reference_tablename_indicator_id_2'
 
-Reference of the layer tablename that reference the value number 2. (en-Exemple: 'pop_tot_curr_density_tif')
+Reference of the layer tablename that reference the value number 2. (Exemple: 'pop_tot_curr_density_tif')
 
 - 'unit'
 
-This is the unit of the indicator. (en-Exemple: 'cells', 'MWh')
+This is the unit of the indicator. (Exemple: 'cells', 'MWh')
 
 - 'name'
 
-This is the name of the indicator (en-Like an ID). This name **must be unique** in the array of indicator.
+This is the name of the indicator (Like an ID). This name **must be unique** in the array of indicator.
 
 
 ##### Note: For this exemple, the calculation bellow is done.
@@ -197,7 +197,7 @@ The result of the indicators are as follows:
 
 ## How to cite
 
-Mostafa Fallahnejad, in Hotmaps-Wiki, https://github.com/HotMaps/hotmaps_wiki/wiki/Guidelines-for-defining-indicators (en-April 2019)
+Mostafa Fallahnejad, in Hotmaps-Wiki, https://github.com/HotMaps/hotmaps_wiki/wiki/Guidelines-for-defining-indicators (April 2019)
 
 
 ## Authors and reviewers

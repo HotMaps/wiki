@@ -16,8 +16,8 @@ By pressing the ![layers_button][layers_button] Button a sidebar with different 
 
 ![layers_tools.png][layers_tools]
 
-1. Shows the symbology section of the layer (en-legend)
-2. Shows the information section (en-primary a link to the GitLab repository, it is highly recommended to look for more information about the data in the [GitLab Repository](https://gitlab.com/hotmaps) )
+1. Shows the symbology section of the layer (legend)
+2. Shows the information section (primary a link to the GitLab repository, it is highly recommended to look for more information about the data in the [GitLab Repository](https://gitlab.com/hotmaps) )
 3. Download the layer for the selected region(en-s)
 4. Redircets you to the GitLab repository to download the whole layer
 
@@ -28,7 +28,7 @@ There are [two categories of layers](en-https://www.gislounge.com/geodatabases-e
 1. Vector Layers
 2. Raster Layers
 
-Following layers can be found and visualized (en-you can see also the legend and also the information section of each layer):
+Following layers can be found and visualized (you can see also the legend and also the information section of each layer):
 
 ![sidebar_layer.png][sidebar]
 
@@ -39,10 +39,10 @@ Following layers can be found and visualized (en-you can see also the legend and
 Following raster layers are visualized:
 
 1. **17 x Buildings layers:**
-   * Heat Density Map (en-total / residential / non residential)
-   * Cooling Density Map (en-total / residential / non residential)
-   * Gross Floor Area (en-total / residential / non residential)
-   * Buildings Volumes (en-total / residential / non residential)
+   * Heat Density Map (total / residential / non residential)
+   * Cooling Density Map (total / residential / non residential)
+   * Gross Floor Area (total / residential / non residential)
+   * Buildings Volumes (total / residential / non residential)
 
 1. **1 x Population layer**
    * Population Total
@@ -89,7 +89,7 @@ Following vector layers are visualized:
 
 ## How to cite
 
-Jeton Hasani, in Hotmaps-Wiki, https://github.com/HotMaps/hotmaps_wiki/wiki/Layers-section-in-the-Hotmaps-toolbox (en-April 2019)
+Jeton Hasani, in Hotmaps-Wiki, https://github.com/HotMaps/hotmaps_wiki/wiki/Layers-section-in-the-Hotmaps-toolbox (April 2019)
 
 
 ## Authors and reviewers
@@ -119,7 +119,7 @@ We would like to convey our deepest appreciation to the Horizon 2020 [Hotmaps Pr
 
 <code>[Review this page](en-https://github.com/HotMaps/hotmaps_wiki/wiki/Layer-Section/_edit)</code>
 
-[//]: # (en-Here are all the files to the links)
+[//]: # (Here are all the files to the links)
 
 
 [layers]: https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/general_tool_functionalities_and_structure/layers.gif

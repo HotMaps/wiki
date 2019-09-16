@@ -33,7 +33,7 @@ The picture below shows the structre of a calculation module
 
 ## How to cite
 
-Jeton Hasani, in Hotmaps-Wiki, https://github.com/HotMaps/hotmaps_wiki/wiki/Access-to-calculation-modules (en-April 2019)
+Jeton Hasani, in Hotmaps-Wiki, https://github.com/HotMaps/hotmaps_wiki/wiki/Access-to-calculation-modules (April 2019)
 
 
 ## Authors and reviewers

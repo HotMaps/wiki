@@ -10,7 +10,7 @@
 ## Introduction
 This module provides the possibility to add additional industry sites with their heating and cooling demand and excess heat potential to the HotMaps toolbox. It is possible to add additional energy-intensive as well as less-energy intensive industries. The user enters the necessary data in a stand-alone Excel-tool, which then generates a datasheet to be uploaded on the HotMaps toolbox.   
 
-## Inputs and outputs (en-How-to-use)
+## Inputs and outputs (How-to-use)
 
 ### Data input in Excel-tool by user
 
@@ -40,12 +40,12 @@ Please choose this option, if data on heat/ cooling demand and excess heat poten
 Please go to tabsheet: <figure><img src="https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/cm_add_industry_plant/Option2.PNG" alt=""/></figure>
 
 Please choose this option, if no information about heat/ cooling demand and excess heat potential is available for the selected company. On the basis of a plant specific database typical heat/cooling demand and excess heat potentials with temperature distribution can be selected for a number of plants and products/processes. 
-As necessary input for the conversion of the product specific data a value as calculation basis needs to be entered (en-f. ex. production, area etc.). For more information concerning the calculation method see [Method].
+As necessary input for the conversion of the product specific data a value as calculation basis needs to be entered (f. ex. production, area etc.). For more information concerning the calculation method see [Method].
 
 ##### Option 3: Sector selection
 Please go to tabsheet: <figure><img src="https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/cm_add_industry_plant/Option3.PNG" alt=""/></figure>
 
-Please choose this option, if your plant type is not available in option 2. On the basis of sector specific heat data typical heat/ cooling demand and excess heat potentials are calculated. As necessary input the fuel demand for heat supply (en-in GWh/ year) needs to be entered. For more information concerning the calculation method see [Method].
+Please choose this option, if your plant type is not available in option 2. On the basis of sector specific heat data typical heat/ cooling demand and excess heat potentials are calculated. As necessary input the fuel demand for heat supply (in GWh/ year) needs to be entered. For more information concerning the calculation method see [Method].
 
 ### Data upload on HotMaps toolbox
 Please go to tabsheet: <figure><img src="https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/cm_add_industry_plant/Data_Import.PNG" alt=""/></figure>
@@ -56,22 +56,22 @@ Please note: At the moment the upload of CSV-files is not yet implemented on the
 
 If the heat/ cooling demand and excess heat potential of a plant is not known, two indicator based methods are offered to the user for the calculation of heat demand and excess heat potential. 
 
-It has to be mentioned that these values are only indicative approximate values for typical plants (en-option 2) or on a sectorial level (option 3) and don't replace a detailed analysis and measurement of heat demand and excess heat of a plant.
+It has to be mentioned that these values are only indicative approximate values for typical plants (option 2) or on a sectorial level (option 3) and don't replace a detailed analysis and measurement of heat demand and excess heat of a plant.
 
 
 ### Option 2: Plant selection
-The plant specific heat data is taken from the Forecast database. (en-Bottom up or Top-down approach?) For a large number of different energy-intensive and less energy-intensive plant types process heat/cooling demand and excess heat potential are derived from the specific final energy demand of fuels and electricity. 
-It is important to note that due to the underlying database only process heat and process cooling is covered with this method; space heating and hot water is not included here. Depending on the plant type different inputs as basis for the calculation are provided (en-f. ex. production volume in tonnes or area in m2).
+The plant specific heat data is taken from the Forecast database. (Bottom up or Top-down approach?) For a large number of different energy-intensive and less energy-intensive plant types process heat/cooling demand and excess heat potential are derived from the specific final energy demand of fuels and electricity. 
+It is important to note that due to the underlying database only process heat and process cooling is covered with this method; space heating and hot water is not included here. Depending on the plant type different inputs as basis for the calculation are provided (f. ex. production volume in tonnes or area in m2).
 
-For the calculation of heat and cooling demand it is necessary to assume conversion efficiencies from final energy to heat and cooling. Since most of the heat applications are steam-based an efficiency of 90% is assumed (en-Was ist mit Electricity?). For cooling applications an energy efficiency ratio (EER) of xxx is assumed (von Tobi noch auszufüllen).
+For the calculation of heat and cooling demand it is necessary to assume conversion efficiencies from final energy to heat and cooling. Since most of the heat applications are steam-based an efficiency of 90% is assumed (Was ist mit Electricity?). For cooling applications an energy efficiency ratio (EER) of xxx is assumed (von Tobi noch auszufüllen).
 
 The whole database used for option 2 is available here: Repository_Link
 
 ### Option 3: Sector selection
-Option 3 provides a broad based assessment of heat demand and excess heat for the sectors of the manufacturing industry (en-according to NACE 2008). 
+Option 3 provides a broad based assessment of heat demand and excess heat for the sectors of the manufacturing industry (according to NACE 2008). 
 
 #### Calculation of excess heat potentials on sectorial level
-For the calculation of the excess heat potential of the different sectors excess heat factors according to Brückner 2016 are used (en-see figure xxx). The excess heat factor is defined as waste heat generated per fuel consumption.
+For the calculation of the excess heat potential of the different sectors excess heat factors according to Brückner 2016 are used (see figure xxx). The excess heat factor is defined as waste heat generated per fuel consumption.
 In Brückner 2016 the available data to determine the excess heat potential in the manufacturing industry originates from the emissions survey carried out every four years on state level in germany. 
 According to the Emission Declaration Ordinance (1. BImSchG) all operators of plants, which are subject to approval, have to submit a declaration of their emissions every four years. 
 For the year 2008 data on company level consisting of exhaust gas volume flows and their temperature level are evaluated. Together with available information on the type and quantitiy of fuel consumption of the plants, the excess heat factor of a plant is calculated as

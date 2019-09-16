@@ -56,7 +56,7 @@ Here you can:
 
 ## Login
 
-After [registering](#register) and activating your account you should be able to login with your email and password (en-see [Fig.4](#Fig4) below).
+After [registering](#register) and activating your account you should be able to login with your email and password (see [Fig.4](#Fig4) below).
 
 ![login_gif][login_gif]
 
@@ -80,7 +80,7 @@ _Fig.5.: RegisterForm_
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
 
 ## Recover
-If you ever forget your password you can recover it under this menu (en-see [Fig.6.](#Fig6) below). Please be aware to set a new password afterwards. 
+If you ever forget your password you can recover it under this menu (see [Fig.6.](#Fig6) below). Please be aware to set a new password afterwards. 
 
 ![recover_gif][recover_gif]
 
@@ -91,7 +91,7 @@ _Fig.6.: Recover Form_
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
 
 ## Go To Place
-You can zoom to a specify region by typing its name (en-see animation below)
+You can zoom to a specify region by typing its name (see animation below)
  
 ![go_to_place_gif][go_to_place]
 
@@ -167,7 +167,7 @@ and set a priority:
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
 
 ## Tiles
-You can choose the terretorial scale that you want to analyze (en-NUTS regions or hectar level) and set te tile of the map
+You can choose the terretorial scale that you want to analyze (NUTS regions or hectar level) and set te tile of the map
 
 ![maping_gif][mapping_gif]
 
@@ -183,7 +183,7 @@ There are following configurations possible
 
 ## How to cite
 
-Jeton Hasani, in Hotmaps-Wiki, https://github.com/HotMaps/hotmaps_wiki/wiki/Introduction-to-user-interface (en-April 2019)
+Jeton Hasani, in Hotmaps-Wiki, https://github.com/HotMaps/hotmaps_wiki/wiki/Introduction-to-user-interface (April 2019)
 
 
 ## Authors and reviewers
@@ -213,7 +213,7 @@ We would like to convey our deepest appreciation to the Horizon 2020 [Hotmaps Pr
 
 <code>[Review this page](en-https://github.com/HotMaps/hotmaps_wiki/wiki/Hotmaps-Graphical-User-Interface/_edit)</code>
 
-[//]: # (en-Here are all the files to the links)
+[//]: # (Here are all the files to the links)
 
 
 [Fig1]: https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/general_tool_functionalities_and_structure/disclaimer.png

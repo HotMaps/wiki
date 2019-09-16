@@ -86,8 +86,8 @@ The indicators for this part originate from two calculation modules:
 
 For each scenario tag, the following three indicators are shown in form of **stacked bar chart**:
 
-* Overall (en-aggregated) costs of heat supply by **district heating system** and **decentral heating system** in _*EUR*_
-* Overall (en-aggregated) CO<sub>2</sub> emissions by **district heating system** and **decentral heating system** in _*tons/year*_
+* Overall (aggregated) costs of heat supply by **district heating system** and **decentral heating system** in _*EUR*_
+* Overall (aggregated) CO<sub>2</sub> emissions by **district heating system** and **decentral heating system** in _*tons/year*_
 * Overall energy carrier mix in _*MWh*_
 
 
@@ -121,7 +121,7 @@ For each scenario tag, the following three indicators are shown in form of **sta
 
 ## How to cite
 
-Mostafa Fallahnejad, in Hotmaps-Wiki, https://github.com/HotMaps/hotmaps_wiki/wiki/CM-Scenario-assessment (en-June 2019)
+Mostafa Fallahnejad, in Hotmaps-Wiki, https://github.com/HotMaps/hotmaps_wiki/wiki/CM-Scenario-assessment (June 2019)
 
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>

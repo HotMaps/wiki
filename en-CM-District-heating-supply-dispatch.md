@@ -17,17 +17,17 @@ The district heating supply module is a dispatch model which tries to find a cos
 
 ![concept.png][concept]
 
-> The method described here is to be understood as a first concept and can deviate from the actual implementation (en-model complexity, inputs and outputs, etc. must be seen from this point of view).
+> The method described here is to be understood as a first concept and can deviate from the actual implementation (model complexity, inputs and outputs, etc. must be seen from this point of view).
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
 
 ## Inputs and outputs
 
 ### Main inputs
-1. Heat demand of the grid (en-selected region)
+1. Heat demand of the grid (selected region)
 1. Installed capacities of heat generators/storage
 1. Technical(en-efficiencies) and fincancal paramters(opex,capex,lifetime) of heat generators/storages
-1. Profiles (en-time series of the heat demand,solar radiation, temperature, electricity prices, etc..)
+1. Profiles (time series of the heat demand,solar radiation, temperature, electricity prices, etc..)
 1. ...
 
 ### Main outputs
@@ -50,7 +50,7 @@ The objective function tries to find the minimum of the difference from the cost
 
 #### The total costs <code>c<sub>total</sub></code> yield from the sum of:
  
-##### investment costs <code>IC</code> (en-installed capacities multiplied by the annuities of the specific investment costs) 
+##### investment costs <code>IC</code> (installed capacities multiplied by the annuities of the specific investment costs) 
 
 ![ic.png][ic] 
 
@@ -62,18 +62,18 @@ The objective function tries to find the minimum of the difference from the cost
 
 ![opex.png][opex]
     
-##### ramp costs of CHP and waste incineration plants (en-rough Estimation) :
+##### ramp costs of CHP and waste incineration plants (rough Estimation) :
 
 ![ramp.png][ramp]
 
-##### assumed costs for the peak electrical load in the winter time (en-rough Estimation):
+##### assumed costs for the peak electrical load in the winter time (rough Estimation):
 
 ![peak.png][peak]
 
 
 #### The total revenues <code>rev<sub>total</sub></code> yield from::
 
-##### the sale of electricity (en-for example from CHP plants and waste incineration plants).:
+##### the sale of electricity (for example from CHP plants and waste incineration plants).:
 
 ![rev.png][rev]
 
@@ -136,7 +136,7 @@ We would like to convey our deepest appreciation to the Horizon 2020 [Hotmaps Pr
 <code>[Review this page](en-https://github.com/HotMaps/hotmaps_wiki/wiki/CM_DH_supply/_edit)</code>
 
 
-[//]: # (en-Here are all the files to the links)
+[//]: # (Here are all the files to the links)
 [concept]: https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/dh_supply/concept.png
 [lp_fragment]: https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/dh_supply/lp_fragment.png
 [ic]: https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/dh_supply/ic.png

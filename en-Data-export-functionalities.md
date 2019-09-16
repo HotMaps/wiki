@@ -22,9 +22,9 @@ If you have any difficulties please read the following guides:
 
 ## How to export a dataset
 
-1. Select the layer you want to export in the list of layers (en-left panel)
+1. Select the layer you want to export in the list of layers (left panel)
 
-2. Select the selection scale on the right of the map (en-NUTS/LAU/hectare)
+2. Select the selection scale on the right of the map (NUTS/LAU/hectare)
 
 3. Select the the region you want with the selection tools![export_selection](en-images/export_selection.png)
 
@@ -36,7 +36,7 @@ If you have any difficulties please read the following guides:
 
 Once all these steps are done you will have an export of one of the layers.
 
-You can then use it with your own tools and even edit it to import it back to the platform (en-see [Data upload](Data_upload) for indications on how to do it).
+You can then use it with your own tools and even edit it to import it back to the platform (see [Data upload](Data_upload) for indications on how to do it).
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
 
