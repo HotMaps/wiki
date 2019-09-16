@@ -1,0 +1,7 @@
+<p> CM potencial de fuente de calor </p>
+
+This page was automatically translated. View in another language:
+
+[English](../en/CM-Heat-source-potential.md) (original) [Bulgarian](../bg/CM-Heat-source-potential.md)<sup>\*</sup> [Croatian](../hr/CM-Heat-source-potential.md)<sup>\*</sup> [Czech](../cs/CM-Heat-source-potential.md)<sup>\*</sup> [Danish](../da/CM-Heat-source-potential.md)<sup>\*</sup> [Dutch](../nl/CM-Heat-source-potential.md)<sup>\*</sup> [Estonian](../et/CM-Heat-source-potential.md)<sup>\*</sup> [Finnish](../fi/CM-Heat-source-potential.md)<sup>\*</sup> [French](../fr/CM-Heat-source-potential.md)<sup>\*</sup> [German](../de/CM-Heat-source-potential.md)<sup>\*</sup> [Greek](../el/CM-Heat-source-potential.md)<sup>\*</sup> [Hungarian](../hu/CM-Heat-source-potential.md)<sup>\*</sup> [Irish](../ga/CM-Heat-source-potential.md)<sup>\*</sup> [Italian](../it/CM-Heat-source-potential.md)<sup>\*</sup> [Latvian](../lv/CM-Heat-source-potential.md)<sup>\*</sup> [Lithuanian](../lt/CM-Heat-source-potential.md)<sup>\*</sup> [Maltese](../mt/CM-Heat-source-potential.md)<sup>\*</sup> [Polish](../pl/CM-Heat-source-potential.md)<sup>\*</sup> [Portuguese (Portugal, Brazil)](../pt/CM-Heat-source-potential.md)<sup>\*</sup> [Romanian](../ro/CM-Heat-source-potential.md)<sup>\*</sup> [Slovak](../sk/CM-Heat-source-potential.md)<sup>\*</sup> [Slovenian](../sl/CM-Heat-source-potential.md)<sup>\*</sup>  [Swedish](../sv/CM-Heat-source-potential.md)<sup>\*</sup> 
+
+<sup>\*</sup>: machine translated
