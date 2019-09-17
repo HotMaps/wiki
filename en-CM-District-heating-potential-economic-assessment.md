@@ -5,8 +5,7 @@
 * [Method](#method)
 * [GitHub repository of this calculation module](#GitHub-Repository-of-this-calculation-module)
 * [Sample run](#sample-run)
-  * [Test Run 1: default input values](#test-run-1-default-input-values)
-  * [Test Run 2: modified input values](#test-run-2-modified-input-values)
+  * [Test Run: default input values](#test-run-1-default-input-values-for-the-case-study-of-Vienna)
 * [References](#references)
 * [How to cite](#how-to-cite)
 * [Authors and reviewers](#authors-and-reviewers)
@@ -59,6 +58,9 @@ The input parameters and layers as well as output layers and parameters are as f
 * Total transmission grid trench length in _**km**_
 * Total number of coherent areas
 * Number of economic coherent areas
+* Heat demand density in the last year of the investment period (considering energy savings) in raster format
+* DH areas (both economic and non-economic ones) in shapefile format
+* Transmission lines and their capacities in shapefile format
 
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
@@ -101,7 +103,7 @@ Here, the calculation module is run for the case study of Vienna, Austria. First
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
 
-### Test Run 1: default input values for the case 
+### Test Run: default input values for the case study of Vienna
 The provided default values in the toolbox are basically suitable for Vienna, i.e. it may not suit for other regions and should be adapted depending on your case study.
 The calculation is done for the period from 2018 to 2030 (2018 is the year 0 and 2030 is the year 12 and the investment period will be 12 years). The expected accumulated energy saving ratio shows the reduction of heat demand compared to the beginning of the investment period (year 2018).
 The DH market share refers to the market share within the DH areas. Its value in the beginning of the investment period (year 2018), shows the actual market share (usually known). The expected market share at the investment period, is what you expect to reach. This value comes from road maps, scenarios, policies and etc.
@@ -110,15 +112,24 @@ The value of full load hours is used to estimate the peak load and find the suit
 
 The construction cost constant and the construction cost coefficient originate from reference [[2](#References)]. The obtained regions are very sensitive to these values. Therefore, as a general comment, we suggest to calculate with these values first and only if you think these values lead to an over- or underestimation of your results, then modify them.
 
+By default, the heat density map and the gross floor area density map that are provided by the toolbox are used for the calculation. You can use your own uploaded layers for running the calculation. Here, we use default layers.
+
+Now, press run button and wait until the calculation is finished.
+
+
+**IMPORTANT NOTE**: Please note that this calculation module may take several minutes to find the final solution. If you calculation takes very long (more than 10 minutes), select a smaller region for your calculation. Also, using arbitrary values can lead to long calculation time. Therefore, make sure that your provided values are suitable for the selected region.
+
+
+The following figure shows the obtained results for the given input parameters in Vienna. The most important indicators are demonstrated in the RESULTS window. Additionally, you can get some indicators by pressing on the each single potential areas on the map
+
+
+![Figure 1](https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/cm_econ_assessment/1.png "Figure 1: potential areas and indicators")
+
+The output layers will appear in the LAYERS window under the Calculation module section.
 
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
 
-### Test Run 2: modified input values
-
-
-
-<code><ins>**[To Top](#table-of-contents)**</ins></code>
 
 ## References
 
