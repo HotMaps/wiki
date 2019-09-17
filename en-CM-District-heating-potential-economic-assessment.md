@@ -20,7 +20,23 @@ This calculation module uses the [European heat density map (EHDM)](https://gitl
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
 
 ## Inputs and outputs
-
+* First year of investment
+* Last year of investment
+* Depreciation time
+* Accumulated energy saving
+* DH market share at the beginning of the investment period
+* DH market share at the end of the investment period
+* Interest rate
+* DH grid cost ceiling
+* Construction cost **constant**:
+  * Inner city
+  * Outer city
+  * Park
+* Construction cost **coefficient**:
+  * Inner city
+  * Outer city
+  * Park
+* Full load hours
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
 
@@ -33,6 +49,7 @@ The aim of the calculation module is to find regions in which DH system can be b
 * between two DH areas, heat can flow in one direction,
 * the annual DH demand is considered to remain constant after the last year of investment period
 * market share or energy saving has the same percentages within cells of a DH area and also within different DH areas.
+* The model creates only one connected DH system. It is not possible to have two networks.
 
 The determination of economic DH areas is done in three steps.
 
@@ -50,7 +67,7 @@ The determination of economic DH areas is done in three steps.
 
 ## GitHub repository of this calculation module
 
-[Here](en-https://github.com/HotMaps/dh_economic_assessment/tree/develop) you get the bleeding-edge development for this calculation module.
+[Here](https://github.com/HotMaps/dh_economic_assessment/tree/develop) you get the bleeding-edge development for this calculation module.
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
 
