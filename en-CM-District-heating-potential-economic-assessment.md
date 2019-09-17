@@ -20,23 +20,46 @@ This calculation module uses the [European heat density map (EHDM)](https://gitl
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
 
 ## Inputs and outputs
+The input parameters and layers as well as output layers and parameters are as follows.
+
+**Input layers and parameters are:**
+
+* Heat density map and gross floor area density map (by default is provided by the toolbox)
+  * in raster format (\*.tif)
+  * with 1 hectare resolution
+  * demand densities in _**MWh/ha**_ and gross floor area densities in _**m<sup>2</sup>/ha**_
 * First year of investment
 * Last year of investment
-* Depreciation time
-* Accumulated energy saving
+* Depreciation time in _**years**_
+* Expected accumulated energy saving: The ratio of energy that is being saved in the **last year of investment** due to e.g. retrofitting the buildings to the heat demand in the **first year of the investment**
 * DH market share at the beginning of the investment period
-* DH market share at the end of the investment period
+* Expected DH market share at the end of the investment period
 * Interest rate
-* DH grid cost ceiling
-* Construction cost **constant**:
-  * Inner city
-  * Outer city
-  * Park
-* Construction cost **coefficient**:
+* DH grid cost ceiling in _**EUR/MWh**_: in potential DH areas, the distribution grid cost may not exceed this value.
+* Construction cost **constant** in _**EUR/m**_ as well as Construction cost **coefficient** in _**EUR/m<sup>2</sup>**_ for:
   * Inner city
   * Outer city
   * Park
 * Full load hours
+
+**Output layers and parameters are:**
+
+* Total demand in selected region in the first year of investment in _**MWh**_
+* Total demand in selected region in the last year of investment in _**MWh**_
+* Maximum potential of DH system through the investment period in _**MWh**_
+* Energetic specific DH grid costs in _**EUR/MWh**_
+* Energetic specific DH distribution grid costs in _**EUR/MWh**_
+* Energetic specific DH transmission grid costs in _**EUR/MWh**_
+* Specific DH distribution grid costs per meter in _**EUR/m**_
+* Specific DH transmission grid costs per meter in _**EUR/m**_
+* Total grid costs - annuity in _**EUR**_
+* Total distribution grid costs - annuity in _**EUR**_
+* Total transmission grid costs - annuity in _**EUR**_
+* Total distribution grid trench length in _**km**_
+* Total transmission grid trench length in _**km**_
+* Total number of coherent areas
+* Number of economic coherent areas
+
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
 
