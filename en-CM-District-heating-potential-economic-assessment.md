@@ -35,7 +35,7 @@ The input parameters and layers as well as output layers and parameters are as f
 * DH market share at the beginning of the investment period
 * Expected DH market share at the end of the investment period
 * Interest rate
-* DH grid cost ceiling in _**EUR/MWh**_: in potential DH areas, the distribution grid cost may not exceed this value.
+* DH grid cost ceiling in _**EUR/MWh**_: In potential DH areas, the distribution grid cost may not exceed the distribution grid cost ceiling.
 * Construction cost **constant** in _**EUR/m**_ as well as Construction cost **coefficient** in _**EUR/m<sup>2</sup>**_ for:
   * Inner city
   * Outer city
@@ -73,8 +73,9 @@ The aim of the calculation module is to find regions in which DH system can be b
 * the annual DH demand is considered to remain constant after the last year of investment period
 * market share or energy saving has the same percentages within cells of a DH area and also within different DH areas.
 * The model creates only one connected DH system. It is not possible to have two networks.
+* The input parameter grid cost ceiling is multiplied by ~95% to get distribution grid cost ceiling. This value is used for determination of potential DH areas.
 
-The determination of economic DH areas is done in three steps.
+The determination of economic DH areas is done in three steps. For more details refer to the provided test runs.
 
 **STEP 1: Calculation of distribution grid costs based on heat demand and plot ratio using EHDM and EGFAM**
 
@@ -96,11 +97,18 @@ The determination of economic DH areas is done in three steps.
 
 
 ## Sample run
-
+Here, the calculation module is run for the case study of Vienna, Austria. First, use the "Go To Place" bar to navigate to Vienna and select the city. Click on the "Layers" button to open the "Layers" window and then click on the "CALCULATION MODULE" tab. In the list of calculation modules, select "CM - District heating potential: economic assessment".
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
 
-### Test Run 1: default input values
+### Test Run 1: default input values for the case 
+The provided default values in the toolbox are basically suitable for Vienna, i.e. it may not suit for other regions and should be adapted depending on your case study.
+The calculation is done for the period from 2018 to 2030 (2018 is the year 0 and 2030 is the year 12 and the investment period will be 12 years). The expected accumulated energy saving ratio shows the reduction of heat demand compared to the beginning of the investment period (year 2018).
+The DH market share refers to the market share within the DH areas. Its value in the beginning of the investment period (year 2018), shows the actual market share (usually known). The expected market share at the investment period, is what you expect to reach. This value comes from road maps, scenarios, policies and etc.
+For the default case, we consider the interest rate of 5 percent. The DH grid cost ceiling is multiplied by ~95% to get a cost ceiling for the distribution grid. Using this value, the potential DH areas are obtained. Within the potential areas, the average distribution grid cost may not exceed the distribution grid cost ceiling.
+The value of full load hours is used to estimate the peak load and find the suitable dimension for the transmission grid.
+
+The construction cost constant and the construction cost coefficient originate from reference [[2](#References)]. The obtained regions are very sensitive to these values. Therefore, as a general comment, we suggest to calculate with these values first and only if you think these values lead to an over- or underestimation of your results, then modify them.
 
 
 
@@ -116,12 +124,14 @@ The determination of economic DH areas is done in three steps.
 
 [1]. Fallahnejad M, Hartner M, Kranzl L, Fritz S. Impact of distribution and transmission investment costs of district heating systems on district heating potential. Energy Procedia 2018;149:141–50. doi:10.1016/j.egypro.2018.08.178.
 
+[2]. Persson U, Werner S. Heat distribution and the future competitiveness of district heating. Appl Energy 2011;88:568–76. doi:10.1016/j.apenergy.2010.09.020.
 
+<code><ins>**[To Top](#table-of-contents)**</ins></code>
 
 ## How to cite
 Mostafa Fallahnejad, in Hotmaps-Wiki, https://github.com/HotMaps/hotmaps_wiki/wiki/CM-District-heating-grid-costs (April 2019)
 
-
+<code><ins>**[To Top](#table-of-contents)**</ins></code>
 
 ## Authors and reviewers
 This page is written by Mostafa Fallahnejad\*.
@@ -133,6 +143,7 @@ Gusshausstrasse 27-29/370
 1040 Wien
 
 
+<code><ins>**[To Top](#table-of-contents)**</ins></code>
 
 ## License
 Copyright © 2016-2019: Mostafa Fallahnejad
@@ -144,6 +155,7 @@ SPDX-License-Identifier: CC-BY-4.0
 
 License-Text: https://spdx.org/licenses/CC-BY-4.0.html
 
+<code><ins>**[To Top](#table-of-contents)**</ins></code>
 
 ## Acknowledgement
 We would like to convey our deepest appreciation to the Horizon 2020 [Hotmaps Project](en-https://www.hotmaps-project.eu) (Grant Agreement number 723677), which provided the funding to carry out the present investigation.
