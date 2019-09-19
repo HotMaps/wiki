@@ -2,7 +2,6 @@
 * [Introduction](#introduction)
 * [Inputs and outputs](#inputs-and-outputs)
 * [Method](#method)
-* [Sample run](#sample-run)
 * [References](#references)
 * [How to cite](#how-to-cite)
 * [Authors and reviewers](#authors-and-reviewers)
@@ -67,7 +66,7 @@ As necessary input the fuel demand for heat supply (in GWh/ year) needs to be en
 ### Data upload on HotMaps toolbox
 Please go to tabsheet: <figure><img src="https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/cm_add_industry_plant/Data_Import.PNG" alt=""/></figure>
 
-🔺 <mark>**Note 1:** At the moment the upload of CSV-files is not yet implemented on the HotMaps toolbox. More information coming up soon.
+🔺 <mark>**Note:** At the moment the upload of CSV-files is not yet implemented on the HotMaps toolbox. More information coming up soon.
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
 
@@ -90,7 +89,7 @@ The whole database used for option 2 is available here: Repository_Link
 Option 3 provides a broad based assessment of heat demand and excess heat for the sectors of the manufacturing industry (according to NACE Rev. 2 [[1](#References)]). 
 
 #### Calculation of excess heat potentials on sectorial level
-For the calculation of the excess heat potential of the different sectors excess heat factors according to Brückner 2016 [[2](#References)] are used (see figure xxx). The excess heat factor is defined as waste heat generated per fuel consumption.
+For the calculation of the excess heat potential of the different sectors excess heat factors according to Brückner 2016 [[2](#References)] are used (see table below). The excess heat factor is defined as waste heat generated per fuel consumption.
 In [[2](#References)] the available data to determine the excess heat potential in the manufacturing industry originates from the emissions survey carried out every four years on state level in germany. 
 According to the Emission Declaration Ordinance (1. BImSchG) all operators of plants, which are subject to approval, have to submit a declaration of their emissions every four years. 
 For the year 2008 data on company level consisting of exhaust gas volume flows and their temperature level are evaluated. Together with available information on the type and quantitiy of fuel consumption of the plants, the excess heat factor of a plant is calculated as
@@ -186,4 +185,3 @@ We would like to convey our deepest appreciation to the Horizon 2020 [Hotmaps Pr
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
 
-``
