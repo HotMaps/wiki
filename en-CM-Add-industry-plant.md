@@ -103,18 +103,42 @@ The excess heat factors according to [[2](#References)] include excess heat comi
 
 The distribution of the share of excess heat per temperature range is based on own assumptions.
 
+*Excess heat factors for the sectors of the manufacturing industry (according to [[1](#References)])*
+
+| NACE Rev. 2  | Sector | excess heat factor  |
+| --- |-------------| -----:|
+| 10  | Manufacture of food products 												         | 0.10 |
+| 11  | Manufacture of beverages      													 | 0.14 |
+| 12  | Manufacture of tobacco products      											 	 | 0.12 |
+| 13  | Manufacture of textiles         												 | 0.29 |
+| 14  | Manufacture of wearing apparel       												 | 0.06 |
+| 15  | Manufacture of leather and related products    											 | 0.20 |
+| 16  | Manufacture of wood and of products of wood and cork, except furniture; manufacture of articles of straw and plaiting materials  | 0.10 |
+| 17  | Manufacture of paper and paper products           										 | 0.09 |
+| 18  | Printing and reproduction of recorded media   											 | 0.03 |
+| 20  | Manufacture of chemicals and chemical products          									 | 0.09 |
+| 21  | Manufacture of basic pharmaceutical products and pharmaceutical preparations  						         | 0.08 |
+| 22  | Manufacture of rubber and plastic products          										 | 0.17 |
+| 23  | Manufacture of other non-metallic mineral products   										 | 0.15 |
+| 24  | Manufacture of basic metals       												 | 0.19 |
+| 25  | Manufacture of fabricated metal products, except machinery and equipment  							 | 0.19 |
+| 26  | Manufacture of computer, electronic and optical products     									 | 0.18 |
+| 27  | Manufacture of electrical equipment      									                 | 0.31 |
+| 28  | Manufacture of machinery and equipment n.e.c.          										 | 0.16 |
+| 29  | Manufacture of motor vehicles, trailers and semi-trailers    									 | 0.12 |
+| 30  | Manufacture of other transport equipment          										 | 0.38 |
+| 31  | Manufacture of furniture         												 | 0.12 |
+| 32  | Other manufacturing         													 | 0.08 |
+| 33  | Repair and installation of machinery and equipment       									 | 0.05 |
+
 
 #### Calculation of heat demand on sectorial level
 
 The breakdown of the final energy demand for fuels into temperature ranges on sectorial level is based on a german study (databasis for evaluation of energy efficiency measures [[3](#References)]). 
-For the calculation of the heat demand it is assumed that alomost all fuel purchases are used for heat. Like for option 2 a conversion efficiency from final energy to heat of 90% is assumed for steam-based heat generation.
+For the calculation of the heat demand it is assumed that almost all fuel purchases are used for heat. Consistent with option 2 a conversion efficiency from final energy to heat of 90% is assumed for steam-based heat generation.
 
 
 The whole database used for option 3 is available here: Repository_Link
-
-<figure><img src="https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/cm_add_industry_plant/Factors.PNG" alt=""/>
-<figcaption><i> <br /> Muss noch übersetzt werden.</i></figcaption>
-</figure>
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
 
