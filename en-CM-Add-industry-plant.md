@@ -21,7 +21,7 @@ Please download the provided Excel-tool here: xxx
 The approach how to use the Excel-tool is illustrated in the figure below and described in more detail in the following sections.
 
 <figure>
-  <img src="https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/cm_add_industry_plant/approach.png" alt=""/>
+  <img src="https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/cm_add_industry_plant/approach2.png" alt=""/>
   <figcaption><i> <br />
 Step-by-step approach  how to use the Excel-tool.</i></figcaption>
 </figure>
@@ -76,15 +76,15 @@ If the heat/ cooling demand and excess heat potential of a plant is not known, t
 It has to be mentioned that these values are only indicative approximate values for typical plants (option 2) or on a sectorial level (option 3) and don't replace a detailed analysis and measurement of heat demand and excess heat of a plant.
 
 
-### Option 2: Plant selection
+### Method - Option 2: Plant selection
 The plant specific heat data is taken from the Forecast database. (Bottom up or Top-down approach?) For a large number of different energy-intensive and less energy-intensive plant types process heat/cooling demand and excess heat potential are derived from the specific final energy demand of fuels and electricity. 
-It is important to note that due to the underlying database only process heat and process cooling is covered with this method; space heating and hot water is not included here. Depending on the plant type different inputs as basis for the calculation are provided (f. ex. production volume in tonnes or area in m2).
+It is important to note that due to the underlying database only process heat and process cooling is covered with this method; space heating and hot water is not included here. Depending on the plant type different inputs as basis for the calculation are provided (f. ex. production volume in _tonnes_ or area in _**m<sup>2</sup>**_ ).
 
 For the calculation of heat and cooling demand it is necessary to assume conversion efficiencies from final energy to heat and cooling. Since most of the heat applications are steam-based an efficiency of 90% is assumed (Was ist mit Electricity?). For cooling applications an energy efficiency ratio (EER) of xxx is assumed (von Tobi noch auszufüllen).
 
 The whole database used for option 2 is available here: Repository_Link
 
-### Option 3: Sector selection
+### Method - Option 3: Sector selection
 Option 3 provides a broad based assessment of heat demand and excess heat for the sectors of the manufacturing industry (according to NACE 2008). 
 
 #### Calculation of excess heat potentials on sectorial level
