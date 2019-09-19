@@ -78,7 +78,7 @@ It has to be mentioned that these values are only indicative approximate values 
 
 
 ### Method - Option 2: Plant selection
-The plant specific heat data is taken from the Forecast database. (Bottom up or Top-down approach?) For a large number of different energy-intensive and less energy-intensive plant types process heat/cooling demand and excess heat potential are derived from the specific final energy demand of fuels and electricity. 
+The plant specific heat data is taken from the Forecast database. (Bottom up or Top-down approach?) For a large number of different energy-intensive and less energy-intensive plant types process heat/ cooling demand and excess heat potential are derived from the specific final energy demand of fuels and electricity. 
 It is important to note that due to the underlying database only process heat and process cooling is covered with this method; space heating and hot water is not included here. Depending on the plant type different inputs as basis for the calculation are provided (f. ex. production volume in _tonnes_ or area in _m<sup>2</sup>_ ).
 
 For the calculation of heat and cooling demand it is necessary to assume conversion efficiencies from final energy to heat and cooling. Since most of the heat applications are steam-based an efficiency of 90% is assumed (Was ist mit Electricity?). For cooling applications an energy efficiency ratio (EER) of xxx is assumed (von Tobi noch auszufüllen).
