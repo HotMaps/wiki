@@ -1,6 +1,9 @@
 **CM Scale heat and cool density maps**
 
-The aim of the calculation module is to scale the heat and cool density map by a user-chosen factor. It then multiplies the data of the existing maps whit that factor.
+The aim of the calculation module is to scale the heat density map by a user-chosen factor. It then multiplies the data of the existing maps whit that factor.
+
+**Output**
+A new raster layer with the newly created scaled HDM
 
 View in another language:
 
