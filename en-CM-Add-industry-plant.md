@@ -21,7 +21,7 @@ Please download the provided Excel-tool here: xxx
 The approach how to use the Excel-tool is illustrated in the figure below and described in more detail in the following sections.
 
 <figure>
-  <img src="https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/cm_add_industry_plant/approach.PNG" alt=""/>
+  <img src="https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/cm_add_industry_plant/approach.png" alt=""/>
   <figcaption><i> <br />
 Step-by-step approach  how to use the Excel-tool.</i></figcaption>
 </figure>
@@ -108,6 +108,8 @@ The whole database used for option 3 is available here: Repository_Link
 <figure><img src="https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/cm_add_industry_plant/Factors.PNG" alt=""/>
 <figcaption><i> <br /> Muss noch übersetzt werden.</i></figcaption>
 </figure>
+
+<code><ins>**[To Top](#table-of-contents)**</ins></code>
 
 ## Authors and reviewers
 
