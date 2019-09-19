@@ -10,47 +10,64 @@
 ## Introduction
 This module provides the possibility to add additional industry sites with their heating and cooling demand and excess heat potential to the HotMaps toolbox. It is possible to add additional energy-intensive as well as less-energy intensive industries. The user enters the necessary data in a stand-alone Excel-tool, which then generates a datasheet to be uploaded on the HotMaps toolbox.   
 
+<code><ins>**[To Top](#table-of-contents)**</ins></code>
+
 ## Inputs and outputs (How-to-use)
 
 ### Data input in Excel-tool by user
 
 Please download the provided Excel-tool here: xxx
 
-#### Add general information
-Please go to tabsheet: <figure><img alt="" src="https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/cm_add_industry_plant/General_information.PNG"/></figure>
+The approach how to use the Excel-tool is illustrated in the figure below and described in more detail in the following sections.
+
+<figure>
+  <img src="https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/cm_add_industry_plant/approach.PNG" alt=""/>
+  <figcaption><i> <br />
+Step-by-step approach  how to use the Excel-tool.</i></figcaption>
+</figure>
+
+#### 1) Add general information
+Please go to tabsheet: <figure><img src="https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/cm_add_industry_plant/General_information.PNG" alt=""/></figure>
 
 In the first step please enter all necessary general information about the sites for which heat and cooling demand and excess heat potential should be calculated. It is possible to add up to 10 industrial sites. 
 
-<figure><img alt="" src="https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/cm_add_industry_plant/General_information_Box.PNG"/></figure>
+<figure>
+  <img src="https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/cm_add_industry_plant/General_information_Box.PNG" alt=""/>
+  <figcaption><i> <br />
+Example of excel table to enter general information of companies as basis for the calculation and import into the HotMaps toolbox.</i></figcaption>
+</figure>
 
-#### Choose calculation option
+
+#### 2) Choose calculation option
 
 In the second step there are 3 options how heat and cooling demand and excess heat potential can be estimated. Please note, that it is possible to switch between the three options for the different companies but not within a company itself.
 
-With regard to the excess heat temperature it has to be mentioned, that low temperature heat (&lt; 100°C) can be entered into the Excel-Tool but is not yet evaluated in the HotMaps toolbox. If low temperature heat should be considered, the application of a heat pump is necessary. Therefor the user can include the electricity demand of a heat pump in the final energy demand for electricity and lift the temperature of the generated excess heat up to the range of 100-200°C.
-
-xxx Img Steps xxx
+With regard to the excess heat temperature it has to be mentioned, that low temperature heat (< 100°C) can be entered into the Excel-Tool but is not yet evaluated in the HotMaps toolbox. If low temperature heat should be considered, the application of a heat pump is necessary. Therefor the user can include the electricity demand of a heat pump in the final energy demand for electricity and lift the temperature of the generated excess heat up to the range of 100-200°C.
 
 ##### Option 1: Manual input
-Please go to tabsheet: <figure><img alt="" src="https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/cm_add_industry_plant/Option1.PNG"/></figure>
+Please go to tabsheet: <figure><img src="https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/cm_add_industry_plant/Option1.PNG" alt=""/></figure>
 
 Please choose this option, if data on heat/ cooling demand and excess heat potential and temperature distribution is available for the selected company and can be filled in manually.
 
 ##### Option 2: Plant selection
-Please go to tabsheet: <figure><img alt="" src="https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/cm_add_industry_plant/Option2.PNG"/></figure>
+Please go to tabsheet: <figure><img src="https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/cm_add_industry_plant/Option2.PNG" alt=""/></figure>
 
 Please choose this option, if no information about heat/ cooling demand and excess heat potential is available for the selected company. On the basis of a plant specific database typical heat/cooling demand and excess heat potentials with temperature distribution can be selected for a number of plants and products/processes. 
-As necessary input for the conversion of the product specific data a value as calculation basis needs to be entered (f. ex. production, area etc.). For more information concerning the calculation method see [Method].
+As necessary input for the conversion of the product specific data a value as calculation basis needs to be entered (f. ex. production, area etc.). 
+For more information concerning the calculation method see [Method](#method).
 
 ##### Option 3: Sector selection
-Please go to tabsheet: <figure><img alt="" src="https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/cm_add_industry_plant/Option3.PNG"/></figure>
+Please go to tabsheet: <figure><img src="https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/cm_add_industry_plant/Option3.PNG" alt=""/></figure>
 
-Please choose this option, if your plant type is not available in option 2. On the basis of sector specific heat data typical heat/ cooling demand and excess heat potentials are calculated. As necessary input the fuel demand for heat supply (in GWh/ year) needs to be entered. For more information concerning the calculation method see [Method].
+Please choose this option, if your plant type is not available in option 2. On the basis of sector specific heat data typical heat/ cooling demand and excess heat potentials are calculated. 
+As necessary input the fuel demand for heat supply (in GWh/ year) needs to be entered. For more information concerning the calculation method see [Method](#method).
 
 ### Data upload on HotMaps toolbox
-Please go to tabsheet: <figure><img alt="" src="https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/cm_add_industry_plant/Data_Import.PNG"/></figure>
+Please go to tabsheet: <figure><img src="https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/cm_add_industry_plant/Data_Import.PNG" alt=""/></figure>
 
-Please note: At the moment the upload of CSV-files is not yet implemented on the HotMaps toolbox. More information coming up soon.
+🔺 <mark>**Note 1:** At the moment the upload of CSV-files is not yet implemented on the HotMaps toolbox. More information coming up soon.
+
+<code><ins>**[To Top](#table-of-contents)**</ins></code>
 
 ## Method
 
@@ -88,8 +105,8 @@ to be done
 
 The whole database used for option 3 is available here: Repository_Link
 
-<figure><img alt="" src="https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/cm_add_industry_plant/Factors.PNG"/>
-<figcaption><i> <br/> Muss noch übersetzt werden.</i></figcaption>
+<figure><img src="https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/cm_add_industry_plant/Factors.PNG" alt=""/>
+<figcaption><i> <br /> Muss noch übersetzt werden.</i></figcaption>
 </figure>
 
 ## Authors and reviewers
@@ -97,7 +114,7 @@ The whole database used for option 3 is available here: Repository_Link
 This page is written by Ali Aydemir \* and Lisa Neusel \*
 - [ ] This page was reviewed by Tobias Fleiter\*.
 
-\* [Fraunhofer ISI](en-https://isi.fraunhofer.de/)
+\* [Fraunhofer ISI](https://isi.fraunhofer.de/)
 Fraunhofer ISI, Breslauer Str. 48, 
 76139 Karlsruhe
 
@@ -113,13 +130,8 @@ License-Text: https://spdx.org/licenses/CC-BY-4.0.html
 
 
 ## Acknowledgement
-We would like to convey our deepest appreciation to the Horizon 2020 [Hotmaps Project](en-https://www.hotmaps-project.eu) (Grant Agreement number 723677), which provided the funding to carry out the present investigation.
+We would like to convey our deepest appreciation to the Horizon 2020 [Hotmaps Project](https://www.hotmaps-project.eu) (Grant Agreement number 723677), which provided the funding to carry out the present investigation.
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
 
 ``
-
-View in another language:
-
- [Bulgarian](bg-CM-Add-industry-plant)<sup>\*</sup> [Croatian](hr-CM-Add-industry-plant)<sup>\*</sup> [Czech](cs-CM-Add-industry-plant)<sup>\*</sup> [Danish](da-CM-Add-industry-plant)<sup>\*</sup> [Dutch](nl-CM-Add-industry-plant)<sup>\*</sup> [Estonian](et-CM-Add-industry-plant)<sup>\*</sup> [Finnish](fi-CM-Add-industry-plant)<sup>\*</sup> [French](fr-CM-Add-industry-plant)<sup>\*</sup> [German](de-CM-Add-industry-plant)<sup>\*</sup> [Greek](el-CM-Add-industry-plant)<sup>\*</sup> [Hungarian](hu-CM-Add-industry-plant)<sup>\*</sup> [Irish](ga-CM-Add-industry-plant)<sup>\*</sup> [Italian](it-CM-Add-industry-plant)<sup>\*</sup> [Latvian](lv-CM-Add-industry-plant)<sup>\*</sup> [Lithuanian](lt-CM-Add-industry-plant)<sup>\*</sup> [Maltese](mt-CM-Add-industry-plant)<sup>\*</sup> [Polish](pl-CM-Add-industry-plant)<sup>\*</sup> [Portuguese (Portugal, Brazil)](pt-CM-Add-industry-plant)<sup>\*</sup> [Romanian](ro-CM-Add-industry-plant)<sup>\*</sup> [Slovak](sk-CM-Add-industry-plant)<sup>\*</sup> [Slovenian](sl-CM-Add-industry-plant)<sup>\*</sup> [Spanish](es-CM-Add-industry-plant)<sup>\*</sup> [Swedish](sv-CM-Add-industry-plant)<sup>\*</sup>
-<sup>\*</sup>: machine translated
