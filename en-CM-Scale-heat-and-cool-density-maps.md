@@ -1,4 +1,4 @@
-CM Scale heat and cool density maps
+**CM Scale heat and cool density maps**
 
 The aim of the calculation module is to scale the heat and cool density map by a user-chosen factor. It then multiplies the data of the existing maps whit that factor.
 
