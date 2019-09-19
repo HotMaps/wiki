@@ -4,7 +4,7 @@ The aim of the calculation module is to scale the heat density map by a user-cho
 
 **Output**
 
-A new raster layer with the newly created scaled HDM
+A new raster layer with the newly created scaled HDM.
 
 View in another language:
 
