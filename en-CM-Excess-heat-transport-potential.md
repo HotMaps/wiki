@@ -205,7 +205,7 @@ Sample run in PL22 with default parameters.
 
 <figure>
 <img alt="" src="https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/cm_excess_heat/sample_run1.PNG"/>
-<figcaption><i>Sample run in PL22. The pink aeras represent the district heating. The orange circles the heat source and the orange lines the tranmission lines of the network.</i></figcaption>
+<figcaption><i>Sample run in PL22. The pink areas represent the district heating. The orange circles the heat source and the orange lines the tranmission lines of the network.</i></figcaption>
 </figure>
 
 <figure>
@@ -241,7 +241,7 @@ Sample run in PL22 with maximum search radius set to 40 kms.
 
 <figure>
 <img alt="" src="https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/cm_excess_heat/sample_run2.PNG"/>
-<figcaption><i>Sample run in PL22. The pink aeras represent the district heating. The orange circles the heat source and the orange lines the tranmission lines of the network.</i></figcaption>
+<figcaption><i>Sample run in PL22. The pink areas represent the district heating. The orange circles the heat source and the orange lines the tranmission lines of the network.</i></figcaption>
 </figure>
 
 Network is much larger than in the first sample run.
