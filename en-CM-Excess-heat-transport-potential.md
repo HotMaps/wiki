@@ -306,7 +306,7 @@ Network is smaller than in the second run but retains much of the flow.
 <figcaption><i>Sometimes it can be helpfull to hide the tranmission line threshold in the graphic to analyse the levelized costs.</i></figcaption>
 </figure>
 
-We can see that we just hit the local minimum. The difference in the cost approximation graphs to the indicators is caused by approximation errors. But those errors are mostly systematic and hence dont offset the minimum but just scale the curve in a different way. The levelized cost indicator now shows 0.84 ct/kWh instead of the 1.09 ct/kWh in the second run.
+We can see that we just hit the local minimum. The difference in the cost approximation graphs to the indicators is caused by approximation errors. But those errors are mostly systematic and hence do not offset the minimum but just scale the curve in a different way. The levelized cost indicator now shows 0.84 ct/kWh instead of the 1.09 ct/kWh in the second run.
 
 <figure>
 <img alt="" src="https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/cm_excess_heat/profiles3.PNG"/>
