@@ -199,7 +199,9 @@ First the heat sources and sinks are loaded with their load profiles. Then the f
 
 ## Sample run
 
-Sample run in PL22.
+### Sample run 1
+
+Sample run in PL22 with default parameters.
 
 <figure>
 <img alt="" src="https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/cm_excess_heat/sample_run1.PNG"/>
@@ -216,6 +218,8 @@ Sample run in PL22.
 <figcaption><i>This graphic plots the costs of the network compared to the anual flow. The orange point represents the current network with its set transmission line threshold</i></figcaption>
 </figure>
 
+In this case we can see that there is much more excess heat available than used, but on the other side the maximum possible flow is almost achieved, since the orange point is at 1530 GWh per year. In this case increasing the search radius can help to distribute more excess heat. In sample run 2 we will do exactly that.
+
 <figure>
 <img alt="" src="https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/cm_excess_heat/normalized_cost1.PNG"/>
 <figcaption><i>This graphic plots levelized heating costs and the necessary transmission line threshold for a certain flow. The orange points represent the value with the currently set transmisson line threshold</i></figcaption>
@@ -231,9 +235,45 @@ Sample run in PL22.
 <figcaption><i>This graphic shows the total flow through the network throughout the year. The lower graphic represents the average day. Since the default time resolution is set to "week" it is constant in this case.</i></figcaption>
 </figure>
 
+### Sample run 2
 
+Sample run in PL22 with maximum search radius set to 40 kms.
 
+<figure>
+<img alt="" src="https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/cm_excess_heat/sample_run2.PNG"/>
+<figcaption><i>Sample run in PL22. The pink aeras represent the district heating. The orange circles the heat source and the orange lines the tranmission lines of the network.</i></figcaption>
+</figure>
 
+Network is much larger than in the first sample run.
+
+<figure>
+<img alt="" src="https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/cm_excess_heat/heat_compare2.PNG"/>
+<figcaption><i>This graphic compares the DH potential, total excess heat, connected excess heat and used excess heat.</i></figcaption>
+</figure>
+
+More excess heat is used.
+
+<figure>
+<img alt="" src="https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/cm_excess_heat/network_cost_to_flow2.PNG"/>
+<figcaption><i>This graphic plots the costs of the network compared to the anual flow. The orange point represents the current network with its set transmission line threshold</i></figcaption>
+</figure>
+
+<figure>
+<img alt="" src="https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/cm_excess_heat/normalized_cost2.PNG"/>
+<figcaption><i>This graphic plots levelized heating costs and the necessary transmission line threshold for a certain flow. The orange points represent the value with the currently set transmisson line threshold</i></figcaption>
+</figure>
+
+<figure>
+<img alt="" src="https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/cm_excess_heat/levelized_cost_simp2.PNG"/>
+<figcaption><i>Sometimes it can be helpfull to hide the tranmission line threshold in the graphic to analyse the levelized costs.</i></figcaption>
+</figure>
+
+We can see a local minimum of levelized cost of heat supply at 4900 GWh per year. By hovering over the green line we can determine this is achieved with a transmission line threshold of 0.11 ct/kWh. In sample run 3 we are going to try to find this network.
+
+<figure>
+<img alt="" src="https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/cm_excess_heat/profiles2.PNG"/>
+<figcaption><i>This graphic shows the total flow through the network throughout the year. The lower graphic represents the average day. Since the default time resolution is set to "week" it is constant in this case.</i></figcaption>
+</figure>
 
 
 ## Authors and reviewers
