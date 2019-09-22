@@ -201,7 +201,7 @@ First the heat sources and sinks are loaded with their load profiles. Then the f
 
 ### Sample run 1
 
-Sample run in PL22 with default parameters.
+Sample run in PL22 with default parameters. It is recommanded to turn on excess heat sites in the layers tab.
 
 <figure>
 <img alt="" src="https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/cm_excess_heat/sample_run1.PNG"/>
@@ -274,6 +274,45 @@ We can see a local minimum of levelized cost of heat supply at 4900 GWh per year
 <img alt="" src="https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/cm_excess_heat/profiles2.PNG"/>
 <figcaption><i>This graphic shows the total flow through the network throughout the year. The lower graphic represents the average day. Since the default time resolution is set to "week" it is constant in this case.</i></figcaption>
 </figure>
+
+### Sample run 3
+
+Sample run in PL22 with maximum search radius set to 40 kms, tranmission line threshold set to 0.11ct/kWh and time resolution set to "hour".
+
+<figure>
+<img alt="" src="https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/cm_excess_heat/sample_run3.PNG"/>
+<figcaption><i>Sample run in PL22. The pink areas represent the district heating. The orange circles the heat source and the orange lines the tranmission lines of the network.</i></figcaption>
+</figure>
+
+Network is smaller than in the second run but retains much of the flow.
+
+<figure>
+<img alt="" src="https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/cm_excess_heat/heat_compare3.PNG"/>
+<figcaption><i>This graphic compares the DH potential, total excess heat, connected excess heat and used excess heat.</i></figcaption>
+</figure>
+
+<figure>
+<img alt="" src="https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/cm_excess_heat/network_cost_to_flow3.PNG"/>
+<figcaption><i>This graphic plots the costs of the network compared to the anual flow. The orange point represents the current network with its set transmission line threshold</i></figcaption>
+</figure>
+
+<figure>
+<img alt="" src="https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/cm_excess_heat/normalized_cost3.PNG"/>
+<figcaption><i>This graphic plots levelized heating costs and the necessary transmission line threshold for a certain flow. The orange points represent the value with the currently set transmisson line threshold</i></figcaption>
+</figure>
+
+<figure>
+<img alt="" src="https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/cm_excess_heat/levelized_cost_simp3.PNG"/>
+<figcaption><i>Sometimes it can be helpfull to hide the tranmission line threshold in the graphic to analyse the levelized costs.</i></figcaption>
+</figure>
+
+We can see that we just hit the local minimum. The difference in the cost approximation graphs to the indicators is caused by approximation errors. But those errors are mostly systematic and hence dont offset the minimum but just scale the curve in a different way. The levelized cost indicator now shows 0.84 ct/kWh instead of the 1.09 ct/kWh in the second run.
+
+<figure>
+<img alt="" src="https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/cm_excess_heat/profiles3.PNG"/>
+<figcaption><i>This graphic shows the total flow through the network throughout the year. The lower graphic represents the average day. This time with time resolution set to "hour" the average day is represented correctly.</i></figcaption>
+</figure>
+
 
 
 ## Authors and reviewers
