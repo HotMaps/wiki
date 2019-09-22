@@ -134,7 +134,7 @@ The five resulting profiles are added together in an absolut way.
 
 #### Load profiles
 
-The mentioned load profiles consist of 8760 points which represent the load for every hour of the 365 days. Further information about the **[load profiles can be found here.](en-https://gitlab.com/hotmaps/load_profile)**
+The mentioned load profiles consist of 8760 points which represent the load for every hour of the 365 days. Further information about the **[load profiles can be found here.](https://gitlab.com/hotmaps/load_profile)**
 All load profiles are normalized so that the integral is equal to 1.
 
 #### Industrial sites
