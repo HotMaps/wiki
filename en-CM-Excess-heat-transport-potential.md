@@ -199,14 +199,42 @@ First the heat sources and sinks are loaded with their load profiles. Then the f
 
 ## Sample run
 
-Sample run in Aalborg.
+Sample run in PL22.
 
 <figure>
-<img alt="" src="https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/cm_excess_heat/aalborg.png"/>
-<figcaption><i>Sample run in Aalborg. The blue aeras represent the district heating. The orange point the heat source and the yellow points the entry points to the district heating network.</i></figcaption>
+<img alt="" src="https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/cm_excess_heat/sample_run1.PNG"/>
+<figcaption><i>Sample run in PL22. The pink aeras represent the district heating. The orange circles the heat source and the orange lines the tranmission lines of the network.</i></figcaption>
 </figure>
 
-The total costs are 13.7 M€ and the total annual flow is 185 GWh which results in 0.74 ct/kWh for an investment period of 10 years.
+<figure>
+<img alt="" src="https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/cm_excess_heat/heat_compare1.PNG"/>
+<figcaption><i>This graphic compares the DH potential, total excess heat, connected excess heat and used excess heat.</i></figcaption>
+</figure>
+
+<figure>
+<img alt="" src="https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/cm_excess_heat/network_cost_to_flow1.PNG"/>
+<figcaption><i>This graphic plots the costs of the network compared to the anual flow. The orange point represents the current network with its set transmission line threshold</i></figcaption>
+</figure>
+
+<figure>
+<img alt="" src="https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/cm_excess_heat/normalized_cost1.PNG"/>
+<figcaption><i>This graphic plots levelized heating costs and the necessary transmission line threshold for a certain flow. The orange points represent the value with the currently set transmisson line threshold</i></figcaption>
+</figure>
+
+<figure>
+<img alt="" src="https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/cm_excess_heat/levelized_cost_simp1.PNG"/>
+<figcaption><i>Sometimes it can be helpfull to hide the tranmission line threshold in the graphic to analyse the levelized costs.</i></figcaption>
+</figure>
+
+<figure>
+<img alt="" src="https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/cm_excess_heat/profiles1.PNG"/>
+<figcaption><i>This graphic shows the total flow through the network throughout the year. The lower graphic represents the average day. Since the default time resolution is set to "week" it is constant in this case.</i></figcaption>
+</figure>
+
+
+
+
+
 
 ## Authors and reviewers
 
