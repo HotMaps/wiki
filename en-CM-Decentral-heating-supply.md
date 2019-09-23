@@ -85,7 +85,7 @@ The above process is performed for all heating systems mentioned in the [Introdu
 
 ## GitHub repository of this calculation module
 
-[Here](en-https://github.com/HotMaps/lcoh/tree/develop) you get the bleeding-edge development for this calculation module.
+[Here](https://github.com/HotMaps/lcoh/tree/develop) you get the bleeding-edge development for this calculation module.
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
 
@@ -95,19 +95,19 @@ Here, the calculation module is run for a building with gross floor area of _100
 
 First, use the "Go To Place" bar to navigate to Frankfurt and select the city.
 
-![Fig. 1](en-https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/cm_decentral_heating/2.png "Navigate to a location")
+![Fig. 1](https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/cm_decentral_heating/2.png "Navigate to a location")
 
 Follow the steps as shown in the figure below:
 * Click on the "Layers" button to open the "Layers" window:
 * Click on the "CALCULATION MODULE" tab.
 * Click on the "DISTRICT HEATING POTENTIAL" button.
 
-![Fig. 2](en-https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/cm_decentral_heating/3.png "Calculation module tab")
+![Fig. 2](https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/cm_decentral_heating/3.png "Calculation module tab")
 
 
 * Now, the "DECENTRAL HEATING COSTS" opens and is ready to run.
 
-![Fig. 3](en-https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/cm_decentral_heating/4.png "DECENTRAL HEATING COSTS")
+![Fig. 3](https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/cm_decentral_heating/4.png "DECENTRAL HEATING COSTS")
 
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
@@ -118,16 +118,16 @@ Here, you can enter your desired values for running the calculation module. We s
 * Assign a name to the run session (optional - here, we chose "Test Run 1") and set the input parameters (here, default values were used).
 
 
-![Fig. 5](en-https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/cm_decentral_heating/5.png "Name the run session")
+![Fig. 5](https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/cm_decentral_heating/5.png "Name the run session")
 
 * Once you entered the input data, press run button and wait until the process is finished.
 * As output, indicators and diagrams are shown in the "RESULTS" window.
 
-![Fig. 6](en-https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/cm_decentral_heating/6.png "INDICATORS tab")
+![Fig. 6](https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/cm_decentral_heating/6.png "INDICATORS tab")
 
 * Additionally, also several diagrams are generated.
 
-![Fig. 7](en-https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/cm_decentral_heating/7.png "GRAPHICS tab")
+![Fig. 7](https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/cm_decentral_heating/7.png "GRAPHICS tab")
 
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
@@ -139,16 +139,16 @@ Here, you can enter your desired values for running the calculation module. We s
 * Assign a name to the run session (optional - here, we chose "Test Run 1") and set the input parameters (here, default values were used).
 
 
-![Fig. 8](en-https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/cm_decentral_heating/8.png "Name the run session")
+![Fig. 8](https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/cm_decentral_heating/8.png "Name the run session")
 
 * Once you entered the input data, press run button and wait until the process is finished.
 * As output, indicators and diagrams are shown in the "RESULTS" window.
 
-![Fig. 9](en-https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/cm_decentral_heating/9.png "INDICATORS tab")
+![Fig. 9](https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/cm_decentral_heating/9.png "INDICATORS tab")
 
 * Additionally, also several diagrams are generated.
 
-![Fig. 10](en-https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/cm_decentral_heating/10.png "GRAPHICS tab")
+![Fig. 10](https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/cm_decentral_heating/10.png "GRAPHICS tab")
 
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
@@ -165,7 +165,7 @@ Mostafa Fallahnejad, in Hotmaps-Wiki, https://github.com/HotMaps/hotmaps_wiki/wi
 This page is written by Mostafa Fallahnejad\*.
 - [ ] This page was reviewed by Lukas Kranzl\*.
 
-\* [Energy Economics Group - TU Wien](en-https://eeg.tuwien.ac.at/)
+\* [Energy Economics Group - TU Wien](https://eeg.tuwien.ac.at/)
 
 Institute of Energy Systems and Electrical Drives
 
@@ -188,7 +188,7 @@ License-Text: https://spdx.org/licenses/CC-BY-4.0.html
 
 
 ## Acknowledgement
-We would like to convey our deepest appreciation to the Horizon 2020 [Hotmaps Project](en-https://www.hotmaps-project.eu) (Grant Agreement number 723677), which provided the funding to carry out the present investigation.
+We would like to convey our deepest appreciation to the Horizon 2020 [Hotmaps Project](https://www.hotmaps-project.eu) (Grant Agreement number 723677), which provided the funding to carry out the present investigation.
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
 

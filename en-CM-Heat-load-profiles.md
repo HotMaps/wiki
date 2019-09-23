@@ -172,7 +172,7 @@ Data from this graphic can be exported by pressing the "EXPORT GRAPHS" button.
 This page is written by Ali Aydemir \* and David Schilling \*
 - [ ] This page was reviewed by Tobias Fleiter\*.
 
-\* [Fraunhofer ISI](en-https://isi.fraunhofer.de/)
+\* [Fraunhofer ISI](https://isi.fraunhofer.de/)
 Fraunhofer ISI, Breslauer Str. 48, 
 76139 Karlsruhe
 
@@ -188,7 +188,7 @@ License-Text: https://spdx.org/licenses/CC-BY-4.0.html
 
 
 ## Acknowledgement
-We would like to convey our deepest appreciation to the Horizon 2020 [Hotmaps Project](en-https://www.hotmaps-project.eu) (Grant Agreement number 723677), which provided the funding to carry out the present investigation.
+We would like to convey our deepest appreciation to the Horizon 2020 [Hotmaps Project](https://www.hotmaps-project.eu) (Grant Agreement number 723677), which provided the funding to carry out the present investigation.
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
 

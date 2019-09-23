@@ -184,13 +184,13 @@ Jeton Hasani, in Hotmaps-Wiki, https://github.com/HotMaps/hotmaps_wiki/wiki/Intr
 
 
 ## Authors and reviewers
-<code>[Review this page !](en-https://github.com/HotMaps/hotmaps_wiki/wiki/Hotmaps-Graphical-User-Interface/_edit)</code>
+<code>[Review this page !](https://github.com/HotMaps/hotmaps_wiki/wiki/Hotmaps-Graphical-User-Interface/_edit)</code>
 
 This page is written by Jeton Hasani\*.
 - [ ] This page was reviewed by <code>....</code>\.
 
 
-\* [Energy Economics Group - TU Wien](en-https://eeg.tuwien.ac.at/)
+\* [Energy Economics Group - TU Wien](https://eeg.tuwien.ac.at/)
 Institute of Energy Systems and Electrical Drives
 Gusshausstrasse 27-29/370
 1040 Wien
@@ -204,10 +204,10 @@ License-Text: https://spdx.org/licenses/CC-BY-4.0.html
 
 
 ## Acknowledgement
-We would like to convey our deepest appreciation to the Horizon 2020 [Hotmaps Project](en-https://www.hotmaps-project.eu) (Grant Agreement number 723677), which provided the funding to carry out the present investigation.
+We would like to convey our deepest appreciation to the Horizon 2020 [Hotmaps Project](https://www.hotmaps-project.eu) (Grant Agreement number 723677), which provided the funding to carry out the present investigation.
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
-<code>[Review this page](en-https://github.com/HotMaps/hotmaps_wiki/wiki/Hotmaps-Graphical-User-Interface/_edit)</code>
+<code>[Review this page](https://github.com/HotMaps/hotmaps_wiki/wiki/Hotmaps-Graphical-User-Interface/_edit)</code>
 
 [//]: # (Here are all the files to the links)
 

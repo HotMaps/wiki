@@ -35,13 +35,13 @@ Integration of new public datasets is handled as follow:
 
 If a dataset fails during integration, an issue is created on Taiga (project management platform). The issue shows the error raised and the developer should fix it and push again his work to Git so that the script can try to integrate it again the next evening.
 
-The source code of the integration script is available at this link: [Data integration](en-https://github.com/HotMaps/CI_DatasetIntegration)
+The source code of the integration script is available at this link: [Data integration](https://github.com/HotMaps/CI_DatasetIntegration)
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
 
 ## Add your datasets on GitLab
 
-To add datasets on the list of public datasets, they must be pushed to a new Git repository on GitLab. Here is the GitLab Organization where datasets should be pushed: [Datasets on GitLab](en-https://gitlab.com/hotmaps).
+To add datasets on the list of public datasets, they must be pushed to a new Git repository on GitLab. Here is the GitLab Organization where datasets should be pushed: [Datasets on GitLab](https://gitlab.com/hotmaps).
 
 Once a day the repositories are checked for new commits and integrated if so. The integration process checks whether the data conforms to the specification or not. 
 
@@ -51,19 +51,19 @@ Here is the specification:  [Hotmaps_Data-upload-on-Gitlab_2017-12-04_V4.pdf](up
 
 ## List of main repositories
 
-The code of the application is located on GitHub under the [Hotmaps organization](en-https://github.com/HotMaps). This organization owns several repositories
+The code of the application is located on GitHub under the [Hotmaps organization](https://github.com/HotMaps). This organization owns several repositories
 
-* [Hotmaps-toolbox-client](en-https://github.com/HotMaps/Hotmaps-toolbox-service) contains the frontend of our application. It is an Angular project (JavaScript)
-* [Hotmaps-toolbox-service](en-https://github.com/HotMaps/Hotmaps-toolbox-service) contains the API for our application. It is based on Flask (Python)
-* [Hotmaps-wiki](en-https://github.com/HotMaps/hotmaps_wiki) is the Wiki you're currently reading
-* [base-calculation-module](en-https://github.com/HotMaps/base_calculation_module) is the basic template you can use to create your own calculation modules for Hotmaps
+* [Hotmaps-toolbox-client](https://github.com/HotMaps/Hotmaps-toolbox-service) contains the frontend of our application. It is an Angular project (JavaScript)
+* [Hotmaps-toolbox-service](https://github.com/HotMaps/Hotmaps-toolbox-service) contains the API for our application. It is based on Flask (Python)
+* [Hotmaps-wiki](https://github.com/HotMaps/hotmaps_wiki) is the Wiki you're currently reading
+* [base-calculation-module](https://github.com/HotMaps/base_calculation_module) is the basic template you can use to create your own calculation modules for Hotmaps
 * a list of calculations modules
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
 
 ## How to contribute code
 
-If you want to add some code to Hotmaps you have two possibilities: if you want to update the interface or the backend directly, you have to modify the client or service repository of the toolbox. If you want to add your own calculation module, you can create your own repository by following [the readme of the base_calculation_module repository](en-https://github.com/HotMaps/base_calculation_module)
+If you want to add some code to Hotmaps you have two possibilities: if you want to update the interface or the backend directly, you have to modify the client or service repository of the toolbox. If you want to add your own calculation module, you can create your own repository by following [the readme of the base_calculation_module repository](https://github.com/HotMaps/base_calculation_module)
 
 If you want to perform some work on the Git repository, please do not work directly with the master branch. Create a new branch from the develop branch, do your work on this branch and when your feature is tested, you can merge your work with the develop branch as show in the following graph. 
 
@@ -101,13 +101,13 @@ Each calculation module has its own Docker container.
 
 ### Run with Docker
 
-Hotmaps uses [Docker](en-https://www.docker.com/) software and [Docker-Compose](https://docs.docker.com/compose/) tool to manage containers. A docker-compose.yml file contains the whole configuration of the Docker architecture (config. of containers, networks, links, ...). This allows containers to be run with one simple command : 
+Hotmaps uses [Docker](https://www.docker.com/) software and [Docker-Compose](https://docs.docker.com/compose/) tool to manage containers. A docker-compose.yml file contains the whole configuration of the Docker architecture (config. of containers, networks, links, ...). This allows containers to be run with one simple command : 
 
 ```shell
 docker-compose up
 ```
 
-*There is more about docker-compose on the webiste of Docker: [Compose command-line reference](en-https://docs.docker.com/compose/reference/) and [Compose file reference](https://docs.docker.com/compose/compose-file/).*
+*There is more about docker-compose on the webiste of Docker: [Compose command-line reference](https://docs.docker.com/compose/reference/) and [Compose file reference](https://docs.docker.com/compose/compose-file/).*
 
 There is only one container that is run separately from others: it's the database because it needs to stay up all the time. That's why it's not in the docker-compose configuration file.
 
@@ -184,7 +184,7 @@ Reviewers:
 
 ## Acknowledgement
 
-We would like to convey our deepest appreciation to the Horizon 2020 [Hotmaps Project](en-https://www.hotmaps-project.eu) (Grant Agreement number 723677), which provided the funding to carry out the present investigation
+We would like to convey our deepest appreciation to the Horizon 2020 [Hotmaps Project](https://www.hotmaps-project.eu) (Grant Agreement number 723677), which provided the funding to carry out the present investigation
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
 

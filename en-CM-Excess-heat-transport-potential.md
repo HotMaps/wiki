@@ -17,8 +17,8 @@ The use of excess heat for district heating.
 * District heating areas (for now directly provided by the district heating potential CM)
 * Industrial database (by default provided by the toolbox)
 #### Provided by user
-* Min. heat demand in hectare. See [DH Potential CM](en-https://github.com/HotMaps/hotmaps_wiki/wiki/CM-District-heating-potential-areas-user-defined-thresholds)
-* Min. heat demand in a DH area. See [DH Potential CM](en-https://github.com/HotMaps/hotmaps_wiki/wiki/CM-District-heating-potential-areas-user-defined-thresholds)
+* Min. heat demand in hectare. See [DH Potential CM](https://github.com/HotMaps/hotmaps_wiki/wiki/CM-District-heating-potential-areas-user-defined-thresholds)
+* Min. heat demand in a DH area. See [DH Potential CM](https://github.com/HotMaps/hotmaps_wiki/wiki/CM-District-heating-potential-areas-user-defined-thresholds)
 * Search radius in km
 * Lifetime of equipment in years
 * Discount rate in %
@@ -148,7 +148,7 @@ The heat sinks are based on coherent areas with a known heat demand. The coheren
 
 #### Load profiles
 
-The mentioned load profiles consist of 8760 points which represent the load for every hour of the 365 days. Further information about the **[load profiles can be found here.](en-https://gitlab.com/hotmaps/load_profile)**
+The mentioned load profiles consist of 8760 points which represent the load for every hour of the 365 days. Further information about the **[load profiles can be found here.](https://gitlab.com/hotmaps/load_profile)**
 
 #### Computation of costs
 
@@ -320,7 +320,7 @@ We can see that we just hit the local minimum. The difference in the cost approx
 This page is written by Ali Aydemir \* and David Schilling \*
 - [ ] This page was reviewed by Tobias Fleiter\*.
 
-\* [Fraunhofer ISI](en-https://isi.fraunhofer.de/)
+\* [Fraunhofer ISI](https://isi.fraunhofer.de/)
 Fraunhofer ISI, Breslauer Str. 48, 
 76139 Karlsruhe
 
@@ -336,7 +336,7 @@ License-Text: https://spdx.org/licenses/CC-BY-4.0.html
 
 
 ## Acknowledgement
-We would like to convey our deepest appreciation to the Horizon 2020 [Hotmaps Project](en-https://www.hotmaps-project.eu) (Grant Agreement number 723677), which provided the funding to carry out the present investigation.
+We would like to convey our deepest appreciation to the Horizon 2020 [Hotmaps Project](https://www.hotmaps-project.eu) (Grant Agreement number 723677), which provided the funding to carry out the present investigation.
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
 

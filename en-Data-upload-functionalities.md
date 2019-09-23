@@ -91,7 +91,7 @@ Reviewers:
 
 ## Acknowledgement
 
-We would like to convey our deepest appreciation to the Horizon 2020 [Hotmaps Project](en-https://www.hotmaps-project.eu) (Grant Agreement number 723677), which provided the funding to carry out the present investigation
+We would like to convey our deepest appreciation to the Horizon 2020 [Hotmaps Project](https://www.hotmaps-project.eu) (Grant Agreement number 723677), which provided the funding to carry out the present investigation
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
 

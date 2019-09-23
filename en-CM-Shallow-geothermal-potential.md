@@ -15,7 +15,7 @@
 
 ## Introduction
 
-It aims to compute the shallow geothermal potential based on [r.green.gshp.theoretical](en-https://grass.osgeo.org/grass76/manuals/addons/r.green.gshp.theoretical.html) according to the [G.pot methodology](https://www.sciencedirect.com/science/article/pii/S0360544216303358). 
+It aims to compute the shallow geothermal potential based on [r.green.gshp.theoretical](https://grass.osgeo.org/grass76/manuals/addons/r.green.gshp.theoretical.html) according to the [G.pot methodology](https://www.sciencedirect.com/science/article/pii/S0360544216303358). 
 In this module the output is the theoretical maximum energy that can be converted in the ideal case without considering the financial and spatial constraints. 
 
 
@@ -50,13 +50,13 @@ The advanced input are:
 * a raster map with the geothermal power potential [W]
 * a raster map with the geothermal energy potential [MWh]
 
-A deeper explanation of the default input raster is available in the [Hotmaps repository](en-https://gitlab.com/hotmaps/potential/potential_geothermal_raster)
+A deeper explanation of the default input raster is available in the [Hotmaps repository](https://gitlab.com/hotmaps/potential/potential_geothermal_raster)
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
 
 
 ## Method
-The method to define the energy potential is based on the [G.pot](en-https://www.sciencedirect.com/science/article/pii/S0360544216303358). The potential of shallow geothermal energy is computed by means of and empirical relationship proposed by [Casasso et al. (2016)](https://www.sciencedirect.com/science/article/pii/S0360544216303358).
+The method to define the energy potential is based on the [G.pot](https://www.sciencedirect.com/science/article/pii/S0360544216303358). The potential of shallow geothermal energy is computed by means of and empirical relationship proposed by [Casasso et al. (2016)](https://www.sciencedirect.com/science/article/pii/S0360544216303358).
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
 
@@ -88,7 +88,7 @@ The method to define the energy potential is based on the [G.pot](en-https://www
 This page is written by Pietro Zambelli\* and Giulia Garegnani\*.
 
 
-\* [Urban and Regional Energy System Group - EURAC Bozen](en-http://www.eurac.edu/en/research/technologies/renewableenergy/researchfields/Pages/Energy-strategies-and-planning.aspx)
+\* [Urban and Regional Energy System Group - EURAC Bozen](http://www.eurac.edu/en/research/technologies/renewableenergy/researchfields/Pages/Energy-strategies-and-planning.aspx)
 
 Institute of Renewable Energy
 Drususallee/Viale Druso 1
@@ -111,7 +111,7 @@ License-Text: https://spdx.org/licenses/CC-BY-4.0.html
 
 ## Acknowledgement
 
-We would like to convey our deepest appreciation to the Horizon 2020 [Hotmaps Project](en-https://www.hotmaps-project.eu) (Grant Agreement number 723677), which provided the funding to carry out the present investigation.
+We would like to convey our deepest appreciation to the Horizon 2020 [Hotmaps Project](https://www.hotmaps-project.eu) (Grant Agreement number 723677), which provided the funding to carry out the present investigation.
 
 
 

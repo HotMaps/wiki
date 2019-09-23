@@ -63,7 +63,7 @@ This code uses the concept of connected components from image processing library
 
 ## GitHub repository of this calculation module
 
-[Here](en-https://github.com/HotMaps/dh_potential/tree/develop) you get the bleeding-edge development for this calculation module.
+[Here](https://github.com/HotMaps/dh_potential/tree/develop) you get the bleeding-edge development for this calculation module.
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
 
@@ -72,18 +72,18 @@ Here, the calculation module is run for the case study of Aalborg in Denmark.
 
 * First, use the "Go To Place" bar to navigate to Aalborg and select the city.
 
-![Fig. 1](en-https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/cm_dh_potential/1.png "Navigate to a location")
+![Fig. 1](https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/cm_dh_potential/1.png "Navigate to a location")
 
 * Follow the steps as shown in the figure below:
   * Click on the "Layers" button to open the "Layers" window:
   * Click on the "CALCULATION MODULE" tab.
   * Click on the "DISTRICT HEATING POTENTIAL" button.
 
-![Fig. 2](en-https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/cm_dh_potential/2.png "Calculation module tab")
+![Fig. 2](https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/cm_dh_potential/2.png "Calculation module tab")
 
 * Now, the "DISTRICT HEATING POTENTIAL" opens and is ready to run.
 
-![Fig. 3](en-https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/cm_dh_potential/3.png "NDISTRICT HEATING POTENTIAL")
+![Fig. 3](https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/cm_dh_potential/3.png "NDISTRICT HEATING POTENTIAL")
 
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
@@ -97,7 +97,7 @@ To run the calculation module, follow the next steps:
 
 * Assign a name to the run session (optional - here, we chose "Test Run 1") and set the input parameters (here, default values were used).
 
-![Fig. 4-0](en-https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/cm_dh_potential/4-0.png "Name the run session")
+![Fig. 4-0](https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/cm_dh_potential/4-0.png "Name the run session")
 
 * Wait until the process is finished.
 * As output, indicators and diagrams are shown in the "RESULTS" window. The indicators show:
@@ -105,15 +105,15 @@ To run the calculation module, follow the next steps:
   * total DH potential in _*GWh*_ within the selected zone,
   * the share of DH potential from totoal demand, which is obtained by division of DH potential by total heat demand in the region.
 
-![Fig. 4-1](en-https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/cm_dh_potential/4-1.png "INDICATORS tab")
+![Fig. 4-1](https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/cm_dh_potential/4-1.png "INDICATORS tab")
 
 Additionally, also two diagrams are generated. The first one shows the DH potential in each DH area. The correponding labels can be found in the map, too. The second diagram illustrates the total DH potential in comparision with the total heat demand in the selected area.
 
-![Fig. 4-2](en-https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/cm_dh_potential/4-2.png "GRAPHICS tab")
+![Fig. 4-2](https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/cm_dh_potential/4-2.png "GRAPHICS tab")
 
 * Also a new layer is added to the canvas showing DH areas. This layer is added to the list of layers under the "Calculation module" category. The run session name distinguishes the outputs of this run from other ones.
 
-![Fig. 4-3](en-https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/cm_dh_potential/4-3.png "Calculation module layers")
+![Fig. 4-3](https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/cm_dh_potential/4-3.png "Calculation module layers")
 
 Following these steps, you will get an impression about the input values and potential DH areas.
 
@@ -128,7 +128,7 @@ Depending on your experience and  local knowledge, you may increase or decrease 
 
 * Assign a name to the run session (optional - here, we chose "Test Run 2") and set the input parameters (_*250 MWh/ha*_ for min. heat demand in hectare and _*35 GWh/year*_ for the minimum demand in DH area).
 
-![Fig. 5-0](en-https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/cm_dh_potential/5-0.png "Name the run session")
+![Fig. 5-0](https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/cm_dh_potential/5-0.png "Name the run session")
 
 * Wait until the process is finished.
 * As output, indicators and diagrams are shown in the "RESULTS" window.  The indicators show:
@@ -136,15 +136,15 @@ Depending on your experience and  local knowledge, you may increase or decrease 
   * total DH potential in _*GWh*_ within the selected zone,
   * the share of DH potential from totoal demand, which is obtained by division of DH potential by total heat demand in the region.
 
-![Fig. 5-1](en-https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/cm_dh_potential/5-1.png "INDICATORS tab")
+![Fig. 5-1](https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/cm_dh_potential/5-1.png "INDICATORS tab")
 
 Additionally, also two diagrams are generated. The first one shows the DH potential in each DH area. The correponding labels can be found in the map, too. The second diagram illustrates the total DH potential in comparision with the total heat demand in the selected area.
 
-![Fig. 5-2](en-https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/cm_dh_potential/5-2.png "GRAPHICS tab")
+![Fig. 5-2](https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/cm_dh_potential/5-2.png "GRAPHICS tab")
 
 * Also a new layer is added to the canvas showing DH areas. This layer is added to the list of layers under the "Calculation module" category. The run session name distiguishes the outputs of this run from other ones.
 
-![Fig. 5-3](en-https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/cm_dh_potential/5-3.png "Calculation module layers")
+![Fig. 5-3](https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/cm_dh_potential/5-3.png "Calculation module layers")
 
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
@@ -169,7 +169,7 @@ This page is written by Mostafa Fallahnejad\*.
 
 - [ ] This page was reviewed by Lukas Kranzl\*.
 
-\* [Energy Economics Group - TU Wien](en-https://eeg.tuwien.ac.at/)
+\* [Energy Economics Group - TU Wien](https://eeg.tuwien.ac.at/)
 
 Institute of Energy Systems and Electrical Drives
 
@@ -197,7 +197,7 @@ License-Text: https://spdx.org/licenses/CC-BY-4.0.html
 
 ## Acknowledgement
 
-We would like to convey our deepest appreciation to the Horizon 2020 [Hotmaps Project](en-https://www.hotmaps-project.eu) (Grant Agreement number 723677), which provided the funding to carry out the present investigation.
+We would like to convey our deepest appreciation to the Horizon 2020 [Hotmaps Project](https://www.hotmaps-project.eu) (Grant Agreement number 723677), which provided the funding to carry out the present investigation.
 
 
 

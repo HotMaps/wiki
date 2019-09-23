@@ -18,7 +18,7 @@ The Hotmaps Wiki pages are categorized in four classes:
 * Developers area
 
 For each section, a structure with several sections is suggested. The sections in **BOLD** must be part of the WIKI page. The rest, on the other hand, should be added if applicable.
-As a sample page, please have a look into [this Wiki page](en-https://github.com/HotMaps/hotmaps_wiki/wiki/CM-District-heating-potential-user-defined-thresholds).
+As a sample page, please have a look into [this Wiki page](https://github.com/HotMaps/hotmaps_wiki/wiki/CM-District-heating-potential-user-defined-thresholds).
 
 Wiki pages can become very long due to embedded figures. In order to help the readers to navigate in a page easily and easily find what they are looking for, please add a “**Table of contents**” on top of each page that you are writing. Additionally, use a “<code><ins>**[To Top](#table-of-contents)**</ins></code>” button at the end of each section with a hyperlink to the “Table of content” at the top of the Wiki page.
 
@@ -118,7 +118,7 @@ Here, the most important point is to keep track of all Hotmaps repositories on G
 This page is written by Mostafa Fallahnejad\*.
 - [x] This page was reviewed by Lukas Kranzl\*.
 
-\* [Energy Economics Group - TU Wien](en-https://eeg.tuwien.ac.at/)
+\* [Energy Economics Group - TU Wien](https://eeg.tuwien.ac.at/)
 Institute of Energy Systems and Electrical Drives
 Gusshausstrasse 27-29/370
 1040 Wien
@@ -138,7 +138,7 @@ License-Text: https://spdx.org/licenses/CC-BY-4.0.html
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
 
 ## Acknowledgement
-We would like to convey our deepest appreciation to the Horizon 2020 [Hotmaps Project](en-https://www.hotmaps-project.eu) (Grant Agreement number 723677), which provided the funding to carry out the present investigation.
+We would like to convey our deepest appreciation to the Horizon 2020 [Hotmaps Project](https://www.hotmaps-project.eu) (Grant Agreement number 723677), which provided the funding to carry out the present investigation.
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
 

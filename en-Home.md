@@ -30,7 +30,7 @@ The aim of section "How to apply hotmaps toolbox?" is to guide the Hotmaps users
 
 The developers section contains all information required for developers to contribute to the Hotmaps toolbox or to understand how it works. It explains amongst all the IT infrastructure of the Hotmaps toolbox, data set integration, contribution in calculation module development etc.
 
-**The Hotmaps Wiki is a living document**, i.e. it grows as the Hotmaps toolbox grows. The Hotmaps developers continue updating Hotmaps Wiki pages by introduction of new updates, improvements, functionalities and calculation modules. Please use [this guideline](en-https://github.com/HotMaps/hotmaps_wiki/wiki/Guidelines-for-writing-a-Hotmaps-Wiki-page) for writing a Hotmaps Wiki page.
+**The Hotmaps Wiki is a living document**, i.e. it grows as the Hotmaps toolbox grows. The Hotmaps developers continue updating Hotmaps Wiki pages by introduction of new updates, improvements, functionalities and calculation modules. Please use [this guideline](https://github.com/HotMaps/hotmaps_wiki/wiki/Guidelines-for-writing-a-Hotmaps-Wiki-page) for writing a Hotmaps Wiki page.
 
 We hope you enjoy exploring the toolbox and find it helpful for your heating and cooling planning!
 
@@ -69,13 +69,13 @@ We hope you enjoy exploring the toolbox and find it helpful for your heating and
 ## How to apply Hotmaps toolbox
 Each calculation module can be used to analyse different parts of the heating and cooling system and different analysis questions. The calculation modules can also be used as a chain of tools to derive scenarios for heating and cooling of defined regions / areas. For the demonstration of the Hotmaps toolbox the calculation modules are used according to the following toolchain:
 
-![](en-https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/Hotmaps_toolchain_2019-05-09.png)
+![](https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/Hotmaps_toolchain_2019-05-09.png)
 
 For additional supports on heating and cooling planning, please refer to the Hotmaps handbook:
-* [Summary of the Hotmaps Handbooks for strategic heat planning](en-https://www.hotmaps-project.eu/wp-content/uploads/2019/04/Summary-Hotmaps-Handbook.pdf)
-* [Handbook 1 – Definition &amp; experiences of strategic heat planning](en-https://vbn.aau.dk/da/publications/definition-amp-experiences-of-strategic-heat-planning)
-* [Handbook 2 – Guidance for comprehensive assessment of efficient heating and cooling](en-https://vbn.aau.dk/da/publications/guidance-for-the-comprehensive-assessment-of-efficient-heating-an)
-* [Appendix report to the Handbook for strategic heat planning: Case descriptions](en-https://vbn.aau.dk/da/publications/appendix-report-to-the-hotmaps-handbook-for-strategic-heat-planni)
+* [Summary of the Hotmaps Handbooks for strategic heat planning](https://www.hotmaps-project.eu/wp-content/uploads/2019/04/Summary-Hotmaps-Handbook.pdf)
+* [Handbook 1 – Definition &amp; experiences of strategic heat planning](https://vbn.aau.dk/da/publications/definition-amp-experiences-of-strategic-heat-planning)
+* [Handbook 2 – Guidance for comprehensive assessment of efficient heating and cooling](https://vbn.aau.dk/da/publications/guidance-for-the-comprehensive-assessment-of-efficient-heating-an)
+* [Appendix report to the Handbook for strategic heat planning: Case descriptions](https://vbn.aau.dk/da/publications/appendix-report-to-the-hotmaps-handbook-for-strategic-heat-planni)
 
 
 ## For developers
@@ -85,7 +85,7 @@ For additional supports on heating and cooling planning, please refer to the Hot
 
 **HAVE FUN EXPLORING THE HOTMAPS TOOLBOX!**
 
-![](en-https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/Hotmaps_test.JPG)
+![](https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/Hotmaps_test.JPG)
 
 ## References
 [1] EU H2020 Project: Mapping and analyses of the current and future (2020 - 2030) heat-ing/cooling fuel deployment (fossil/renewables). WP1 Report. 2016. accessed via https://ec.europa.eu/energy/sites/ener/files/documents/Report%20WP1.pdf

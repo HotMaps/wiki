@@ -66,7 +66,7 @@ The input parameters and layers as well as output layers and parameters are as f
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
 
 ## Method
-Here, a brief explanation of methodology is provided. For a more complete explanation of the methodology and formulations, please to the [paper](en-https://www.sciencedirect.com/science/article/pii/S1876610218304740) published about this calculation module [[1](#References)].
+Here, a brief explanation of methodology is provided. For a more complete explanation of the methodology and formulations, please to the [paper](https://www.sciencedirect.com/science/article/pii/S1876610218304740) published about this calculation module [[1](#References)].
 
 The aim of the calculation module is to find regions in which DH system can be built without exceeding a user-defined average specific cost ceiling in _*EUR/MWh*_. This is done under following assumptions:
 
@@ -148,7 +148,7 @@ Mostafa Fallahnejad, in Hotmaps-Wiki, https://github.com/HotMaps/hotmaps_wiki/wi
 This page is written by Mostafa Fallahnejad\*.
 - [ ] This page was reviewed by Lukas Kranzl\*.
 
-\* [Energy Economics Group - TU Wien](en-https://eeg.tuwien.ac.at/)
+\* [Energy Economics Group - TU Wien](https://eeg.tuwien.ac.at/)
 Institute of Energy Systems and Electrical Drives
 Gusshausstrasse 27-29/370
 1040 Wien
@@ -169,7 +169,7 @@ License-Text: https://spdx.org/licenses/CC-BY-4.0.html
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
 
 ## Acknowledgement
-We would like to convey our deepest appreciation to the Horizon 2020 [Hotmaps Project](en-https://www.hotmaps-project.eu) (Grant Agreement number 723677), which provided the funding to carry out the present investigation.
+We would like to convey our deepest appreciation to the Horizon 2020 [Hotmaps Project](https://www.hotmaps-project.eu) (Grant Agreement number 723677), which provided the funding to carry out the present investigation.
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
 

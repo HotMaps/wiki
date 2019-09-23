@@ -19,7 +19,7 @@ There are different kinds of data:
 
 The datasets can be accessed via a geospatial server (GeoServer) which provides different services (WMS/WFS/...) that allows anyone to display, include or use those datasets.
 
-The datasets can be found on the [Gitlab repository](en-https://gitlab.com/hotmaps)
+The datasets can be found on the [Gitlab repository](https://gitlab.com/hotmaps)
 
 ## Query
 
@@ -40,7 +40,7 @@ The technologies used for the database are:
 ## References
 
 - Simon Pezzutto, Stefano Zambotti, Silvia Croce, Pietro Zambelli, Giulia Garegnani, Chiara Scaramuzzino, Ramón Pascual Pascuas, Alyona Zubaryeva, Franziska Haas, Dagmar Exner (EURAC), Andreas Mueller (e-think), Michael Hartner (TUW), Tobias Fleiter, Anna-Lena Klingler, Matthias Kühnbach, Pia Manz, Simon Marwitz, Matthias Rehfeldt, Jan Steinbach, Eftim Popovski (Fraunhofer ISI) Reviewed by Lukas Kranzl, Sara Fritz (TUW) Hotmaps Project, **D2.3 WP2 Report – Open Data Set for the EU28, 2018** 
-  [www.hotmaps-project.eu](en-http://www.hotmaps-project.eu/wp-content/uploads/2018/05/D2.3-Hotmaps_FINAL-VERSION_for-upload.pdf)
+  [www.hotmaps-project.eu](http://www.hotmaps-project.eu/wp-content/uploads/2018/05/D2.3-Hotmaps_FINAL-VERSION_for-upload.pdf)
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
 
@@ -61,7 +61,7 @@ Reviewers:
 
 ## Acknowledgement
 
-We would like to convey our deepest appreciation to the Horizon 2020 [Hotmaps Project](en-https://www.hotmaps-project.eu) (Grant Agreement number 723677), which provided the funding to carry out the present investigation
+We would like to convey our deepest appreciation to the Horizon 2020 [Hotmaps Project](https://www.hotmaps-project.eu) (Grant Agreement number 723677), which provided the funding to carry out the present investigation
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
 

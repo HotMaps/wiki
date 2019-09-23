@@ -75,7 +75,7 @@ Here, the calculation module is run for the Lombardy region in Italy (NUTS2).
 
 * First, select Nuts2 and the chosen area.
 
-![Fig. 1](en-https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/cm_solar_PV/default_values_01.png "Select a region")
+![Fig. 1](https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/cm_solar_PV/default_values_01.png "Select a region")
 
 * Follow the steps as shown in the figure below:
   * Click on the "Layers" button to open the "Layers" window:
@@ -96,7 +96,7 @@ To run the calculation module, follow the next steps:
 
 * Assign a name to the run session (optional - here, we chose "Test Run 1") and set the input parameters (here, default values were used).
 
-![Fig. 2](en-https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/cm_solar_PV/default_values_02.png "Test run 1 with default values")
+![Fig. 2](https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/cm_solar_PV/default_values_02.png "Test run 1 with default values")
 
 * Wait until the process is finished.
 * As output, indicators and diagrams are shown in the "RESULTS" window. The indicators show:
@@ -106,13 +106,13 @@ To run the calculation module, follow the next steps:
   * Levelized Cost of Energy
 
 
-![Fig. 3](en-https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/cm_solar_PV/default_values_03.png "Test run 1 INDICATORS tab")
+![Fig. 3](https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/cm_solar_PV/default_values_03.png "Test run 1 INDICATORS tab")
 
 
 * Also a new layer is added to the canvas showing the buildings with higher energy potential. This layer is added to the list of layers under the "Calculation module" category. The run session name distinguishes the outputs of this run from other ones.
 If you deselected the default layers and select TEST RUN 1 you can visualize the most suitable areas for PV plants installations.
 
-![Fig. 4](en-https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/cm_solar_PV/default_values_03.png "Test run 1 Calculation module LAYERS")
+![Fig. 4](https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/cm_solar_PV/default_values_03.png "Test run 1 Calculation module LAYERS")
 
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
@@ -150,7 +150,7 @@ Giulia Garegnani, in Hotmaps-Wiki, https://github.com/HotMaps/hotmaps_wiki/wiki/
 This page is written by Giulia Garegnani\*.
 
 
-\* [Urban and Regional Energy System Group - EURAC Bozen](en-http://www.eurac.edu/en/research/technologies/renewableenergy/researchfields/Pages/Energy-strategies-and-planning.aspx)
+\* [Urban and Regional Energy System Group - EURAC Bozen](http://www.eurac.edu/en/research/technologies/renewableenergy/researchfields/Pages/Energy-strategies-and-planning.aspx)
 
 Institute of Renewable Energy
 Drususallee/Viale Druso 1
@@ -173,7 +173,7 @@ License-Text: https://spdx.org/licenses/CC-BY-4.0.html
 
 ## Acknowledgement
 
-We would like to convey our deepest appreciation to the Horizon 2020 [Hotmaps Project](en-https://www.hotmaps-project.eu) (Grant Agreement number 723677), which provided the funding to carry out the present investigation.
+We would like to convey our deepest appreciation to the Horizon 2020 [Hotmaps Project](https://www.hotmaps-project.eu) (Grant Agreement number 723677), which provided the funding to carry out the present investigation.
 
 
 
