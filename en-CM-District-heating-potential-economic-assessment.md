@@ -39,7 +39,7 @@ The input parameters and layers as well as output layers and parameters are as f
   * Inner city
   * Outer city
   * Park
-* Full load hours
+* Full load hours 
 
 **Output layers and parameters are:**
 
