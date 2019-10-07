@@ -3,6 +3,7 @@
 * [Introduction](#introduction)
 * [Inputs and outputs](#inputs-and-outputs)
 * [Method](#method)
+  * [Solver options](#solver-options)
 * [GitHub repository of this calculation module](#GitHub-Repository-of-this-calculation-module)
 * [Sample run](#sample-run)
   * [Test Run: default input values](#test-run-1-default-input-values-for-the-case-study-of-Vienna)
@@ -86,7 +87,13 @@ The determination of economic DH areas is done in three steps. For more details 
 
 **STEP 3:  Determination of economic DH areas and transmission line capacities and configuration required to connect these areas to each other.**
 
+### Solver Options
+This calculation module, uses Gurobi solver for solving the optimization problem. In order to guarantee a stable functionality of the calculation module we have introduced several options for solving the optimization problem. These options are as follows:
 
+* The gap between the lower and upper objective bound is set to 0.01 (MIPGap = 1e-2).
+* The relative difference between the primal and dual objective value was set to 0.0001 (BarConvTol = 1e-4).
+* The solver focus is set to 1 to find the feasible solutions. Here, the focus is neither optimality nor objective bound (MIPFocus = 1).
+* We have limited the amount of the used RAM to 500 mb in order not to enter to critical situations in case of concurrent runs by users (NodefileStart = 0.5).
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
 
