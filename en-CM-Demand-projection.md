@@ -42,14 +42,20 @@ This page is written by Andreas Müller\*.
 
 \* [e-think energy research](http://www.e-think.ac.at)
 e-think energy research
+
 Argentinierstrasse 18/10
+
 A-1040 Vienna
+
 Austria
 
 \* [TU Wien - Energy Economics Group](http://www.eeg.tuwien.ac.at)
 Institute of Energy Systems and Electrical Drives (ESEA)
+
 Gußhausstraße 25 – 29/E37003
+
 A-1040 Vienna
+
 Austria
 
 
