@@ -3,6 +3,7 @@
 The aim of the calculation module is to transfer the scenario results for the development of the energy demand to different regions.
 
 **The procedure is as follows**
+
 Workflow performed prior to the HotMaps toolbox 
 1. Precalculate Invert/EE-Lab results on the Country level
 2. Assessment what happens with different types of buildings: Residential and Non-Residential buildings / 3 construction Periods and newly constructed buildings on the country level
