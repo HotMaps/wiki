@@ -36,7 +36,7 @@ The use of excess heat for district heating.
   Rate of interest for credit required to build the network.
 * Cost factor
 
-  Factor to adapt network costs in case the default values do not accurately represent the costs. The nnvestments necessary for the network are multiplied with this factor. [See](Computation of costs)
+  Factor to adapt network costs in case the default values do not accurately represent the costs. The investments necessary for the network are multiplied with this factor. [See](https://github.com/HotMaps/hotmaps_wiki/wiki/en-CM-Excess-heat-transport-potential#computation-of-costs).
 * Operational costs in %
 * Threshold value for transmission lines in ct/kWh
 #### Performance Parameters
