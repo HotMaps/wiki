@@ -56,7 +56,7 @@ The use of excess heat for district heating.
 
 * Transmission lines
 
-  Shape file showing the suggested transmission lines with their temperature, anual heat flow and cost
+  Shape file showing the suggested transmission lines with their temperature, anual heat flow and cost. Details can be found here.
 
 #### Indicators
 * Total excess heat in selected area in GWh
@@ -94,6 +94,39 @@ The use of excess heat for district heating.
 * Graphic showing average daily heat demand and excess
 
   Details can be found here.
+
+#### Examples of Layer
+
+#### Examples of Graphics
+
+##### DH potential and excess heat
+<figure>
+<img alt="" src="https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/cm_excess_heat/heat_compare3.PNG"/>
+<figcaption><i>This graphic compares the DH potential, total excess heat, connected excess heat and used excess heat.</i></figcaption>
+</figure>
+Ideally the excess heat used should be equal to total excess heat available. 
+
+<figure>
+<img alt="" src="https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/cm_excess_heat/network_cost_to_flow3.PNG"/>
+<figcaption><i>This graphic plots the costs of the network compared to the anual flow. The orange point represents the current network with its set transmission line threshold</i></figcaption>
+</figure>
+
+<figure>
+<img alt="" src="https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/cm_excess_heat/normalized_cost3.PNG"/>
+<figcaption><i>This graphic plots levelized heating costs and the necessary transmission line threshold for a certain flow. The orange points represent the value with the currently set transmisson line threshold</i></figcaption>
+</figure>
+
+<figure>
+<img alt="" src="https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/cm_excess_heat/levelized_cost_simp3.PNG"/>
+<figcaption><i>Sometimes it can be helpfull to hide the tranmission line threshold in the graphic to analyse the levelized costs.</i></figcaption>
+</figure>
+
+We can see that we just hit the local minimum. The difference in the cost approximation graphs to the indicators is caused by approximation errors. But those errors are mostly systematic and hence do not offset the minimum but just scale the curve in a different way. The levelized cost indicator now shows 0.84 ct/kWh instead of the 1.09 ct/kWh in the second run.
+
+<figure>
+<img alt="" src="https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/cm_excess_heat/profiles3.PNG"/>
+<figcaption><i>This graphic shows the total flow through the network throughout the year. The lower graphic represents the average day. This time with time resolution set to "hour" the average day is represented correctly.</i></figcaption>
+</figure>
  
 ## Method
 ### Overview
