@@ -20,9 +20,11 @@ The use of excess heat for district heating.
 * Load profiles for residential heating and domestic hot water
 #### Provided by user
 * Min. heat demand in hectare
-...See [DH Potential CM](https://github.com/HotMaps/hotmaps_wiki/wiki/en-CM-District-heating-potential-areas-user-defined-thresholds)
+
+  See [DH Potential CM](https://github.com/HotMaps/hotmaps_wiki/wiki/en-CM-District-heating-potential-areas-user-defined-thresholds)
 * Min. heat demand in a DH area 
-...See [DH Potential CM](hhttps://github.com/HotMaps/hotmaps_wiki/wiki/en-CM-District-heating-potential-areas-user-defined-thresholds)
+  
+  See [DH Potential CM](hhttps://github.com/HotMaps/hotmaps_wiki/wiki/en-CM-District-heating-potential-areas-user-defined-thresholds)
 * Search radius in km
 * Lifetime of equipment in years
 * Discount rate in %
