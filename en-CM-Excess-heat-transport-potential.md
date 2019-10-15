@@ -51,11 +51,14 @@ The use of excess heat for district heating.
 
   Sets the entry point distance in longitude and latitude direction in dh areas.
 
-### Output layers and indicators
+### Output
+#### Layers
 
 * Transmission lines
 
   Shape file showing the suggested transmission lines with their temperature, anual heat flow and cost
+
+#### Indicators
 * Total excess heat in selected area in GWh
 
   Total excess heat available of industrial plants in selected area and proximity.
@@ -74,6 +77,8 @@ The use of excess heat for district heating.
 * Levelised costs of heat supply in ct/kWh
 
   levelized cost of heat of the complete network.
+
+#### Graphics
 * Graphic showing DH potential, total excess heat, connected excess heat and used excess heat
 
   Details can be found here.
