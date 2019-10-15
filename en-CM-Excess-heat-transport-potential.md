@@ -26,9 +26,17 @@ The use of excess heat for district heating.
 
   See [DH Potential CM](https://github.com/HotMaps/hotmaps_wiki/wiki/en-CM-District-heating-potential-areas-user-defined-thresholds)
 * Search radius in km
+
+  The maximum lenght of a transmission line from point to point.
 * Lifetime of equipment in years
+
+  Levelized costs of heat are in refence to this time period.
 * Discount rate in %
+
+  Rate of interest for credit required to build the network.
 * Cost factor
+
+  Factor to adapt network costs in case the default values do not accurately represent the costs. The nnvestments necessary for the network are multiplied with this factor. [See](Computation of costs)
 * Operational costs in %
 * Threshold value for transmission lines in ct/kWh
 #### Performance Parameters
