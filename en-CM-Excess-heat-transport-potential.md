@@ -57,12 +57,26 @@ The use of excess heat for district heating.
 
   Shape file showing the suggested transmission lines with their temperature, anual heat flow and cost
 * Total excess heat in selected area in GWh
+
+  Total excess heat available of industrial plants in selected area and proximity.
 * Excess heat connected in GWh
+
+  Total excess heat available of industrial plants connected to a network.
 * Excess heat used in GWh
-* Cost of network in €
+
+  Actual excess heat used for dh.
+* Investments necessary for the network in €
+
+  Investment needed to build the network.
 * Annual costs of network in €/year
+
+  Costs caused by the annuity and operational costs of network per year.
 * Levelised costs of heat supply in ct/kWh
+
+  levelized cost of heat of the complete network.
 * Graphic showing DH potential, total excess heat, connected excess heat and used excess heat
+
+  Details can be found here.
 * Graphic showing monthly heat demand and excess
 * Graphic showing average daily heat demand and excess
  
