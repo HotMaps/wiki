@@ -38,7 +38,11 @@ The use of excess heat for district heating.
 
   Factor to adapt network costs in case the default values do not accurately represent the costs. The investments necessary for the network are multiplied with this factor. Default costs can be found [here](https://github.com/HotMaps/hotmaps_wiki/wiki/en-CM-Excess-heat-transport-potential#computation-of-costs).
 * Operational costs in %
+
+  Operational costs of network per year. In percent of investments necessary for the network.
 * Threshold value for transmission lines in ct/kWh
+
+  The maximum levelized cost of heat of each induvidual transmission line. This parameter can be used to control the levelized cost of heat for the whole network. A lower value equals lower levelized cost of heat but also a reduction in excess heat used and vice versa.
 #### Performance Parameters
 * Time resolution (hour, day, week, month, year)
 * Spatial resolution in km
