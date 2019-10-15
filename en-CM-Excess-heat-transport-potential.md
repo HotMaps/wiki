@@ -49,11 +49,13 @@ The use of excess heat for district heating.
   Sets the interval between the network flow calculations over the whole year.
 * Spatial resolution in km
 
-  Sets the entry point distance in longitude and latitude in dh areas.
+  Sets the entry point distance in longitude and latitude direction in dh areas.
 
 ### Output layers and indicators
 
 * Transmission lines
+
+  Shape file showing the suggested transmission lines with their temperature, anual heat flow and cost
 * Total excess heat in selected area in GWh
 * Excess heat connected in GWh
 * Excess heat used in GWh
