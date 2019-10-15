@@ -71,6 +71,10 @@ Each calculation module can be used to analyse different parts of the heating an
 
 ![](https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/Hotmaps_toolchain_2019-05-09.png)
 
+* [Guideline for a possible use of the Hotmaps toolbox on local level](en-GL-local)
+* [Guideline for a possible use of the Hotmaps toolbox on national level](en-GL-national)
+
+
 For additional supports on heating and cooling planning, please refer to the Hotmaps handbook:
 * [Summary of the Hotmaps Handbooks for strategic heat planning](https://www.hotmaps-project.eu/wp-content/uploads/2019/04/Summary-Hotmaps-Handbook.pdf)
 * [Handbook 1 – Definition &amp; experiences of strategic heat planning](https://vbn.aau.dk/da/publications/definition-amp-experiences-of-strategic-heat-planning)
