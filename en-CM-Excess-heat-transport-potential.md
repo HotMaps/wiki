@@ -77,8 +77,18 @@ The use of excess heat for district heating.
 * Graphic showing DH potential, total excess heat, connected excess heat and used excess heat
 
   Details can be found here.
+* Graphic showing annual delivered excess heat to investment necessary for the network
+
+  Details can be found here.
+* Graphic showing annual deliverd excess heat to levelized cost for network and corresponding transmission line threshold
+
+  Details can be found here.
 * Graphic showing monthly heat demand and excess
+
+  Details can be found here.
 * Graphic showing average daily heat demand and excess
+
+  Details can be found here.
  
 ## Method
 ### Overview
