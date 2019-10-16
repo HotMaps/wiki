@@ -133,20 +133,22 @@ The x-axis represents the annual flow and the y axis the necessary investment fo
 <img alt="" src="https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/cm_excess_heat/normalized_cost3.PNG"/>
 <figcaption><i>This graphic plots levelized heating costs and the necessary transmission line threshold for a certain flow. The orange points represent the value with the currently set transmission line threshold</i></figcaption></figure>
 
-The x-axis represents the annual flow and the y axis both <span style="color:#3e95cd">levelized costs of heat</span> and the <span style="color:#32CD32">transmission line threshold</span>.
-
+The x-axis represents the annual flow and the y axis both <span style="color:#3e95cd">levelized costs of heat</span> and the <span style="color:#32CD32">transmission line threshold</span>. The orange points represents the network at the currently set [transmission line threshold](https://github.com/HotMaps/hotmaps_wiki/wiki/en-CM-Excess-heat-transport-potential#provided-by-user). Since the transmission line threshold curve can scale a lot higher than the levelized costs it might be helpful to disable the view of the transmission line threshold curve like shown in the picture below.
 
 <figure>
 <img alt="" src="https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/cm_excess_heat/levelized_cost_simp3.PNG"/>
-<figcaption><i>Sometimes it can be helpful to hide the transmission line threshold in the graphic to analyze the levelized costs.</i></figcaption>
-</figure>
+<figcaption><i>Sometimes it can be helpful to hide the transmission line threshold in the graphic to analyze the levelized costs.</i></figcaption></figure>
 
-We can see that we just hit the local minimum. The difference in the cost approximation graphs to the indicators is caused by approximation errors. But those errors are mostly systematic and hence do not offset the minimum but just scale the curve in a different way. The levelized cost indicator now shows 0.84 ct/kWh instead of the 1.09 ct/kWh in the second run.
+Deviations from the [levelized costs of heat](https://github.com/HotMaps/hotmaps_wiki/wiki/en-CM-Excess-heat-transport-potential#indicators) indicator are common since the graphic is generated at a lower accuracy because of computational complexity. The trend and course of the graph represent how the [transmission line threshold](https://github.com/HotMaps/hotmaps_wiki/wiki/en-CM-Excess-heat-transport-potential#provided-by-user) affects the network and can be really helpful. Once a desired levelized cost of heat is chosen the transmission line threshold curve can be reenabled and the corresponding transmission line threshold for the desired levelized cost can be read by hovering over the curve at this point. More details on how to use the graphic can be found here.
+
+##### Load curves
 
 <figure>
 <img alt="" src="https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/cm_excess_heat/profiles3.PNG"/>
-<figcaption><i>This graphic shows the total flow through the network throughout the year. The lower graphic represents the average day. This time with time resolution set to "hour" the average day is represented correctly.</i></figcaption>
+<figcaption><i>This graphic shows the total flow through the network throughout the year. The lower graphic represents the average day.</i></figcaption>
 </figure>
+
+The x-axis represents time and the y-axis power. The blue curves represents the heat demand of the DH areas and the red the excess heat available. The intersection of both curves represent the actual total flow of heat. The upper graphic shows the flow over the year and the bottom one the flow of the average day. Note that [time resolution](https://github.com/HotMaps/hotmaps_wiki/wiki/en-CM-Excess-heat-transport-potential#provided-by-user) needs to be set at least to "month" for the upper and "hour" for the lower graphic to be representative.
 
 ## Method
 
