@@ -44,9 +44,9 @@ The use of excess heat for district heating.
 
   The maximum levelized cost of heat of each induvidual transmission line. This parameter can be used to control the levelized cost of heat for the whole network. A lower value equals lower levelized cost of heat but also a reduction in excess heat used and vice versa.
 #### Performance Parameters
-* Time resolution (hour, day, week, month, year)
+* Time resolution
 
-  Sets the interval between the network flow calculations over the whole year.
+  Sets the interval between the network flow calculations over the whole year. Can be one of these values: (hour, day, week, month, year)
 * Spatial resolution in km
 
   Sets the entry point distance in longitude and latitude direction in dh areas.
