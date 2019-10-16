@@ -138,7 +138,7 @@ The use of excess heat for district heating.
 <img alt="" src="https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/cm_excess_heat/shp_file.PNG"/>
 <figcaption><i>Example of a transmission line displayed in the toolbox</i></figcaption></figure>
 
-By clicking on the transmission line additional information will pop up. 
+By clicking on the transmission line additional information will pop up.
 
 #### Examples of Graphics
 
@@ -264,7 +264,7 @@ The flow through the edges connecting the real sources or sinks to the infinite 
 
 <figure>
 <img alt="" src="https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/cm_excess_heat/max_flow_graph_with_capacities.svg"/>
-<figcaption><i> <br/> Example of a maximum flow graph and the capacites of each source and sink. The right graph shows the maximum flow allowed through each edge after the normalization. Note that the maximum flow allowed through the edges with infinity symbol is actually capped to 1000 in the implementation.</i></figcaption>
+<figcaption><i> <br/> Example of a maximum flow graph and the capacities of each source and sink. The right graph shows the maximum flow allowed through each edge after the normalization. Note that the maximum flow allowed through the edges with infinity symbol is actually capped to 1000 in the implementation.</i></figcaption>
 </figure>
 
 The implementation of the igraph maximum flow function uses the Push-relabel algorithm. This type of algorithm is not cost sensitive and might not always find the shortest way of routing the flow. A cost sensitive algorithm is not available in igraph and the performance would be likely to low to be able to resolve an hourly based flow throughout the year. But because of the prior reduction to a minimum spanning tree the cases in which a non-ideal solution is chosen are very limited and unlikely. The Push-relabel algorithm also has tendency to rout the flow through the least amount of edges. The igraph implementation seems to be deterministic in the order of allocation of the flow if the graphs are at least automorphisms, which is important for the hourly based flow calculation since any artificially introduced flow oscillation between edges is undesirable.
@@ -340,9 +340,28 @@ First the heat sources and sinks are loaded with their load profiles. Then the f
 
 ## Sample run
 
+### Quick start
+
+The present CM - EXCESS HEAT TRANSPORT POTENTIAL is intended to help the user to identify integration potentials for excess heat in district heating networks. Although numerous analysis functions are given in order not to restrict the user, it must be explicitly pointed out that this is not a detailed technical planning.
+The potentials are based on the CM - DISTRICT HEATING POTENTIAL. This CM identifies areas with favorable conditions for district heating networks. The CM - EXCESS HEAT TRANSPORT POTENTIAL thus shows how much heat could be covered by industrial excess heat in these areas. However, this does not mean that a district heating network already exists in this region. An application-oriented use of the tool for practitioners could therefore look as follows:
+* If necessary, add your own data on excess heat providing companies in the region with the CM NAME FOLGT.
+* Execute the CM - EXCESS HEAT TRANSPORT POTENTIAL.
+* The Value
+  <figure>
+  <img alt="" src="https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/cm_excess_heat/heat_compare1.PNG"/>
+  <figcaption><i>This graphic compares the DH potential, total excess heat, connected excess heat and used excess heat.</i></figcaption>
+  </figure>
+  shows how much heat could be covered by excess heat in the investigated area.
+* Value (@David Referenz auf Tabelle ergänzen) shows the specific heat production costs for the whole network. Note: the displayed costs have been estimated using a simplified approach. These costs do not apply to individual pipelines (@David: bitte keine Kosten an die Leitungen – im DEV sicherstellen). However, the displayed costs can be used as a simplified starting assumption as transport costs for the integration of excess heat into a possibly nearby district heating network.
+
+From the above, the following work hierarchy could be used:
+1) Check whether a district heating network exists or is planned in the region under consideration.
+2) The displayed pipes contain flows. There you can see how much excess heat is transported from the respective sources. The affected companies could now be contacted. Probably first the companies with the high quantities. (@David -> bitte Grafik ergänzen, um Vorgehensweise zu zueigen.)
+3) If the operator of the district heating network and the producer of the excess heat are interested in cooperating, more detailed feasibility studies could be commissioned. In the best case, the displayed data will help to initiate real projects.
+
 ### Sample run 1
 
-Sample run in PL22 with default parameters. It is recommanded to turn on excess heat sites in the layers tab.
+Sample run in PL22 with default parameters. It is recommended to turn on excess heat sites in the layers tab.
 
 <figure>
 <img alt="" src="https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/cm_excess_heat/sample_run1.PNG"/>
