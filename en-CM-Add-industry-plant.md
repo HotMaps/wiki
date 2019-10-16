@@ -347,6 +347,8 @@ The potentials are based on the CM - DISTRICT HEATING POTENTIAL. This CM identif
 
 * If necessary, add your own data on excess heat providing companies in the region with the [add industry plant](https://github.com/HotMaps/hotmaps_wiki/wiki/en-CM-Add-industry-plant) cm.
 
+* Turn on the "Industrial sites excess heat"
+
 * Execute the CM - EXCESS HEAT TRANSPORT POTENTIAL.
 
 * The Value
