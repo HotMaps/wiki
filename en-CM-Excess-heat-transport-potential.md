@@ -104,8 +104,8 @@ The use of excess heat for district heating.
 <img alt="" src="https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/cm_excess_heat/heat_compare3.PNG"/>
 <figcaption><i>This graphic compares the DH potential, total excess heat, connected excess heat and used excess heat.</i></figcaption>
 </figure>
-More information about the annual heat demand and DH potential can be found here [DH Potential CM](https://github.com/HotMaps/hotmaps_wiki/wiki/en-CM-District-heating-potential-areas-user-defined-thresholds).
-The excess heat, connected excess heat and used excess heat are the same as their equally named indicators.
+More information about the annual heat demand and DH potential can be found [here](https://github.com/HotMaps/hotmaps_wiki/wiki/en-CM-District-heating-potential-areas-user-defined-thresholds).
+The excess heat, connected excess heat and used excess heat are the same as their equally named [indicators](https://github.com/HotMaps/hotmaps_wiki/wiki/en-CM-Excess-heat-transport-potential#indicators).
 
 <figure>
 <img alt="" src="https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/cm_excess_heat/network_cost_to_flow3.PNG"/>
