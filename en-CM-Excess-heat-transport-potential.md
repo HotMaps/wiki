@@ -22,12 +22,12 @@ The use of excess heat for district heating.
 * Min. heat demand in hectare
 
   See [DH Potential CM](https://github.com/HotMaps/hotmaps_wiki/wiki/en-CM-District-heating-potential-areas-user-defined-thresholds).
-* Min. heat demand in a DH area 
+* Min. heat demand in a DH area
 
   See [DH Potential CM](https://github.com/HotMaps/hotmaps_wiki/wiki/en-CM-District-heating-potential-areas-user-defined-thresholds).
 * Search radius in km
 
-  The maximum lenght of a transmission line from point to point.
+  The maximum length of a transmission line from point to point.
 * Lifetime of equipment in years
 
   Levelized costs of heat are in refence to this time period.
@@ -42,7 +42,7 @@ The use of excess heat for district heating.
   Operational costs of network per year. In percent of investments necessary for the network.
 * Threshold value for transmission lines in ct/kWh
 
-  The maximum levelized cost of heat of each induvidual transmission line. This parameter can be used to control the levelized cost of heat for the whole network. A lower value equals lower levelized cost of heat but also a reduction in excess heat used and vice versa.
+  The maximum levelized cost of heat of each individual transmission line. This parameter can be used to control the levelized cost of heat for the whole network. A lower value equals lower levelized cost of heat but also a reduction in excess heat used and vice versa.
 #### Performance Parameters
 * Time resolution
 
@@ -56,7 +56,7 @@ The use of excess heat for district heating.
 
 * Transmission lines
 
-  Shape file showing the suggested transmission lines with their temperature, anual heat flow and cost. Details can be found here.
+  Shape file showing the suggested transmission lines with their temperature, annual heat flow and cost. Details can be found here.
 
 #### Indicators
 * Total excess heat in selected area in GWh
@@ -74,7 +74,7 @@ The use of excess heat for district heating.
 * Annual costs of network in €/year
 
   Costs caused by the annuity and operational costs of network per year.
-* Levelised costs of heat supply in ct/kWh
+* Levelized costs of heat supply in ct/kWh
 
   levelized cost of heat of the complete network.
 
@@ -85,7 +85,7 @@ The use of excess heat for district heating.
 * Graphic showing annual delivered excess heat to investment necessary for the network
 
   Details can be found here.
-* Graphic showing annual deliverd excess heat to levelized cost for network and corresponding transmission line threshold
+* Graphic showing annual delivered excess heat to levelized cost for network and corresponding transmission line threshold
 
   Details can be found here.
 * Graphic showing monthly heat demand and excess
@@ -100,27 +100,33 @@ The use of excess heat for district heating.
 #### Examples of Graphics
 
 ##### DH potential and excess heat
+
 <figure>
 <img alt="" src="https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/cm_excess_heat/heat_compare3.PNG"/>
-<figcaption><i>This graphic compares the DH potential, total excess heat, connected excess heat and used excess heat.</i></figcaption>
-</figure>
+<figcaption><i>This graphic compares the DH potential, total excess heat, connected excess heat and used excess heat.</i></figcaption></figure>
+
 More information about the annual heat demand and DH potential can be found [here](https://github.com/HotMaps/hotmaps_wiki/wiki/en-CM-District-heating-potential-areas-user-defined-thresholds).
 The excess heat, connected excess heat and used excess heat are the same as their equally named [indicators](https://github.com/HotMaps/hotmaps_wiki/wiki/en-CM-Excess-heat-transport-potential#indicators).
 
+##### Excess heat used and investment necessary
+
 <figure>
 <img alt="" src="https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/cm_excess_heat/network_cost_to_flow3.PNG"/>
-<figcaption><i>This graphic plots the costs of the network compared to the anual flow. The orange point represents the current network with its set transmission line threshold</i></figcaption>
-</figure>
+<figcaption><i>This graphic plots the costs of the network compared to the annual flow. The orange point represents the current network with its set transmission line threshold</i></figcaption></figure>
 
+The x-axis represents the annual flow and the y axis the necessary investment for the complete network. Note that the x-axis is not linear and may be confusing. Always check the actual values! The orange point represents the network at the currently set [transmission line threshold](https://github.com/HotMaps/hotmaps_wiki/wiki/en-CM-Excess-heat-transport-potential#provided-by-user). Deviations from the [investment needed](https://github.com/HotMaps/hotmaps_wiki/wiki/en-CM-Excess-heat-transport-potential#indicators) indicator are common since the graphic is generated at a lower accuracy because of computational complexity. The trend and course of the graph represent how the [transmission line threshold](https://github.com/HotMaps/hotmaps_wiki/wiki/en-CM-Excess-heat-transport-potential#provided-by-user) affects the network and can be really helpful. Especially in conjunction with the next graphic
+
+##### Excess heat used and levelized cost
 
 <figure>
 <img alt="" src="https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/cm_excess_heat/normalized_cost3.PNG"/>
-<figcaption><i>This graphic plots levelized heating costs and the necessary transmission line threshold for a certain flow. The orange points represent the value with the currently set transmisson line threshold</i></figcaption>
-</figure>
+<figcaption><i>This graphic plots levelized heating costs and the necessary transmission line threshold for a certain flow. The orange points represent the value with the currently set transmission line threshold</i></figcaption></figure>
+
+
 
 <figure>
 <img alt="" src="https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/cm_excess_heat/levelized_cost_simp3.PNG"/>
-<figcaption><i>Sometimes it can be helpfull to hide the tranmission line threshold in the graphic to analyse the levelized costs.</i></figcaption>
+<figcaption><i>Sometimes it can be helpful to hide the transmission line threshold in the graphic to analyze the levelized costs.</i></figcaption>
 </figure>
 
 We can see that we just hit the local minimum. The difference in the cost approximation graphs to the indicators is caused by approximation errors. But those errors are mostly systematic and hence do not offset the minimum but just scale the curve in a different way. The levelized cost indicator now shows 0.84 ct/kWh instead of the 1.09 ct/kWh in the second run.
@@ -129,8 +135,9 @@ We can see that we just hit the local minimum. The difference in the cost approx
 <img alt="" src="https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/cm_excess_heat/profiles3.PNG"/>
 <figcaption><i>This graphic shows the total flow through the network throughout the year. The lower graphic represents the average day. This time with time resolution set to "hour" the average day is represented correctly.</i></figcaption>
 </figure>
- 
+
 ## Method
+
 ### Overview
 The key element of the excess heat module is the source sink model used.
 It constructs a transmission network of minimum length and computes the flow for every hour of the year based on residential heating load profiles with Nuts2 resolution and industry load profiles with Nuts0 resolution. Based on averaged peak flows throughout the year costs for every transmission line and heat exchanger on the source and sink side can be computed.
@@ -155,7 +162,7 @@ The maximum flow from the sources to the sinks is computed for every hour of the
 The peak flow of the year averaged over 3 hours determines the required capacity for the transmission lines and heat exchangers. The costs of the transmission lines depend on the length and capacity, while the costs of the heat exchangers are only influenced by the capacity. On the source side an air to liquid heat exchanger with integrated pump for the transmission line and on the sink side a liquid to liquid heat exchanger are assumed.
 
 #### Variation of network
-Since the cost and flow of every transmission line are known the lines with the highest cost to flow ratio can be removed and the flow recomputed until a desired cost per flow is achieved. 
+Since the cost and flow of every transmission line are known the lines with the highest cost to flow ratio can be removed and the flow recomputed until a desired cost per flow is achieved.
 
 ### Implementation
 #### Fixed radius search
@@ -240,7 +247,7 @@ The mentioned load profiles consist of 8760 points which represent the load for 
 
 #### Computation of costs
 
-Since district heating systems have a large heat capacity a peak in flow does not mean the transmission lines need to deliver that short spike of heat instantaneously. Therefore, the required capacities of the transmission lines and heat exchangers are determined by the averaged peak load. Specifically, the numpy convolution function is used to average the flow over the last three hours by convoluting with a constant function. Depending on this value a transmission line from the following table is chosen. 
+Since district heating systems have a large heat capacity a peak in flow does not mean the transmission lines need to deliver that short spike of heat instantaneously. Therefore, the required capacities of the transmission lines and heat exchangers are determined by the averaged peak load. Specifically, the numpy convolution function is used to average the flow over the last three hours by convoluting with a constant function. Depending on this value a transmission line from the following table is chosen.
 
 *Specific costs of transmission lines used*
 
@@ -409,7 +416,7 @@ This page is written by Ali Aydemir \* and David Schilling \*
 - [ ] This page was reviewed by Tobias Fleiter\*.
 
 \* [Fraunhofer ISI](https://isi.fraunhofer.de/)
-Fraunhofer ISI, Breslauer Str. 48, 
+Fraunhofer ISI, Breslauer Str. 48,
 76139 Karlsruhe
 
 ## License
