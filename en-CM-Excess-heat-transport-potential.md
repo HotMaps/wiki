@@ -112,6 +112,7 @@ The excess heat, connected excess heat and used excess heat are the same as thei
 <figcaption><i>This graphic plots the costs of the network compared to the anual flow. The orange point represents the current network with its set transmission line threshold</i></figcaption>
 </figure>
 
+
 <figure>
 <img alt="" src="https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/cm_excess_heat/normalized_cost3.PNG"/>
 <figcaption><i>This graphic plots levelized heating costs and the necessary transmission line threshold for a certain flow. The orange points represent the value with the currently set transmisson line threshold</i></figcaption>
