@@ -1,4 +1,5 @@
 ## Table of Contents
+
 * [Introduction](#introduction)
 * [Inputs and outputs](#inputs-and-outputs)
 * [Method](#method)
@@ -8,17 +9,22 @@
 * [Acknowledgement](#acknowledgement)
 
 ## Introduction
+
 The use of excess heat for district heating.
 
 ## Inputs and outputs
 
 ### Input layers and parameters
+
 #### Provided by Toolbox
+
 * District heating areas (for now directly provided by the district heating potential CM)
 * Industrial database (by default provided by the toolbox)
 * Load profiles for industry
 * Load profiles for residential heating and domestic hot water
+
 #### Provided by user
+
 * Min. heat demand in hectare
 
   See [DH Potential CM](https://github.com/HotMaps/hotmaps_wiki/wiki/en-CM-District-heating-potential-areas-user-defined-thresholds).
@@ -43,7 +49,9 @@ The use of excess heat for district heating.
 * Threshold value for transmission lines in ct/kWh
 
   The maximum levelized cost of heat of each individual transmission line. This parameter can be used to control the levelized cost of heat for the whole network. A lower value equals lower levelized cost of heat but also a reduction in excess heat used and vice versa.
+
 #### Performance Parameters
+
 * Time resolution
 
   Sets the interval between the network flow calculations over the whole year. Can be one of these values: (hour, day, week, month, year)
@@ -52,6 +60,7 @@ The use of excess heat for district heating.
   Sets the entry point distance in longitude and latitude direction in dh areas.
 
 ### Output
+
 #### Layers
 
 * Transmission lines
@@ -59,6 +68,7 @@ The use of excess heat for district heating.
   Shape file showing the suggested transmission lines with their temperature, annual heat flow and cost. Details can be found here.
 
 #### Indicators
+
 * Total excess heat in selected area in GWh
 
   Total excess heat available of industrial plants in selected area and proximity.
@@ -79,6 +89,7 @@ The use of excess heat for district heating.
   levelized cost of heat of the complete network.
 
 #### Graphics
+
 * Graphic showing DH potential, total excess heat, connected excess heat and used excess heat
 
   Details can be found here.
@@ -114,7 +125,7 @@ The excess heat, connected excess heat and used excess heat are the same as thei
 <img alt="" src="https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/cm_excess_heat/network_cost_to_flow3.PNG"/>
 <figcaption><i>This graphic plots the costs of the network compared to the annual flow. The orange point represents the current network with its set transmission line threshold</i></figcaption></figure>
 
-The x-axis represents the annual flow and the y axis the necessary investment for the complete network. Note that the x-axis is not linear and may be confusing. Always check the actual values! The orange point represents the network at the currently set [transmission line threshold](https://github.com/HotMaps/hotmaps_wiki/wiki/en-CM-Excess-heat-transport-potential#provided-by-user). Deviations from the [investment needed](https://github.com/HotMaps/hotmaps_wiki/wiki/en-CM-Excess-heat-transport-potential#indicators) indicator are common since the graphic is generated at a lower accuracy because of computational complexity. The trend and course of the graph represent how the [transmission line threshold](https://github.com/HotMaps/hotmaps_wiki/wiki/en-CM-Excess-heat-transport-potential#provided-by-user) affects the network and can be really helpful. Especially in conjunction with the next graphic
+The x-axis represents the annual flow and the y axis the necessary investment for the complete network. Note that the x-axis is not linear and may be confusing. Always check the actual values! The orange point represents the network at the currently set [transmission line threshold](https://github.com/HotMaps/hotmaps_wiki/wiki/en-CM-Excess-heat-transport-potential#provided-by-user). Deviations from the [investment needed](https://github.com/HotMaps/hotmaps_wiki/wiki/en-CM-Excess-heat-transport-potential#indicators) indicator are common since the graphic is generated at a lower accuracy because of computational complexity. The trend and course of the graph represent how the [transmission line threshold](https://github.com/HotMaps/hotmaps_wiki/wiki/en-CM-Excess-heat-transport-potential#provided-by-user) affects the network and can be really helpful. Especially in conjunction with the next [graphic](https://github.com/HotMaps/hotmaps_wiki/wiki/en-CM-Excess-heat-transport-potential#excess-heat-used-and-levelized-cost).
 
 ##### Excess heat used and levelized cost
 
@@ -122,6 +133,7 @@ The x-axis represents the annual flow and the y axis the necessary investment fo
 <img alt="" src="https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/cm_excess_heat/normalized_cost3.PNG"/>
 <figcaption><i>This graphic plots levelized heating costs and the necessary transmission line threshold for a certain flow. The orange points represent the value with the currently set transmission line threshold</i></figcaption></figure>
 
+The x-axis represents the annual flow and the y axis both <span style="color:#3e95cd">levelized costs of heat</span> and the <span style="color:#32CD32">transmission line threshold</span>.
 
 
 <figure>
