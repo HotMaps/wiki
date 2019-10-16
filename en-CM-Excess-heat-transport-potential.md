@@ -19,8 +19,11 @@ The use of excess heat for district heating.
 #### Provided by Toolbox
 
 * District heating areas (for now directly provided by the district heating potential CM)
+
 * Industrial database (by default provided by the toolbox)
+
 * Load profiles for industry
+
 * Load profiles for residential heating and domestic hot water
 
 #### Provided by user
@@ -28,24 +31,31 @@ The use of excess heat for district heating.
 * Min. heat demand in hectare
 
   See [DH Potential CM](https://github.com/HotMaps/hotmaps_wiki/wiki/en-CM-District-heating-potential-areas-user-defined-thresholds).
+
 * Min. heat demand in a DH area
 
   See [DH Potential CM](https://github.com/HotMaps/hotmaps_wiki/wiki/en-CM-District-heating-potential-areas-user-defined-thresholds).
+
 * Search radius in km
 
   The maximum length of a transmission line from point to point.
+
 * Lifetime of equipment in years
 
   Levelized costs of heat are in refence to this time period.
+
 * Discount rate in %
 
   Rate of interest for credit required to build the network.
+
 * Cost factor
 
   Factor to adapt network costs in case the default values do not accurately represent the costs. The investments necessary for the network are multiplied with this factor. Default costs can be found [here](https://github.com/HotMaps/hotmaps_wiki/wiki/en-CM-Excess-heat-transport-potential#computation-of-costs).
+
 * Operational costs in %
 
   Operational costs of network per year. In percent of investments necessary for the network.
+
 * Threshold value for transmission lines in ct/kWh
 
   The maximum levelized cost of heat of each individual transmission line. This parameter can be used to control the levelized cost of heat for the whole network. A lower value equals lower levelized cost of heat but also a reduction in excess heat used and vice versa.
@@ -55,6 +65,7 @@ The use of excess heat for district heating.
 * Time resolution
 
   Sets the interval between the network flow calculations over the whole year. Can be one of these values: (hour, day, week, month, year)
+
 * Spatial resolution in km
 
   Sets the entry point distance in longitude and latitude direction in dh areas.
@@ -72,18 +83,23 @@ The use of excess heat for district heating.
 * Total excess heat in selected area in GWh
 
   Total excess heat available of industrial plants in selected area and proximity.
+
 * Excess heat connected in GWh
 
   Total excess heat available of industrial plants connected to a network.
+
 * Excess heat used in GWh
 
   Actual excess heat used for dh.
+
 * Investments necessary for the network in €
 
   Investment needed to build the network.
+
 * Annual costs of network in €/year
 
   Costs caused by the annuity and operational costs of network per year.
+
 * Levelized costs of heat supply in ct/kWh
 
   levelized cost of heat of the complete network.
@@ -91,22 +107,27 @@ The use of excess heat for district heating.
 #### Graphics
 
 * DH potential and excess heat
+
   Graphic showing DH potential, total excess heat, connected excess heat and used excess heat.
   Details can be found [here](https://github.com/HotMaps/hotmaps_wiki/wiki/en-CM-Excess-heat-transport-potential#dh-potential-and-excess-heat).
 
 * Excess heat used and investment necessary
+
   Graphic showing annual delivered excess heat to investment necessary for the network.
   Details can be found [here](https://github.com/HotMaps/hotmaps_wiki/wiki/en-CM-Excess-heat-transport-potential#excess-heat-used-and-investment-necessary).
 
 * Excess heat used and levelized cost
+
   Graphic showing annual delivered excess heat to levelized cost for network and corresponding transmission line threshold.
   Details can be found [here](https://github.com/HotMaps/hotmaps_wiki/wiki/en-CM-Excess-heat-transport-potential#excess-heat-used-and-levelized-cost).
 
 * Load curves
+
   Graphic showing monthly heat demand and excess.
   Details can be found [here](https://github.com/HotMaps/hotmaps_wiki/wiki/en-CM-Excess-heat-transport-potential#load-curves).
 
 * Load curves  
+
   Graphic showing average daily heat demand and excess.
   Details can be found [here](https://github.com/HotMaps/hotmaps_wiki/wiki/en-CM-Excess-heat-transport-potential#load-curves).
 
