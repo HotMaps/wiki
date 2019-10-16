@@ -381,7 +381,7 @@ From the above, the following work hierarchy could be used:
 
 #### CM does not finish
 
-* Reduce [spatial resolution](https://github.com/HotMaps/hotmaps_wiki/wiki/en-CM-Excess-heat-transport-potential#performance-parameters)
+* Reduce [spatial resolution](https://github.com/HotMaps/hotmaps_wiki/wiki/en-CM-Excess-heat-transport-potential#performance-parameters) (increase kms)
 * Reduce [time resolution](https://github.com/HotMaps/hotmaps_wiki/wiki/en-CM-Excess-heat-transport-potential#performance-parameters)
 * Select smaller area
 * Decrease [search radius](https://github.com/HotMaps/hotmaps_wiki/wiki/en-CM-Excess-heat-transport-potential#provided-by-user)
