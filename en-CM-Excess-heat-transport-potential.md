@@ -90,21 +90,25 @@ The use of excess heat for district heating.
 
 #### Graphics
 
-* Graphic showing DH potential, total excess heat, connected excess heat and used excess heat
+* DH potential and excess heat
+  Graphic showing DH potential, total excess heat, connected excess heat and used excess heat.
+  Details can be found [here](https://github.com/HotMaps/hotmaps_wiki/wiki/en-CM-Excess-heat-transport-potential#dh-potential-and-excess-heat).
 
-  Details can be found here.
-* Graphic showing annual delivered excess heat to investment necessary for the network
+* Excess heat used and investment necessary
+  Graphic showing annual delivered excess heat to investment necessary for the network.
+  Details can be found [here](https://github.com/HotMaps/hotmaps_wiki/wiki/en-CM-Excess-heat-transport-potential#excess-heat-used-and-investment-necessary).
 
-  Details can be found here.
-* Graphic showing annual delivered excess heat to levelized cost for network and corresponding transmission line threshold
+* Excess heat used and levelized cost
+  Graphic showing annual delivered excess heat to levelized cost for network and corresponding transmission line threshold.
+  Details can be found [here](https://github.com/HotMaps/hotmaps_wiki/wiki/en-CM-Excess-heat-transport-potential#excess-heat-used-and-levelized-cost).
 
-  Details can be found here.
-* Graphic showing monthly heat demand and excess
+* Load curves
+  Graphic showing monthly heat demand and excess.
+  Details can be found [here](https://github.com/HotMaps/hotmaps_wiki/wiki/en-CM-Excess-heat-transport-potential#load-curves).
 
-  Details can be found here.
-* Graphic showing average daily heat demand and excess
-
-  Details can be found here.
+* Load curves  
+  Graphic showing average daily heat demand and excess.
+  Details can be found [here](https://github.com/HotMaps/hotmaps_wiki/wiki/en-CM-Excess-heat-transport-potential#load-curves).
 
 #### Examples of Layer
 
@@ -148,7 +152,7 @@ Deviations from the [levelized costs of heat](https://github.com/HotMaps/hotmaps
 <figcaption><i>This graphic shows the total flow through the network throughout the year. The lower graphic represents the average day.</i></figcaption>
 </figure>
 
-The x-axis represents time and the y-axis power. The blue curves represents the heat demand of the DH areas and the red the excess heat available. The intersection of both curves represent the actual total flow of heat. The upper graphic shows the flow over the year and the bottom one the flow of the average day. Note that [time resolution](https://github.com/HotMaps/hotmaps_wiki/wiki/en-CM-Excess-heat-transport-potential#provided-by-user) needs to be set at least to "month" for the upper and "hour" for the lower graphic to be representative.
+The x-axis represents time and the y-axis power. The blue curves represents the heat demand of the DH areas and the red the excess heat available. The intersection of both curves represent the actual total flow of heat. The upper graphic shows the flow over the year and the bottom one the flow of the average day. Note that [time resolution](https://github.com/HotMaps/hotmaps_wiki/wiki/en-CM-Excess-heat-transport-potential#performance-parameters) needs to be set at least to "month" for the upper and "hour" for the lower graphic to be representative.
 
 ## Method
 
