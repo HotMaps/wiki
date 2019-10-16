@@ -344,14 +344,18 @@ First the heat sources and sinks are loaded with their load profiles. Then the f
 
 The present CM - EXCESS HEAT TRANSPORT POTENTIAL is intended to help the user to identify integration potentials for excess heat in district heating networks. Although numerous analysis functions are given in order not to restrict the user, it must be explicitly pointed out that this is not a detailed technical planning.
 The potentials are based on the CM - DISTRICT HEATING POTENTIAL. This CM identifies areas with favorable conditions for district heating networks. The CM - EXCESS HEAT TRANSPORT POTENTIAL thus shows how much heat could be covered by industrial excess heat in these areas. However, this does not mean that a district heating network already exists in this region. An application-oriented use of the tool for practitioners could therefore look as follows:
+
 * If necessary, add your own data on excess heat providing companies in the region with the [add industry plant](https://github.com/HotMaps/hotmaps_wiki/wiki/en-CM-Add-industry-plant) cm.
+
 * Execute the CM - EXCESS HEAT TRANSPORT POTENTIAL.
+
 * The Value
 <figure>
 <img alt="" src="https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/cm_excess_heat/heat_compare1.PNG"/>
 <figcaption><i>This graphic compares the DH potential, total excess heat, connected excess heat and used excess heat.</i></figcaption></figure>
 
   shows how much heat could be covered by excess heat in the investigated area.
+
 * Value
 <figure>
 <img alt="" src="https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/cm_excess_heat/indicators.PNG"/>
@@ -361,10 +365,12 @@ The potentials are based on the CM - DISTRICT HEATING POTENTIAL. This CM identif
 
 From the above, the following work hierarchy could be used:
 1. Check whether a district heating network exists or is planned in the region under consideration.
+
 2. The displayed pipes contain flows. There you can see how much excess heat is transported from the respective sources. The affected companies could now be contacted. Probably first the companies with the high quantities.
 <figure>
 <img alt="" src="https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/cm_excess_heat/shp_file2.PNG"/>
 <figcaption><i>Transmission line and its flow</i></figcaption></figure>
+
 3. If the operator of the district heating network and the producer of the excess heat are interested in cooperating, more detailed feasibility studies could be commissioned. In the best case, the displayed data will help to initiate real projects.
 
 ### Sample run 1
