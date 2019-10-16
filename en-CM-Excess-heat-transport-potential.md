@@ -3,6 +3,8 @@
 * [Introduction](#introduction)
 * [Inputs and outputs](#inputs-and-outputs)
 * [Method](#method)
+* [Quick start](#quick-start)
+* [Troubleshooting](#troubleshooting)
 * [Sample run](#sample-run)
 * [Authors and reviewers](#authors-and-reviewers)
 * [License](#license)
@@ -338,9 +340,9 @@ With a cost to flow threshold for transmission lines they can be removed if exce
 
 First the heat sources and sinks are loaded with their load profiles. Then the fixed radius search is performed, and the Network initialized. Afterwards the Network is reduced to its minimum spanning tree and the maximum flow is computed for every hour of the year. Based on the flow the costs for every heat exchanger, pump and transmission line is computed. If a threshold cost to flow ratio is defined the removal of transmission line procedure is executed. In the end the total cost and total flow of the network and the layout of the network is returned.
 
-## Sample run
 
-### Quick start
+
+## Quick start
 
 The present CM - EXCESS HEAT TRANSPORT POTENTIAL is intended to help the user to identify integration potentials for excess heat in district heating networks. Although numerous analysis functions are given in order not to restrict the user, it must be explicitly pointed out that this is not a detailed technical planning.
 The potentials are based on the CM - DISTRICT HEATING POTENTIAL. This CM identifies areas with favorable conditions for district heating networks. The CM - EXCESS HEAT TRANSPORT POTENTIAL thus shows how much heat could be covered by industrial excess heat in these areas. However, this does not mean that a district heating network already exists in this region. An application-oriented use of the tool for practitioners could therefore look as follows:
@@ -375,7 +377,7 @@ From the above, the following work hierarchy could be used:
 
 3. If the operator of the district heating network and the producer of the excess heat are interested in cooperating, more detailed feasibility studies could be commissioned. In the best case, the displayed data will help to initiate real projects.
 
-### Troubleshooting
+## Troubleshooting
 
 #### CM does not finish
 
@@ -409,6 +411,8 @@ Increase [search radius](https://github.com/HotMaps/hotmaps_wiki/wiki/en-CM-Exce
 #### Error: "No excess heat used."
 
 Increase [transmission line threshold](https://github.com/HotMaps/hotmaps_wiki/wiki/en-CM-Excess-heat-transport-potential#provided-by-user)
+
+## Sample run
 
 ### Sample run 1
 
