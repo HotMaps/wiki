@@ -349,8 +349,7 @@ The potentials are based on the CM - DISTRICT HEATING POTENTIAL. This CM identif
 * The Value
 <figure>
 <img alt="" src="https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/cm_excess_heat/heat_compare1.PNG"/>
-<figcaption><i>This graphic compares the DH potential, total excess heat, connected excess heat and used excess heat.</i></figcaption>
-</figure>
+<figcaption><i>This graphic compares the DH potential, total excess heat, connected excess heat and used excess heat.</i></figcaption></figure>
   shows how much heat could be covered by excess heat in the investigated area.
 * Value (@David Referenz auf Tabelle ergänzen) shows the specific heat production costs for the whole network. Note: the displayed costs have been estimated using a simplified approach. These costs do not apply to individual pipelines (@David: bitte keine Kosten an die Leitungen – im DEV sicherstellen). However, the displayed costs can be used as a simplified starting assumption as transport costs for the integration of excess heat into a possibly nearby district heating network.
 
