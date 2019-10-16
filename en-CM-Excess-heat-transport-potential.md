@@ -133,6 +133,13 @@ The use of excess heat for district heating.
 
 #### Examples of Layer
 
+##### Transmission lines
+
+<img alt="" src="https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/cm_excess_heat/shp_file.PNG"/>
+<figcaption><i>Example of a transmission line displayed in the toolbox</i></figcaption></figure>
+
+By clicking on the transmission line additional information will pop up. 
+
 #### Examples of Graphics
 
 ##### DH potential and excess heat
