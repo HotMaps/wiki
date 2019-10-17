@@ -30,3 +30,15 @@ The following data relevant for Part I of Annex VIII is available in the Hotmaps
 * Point 4: forecast of trends in the demand for heating and cooling
   * Default scenarios for all EU28 MS are available from the H2020 project CHEETAH
   * This data is also integrated in the CM – Demand projection and used for the calculations in this module
+
+# Part III: Analysis of the economic potential for efficiency in heating and cooling
+
+The Hotmaps toolbox contains a number of calculation modules (CMs) that can be used to analyse the economic potential for efficiency in heating and cooling. In the following a possible approach for generating results for the comprehensive assessment with the Hotmaps toolbox is described also linking to the respective default data and calculation modules.
+
+## Overview of the Hotmaps approach
+To assess the economic potential for efficiency in heating and cooling it is important to distinguish between areas potentially supplied by district heating and areas where decentral supply will most probably be more economically efficient. Thus, **the Hotmaps approach strongly builds on the following four steps**:
+1. Identify different representative, typical cases for district heating in the country or regions under investigation
+1. Carry out analyses of district heating grid construction/expansion and district heat supply for the identified representative cases
+1. Calculate indicators of decentral heat supply
+1. Compare different scenarios of district heating and decentral heat supply and sensitivity calculations
+
