@@ -9,7 +9,7 @@ The Hotmaps database and toolbox provides two different inputs to this part: fir
 The following data relevant for Part I of Annex VIII is available in the Hotmaps database:
 
 * Point 2: current heating and cooling supply
-* * (b) (v) industrial installations:
+  * (b) (v) industrial installations:
 * * DB – Industrial sites
 * * DB – Industrial sites excess heat
 * * DB – Industrial sites company names
