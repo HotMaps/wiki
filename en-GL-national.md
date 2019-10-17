@@ -11,22 +11,22 @@ The following data relevant for Part I of Annex VIII is available in the Hotmaps
 * Point 2: current heating and cooling supply
   * (b) (v) industrial installations:
     * DB – Industrial sites
- * DB – Industrial sites excess heat
- * DB – Industrial sites company names 
- * DB – Industial sites …
-* All other:
-* No default data is contained for supply points, but own data can uploaded and displayed
-* How to create an account
-* How to upload own data to the toolbox
+    * DB – Industrial sites excess heat
+    * DB – Industrial sites company names 
+    * DB – Industial sites …
+  * All other:
+    * No default data is contained for supply points, but own data can uploaded and displayed
+    * How to create an account
+    * How to upload own data to the toolbox
 * Point 3: a map covering the entire national territory
-* (a) Heating and cooling demand areas (not for industrial demand)
-* DB – Heat density residential
-* DB – Heat density non-residential
-* DB – Heat density total
-* (b) + (c) Existing and planned supply points
-* No default data is contained for supply points, but own data can uploaded and displayed
-* How to create an account
-* How to upload own data to the toolbox
+  * (a) Heating and cooling demand areas (not for industrial demand)
+    * DB – Heat density residential
+    * DB – Heat density non-residential
+    * DB – Heat density total
+  * (b) + (c) Existing and planned supply points
+    * No default data is contained for supply points, but own data can uploaded and displayed
+    * How to create an account
+    * How to upload own data to the toolbox
 * Point 4: forecast of trends in the demand for heating and cooling
-* Default scenarios for all EU28 MS are available from the H2020 project CHEETAH
-* This data is also integrated in the CM – Demand projection and used for the calculations in this module
+  * Default scenarios for all EU28 MS are available from the H2020 project CHEETAH
+  * This data is also integrated in the CM – Demand projection and used for the calculations in this module
