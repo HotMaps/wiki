@@ -44,7 +44,7 @@ To assess the economic potential for efficiency in heating and cooling it is imp
 
 The following figure shows this approach graphically. The different steps will be explained in more detail in the following chapters of these guidelines.
 
-
+![](https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/Overview_HotmapsApproachNational.png)
 
 In all of these steps **various scenarios and sensitivities should be taken into account**:
 * different levels of heat savings (implemented in step 1, 2 and 3)
