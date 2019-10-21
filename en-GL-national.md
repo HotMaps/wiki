@@ -8,7 +8,7 @@ These guidelines describe how the Hotmaps toolbox can be used to analyse costs a
 * [Part III: Analysis of the economic potential for efficiency in heating and cooling](#Part-III:-Analysis-of-the-economic-potential-for-efficiency-in-heating-and-cooling)
 
 
-# Part I: Overview of heating and cooling
+## Part I: Overview of heating and cooling
 
 The Hotmaps database and toolbox provides two different inputs to this part: first, the Hotmaps database provides default data for several of the data needed to include in this part I of the comprehensive assessment. Second, the Hotmaps toolbox is basically a mapping tool that allows a geographical representation of default data in the toolbox but also of other data uploaded to the toolbox. In the following we describe the different default data form Hotmaps that might be of use and we link to the descriptions of how to use the upload function of the Hotmaps toolbox.
 
@@ -36,7 +36,9 @@ The following data relevant for Part I of Annex VIII is available in the Hotmaps
   * Default scenarios for all EU28 MS are available from the H2020 project CHEETAH
   * This data is also integrated in the CM – Demand projection and used for the calculations in this module
 
-# Part III: Analysis of the economic potential for efficiency in heating and cooling
+<code><ins>**[To Top](#table-of-contents)**</ins></code>
+
+## Part III: Analysis of the economic potential for efficiency in heating and cooling
 
 The Hotmaps toolbox contains a number of calculation modules (CMs) that can be used to analyse the economic potential for efficiency in heating and cooling. In the following a possible approach for generating results for the comprehensive assessment with the Hotmaps toolbox is described also linking to the respective default data and calculation modules.
 
