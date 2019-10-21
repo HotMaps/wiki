@@ -137,9 +137,57 @@ After developing possible future scenarios of heat demand and floor area density
 
 <code><ins>**[To Top](#Guidelines-for-using-the-Hotmaps-toolbox-for-analyses-at-national-level)**</ins></code>
 
+### Analysis of potentials for excess heat and renewable energy in the identified regions with potential interest for district heating
 
+In a next step the potentials for excess heat and renewable energy in the regions that have been identified as potentially interesting for district heating can be analysed. These data together with the data on heat demand and heat demand density in the regions collected in the previous step can then be used to characterise representative district heating areas for the further analysis steps. The following list gives an overview of the heat sources that should be taken into account and links to the default data for the respective energy source, which is available in the Hotmaps database:
 
+* Renewable energy sources:
+    * Waste water treatment plants:
+        * DB - Waste water treatment plants power
+        * DB - Waste water treatment plants capacity
+    * Agricultural biomass:
+        * DB - Agricultural residues
+        * DB - Livestock effluents
+    * Forestal biomass:
+        * DB - Forest residues
+    * Waste:
+        * DB - Municipal solid waste
+    * Geothermal energy:
+        * DB - Geothermal potential heat conductivity
+    * Solar thermal energy:
+        * DB - Potential solar thermal collectors - rooftop
+        * DB - Potential solar thermal collectors open - field
+* Excess heat:
+    * Large industrial sites:
+        * DB - Industrial sites excess heat
+    * Other excess heat sources:
+        * Information on other excess heat sources like power plants, further industrial plants, low temperature heat sources like river water, data centers, etc. can be uploaded into the toolbox. A guide how to do this can be found here.
 
+<code><ins>**[To Top](#Guidelines-for-using-the-Hotmaps-toolbox-for-analyses-at-national-level)**</ins></code>
+
+### Identification of representative, typical district heating areas for further analysis
+
+The data collected in the two previous steps can be used to define different types of representative, typical district heating (DH) areas in the region / country of interest. Regions with similar dimensions  and combinations of total heat demand, average heat demand density and potentials for renewable energy and excess heat can be grouped together.
+
+Possible indicators for grouping of typical district heating areas:
+* overall heat demand in the area [GWh/yr]
+* average heat demand density in the area [MWh/(ha*yr)]
+* Available potential of renewable energy sources:
+    * waste water treatment plants power
+    * agricultural residues
+    * livestock effluents
+    * forest residues
+    * municipal solid waste
+    * geothermal potential heat conductivity
+    * potential solar thermal collectors - rooftop
+    * potential solar thermal collectors open - field
+* excess heat potentials:
+    * large industrial sites
+    * other
+
+For each of the developed groups of typical DH areas then one or several representative cities / regions can be selected and further analysed. These can serve as representative case studies.
+
+<code><ins>**[To Top](#Guidelines-for-using-the-Hotmaps-toolbox-for-analyses-at-national-level)**</ins></code>
 
 
 
