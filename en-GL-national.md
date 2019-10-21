@@ -134,13 +134,13 @@ In the following subchapters the different steps in this procedure are described
 This page is written by Marcus Hummel\*.
 - [x] This page was reviewed by Lukas Kranzl\**.
 
-\* [e-think](https://e-think.ac.at/)
-Zentrum f. Energiewirtschaft und Umwelt
-Argentinierstrasse 18/10
+\* [e-think](https://e-think.ac.at/),
+Zentrum f. Energiewirtschaft und Umwelt,
+Argentinierstrasse 18/10,
 1040 Wien
 
-\** [Energy Economics Group - TU Wien](https://eeg.tuwien.ac.at/)
-Institute of Energy Systems and Electrical Drives
+\** [Energy Economics Group - TU Wien](https://eeg.tuwien.ac.at/),
+Institute of Energy Systems and Electrical Drives,
 Gusshausstrasse 27-29/370
 1040 Wien
 
