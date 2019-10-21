@@ -189,8 +189,22 @@ For each of the developed groups of typical DH areas then one or several represe
 
 <code><ins>**[To Top](#Guidelines-for-using-the-Hotmaps-toolbox-for-analyses-at-national-level)**</ins></code>
 
+## Step 2: Costs and potentials for district heating in representative cities / regions
 
+For the identified representative cities / areas analyses on the costs and potentials for the heat supply with district heating can be performed. For these analyses Hotmaps provides various default data layers in the Hotmaps database as well as different Calculation Modules (CMs). Also, own data can be uploaded and used. These analyses can consist of the following steps:
+Assess the economic potential for district heating networks
+Estimate the costs for the transport of excess heat to district heating areas
+Develop future heat load profiles
+Calculate costs and emissions of heat supply in district heating
 
+The following figure shows this procedure graphically and shows the various data sources and calculation modules that can be used.
+
+![](https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/Hotmaps_ApproachNational_Step2.png)
+*Figure: Analysis on costs and potentials for district heating in representative cities / regions (Step 2)*
+
+In the following subchapters the different steps in this procedure are described in more detail.
+
+<code><ins>**[To Top](#Guidelines-for-using-the-Hotmaps-toolbox-for-analyses-at-national-level)**</ins></code>
 
 
 
