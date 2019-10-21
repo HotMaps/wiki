@@ -223,7 +223,9 @@ For the representative cities / areas an economic assessment of district heating
     * Network construction costs
     * Depreciation time and interest rate
 
-The scenarios can be used to analyse the influence of the different factors on the heat distribution costs in district heating systems in the different representative cities / areas. For different settings of depreciation time and interest rat e one scenario of district heating expansion per representative city / area should be selected for the further analysis. The outcomes of this step are the heat demand for district heating [GWh/yr] and the heat distribution costs [EUR/MWh] in each of the representative cities / areas. These results will then be used in the overall scenario comparison in step 4.
+The scenarios can be used to analyse the influence of the different factors on the heat distribution costs in district heating systems in the different representative cities / areas. For different settings of depreciation time and interest rat e one scenario of district heating expansion per representative city / area should be selected for the further analysis.
+
+The outcomes of this step are the heat demand for district heating [GWh/yr] and the heat distribution costs [EUR/MWh] in each of the representative cities / areas. These results will then be used in the overall scenario comparison in step 4.
 
 <code><ins>**[To Top](#Guidelines-for-using-the-Hotmaps-toolbox-for-analyses-at-national-level)**</ins></code>
 
@@ -259,6 +261,7 @@ The costs and emissions of heat supply in district heating system depends on the
     * for prices CO2 emissions
 
 The calculations can be used to identify beneficial supply portfolios in the different representative cities / areas and their sensitivity to important influencing parameters like energy carrier and CO2 prices or interest rate and depreciation time.
+
 The outcomes of this step are the heat supply costs to the district heating system [EUR/MWh] in each of the representative cities / areas and the related CO2 emissions [kt/yr]. These results will then be used in the overall scenario comparison in step 4.
 
 <code><ins>**[To Top](#Guidelines-for-using-the-Hotmaps-toolbox-for-analyses-at-national-level)**</ins></code>
@@ -266,6 +269,7 @@ The outcomes of this step are the heat supply costs to the district heating syst
 ## Step 3: Calculation of decentral heat supply
 
 In the third step the costs and emissions of heat supply via decentral technologies are calculated. This calculation should be performed for different representative buildings in the country / region of interest. While for district heating representative cities / areas have been developed in step 1 of the approach, typical buildings in each EU Member State data can be found in the Hotmaps default database. Also, for many EU countries detailed building typologies (building archetypes) with data on heat demand before and after renovation can be found in statistics and literature.
+
 The CM - Decentral heating supply can be used to calculate the costs and emissions of heat supply via different decentral technologies. The module uses data on heat demand as well as data on costs of technologies and prices for energy carriers to calculate the levelised costs of heat supply [EUR/MWh] for the different technologies in the different typical buildings and renovation states. The following figure shows this procedure graphically and shows the various data sources feeding into the CM - Decentral heating supply.
 
 
@@ -273,6 +277,7 @@ The CM - Decentral heating supply can be used to calculate the costs and emissio
 *Figure: Calculation of decentral heat supply (Step 3)*
 
 The calculations can be used to identify costs and benefits of various supply technologies in different representative buildings and their sensitivity to important influencing parameters like energy carrier and CO2 prices or interest rate and depreciation time.
+
 The outcomes of this step are the costs of heat supply via decentral technologies [EUR/MWh] in each of the representative buildings and the related CO2 emissions [kt/yr]. These results will then be used in the overall scenario comparison in step 4.
 
 <code><ins>**[To Top](#Guidelines-for-using-the-Hotmaps-toolbox-for-analyses-at-national-level)**</ins></code>
