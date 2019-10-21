@@ -7,6 +7,11 @@ These guidelines describe how the Hotmaps toolbox can be used to analyse costs a
 * [Part I: Overview of heating and cooling](#Part-I-overview-of-heating-and-cooling)
 * [Part III: Analysis of the economic potential for efficiency in heating and cooling](#Part-III-Analysis-of-the-economic-potential-for-efficiency-in-heating-and-cooling)
     * [Step 1: Identification of different representative cases for district heating](#Step-1-Identification-of-different-representative-cases-for-district-heating)
+    * [Step 2: Costs and potentials for district heating in representative cities / regions](#Step-2-Costs-and-potentials-for-district-heating-in-representative-cities-/-regions)
+    * [Step 3: Calculation of decentral heat supply](#Step-3-Calculation-of-decentral-heat-supply)
+    * [Step 4: Comparison of results for different scenarios](#Step-4-Comparison-of-results-for-different-scenarios)
+* [Authors and reviewers](#Authors-and-reviewers)
+* [License](#License)
 * [Acknowledgement](#acknowledgement)
 
 
@@ -99,7 +104,6 @@ The following figure shows this procedure graphically and shows the various data
 In the following subchapters the different steps in this procedure are described in more detail.
 
 <code><ins>**[To Top](#Guidelines-for-using-the-Hotmaps-toolbox-for-analyses-at-national-level)**</ins></code>
-
 
 
 
