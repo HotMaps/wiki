@@ -7,6 +7,10 @@ These guidelines describe how the Hotmaps toolbox can be used to analyse costs a
 * [Part I: Overview of heating and cooling](#Part-I-overview-of-heating-and-cooling)
 * [Part III: Analysis of the economic potential for efficiency in heating and cooling](#Part-III-Analysis-of-the-economic-potential-for-efficiency-in-heating-and-cooling)
     * [Step 1: Identification of different representative cases for district heating](#Step-1-Identification-of-different-representative-cases-for-district-heating)
+        *[Calculation of future heat demand and building floor area density maps](#Calculation of future heat demand and building floor area density maps)
+        *[Identification of regions potentially interesting for district heating](#Identification of regions potentially interesting for district heating)
+        *[Analysis of potentials for excess heat and renewable energy in the identified regions with potential interest for district heating](#IAnalysis of potentials for excess heat and renewable energy in the identified regions with potential interest for district heating)
+        *[Identification of representative, typical district heating areas for further analysis](#Identification of representative, typical district heating areas for further analysis)
     * [Step 2: Costs and potentials for district heating in representative cities / regions](#Step-2-Costs-and-potentials-for-district-heating-in-representative-cities-/-regions)
     * [Step 3: Calculation of decentral heat supply](#Step-3-Calculation-of-decentral-heat-supply)
     * [Step 4: Comparison of results for different scenarios](#Step-4-Comparison-of-results-for-different-scenarios)
@@ -116,8 +120,13 @@ The first step in the analysis is to generate future heat demand and floor area 
         * The CM - Demand projection can be used to generate future heat demand and floor area density maps based on default development scenarios of the building stock in the EU (link to further info on the default scenarios . It is also possible to adapt several parameters compared to the default calculations like reduction of energy demand or reduction of floor area.
 * **Use own data on heat demand density in your region of analysis**:
     * It is possible to upload heat density maps in a raster file format (.tif) to the Hotmaps toolbox when creating a user account and logging in to the private section. Uploaded heat demand density layers can reflect the current situation of heat demand densities in the region of interest, or also a possible future scenario of heat demand densities, depending on the input data used for generating the respective layers. More information on how to create a user account and how to upload own data can be found here.
-    * It is also possible to further adapt the own heat density maps with the CM - Scale heat and cold density maps or via the CM - Demand projection like the 
+    * It is also possible to further adapt the own heat density maps with the CM - Scale heat and cold density maps or via the CM - Demand projection like for the default layer.
 
+The developed heat demand and floor area density maps are further used in the subsequent steps in other Calculation Modules (CMs).
+
+### Identification of regions potentially interesting for district heating
+
+After developing possible future scenarios of heat demand and floor area density maps for the region of interest, potential district heating regions can be identified. This can be done using the CM - District heating potential areas: user-defined thresholds according to the following steps:
 
 
 
