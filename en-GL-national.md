@@ -81,7 +81,7 @@ The following resulting **indicators can be retrieved from the Hotmaps Calculati
   * CM - District heating supply dispatch for share of RES from heat supply to district heating
   * CM - Decentral heating supply for share of RES from decentral heat supply
 
-<code><ins>**[To Top](#table-of-contents)**</ins></code>
+<code><ins>**[To Top](#Guidelines-for-using-the-Hotmaps-toolbox-for-analyses-at-national-level)**</ins></code>
 
 ## Step 1: Identification of different representative cases for district heating
 
@@ -97,6 +97,8 @@ The following figure shows this procedure graphically and shows the various data
 *Figure: Identification of different representative, typical cases for district heating (Step 1)*
 
 In the following subchapters the different steps in this procedure are described in more detail.
+
+<code><ins>**[To Top](#Guidelines-for-using-the-Hotmaps-toolbox-for-analyses-at-national-level)**</ins></code>
 
 
 
@@ -139,7 +141,7 @@ Gusshausstrasse 27-29/370
 1040 Wien
 
 
-<code><ins>**[To Top](#table-of-contents)**</ins></code>
+<code><ins>**[To Top](#Guidelines-for-using-the-Hotmaps-toolbox-for-analyses-at-national-level)**</ins></code>
 
 ## License
 Copyright © 2016-2019: Marcus Hummel
@@ -151,12 +153,12 @@ SPDX-License-Identifier: CC-BY-4.0
 
 License-Text: https://spdx.org/licenses/CC-BY-4.0.html
 
-<code><ins>**[To Top](#table-of-contents)**</ins></code>
+<code><ins>**[To Top](#Guidelines-for-using-the-Hotmaps-toolbox-for-analyses-at-national-level)**</ins></code>
 
 ## Acknowledgement
 We would like to convey our deepest appreciation to the Horizon 2020 [Hotmaps Project](https://www.hotmaps-project.eu) (Grant Agreement number 723677), which provided the funding to carry out the present investigation.
 
-<code><ins>**[To Top](#table-of-contents)**</ins></code>
+<code><ins>**[To Top](#Guidelines-for-using-the-Hotmaps-toolbox-for-analyses-at-national-level)**</ins></code>
 
 
 
