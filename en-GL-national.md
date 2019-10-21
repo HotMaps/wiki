@@ -124,11 +124,18 @@ The first step in the analysis is to generate future heat demand and floor area 
 
 The developed heat demand and floor area density maps are further used in the subsequent steps in other Calculation Modules (CMs).
 
+<code><ins>**[To Top](#Guidelines-for-using-the-Hotmaps-toolbox-for-analyses-at-national-level)**</ins></code>
+
 ### Identification of regions potentially interesting for district heating
 
 After developing possible future scenarios of heat demand and floor area density maps for the region of interest, potential district heating regions can be identified. This can be done using the CM - District heating potential areas: user-defined thresholds according to the following steps:
 
+* The CM is possible to use at NUTS3 - NUTS0 level and also on hectare level (=own selection of a region). However, for large regions it might take a long time to calculate or the module finds too many feasible regions and is not able to display the results. In such a case the region of interest can be split up, e.g. in the different NUTS2 or NUTS3 regions and for each of these the CM can be started.
+* The CM identifies potential district heating areas based on the following two threshold values: a heat demand threshold for the heat demand in each cell of the heat demand density map and a heat demand threshold for groups of connected cells with heat demand above the previous threshold (=coherent area). These two threshold values have to be defined by the user.
+* Besides several other indicators the module generates a shapefile of potential district heating areas that is displayed and stored in the toolbox in the layers section. Especially of interest are the following indicators: total heat demand in the coherent area, average heat demand density in the area. 
+* After having used the CM for the entire region / country of interest an overall map of potential district heating areas can be generated out of the single maps. 
 
+<code><ins>**[To Top](#Guidelines-for-using-the-Hotmaps-toolbox-for-analyses-at-national-level)**</ins></code>
 
 
 
