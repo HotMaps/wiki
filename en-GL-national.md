@@ -63,7 +63,7 @@ To assess the economic potential for efficiency in heating and cooling it is imp
 The following figure shows this approach graphically. The different steps will be explained in more detail in the following chapters of these guidelines.
 
 
-![](https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/Overview_HotmapsApproachNational.png)
+![](https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/Hotmaps_ApproachNational_Overview.png)
 *Figure: Hotmaps approach for analysing the economic potential for efficiency in heating and cooling in course of Article 14 of the Energy Efficiency Directive (EED)*
 
 
