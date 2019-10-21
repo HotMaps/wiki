@@ -2,6 +2,12 @@
 
 These guidelines describe how the Hotmaps toolbox can be used to analyse costs and potentials for efficient and renewable heating and cooling at national level. The guide is especially oriented towards the development of results according to the comprehensive assessment of national heating and cooling potentials referred to in Article 14(1) of the Energy Efficiency Directive (EED) in its current version.
 
+
+## Table of Contents
+* [Part I: Overview of heating and cooling](#Part I: Overview of heating and cooling)
+* [Part III: Analysis of the economic potential for efficiency in heating and cooling](#Part III: Analysis of the economic potential for efficiency in heating and cooling)
+
+
 # Part I: Overview of heating and cooling
 
 The Hotmaps database and toolbox provides two different inputs to this part: first, the Hotmaps database provides default data for several of the data needed to include in this part I of the comprehensive assessment. Second, the Hotmaps toolbox is basically a mapping tool that allows a geographical representation of default data in the toolbox but also of other data uploaded to the toolbox. In the following we describe the different default data form Hotmaps that might be of use and we link to the descriptions of how to use the upload function of the Hotmaps toolbox.
