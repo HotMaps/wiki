@@ -6,6 +6,8 @@ These guidelines describe how the Hotmaps toolbox can be used to analyse costs a
 # Table of Contents
 * [Part I: Overview of heating and cooling](#part-i:-overview-of-heating-and-cooling)
 * [Part III: Analysis of the economic potential for efficiency in heating and cooling](#Part-III:-Analysis-of-the-economic-potential-for-efficiency-in-heating-and-cooling)
+    * [Part I: Overview of heating and cooling](#part-i:-overview-of-heating-and-cooling)
+
 
 
 # Part I: Overview of heating and cooling
