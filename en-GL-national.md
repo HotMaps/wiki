@@ -11,7 +11,7 @@ These guidelines describe how the Hotmaps toolbox can be used to analyse costs a
         * [Identification of regions potentially interesting for district heating](#Identification-of-regions-potentially-interesting-for-district-heating)
         * [Analysis of potentials for excess heat and renewable energy in the identified regions with potential interest for district heating](#Analysis-of-potentials-for-excess-heat-and-renewable-energy-in-the-identified-regions-with-potential-interest-for-district-heating)
         * [Identification of representative, typical district heating areas for further analysis](#Identification-of-representative-typical-district-heating-areas-for-further-analysis)
-    * [Step 2: Costs and potentials for district heating in representative cities / regions](#Step-2-Costs-and-potentials-for-district-heating-in-representative-cities-regions)
+    * [Step 2: Costs and potentials for district heating in representative cities / regions](#Step-2-Costs-and-potentials-for-district-heating-in-representative-cities--regions)
     * [Step 3: Calculation of decentral heat supply](#Step-3-Calculation-of-decentral-heat-supply)
     * [Step 4: Comparison of results for different scenarios](#Step-4-Comparison-of-results-for-different-scenarios)
 * [Authors and reviewers](#Authors-and-reviewers)
@@ -192,10 +192,10 @@ For each of the developed groups of typical DH areas then one or several represe
 ## Step 2: Costs and potentials for district heating in representative cities / regions
 
 For the identified representative cities / areas analyses on the costs and potentials for the heat supply with district heating can be performed. For these analyses Hotmaps provides various default data layers in the Hotmaps database as well as different Calculation Modules (CMs). Also, own data can be uploaded and used. These analyses can consist of the following steps:
-Assess the economic potential for district heating networks
-Estimate the costs for the transport of excess heat to district heating areas
-Develop future heat load profiles
-Calculate costs and emissions of heat supply in district heating
+* Assess the economic potential for district heating networks
+* Estimate the costs for the transport of excess heat to district heating areas
+* Develop future heat load profiles
+* Calculate costs and emissions of heat supply in district heating
 
 The following figure shows this procedure graphically and shows the various data sources and calculation modules that can be used.
 
