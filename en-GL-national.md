@@ -38,7 +38,7 @@ The following data relevant for Part I of Annex VIII is available in the Hotmaps
   * Default scenarios for all EU28 MS are available from the H2020 project CHEETAH
   * This data is also integrated in the CM – Demand projection and used for the calculations in this module
 
-<code><ins>**[To Top](#Guidelines for using the Hotmaps toolbox for analyses at national level)**</ins></code>
+<code><ins>**[To Top](#Guidelines-for-using-the-Hotmaps-toolbox-for-analyses-at-national-level)**</ins></code>
 
 # Part III: Analysis of the economic potential for efficiency in heating and cooling
 
