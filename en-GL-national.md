@@ -57,6 +57,7 @@ The following figure shows this approach graphically. The different steps will b
 ![](https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/Overview_HotmapsApproachNational.png)
 *Figure: Hotmaps approach for analysing the economic potential for efficiency in heating and cooling in course of Article 14 of the Energy Efficiency Directive (EED)*
 
+
 In all of these steps **various scenarios and sensitivities should be taken into account**:
 * different levels of heat savings (implemented in step 1, 2 and 3)
 * different levels of district heating shares in total heat supply (implemented in step 2)
@@ -92,7 +93,7 @@ In order to identify different, representative, typical cases for further analys
 
 The following figure shows this procedure graphically and shows the various data sources and calculation modules that can be used.
 
-![](https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/Overview_HotmapsApproachNational.png)
+![](https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/Hotmaps_ApproachNational_Step1.png)
 *Figure: Identification of different representative, typical cases for district heating (Step 1)*
 
 In the following subchapters the different steps in this procedure are described in more detail.
