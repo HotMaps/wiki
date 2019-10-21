@@ -11,7 +11,7 @@ These guidelines describe how the Hotmaps toolbox can be used to analyse costs a
         * [Identification of regions potentially interesting for district heating](#Identification-of-regions-potentially-interesting-for-district-heating)
         * [Analysis of potentials for excess heat and renewable energy in the identified regions with potential interest for district heating](#Analysis-of-potentials-for-excess-heat-and-renewable-energy-in-the-identified-regions-with-potential-interest-for-district-heating)
         * [Identification of representative, typical district heating areas for further analysis](#Identification-of-representative-typical-district-heating-areas-for-further-analysis)
-    * [Step 2: Costs and potentials for district heating in representative cities / regions](#Step-2-Costs-and-potentials-for-district-heating-in-representative-cities-/-regions)
+    * [Step 2: Costs and potentials for district heating in representative cities / regions](#Step-2-Costs-and-potentials-for-district-heating-in-representative-cities-regions)
     * [Step 3: Calculation of decentral heat supply](#Step-3-Calculation-of-decentral-heat-supply)
     * [Step 4: Comparison of results for different scenarios](#Step-4-Comparison-of-results-for-different-scenarios)
 * [Authors and reviewers](#Authors-and-reviewers)
