@@ -105,6 +105,15 @@ In the following subchapters the different steps in this procedure are described
 
 <code><ins>**[To Top](#Guidelines-for-using-the-Hotmaps-toolbox-for-analyses-at-national-level)**</ins></code>
 
+### Calculation of future heat demand and building floor area density maps
+
+The first step in the analysis is to generate future heat demand and floor area density maps for your region / country of interest. You can use data developed in the course of the Hotmaps project for all EU-28 countries (Hotmaps default data, available in the Hotmaps database), or you can use other heat demand density maps for your region of interest.
+
+* Use heat demand and floor area density maps developed in the course of the Hotmaps project - default data on heat demand density from the Hotmaps database:
+    * For all EU 28 Member States (MS) heat demand density maps reflecting the heat demand from space heating and hot water generation in buildings have been developed. They are available as the total demand in residential and non-residential buildings, but also split between residential and non-residential buildings. All maps are all available at hectare level, i.e. with a resolution of 100x100m. The heat demand density maps can be accessed in the layers section of the Hotmaps database and more information on how to select the region of your interest can be found here.
+    * It is possible to adapt the heat demand density maps according to assumptions regarding the future development of the heat demand in the buildings. Two different Calculation Modules (CMs) can be used:
+        * The CM - Scale heat and cold density maps can be used to recalculate the heat demand in each hectare using the same factor for all hectare elements.
+        * The CM - Demand projection can be used to generate future heat demand and floor area density maps based on default development scenarios of the building stock in the EU (link to further info on the default scenarios . It is also possible to adapt several parameters compared to the default calculations like reduction of energy demand or reduction of floor area.
 
 
 
@@ -141,7 +150,7 @@ Argentinierstrasse 18/10,
 
 \** [Energy Economics Group - TU Wien](https://eeg.tuwien.ac.at/),
 Institute of Energy Systems and Electrical Drives,
-Gusshausstrasse 27-29/370
+Gusshausstrasse 27-29/370,
 1040 Wien
 
 
