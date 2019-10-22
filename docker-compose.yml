@@ -1,0 +1,7 @@
+version: '3.2'
+services:
+  wiki:
+    env_file: .env
+    build: .
+    ports:
+      - "80:80"
