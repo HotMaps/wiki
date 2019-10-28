@@ -37,4 +37,4 @@ RUN cp -r /root/wikidata/gollum-patch/views/* "$(dirname "$(gem which gollum)")/
 # Expose gollum port 80
 EXPOSE 80
 
-ENTRYPOINT ["/usr/local/bin/gollum", "/root/wikidata", "--config", "config.rb", "--port", "80"]
+ENTRYPOINT ["/usr/local/bin/gollum", "/root/wikidata", "--config", "config.rb", "--port", "80", "--h1-title", "--css", "--base-path", "some-stupid-basepath"]
