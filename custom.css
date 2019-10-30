@@ -80,3 +80,18 @@
 .markdown-body li + li {
     margin-top: 0.25em;
 }
+
+h2 :not(:last-child) {
+	display: none !important;
+}
+
+/*
+h1 a.anchor:first-of-type, 
+h2 a.anchor:first-of-type,
+h3 a.anchor:first-of-type,
+h4 a.anchor:first-of-type,
+h5 a.anchor:first-of-type,
+h6 a.anchor:first-of-type {
+	display: none;
+}
+*/

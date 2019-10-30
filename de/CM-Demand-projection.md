@@ -1,0 +1,8 @@
+<h1> <a class="anchor" id="cm-demand-projection" href="#cm-demand-projection"><i class="fa fa-link"></i></a> CM Bedarfsprojektion </h1><h3> <a class="anchor" id="cm---demand-projection" href="#cm---demand-projection"><i class="fa fa-link"></i></a> CM - Bedarfsprojektion </h3><p> Ziel des Berechnungsmoduls ist es, die Szenarioergebnisse für die Entwicklung des Energiebedarfs auf verschiedene Regionen zu übertragen. </p><p> <strong>Die Vorgehensweise ist wie folgt</strong> </p><ol><li><p> Die zugrunde liegenden Invert / EE-Lab-Ergebnisse auf Länderebene </p></li><li><p> Analyse, was mit verschiedenen Gebäudetypen passiert: Wohn- und Nichtwohngebäude / 3 Bauzeiten und neu errichtete Gebäude </p></li><li><p> Berechnen Sie für jede Rasterzelle den geschätzten Energieanteil nach unterschiedenem Gebäudetyp (z. B. Wohngebäude, Bauzeit 1, nicht saniert) und wenden Sie die Maßnahmen entsprechend der nationalen Entwicklung an. </p></li><li><p> Darüber hinaus kann der Nutzer die Auswirkungen von mehr oder weniger - im Verhältnis zum ausgewählten Szenario - ehrgeizigen Maßnahmen untersuchen, z. B. eine höhere oder niedrigere Abrissrate von Gebäuden ab einer bestimmten Bauzeit wählen. </p></li></ol><p> <strong>Ausgabe</strong> </p><ul><li><p> Tabellarische Ergebnisse zu beheizter Bruttogrundfläche pro Bauzeit, Endenergiebedarf pro Bauzeit und abgeleiteten Indikatoren. </p></li><li><p> Balkendiagramme zur beheizten Bruttogrundfläche und zum Endenergiebedarf pro Bauzeit </p></li><li><p> Wärmedichtekarte und Karte der beheizten Bruttogrundfläche </p></li></ul>
+<!--- THIS IS A SUPER UNIQUE IDENTIFIER -->
+
+This page was automatically translated. View in another language:
+
+[English](../en/CM-Demand-projection) (original)  
+
+<sup>\*</sup> machine translated
