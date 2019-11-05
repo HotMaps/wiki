@@ -1,6 +1,0 @@
-<p> CM - Προφίλ φορτίου θερμότητας </p>
-
-This page was automatically translated. View in another language:
-
-[English](en-CM-Heat-load-profiles) (original) [Bulgarian](bg-CM-Heat-load-profiles)<sup>\*</sup> [Croatian](hr-CM-Heat-load-profiles)<sup>\*</sup> [Czech](cs-CM-Heat-load-profiles)<sup>\*</sup> [Danish](da-CM-Heat-load-profiles)<sup>\*</sup> [Dutch](nl-CM-Heat-load-profiles)<sup>\*</sup> [Estonian](et-CM-Heat-load-profiles)<sup>\*</sup> [Finnish](fi-CM-Heat-load-profiles)<sup>\*</sup> [French](fr-CM-Heat-load-profiles)<sup>\*</sup> [German](de-CM-Heat-load-profiles)<sup>\*</sup>  [Hungarian](hu-CM-Heat-load-profiles)<sup>\*</sup> [Irish](ga-CM-Heat-load-profiles)<sup>\*</sup> [Italian](it-CM-Heat-load-profiles)<sup>\*</sup> [Latvian](lv-CM-Heat-load-profiles)<sup>\*</sup> [Lithuanian](lt-CM-Heat-load-profiles)<sup>\*</sup> [Maltese](mt-CM-Heat-load-profiles)<sup>\*</sup> [Polish](pl-CM-Heat-load-profiles)<sup>\*</sup> [Portuguese (Portugal, Brazil)](pt-CM-Heat-load-profiles)<sup>\*</sup> [Romanian](ro-CM-Heat-load-profiles)<sup>\*</sup> [Slovak](sk-CM-Heat-load-profiles)<sup>\*</sup> [Slovenian](sl-CM-Heat-load-profiles)<sup>\*</sup> [Spanish](es-CM-Heat-load-profiles)<sup>\*</sup> [Swedish](sv-CM-Heat-load-profiles)<sup>\*</sup>
-<sup>\*</sup>: machine translated
