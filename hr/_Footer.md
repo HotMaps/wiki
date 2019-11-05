@@ -1,1 +1,1 @@
-<p><img alt="Logotip Hotmapova" src="https://www.hotmaps-project.eu/wp-content/uploads/2017/02/logo.svg"/></p>
+<p><img alt="Logotip Hotmapova" src="https://www.hotmaps-project.eu/wp-content/uploads/2017/02/logo.svg"/></p><img alt="Logotip Hotmapova" src="https://www.hotmaps-project.eu/wp-content/uploads/2017/02/logo.svg"/></p<img alt="Logotip Hotmapova" src="https://www.hotmaps-project.eu/wp-content/uploads/2017/02/logo.svg"/></p>
