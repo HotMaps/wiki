@@ -24,7 +24,7 @@ In order to upload a dataset without any issue. Please use the [export](Data-exp
 
 ## How to upload a layer with custom data
 
-By pressing the ![account button](images/account-btn.png) button at the top left corner of the page. This will bring the profile page to front. 
+By pressing the ![account button](../images/account-btn.png) button at the top left corner of the page. This will bring the profile page to front. 
 
 On the profile page:
 
@@ -32,7 +32,7 @@ On the profile page:
 2. selection of file to upload (.tif or .csv)
 3. upload by clicking on the "+" icon
 
-![profile page upload](images/profile-upload.png)
+![profile page upload](../images/profile-upload.png)
 
 The selection of type of dataset is used in order to get the correct symbology. If your dataset does not match the layer symbology, it won't be displayed correctly.
 
@@ -42,7 +42,7 @@ Each user has a limited disk space, once the user has not enough free space, it 
 
 Before being able to display the layer on the map, the server will need some time (up to several minutes) after the success message to import the dataset correctly. The dataset is available to be displayed once its size is no longer 0.
 
-![upload_complete](images/upload_complete.png)
+![upload_complete](../images/upload_complete.png)
 
 The layer can now be displayed on the map by activating it on the layers panel. 
 
@@ -50,13 +50,13 @@ The layer can now be displayed on the map by activating it on the layers panel.
 
 ## How to display an uploaded layer
 
-It is possible to display a layer that has been previously uploaded from the layers panel by clicking on the ![layers button](images/layers-btn.png) button.
+It is possible to display a layer that has been previously uploaded from the layers panel by clicking on the ![layers button](../images/layers-btn.png) button.
 
 The list of uploaded layers is displayed on the "Personal layers" section on top of the left panel.
 
 A layer can be displayed by activating it on the left panel.
 
-![upload display layer](images/upload-layers.png)
+![upload display layer](../images/upload-layers.png)
 
 [**`To Top`**](#table-of-contents)
 

@@ -74,7 +74,7 @@ We hope you enjoy exploring the toolbox and find it helpful for your heating and
 ## How to apply Hotmaps toolbox
 Each calculation module can be used to analyse different parts of the heating and cooling system and different analysis questions. The calculation modules can also be used as a chain of tools to derive scenarios for heating and cooling of defined regions / areas. For the demonstration of the Hotmaps toolbox the calculation modules are used according to the following toolchain:
 
-![](images/Hotmaps_toolchain_2019-05-09.png)
+![](../images/Hotmaps_toolchain_2019-05-09.png)
 
 * [Guideline for a possible use of the Hotmaps toolbox on local level](GL-local)
 * [Guideline for a possible use of the Hotmaps toolbox on national level](GL-national)
@@ -94,7 +94,7 @@ For additional supports on heating and cooling planning, please refer to the Hot
 
 **HAVE FUN EXPLORING THE HOTMAPS TOOLBOX!**
 
-![](images/Hotmaps_test.JPG)
+![](../images/Hotmaps_test.JPG)
 
 ## References
 [1] EU H2020 Project: Mapping and analyses of the current and future (2020 - 2030) heat-ing/cooling fuel deployment (fossil/renewables). WP1 Report. 2016. accessed via https://ec.europa.eu/energy/sites/ener/files/documents/Report%20WP1.pdf

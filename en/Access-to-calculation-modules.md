@@ -64,11 +64,11 @@ We would like to convey our deepest appreciation to the Horizon 2020 [Hotmaps Pr
 [**`To Top`**](#table-of-contents)
 <code>[Review this page](CM-Access/_edit/#Authors-and-reviewers)</code>
 
-[cm_access]: images/general_tool_functionalities_and_structure/calculation_module_access.gif
+[cm_access]: ../images/general_tool_functionalities_and_structure/calculation_module_access.gif
 
-[cm_access_png]: images/general_tool_functionalities_and_structure/calculation_module_access.png
+[cm_access_png]: ../images/general_tool_functionalities_and_structure/calculation_module_access.png
 
-[cm_structure]: images/general_tool_functionalities_and_structure/calculation_module_structure.png
+[cm_structure]: ../images/general_tool_functionalities_and_structure/calculation_module_structure.png
 
 
 <!--- THIS IS A SUPER UNIQUE IDENTIFIER -->
