@@ -3,6 +3,7 @@ Please select your language:
 
 
 *    [English](../en/Home)
+*    [German](../de/Home)<sup>\*</sup>
 *    [Spanish](../es/Home)<sup>\*</sup>
 
 <sup>\*</sup>: machine translated
