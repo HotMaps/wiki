@@ -160,7 +160,7 @@ The whole database used for option 3 is available here: Repository_Link
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
 
 ## How to cite
-Lisa Neusel, in Hotmaps-Wiki, https://github.com/HotMaps/hotmaps_wiki/wiki/en-CM-Add-industry-plant
+Lisa Neusel, in Hotmaps-Wiki, CM-Add-industry-plant
 (September 2019)
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>

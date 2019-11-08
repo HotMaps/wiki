@@ -68,7 +68,7 @@ The following figure gives the example for a multiplication factor value of 0.5.
 
 ## How to cite
 
-Thiery Bernhard, in Hotmaps-Wiki, https://github.com/HotMaps/hotmaps_wiki/wiki/en-CM-Scale-heat-and-cool-density-maps (April 2019)
+Thiery Bernhard, in Hotmaps-Wiki, CM-Scale-heat-and-cool-density-maps (April 2019)
 
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>

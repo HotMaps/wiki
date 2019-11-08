@@ -75,7 +75,7 @@ Calculation of heat demand load profiles for selected regions.
 
 * Heat demand profiles
 
-  Graphic showing above listed indicators over the year. Details can be found [here](https://github.com/HotMaps/hotmaps_wiki/wiki/en-CM-Heat-load-profiles#heat-demand-profiles)
+  Graphic showing above listed indicators over the year. Details can be found [here](CM-Heat-load-profiles#heat-demand-profiles)
 
 #### Examples of Graphics
 
