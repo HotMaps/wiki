@@ -3,6 +3,6 @@
 
 This page was automatically translated. View in another language:
 
-[English](../en/Home) (original)  
+[English](../en/Home) (original) [Bulgarian](../bg/Home)<sup>\*</sup>  
 
 <sup>\*</sup> machine translated

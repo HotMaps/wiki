@@ -105,10 +105,11 @@ For additional supports on heating and cooling planning, please refer to the Hot
 
 
 
+
 <!--- THIS IS A SUPER UNIQUE IDENTIFIER -->
 
 View in another language:
 
- [Spanish](../es/Home)<sup>\*</sup> 
+ [Bulgarian](../bg/Home)<sup>\*</sup> [Spanish](../es/Home)<sup>\*</sup> 
 
 <sup>\*</sup> machine translated
