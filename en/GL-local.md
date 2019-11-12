@@ -3,3 +3,11 @@
 Guideline for a possible use of the Hotmaps toolbox on the local level
 
 tes
+
+<!--- THIS IS A SUPER UNIQUE IDENTIFIER -->
+
+View in another language:
+
+ [German](../de/GL-local)<sup>\*</sup> 
+
+<sup>\*</sup> machine translated
