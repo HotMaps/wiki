@@ -108,6 +108,6 @@ For additional supports on heating and cooling planning, please refer to the Hot
 
 View in another language:
 
- [Bulgarian](../bg/Home)<sup>\*</sup> [German](../de/Home)<sup>\*</sup> [Spanish](../es/Home)<sup>\*</sup> 
+ [Bulgarian](../bg/Home)<sup>\*</sup> [Spanish](../es/Home)<sup>\*</sup> 
 
 <sup>\*</sup> machine translated
