@@ -23,8 +23,6 @@ The Hotmaps Wiki hosts the documentation, guidance and manual of the Hotmaps too
 1. [How to apply hotmaps toolbox?](#how-to-apply-hotmaps-toolbox)
 1. [Developers](#for-developers) section.
 
-abc
-
 The data set section provides information about Hotmaps data set repositories and also methodologies for gathering these data sets.
 
 General toolbox functionalities guide the user through the interface of the toolbox. The section covers all general aspects of the toolbox, which are related to the user experience, e.g. navigating through different parts of the toolbox, layer selection, retrieving indicators, data upload and export functionalities etc.
@@ -101,15 +99,10 @@ For additional supports on heating and cooling planning, please refer to the Hot
 
 
 
-
-
-
-
-
 <!--- THIS IS A SUPER UNIQUE IDENTIFIER -->
 
 View in another language:
 
- [Bulgarian](../bg/Home)<sup>\*</sup> [Spanish](../es/Home)<sup>\*</sup> 
+ [German](../de/Home)<sup>\*</sup> [Spanish](../es/Home)<sup>\*</sup> 
 
 <sup>\*</sup> machine translated
