@@ -3,10 +3,12 @@
 
 
 
+
+
 <!--- THIS IS A SUPER UNIQUE IDENTIFIER -->
 
 This page was automatically translated. View in another language:
 
-[English](../en/Home) (original)  [Spanish](../es/Home)<sup>\*</sup> 
+[English](../en/Home) (original) [Bulgarian](../bg/Home)<sup>\*</sup>  [Spanish](../es/Home)<sup>\*</sup> 
 
 <sup>\*</sup> machine translated
