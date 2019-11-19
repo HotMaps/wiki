@@ -2,7 +2,7 @@
 
 Guideline for a possible use of the Hotmaps toolbox on the local level
 
-tes
+This page is to be filled soon
 
 <!--- THIS IS A SUPER UNIQUE IDENTIFIER -->
 
