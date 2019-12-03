@@ -147,11 +147,3 @@ We would like to convey our deepest appreciation to the Horizon 2020 [Hotmaps Pr
 [peak]: ../images/dh_supply/peak.png
 [legend]: ../images/dh_supply/legend.png
 
-
-<!--- THIS IS A SUPER UNIQUE IDENTIFIER -->
-
-View in another language:
-
- [German](../de/CM-District-heating-supply-dispatch)<sup>\*</sup> 
-
-<sup>\*</sup> machine translated

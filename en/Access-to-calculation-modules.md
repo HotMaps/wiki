@@ -70,12 +70,3 @@ We would like to convey our deepest appreciation to the Horizon 2020 [Hotmaps Pr
 
 [cm_structure]: ../images/general_tool_functionalities_and_structure/calculation_module_structure.png
 
-
-
-<!--- THIS IS A SUPER UNIQUE IDENTIFIER -->
-
-View in another language:
-
- [German](../de/Access-to-calculation-modules)<sup>\*</sup> 
-
-<sup>\*</sup> machine translated

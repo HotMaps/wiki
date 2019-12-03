@@ -261,11 +261,3 @@ We would like to convey our deepest appreciation to the Horizon 2020 [Hotmaps Pr
 [feedback_priority]: ../images/general_tool_functionalities_and_structure/feedback_priority.png
 
 
-
-<!--- THIS IS A SUPER UNIQUE IDENTIFIER -->
-
-View in another language:
-
- [German](../de/Introduction-to-user-interface)<sup>\*</sup> 
-
-<sup>\*</sup> machine translated

@@ -5,11 +5,3 @@ This module generates both a heat density and a floor area density map in the fo
 This module will only be available as stand-alone module; it will not be integrated into the toolbox.
 
 
-
-<!--- THIS IS A SUPER UNIQUE IDENTIFIER -->
-
-View in another language:
-
- [German](../de/CM-Customized-heat-and-floor-area-density-maps)<sup>\*</sup> 
-
-<sup>\*</sup> machine translated

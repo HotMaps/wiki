@@ -131,11 +131,3 @@ We would like to convey our deepest appreciation to the Horizon 2020 [Hotmaps Pr
 [layers_tools]: ../images/general_tool_functionalities_and_structure/layers_tools.png
 
 
-
-<!--- THIS IS A SUPER UNIQUE IDENTIFIER -->
-
-View in another language:
-
- [German](../de/Layers-section-in-the-Hotmaps-toolbox)<sup>\*</sup> 
-
-<sup>\*</sup> machine translated

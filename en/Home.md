@@ -2,8 +2,6 @@
 
 ## Hotmaps toolbox
 
-Just a random note
-
 Heating and cooling in residential and industrial sectors accounts for half of the EU’s energy consumption. More than 80% of heating and cooling is still generated from fossil fuels [[1](#references)]. Meanwhile, heat losses are also significantly high. This sector needs to be transformed! 
 Hotmaps is a website, which allows you to provide within 5 minutes a first estimation of heating and cooling demand in your region and the potentials of local renewable energy to cover this demand. Subsequently, by using more detailed data and applying its calculation modules, you are able to elaborate much more comprehensive heating and cooling strategies.
 What we offer is an open source online software that supports planning processes of the energy sector on the local level in a transparent manner. We provide:
@@ -18,13 +16,11 @@ Thanks to this software, you will be able to take practical decisions in your ar
 **Welcome to the Hotmaps Wiki!**
 
 The Hotmaps Wiki hosts the documentation, guidance and manual of the Hotmaps toolbox. It consists of the following main parts:
-
 1. [Data sets](#data-sets)
 1. [General toolbox functionalities](#general-tool-functionalities-and-structure),
 1. [Calculation modules](#calculation-modules-cm),
 1. [How to apply hotmaps toolbox?](#how-to-apply-hotmaps-toolbox)
 1. [Developers](#for-developers) section.
-
 
 The data set section provides information about Hotmaps data set repositories and also methodologies for gathering these data sets.
 
@@ -36,7 +32,7 @@ The aim of section "How to apply hotmaps toolbox?" is to guide the Hotmaps users
 
 The developers section contains all information required for developers to contribute to the Hotmaps toolbox or to understand how it works. It explains amongst all the IT infrastructure of the Hotmaps toolbox, data set integration, contribution in calculation module development etc.
 
-**The Hotmaps Wiki is a living document**, i.e. it grows as the Hotmaps toolbox grows. The Hotmaps developers continue updating Hotmaps Wiki pages by introduction of new updates, improvements, functionalities and calculation modules. Please use [this guideline](Guidelines-for-writing-a-Hotmaps-Wiki-page) for writing a Hotmaps Wiki page.
+**The Hotmaps Wiki is a living document**, i.e. it grows as the Hotmaps toolbox grows. The Hotmaps developers continue updating Hotmaps Wiki pages by introduction of new updates, improvements, functionalities and calculation modules. Please use [this guideline](en-Guidelines-for-writing-a-Hotmaps-Wiki-page) for writing a Hotmaps Wiki page.
 
 We hope you enjoy exploring the toolbox and find it helpful for your heating and cooling planning!
 
@@ -100,20 +96,3 @@ For additional supports on heating and cooling planning, please refer to the Hot
 ## References
 [1] EU H2020 Project: Mapping and analyses of the current and future (2020 - 2030) heat-ing/cooling fuel deployment (fossil/renewables). WP1 Report. 2016. accessed via https://ec.europa.eu/energy/sites/ener/files/documents/Report%20WP1.pdf
 
-
-
-
-
-
-
-
-
-
-
-<!--- THIS IS A SUPER UNIQUE IDENTIFIER -->
-
-View in another language:
-
- [German](../de/Home)<sup>\*</sup> 
-
-<sup>\*</sup> machine translated
