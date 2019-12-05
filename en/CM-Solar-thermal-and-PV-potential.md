@@ -5,6 +5,7 @@
 * [Introduction](#introduction)
 * [Inputs and outputs](#inputs-and-outputs)
 * [Method](#method)
+  * [Example](#example)
 * [Sample run](#sample-run)
   * [Test Run 1: default input values](#test-run-1-default-input-values)
   * [Test Run 2: modified input values](#test-run-2-modified-input-values)
@@ -50,7 +51,6 @@ The input parameters and layers as well as output layers and parameters are as f
 
 [**`To Top`**](#table-of-contents)
 
-
 ## Method
 
 Starting from the available area and the kind of PV technology the module computes the PV energy production under the following assumptions:
@@ -67,6 +67,67 @@ Consequently, the surface covered by a single plant and the total number of plan
  
 Finally, the most suitable area is computed by considering the roofs with higher energy production. 
 The energy production of each pixel considers to cover only a fraction of the roofs equal to f_roof. The integral of the energy production of the most suitable area is equal to the total energy production of the selected area.
+
+### Example
+
+To give a practical example on how the CM logic/methodology is applied to a predefined area.
+By default the input area we are using is the buildings' footprint. 
+So for example, the city of Bolzano (italy), since a large part of the city is historic centre (where it is not possible to install solar panels) we can estimates that only 1 roof every 5 can be used to collect solar energy (~20%). Instead if you provide an area that it is available to implement some solar field then you can set 100% of the area can be used for the solar system.
+
+Which area of the 20% of the roofs in Bolzano can be covered by PV pannels?
+Cover the whole roof is no realistic, since part of the roof have not suitable orientation, since the building generally have 4 side we can imagine that around 25% of the roof have a good orientation (at least in Bolzano where most of the roofs are not plane and have 2 or 4 roofs slopes), but still we have shadowing affects from the surrounding trees, buildings, mountains, etc, and generally we are leaving some space close to the border of the roofs so let's immagine that 50% of the good oriented roof can be used by PV (25% * 50% = 12.5%), the default value is a bit more optimistic (15%).
+
+In case of a solar field generally the PV string occupy around 40-50% of the area to avoid the shadowing effect between PV strings.
+
+#### Example with a PV system on a building footprint
+
+For the sake of the example we are explaining the methodology for one single pixel, the CM is applying the same logic for each pixel in the area selected by the user. The default layer (the building foot print) has a pixel dimension of 100 x 100 m, therefore we have an available surface of 10000 m². For this example imagine that only 3000 m² of roofs are available in the pixel, the other missing part of the surface is surface dedicated to routes, green areas, river, etc. The logic implemented by the CM is:
+
+* apply the first percentage to get only the roofs that I can host the system:
+    `available_surface = 3000 [m²] * 20% = 600 [m²]`
+* The surface that can be really covered by PV systems is estimated to be 12.5%, therefore:
+    `available_pv_surface = 600 [m²] * 12.5% = 75 [m²]`
+* Then we use the information of the PV efficiency (by default 0.15) to calculate the surface required to have a single PV plant (by default of 3 kWp)
+    `single_pv_surface = 3 [kWp] / 0.15 = 20 [m²]`
+* then we compute the number of PV systems that can be installed in the pixel that are:
+    `n_pv_plants = 75 [m²] // 20 [m²] = 3`
+  and therefore we will have 3 plants of 3 KWp installed on the pixel of 100 by 100 m (so 9 kWp), and then we multiply this value by the energy produced by 1 kWp and multiply by the efficiency of the PV systems (inverter and transmission, by default: 0.85) to obtain the total energy produced by the pixel:
+    `pv_energy = solar_radiation [kWh/kWp/year] * 9 [kWp] * 0.85`
+
+#### Example with a solar PV field
+
+Now we have a pixel of 100 x 100m that it is available for a PV field system:
+
+* as said before the first percentage is 100% since all the area can host the PV system:
+    `available_surface = (100 x 100) [m²] * 100% = 10000 [m²]`
+* The surface that can be covered by PV systems is:
+    `available_pv_surface = 10000 m² * 50% = 5000 m²`
+* Then we use the information of the PV efficiency (by default 0.15) to calculate the surface required to have a single PV plant (by default of 3 kWp)
+    `single_pv_surface = 3 [kWp] / 0.15 = 20 [m²]`
+* then we compute the number of systems that can be installed in the pixel that are:
+    `n_pv_plants = 5000 // 20 = 250`
+  and therefore we will have 250 plants of 3 KWp installed on the pixel of 100 by 100 m (so 750 kWp), and then we multiply this value by the hourly energy produced by 1 kWp and multiply by the efficiency of the PV systems (inverter and transmission, by default: 0.85) to obtain the total energy produced by the pixel:
+    `pv_energy = solar_radiation [kWh/kWp/year] * 750 kWp * 0.85`
+
+#### Example with a PV & ST system on a building footprint
+
+The building surface that you can use it is a limited resource, therefore it is not possible to use the same surface to collect solar energy with a PV system and use also a Solar Thermal system.
+So recalling the previous example we have already 75 m² of surface dedicated to PV, we estimated that the good-oriented roof it is around 25% and therefore  we have still other 75 [m²] available. We can only used a fraction, let's say that 7.5%, that mean that if before we consider a 25% of the roof with a good exposition then we are considering the 12.5% is dedicated to the PV and 7.5 is dedicated to ST, and therefore we are using 20% of the 25%.
+
+So to give a practical example:
+
+* apply the first percentage to get only the roofs that I can host the system:
+    `available_surface = 3000 [m²] * 20% = 600 [m²]`
+* The surface that can be really covered by ST systems is:
+    600 m² * 7.5% = 67.5 m²
+    `available_st_surface = 600 [m²] * 7.5% = 45 [m²]`
+    note that `75 + 45 = 120 [m²]` that it is smaller than the estimated surface that could have a good exposition (`available_surface * 25% = 150 [m²]`).
+* Then we use the information of the ST surface required by a ST system (by default 5 m²) to calculate the number of ST plants:
+    `n_st_plants = 45 [m²] // 5 [m²] = 9`
+* then we compute the installed surface of ST plants:
+    st_surface = 9 * 5 m² = 45 [m²]`
+* and now we are applying the global solar radiation (kWh/m²) by the covered surface by the efficiency of the ST panels (by default 0.85):
+    `solar_radiation [kWh/m²] * 45 [m²] * 0.85`
 
 
 [**`To Top`**](#table-of-contents)
@@ -185,11 +246,3 @@ We would like to convey our deepest appreciation to the Horizon 2020 [Hotmaps Pr
 
 
 
-
-<!--- THIS IS A SUPER UNIQUE IDENTIFIER -->
-
-View in another language:
-
- [German](../de/CM-Solar-thermal-and-PV-potential)<sup>\*</sup> 
-
-<sup>\*</sup> machine translated
