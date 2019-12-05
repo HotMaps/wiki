@@ -70,9 +70,9 @@ All the above-mentioned data sets are stored in Hotmaps data repositories on Git
 [**`To Top`**](#table-of-contents)
 
 ## Gross floor area density map
-* [Building gross floor area density map - **Residential**](https://gitlab.com/hotmaps/building_footprint_res_curr)
-* [Building gross floor area density map - **Non-Residential**](https://gitlab.com/hotmaps/building_footprint_nonres_curr)
-* [Building gross floor area density map - **Total**](https://gitlab.com/hotmaps/building_footprint_tot_curr)
+* [Building gross floor area density map - **Residential**](https://gitlab.com/hotmaps/gfa_res_curr_density)
+* [Building gross floor area density map - **Non-Residential**](https://gitlab.com/hotmaps/gfa_nonres_curr_density)
+* [Building gross floor area density map - **Total**](https://gitlab.com/hotmaps/gfa_tot_curr_density)
 
 [**`To Top`**](#table-of-contents)
 
@@ -336,11 +336,3 @@ We would like to convey our deepest appreciation to the Horizon 2020 [Hotmaps Pr
 
 [**`To Top`**](#table-of-contents)
 
-
-<!--- THIS IS A SUPER UNIQUE IDENTIFIER -->
-
-View in another language:
-
- [German](../de/Hotmaps-open-data-repositories)<sup>\*</sup> 
-
-<sup>\*</sup> machine translated
