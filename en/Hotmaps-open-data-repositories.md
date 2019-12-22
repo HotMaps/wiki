@@ -313,7 +313,7 @@ Using the structure of the days in a year, the profiles are assembled to a yearl
 All profiles  provided here are unitless and normalised to 1 000 000. 
 In order to a profile, it is to be scaled according to the annual demand of the respective region (i.e. so that the profiles integral equals the annual demand per region).
 
-For detailed explanations and a graphical illustration of the dataset please see the [Hotmaps WP2 report](https://www.hotmaps-project.eu/wp-content/uploads/2018/03/D2.3-Hotmaps_for-upload_revised-final_.pdf) (section 2.8).
+For detailed explanations and a graphical illustration of the dataset please see the [Hotmaps WP2 report](https://www.hotmaps-project.eu/wp-content/uploads/2018/03/D2.3-Hotmaps_for-upload_revised-final_.pdf) (section 2.7).
 
 
 ### Residential profiles - Year specific
