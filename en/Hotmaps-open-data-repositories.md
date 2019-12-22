@@ -238,10 +238,13 @@ Yearlong profiles can be generated from the generic profiles provided in this re
 The tertiary sector profile consists of demand from multiple subsectors. The configuration is different for each country. For the respective subsectoral shares per country we refer to the hotmaps WP2 report, section 2.7.3 (https://www.hotmaps-project.eu/wp-content/uploads/2018/03/D2.3-Hotmaps_for-upload_revised-final_.pdf).
 
 * [Generic hourly profiles on NUTS 2 level in tertiary sector - **sanitary hot water demand**](https://gitlab.com/hotmaps/load_profile/load_profile_tertiary_shw_generic)
+
+
+
 * [Generic hourly profiles on NUTS 2 level in tertiary sector - **space heating demand**](https://gitlab.com/hotmaps/load_profile/load_profile_tertiary_heating_generic)
 * [Generic hourly profiles on NUTS 2 level in tertiary sector - **space cooling demand**](https://gitlab.com/hotmaps/load_profile/load_profile_tertiary_cooling_generic)
 
-For heating and cooling, we provided a yearlong profile for the year 2010. However, we want to give the user the opportunity to use a year of his/her choice. Additionally, if users have access to location-specific hourly temperature profiles, we want to give the user the opportunity to use this data in order to generation load profiles with a higher precision.
+For **heating and cooling in the tertiary sector**, we provided a yearlong profile for the year 2010. However, we want to give the user the opportunity to use a year of his/her choice. Additionally, if users have access to location-specific hourly temperature profiles, we want to give the user the opportunity to use this data in order to generation load profiles with a higher precision.
 Therefore, the generic profiles are supposed to enable the user to produce load profiles of his/her own using own data and a structure year of her/his own choice. 
 
 We assume that demand for heating and cooling in the tertiary sector depends on the typeday, the hour of the day itself and the outside temperature in the respective hour.
@@ -254,9 +257,9 @@ The profiles provided here are unitless, since they must be scaled during the ge
 
 Yearlong profiles can be generated from the generic profiles for tertiary heating and cooling provided in this repository following the following steps:
 
-- determining the structure year for which the profiles are generated
-- choosing the correct combination of day type, hour of the day, temperature and demand from the generic profile for each hour of the year in order to get a yearlong, unitless profile
-- scaling the total sum of the annual yearlong profile (i.e. the integral of the profile) according to the annual total demand
+* determining the structure year for which the profiles are generated
+* choosing the correct combination of day type, hour of the day, temperature and demand from the generic profile for each hour of the year in order to get a yearlong, unitless profile
+* scaling the total sum of the annual yearlong profile (i.e. the integral of the profile) according to the annual total demand
 
 
 
