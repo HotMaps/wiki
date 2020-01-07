@@ -84,9 +84,11 @@ All the above-mentioned data sets are stored in Hotmaps data repositories on Git
 [**`To Top`**](#table-of-contents)
 
 ## Construction periods
-* [Share of gross floor area in construction periods](https://gitlab.com/hotmaps/construction_periods/share_gfa_per_construction_period/tree/master)
-
-    🔺 `The README file of this repository is incomplete.`
+**Share of gross floor area in construction periods:**
+* [until 1975](https://gitlab.com/hotmaps/construction_periods/ghs_built_1975_100_share)
+* [from 1975 - to 1990](https://gitlab.com/hotmaps/construction_periods/ghs_built_1990_100_share)
+* [from 1990 - to 2000](https://gitlab.com/hotmaps/construction_periods/ghs_built_2000_100_share)
+* [from 2000 - to 2014](https://gitlab.com/hotmaps/construction_periods/ghs_built_2014_100_share)
 
 [**`To Top`**](#table-of-contents)
 
