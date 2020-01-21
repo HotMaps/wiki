@@ -176,7 +176,7 @@ All the above-mentioned data sets are stored in Hotmaps data repositories on Git
 ## Hourly heat load profiles - Generic profiles
 
 **Create your own profile:**
-
+    🔺 `This information should be provided in the GitLab and load profile CM rather than here.`
 Generic files are supposed to enable the user to produce load profiles of his own using own data and a structure year of her/his own choice. 
 For the industrial load profiles, we provided a yearlong profile for the year 2018 (in which the typedays are set in the order of this year). For tertiary and residential load profiles, we provided a yearlong profile for the year 2010.
 However, we want to give the user the opportunity to use a structure year of his/her choice (Structure year in this context means the order of days in the course of the year). 
