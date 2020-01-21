@@ -15,12 +15,11 @@
 
 ## Introduction
 
-This module calculates the heating costs to cover the demand of a building type
-with different heating technologies.
+This calclulation module calculates the levelized cost of heat (LCOH) for various technologies to supply a user definded building
 
 ![](https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/cm_decentral_heating/new/1.png)
 
-The technologies are as follows:
+The technologies are for example as follows:
 
 * Heat pump air-to-air, air-to-water and Brine-to-water,
 * Electric heater,
@@ -197,12 +196,12 @@ formula:
 ## References
 
 ## How to cite
-Jeton Hasani in Hotmaps-Wiki, https://github.com/HotMaps/hotmaps_wiki/wiki/CM-Decentral-heating-costs (November 2019)
+ Hotmaps-Wiki, https://github.com/HotMaps/hotmaps_wiki/wiki/CM-Decentral-heating-costs (November 2019)
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
 
 ## Authors and reviewers
-This page is written by Jeton Hasani\*.
+This page is written by \*.
 - [ ] This page was reviewed by Lukas Kranzl\*.
 
 \* [Energy Economics Group - TU Wien](https://eeg.tuwien.ac.at/)
@@ -216,7 +215,7 @@ Gusshausstrasse 27-29/370
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
 
 ## License
-Copyright © 2016-2019: Jeton Hasani
+Copyright © 2016-2019: 
 
 Creative Commons Attribution 4.0 International License
 
@@ -232,7 +231,3 @@ We would like to convey our deepest appreciation to the Horizon 2020 [Hotmaps Pr
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
 
-View in another language:
-
- [Bulgarian](bg-CM-Decentral-heating-supply)<sup>\*</sup> [Croatian](hr-CM-Decentral-heating-supply)<sup>\*</sup> [Czech](cs-CM-Decentral-heating-supply)<sup>\*</sup> [Danish](da-CM-Decentral-heating-supply)<sup>\*</sup> [Dutch](nl-CM-Decentral-heating-supply)<sup>\*</sup> [Estonian](et-CM-Decentral-heating-supply)<sup>\*</sup> [Finnish](fi-CM-Decentral-heating-supply)<sup>\*</sup> [French](fr-CM-Decentral-heating-supply)<sup>\*</sup> [German](de-CM-Decentral-heating-supply)<sup>\*</sup> [Greek](el-CM-Decentral-heating-supply)<sup>\*</sup> [Hungarian](hu-CM-Decentral-heating-supply)<sup>\*</sup> [Irish](ga-CM-Decentral-heating-supply)<sup>\*</sup> [Italian](it-CM-Decentral-heating-supply)<sup>\*</sup> [Latvian](lv-CM-Decentral-heating-supply)<sup>\*</sup> [Lithuanian](lt-CM-Decentral-heating-supply)<sup>\*</sup> [Maltese](mt-CM-Decentral-heating-supply)<sup>\*</sup> [Polish](pl-CM-Decentral-heating-supply)<sup>\*</sup> [Portuguese (Portugal, Brazil)](pt-CM-Decentral-heating-supply)<sup>\*</sup> [Romanian](ro-CM-Decentral-heating-supply)<sup>\*</sup> [Slovak](sk-CM-Decentral-heating-supply)<sup>\*</sup> [Slovenian](sl-CM-Decentral-heating-supply)<sup>\*</sup> [Spanish](es-CM-Decentral-heating-supply)<sup>\*</sup> [Swedish](sv-CM-Decentral-heating-supply)<sup>\*</sup>
-<sup>\*</sup>: machine translated
