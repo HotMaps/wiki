@@ -1,7 +1,7 @@
 <h1>CM Solar thermal and PV potential</h1>
 
 ## Table of Contents
-
+* [In a glance](#in-a-glance)
 * [Introduction](#introduction)
 * [Inputs and outputs](#inputs-and-outputs)
 * [Method](#method)
@@ -15,6 +15,10 @@
 * [License](#license)
 * [Acknowledgement](#acknowledgement)
 
+## In a glance
+This module calculates the energy supply potential and related costs for rooftop installed solar thermal and PV systems in a defined area. The inputs to the module are raster files of building footprint and solar irradiation, costs and efficiency of reference solar thermal and PV systems and the fractions of usable rooftop area where solar thermal and PV systems are installed.
+
+[**`To Top`**](#table-of-contents)
 
 ## Introduction
 
