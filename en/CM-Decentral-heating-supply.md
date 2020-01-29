@@ -17,6 +17,7 @@
 ## In a glance
 This module calculates the costs of heat supply in buildings via decentral heating technologies. Inputs to the module are investment and O&M costs, energy prices, the hourly load profile of heat demand as well as depreciation time and interest rate. Furthermore, the composition of buildings and renovation states of the buildings in the analysed area are required. The outputs are heat supply costs of various decentral heat supply technologies for the defined buildings and price assumptions as well as reference decentral supply costs for the analysed area and related CO2 emissions.
 
+[**`To Top`**](#table-of-contents)
 
 ## Introduction
 
