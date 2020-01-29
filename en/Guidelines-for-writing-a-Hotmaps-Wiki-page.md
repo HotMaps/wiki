@@ -91,10 +91,16 @@ Here, the most important point is to keep track of all Hotmaps repositories on G
 [**`To Top`**](#table-of-contents)
 
 ## Calculation modules
+**NOTE:** for the input layers please mention category of the layers as "default layer" or "personal layer" or "default/personal layer"
+
 * __Table of content__
 * __In a glance__
 * __Introduction__
 * __Inputs and outputs__
+  * Input layers
+  * Input parameters
+  * Output layers
+  * Output graphics and indicators
 * __Method__
 * __Interpretation of input parameters__
 * __GitHub repository of this calculation module__
