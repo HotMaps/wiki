@@ -1,6 +1,26 @@
 <h1>CM Demand projection</h1>
+## Table of Contents
+* [In a glance](#in-a-glance)
+* [Introduction](#introduction)
+* [Inputs and outputs](#inputs-and-outputs)
+* [Method](#method)
+* [GitHub repository of this calculation module](#github-repository-of-this-calculation-module)
+* [Sample run](#sample-run)
+  * [Test Run 1: default input values](#test-run-1-default-input-values)
+  * [Test Run 2: modified input values](#test-run-2-modified-input-values)
+* [References](#references)
+* [How to cite](#how-to-cite)
+* [Authors and reviewers](#authors-and-reviewers)
+* [License](#license)
+* [Acknowledgement](#acknowledgement)
 
-### CM - Demand projection
+
+
+## In a glance
+This module generates both a heat demand density and a floor area density map in the form of raster files. The input to the module is a default development scenario of the heat demand and gross floor areas for each raster element as well as parameters to describe the relative deviation to these default developments.
+
+[**`To Top`**](#table-of-contents)
+
 
 The aim of the calculation module is to transfer the scenario results for the development of the energy demand to different regions.
 
