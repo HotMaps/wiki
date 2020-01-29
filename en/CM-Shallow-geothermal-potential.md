@@ -1,7 +1,7 @@
 <h1>CM Shallow geothermal potential</h1>
 
 ## Table of Contents
-
+* [In a glance](#in-a-glance)
 * [Introduction](#introduction)
 * [Inputs and outputs](#inputs-and-outputs)
 * [Method](#method)
@@ -13,6 +13,12 @@
 * [Authors and reviewers](#authors-and-reviewers)
 * [License](#license)
 * [Acknowledgement](#acknowledgement)
+
+
+## In a glance
+This module calculates the potential of shallow geothermal energy to be used in ground source heat pumps for selected regions in the form of a raster file. The inputs are raster files with initial ground temperatures, depth-averaged ground thermal conductivity and depth-averaged ground thermal capacity.
+
+[**`To Top`**](#table-of-contents)
 
 
 ## Introduction
