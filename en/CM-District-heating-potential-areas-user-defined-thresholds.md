@@ -1,7 +1,7 @@
 <h1>CM District heating potential areas user defined thresholds</h1>
 
 ## Table of Contents
-
+* [In a glance](#in-a-glance)
 * [Introduction](#introduction)
 * [Inputs and outputs](#inputs-and-outputs)
 * [Method](#method)
@@ -15,6 +15,9 @@
 * [License](#license)
 * [Acknowledgement](#acknowledgement)
 
+
+## In a glance
+This module generates a shapefile of potential district heating areas based on the following input data: a heat demand density map with 1 ha resolution, a heat demand threshold for the heat demand in each cell of the heat demand density map and a heat demand threshold for groups of connected cells with heat demand above the previous threshold (=coherent area).
 
 ## Introduction
 
