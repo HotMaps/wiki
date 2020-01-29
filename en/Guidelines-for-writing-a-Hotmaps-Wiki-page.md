@@ -2,6 +2,7 @@
 
 ## Table of Contents
 * [Introduction](#introduction)
+* [Classification of Wiki pages](#classification-of-Wiki-pages)
 * [Hotmaps data set repository structure](#hotmaps-data-set-repository-structure)
 * [General functionalities of the toolbox](#general-functionalities-of-the-toolbox)
 * [Calculation modules](#calculation-modules)
@@ -82,6 +83,7 @@ Here, the most important point is to keep track of all Hotmaps repositories on G
 
 ## Calculation modules
 * __Table of content__
+* __In a glance__
 * __Introduction__
 * __Inputs and outputs__
 * __Method__
