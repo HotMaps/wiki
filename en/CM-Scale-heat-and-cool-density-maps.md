@@ -3,7 +3,7 @@
 **CM Scale heat and cool density maps**
 
 ## Table of Contents
-
+* [In a glance](#in-a-glance)
 * [Introduction](#introduction)
 * [Inputs and outputs](#inputs-and-outputs)
 * [Method](#method)
@@ -14,6 +14,11 @@
 * [Authors and reviewers](#authors-and-reviewers)
 * [License](#license)
 * [Acknowledgement](#acknowledgement)
+
+## In a glance
+This module scales the default layer with a given factor. The aim is to provide a distribution of heat and cold demand, if only the total amount of heat and cold demand is available.
+
+[**`To Top`**](#table-of-contents)
 
 
 ## Introduction
