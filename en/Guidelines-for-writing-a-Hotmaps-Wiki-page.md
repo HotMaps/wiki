@@ -2,6 +2,7 @@
 
 ## Table of Contents
 * [Introduction](#introduction)
+* [Wiki toolbar and sidebar](#wiki-toolbar-and-sidebar)
 * [Classification of Wiki pages](#classification-of-wiki-pages)
 * [Hotmaps data set repository structure](#hotmaps-data-set-repository-structure)
 * [General functionalities of the toolbox](#general-functionalities-of-the-toolbox)
@@ -18,11 +19,16 @@ The Hotmaps Wiki platform, provides flexible functionalities for creating and ed
 
 [**`To Top`**](#table-of-contents)
 
-## Wiki toolbar
+## Wiki toolbar and sidebar
 On top of each page you see the edit toolbar. The figure below shows this toolbar and briefly explains the function of each button.
 
 
 ![toolbar](/en/Guidelines-for-writing-a-Hotmaps-Wiki-page/toolbar_new.png)
+
+
+The sidebar is visible in all wiki pages. Note that **any modification in the sidebar is applied to all Wiki pages**. In other words, the sidebar is not specific to the page that you are editing. In order to modify the sidebar, press "edit" button on the Wiki toolbar. The sidebar modification can be done via the section shown in the following figure.
+
+![toolbar](/en/Guidelines-for-writing-a-Hotmaps-Wiki-page/sidebar.png)
 
 
 [**`To Top`**](#table-of-contents)
