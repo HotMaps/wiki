@@ -23,6 +23,7 @@ On top of each page you see the edit toolbar. The figure below shows this toolba
 ![toolbar](/en/Guidelines-for-writing-a-Hotmaps-Wiki-page/toolbar_new.png)
 
 
+[**`To Top`**](#table-of-contents)
 
 ## Classification of Wiki pages
 
