@@ -1,7 +1,7 @@
 <h1>CM District heating potential economic assessment</h1>
 
 ## Table of Contents
-
+* [In a glance](#in-a-glance)
 * [Introduction](#introduction)
 * [Inputs and outputs](#inputs-and-outputs)
 * [Method](#method)
@@ -14,6 +14,14 @@
 * [Authors and reviewers](#authors-and-reviewers)
 * [License](#license)
 * [Acknowledgement](#acknowledgement)
+
+
+## In a glance
+This module generates a shapefile of potential district heating areas based on an assessment of the heat distribution costs. Inputs to the module are heat demand and gross floor area density maps, costs of network expansion, development of heat demand and connection rates, depreciation time, interest rate and a threshold for the accepted heat distribution costs. Furthermore it calculates the costs of transmission lines between identified district heating areas.
+
+[**`To Top`**](#table-of-contents)
+
+
 
 ## Introduction
 
