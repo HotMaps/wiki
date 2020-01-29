@@ -23,7 +23,7 @@ On top of each page you see the edit toolbar. The figure below shows this toolba
 
 
 
-## classification of Wiki pages
+## Classification of Wiki pages
 
 The Hotmaps Wiki pages are categorized in four classes:
 * Hotmaps data set repository structure
@@ -32,8 +32,8 @@ The Hotmaps Wiki pages are categorized in four classes:
 * How to apply the Hotmaps toolbox
 * Developers area
 
-For each section, a structure with several sections is suggested. The sections in **BOLD** must be part of the WIKI page. The rest, on the other hand, should be added if applicable.
-As a sample page, please have a look into [this Wiki page](CM-District-heating-potential-user-defined-thresholds).
+For each section, a structure with several sections is suggested. The sections in **BOLD** must be part of the Wiki page. The rest, on the other hand, should be added if applicable.
+As a sample page, please have a look into [this Wiki page](/en/CM-District-heating-potential-areas-user-defined-thresholds).
 
 Wiki pages can become very long due to embedded figures. In order to help the readers to navigate in a page easily and easily find what they are looking for, please add a “**Table of contents**” on top of each page that you are writing. Additionally, use a “[**`To Top`**](#table-of-contents)” button at the end of each section with a hyperlink to the “Table of content” at the top of the Wiki page.
 
@@ -85,10 +85,12 @@ Here, the most important point is to keep track of all Hotmaps repositories on G
 * __Introduction__
 * __Inputs and outputs__
 * __Method__
+* __Interpretation of input parameters__
 * __GitHub repository of this calculation module__
 * __Sample run__
   * Test Run 1: XXXXX
   * Test Run 2: YYYYY
+* __Interpretation of results__
 * __References__
 * __How to cite__
 * __Authors and reviewers__
@@ -131,7 +133,8 @@ Here, the most important point is to keep track of all Hotmaps repositories on G
 
 ## Authors and reviewers
 This page is written by Mostafa Fallahnejad\*.
-- [x] This page was reviewed by Lukas Kranzl\*.
+
+&#9745; This page was reviewed by Lukas Kranzl\*.
 
 \* [Energy Economics Group - TU Wien](https://eeg.tuwien.ac.at/)
 Institute of Energy Systems and Electrical Drives
