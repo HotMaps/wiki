@@ -1,7 +1,7 @@
 <h1>CM Excess heat transport potential</h1>
 
 ## Table of Contents
-
+* [In a glance](#in-a-glance)
 * [Introduction](#introduction)
 * [Inputs and outputs](#inputs-and-outputs)
 * [Method](#method)
@@ -11,6 +11,11 @@
 * [Authors and reviewers](#authors-and-reviewers)
 * [License](#license)
 * [Acknowledgement](#acknowledgement)
+
+## In a glance
+This module calculates the flow and the costs of heat transmission from potential excess heat sources located outside of potential district heating areas to the district heating area. The inputs are hourly load profiles of the excess heat flow and the district heating demand, the location of the excess heat source and the potential district heating system, investment costs in heat exchangers and transmission lines and threshold values for distance and transmission costs.
+
+[**`To Top`**](#table-of-contents)
 
 ## Introduction
 
