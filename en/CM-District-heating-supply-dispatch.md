@@ -1,7 +1,7 @@
 <h1>CM District heating supply dispatch</h1>
 
 ## Table of Contents
-
+* [In a glance](#in-a-glance)
 * [Introduction](#introduction)
 * [Inputs and outputs](#inputs-and-outputs)
 * [Method](#method)
@@ -13,6 +13,15 @@
 * [Authors and reviewers](#authors-and-reviewers)
 * [License](#license)
 * [Acknowledgement](#acknowledgement)
+
+
+
+## In a glance
+This module calculates the cost-minimal operation of a portfolio of heat supply technologies in a defined district heating system for each hour of the year. The inputs to the module are hourly profiles for the heat demand in the network, for the potential heat supply from different sources and for energy carrier prices. Furthermore, cost and efficiency parameters for each technology are required. The module yields the costs of heat supply, the share of energy carriers used and the implied CO2 emissions. The module can also be used to optimise the capacities of installed heat supply technologies.
+
+[**`To Top`**](#table-of-contents)
+
+
 
 ## Introduction
 The district heating supply module is a dispatch model which tries to find a cost optimum solution for covering the heat demand at every hour of the year.
