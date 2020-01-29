@@ -2,7 +2,7 @@
 
 ## Table of Contents
 * [Introduction](#introduction)
-* [Classification of Wiki pages](#classification-of-Wiki-pages)
+* [Classification of Wiki pages](#classification-of-wiki-pages)
 * [Hotmaps data set repository structure](#hotmaps-data-set-repository-structure)
 * [General functionalities of the toolbox](#general-functionalities-of-the-toolbox)
 * [Calculation modules](#calculation-modules)
