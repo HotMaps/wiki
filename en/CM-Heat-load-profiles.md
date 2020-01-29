@@ -1,6 +1,7 @@
 <h1>CM Heat load profiles</h1>
 
 ## Table of Contents
+* [In a glance](#in-a-glance)
 * [Introduction](#introduction)
 * [Inputs and outputs](#inputs-and-outputs)
 * [Method](#method)
@@ -8,6 +9,11 @@
 * [Authors and reviewers](#authors-and-reviewers)
 * [License](#license)
 * [Acknowledgement](#acknowledgement)
+
+## In a glance
+This module generates load profiles of demand for space heating and hot water generation for a selected region. It uses default load profiles for the residential and tertiary sector on NUTS2 level and scales it to a given demand in those sectors and provides the load profiles separated for space heating and hot water generation.
+
+[**`To Top`**](#table-of-contents)
 
 ## Introduction
 Calculation of heat demand load profiles for selected regions.
