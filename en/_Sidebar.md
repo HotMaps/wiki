@@ -1,6 +1,6 @@
 # Wiki Introduction
 
-[Welcome](Welcome)
+[Welcome page](Welcome)
 ## Data sets
 * [Hotmaps data set: Method of data collection](Hotmaps-data-set-method-of-data-collection)
 * [Hotmaps open data repositories](Hotmaps-open-data-repositories)
