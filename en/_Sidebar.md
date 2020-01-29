@@ -5,7 +5,7 @@
 * [Hotmaps data set: Method of data collection](Hotmaps-data-set-method-of-data-collection)
 * [Hotmaps open data repositories](Hotmaps-open-data-repositories)
 
-## General tool functionalities and structure
+## General tool functionalities & structure
 * [Introduction to user interface](Introduction-to-user-interface)
 * [Layers section in the Hotmaps toolbox](Layers-section-in-the-Hotmaps-toolbox)
 * [Select a region in the Hotmaps toolbox](Select-a-region-in-the-Hotmaps-toolbox)
