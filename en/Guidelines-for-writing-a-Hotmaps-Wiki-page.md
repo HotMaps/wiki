@@ -12,6 +12,19 @@
 * [Acknowledgement](#acknowledgement)
 
 ## Introduction
+
+The Hotmaps Wiki platform, provides flexible functionalities for creating and editing the Wiki pages. In order to be able to create or modify any Wiki page, you must be logged in to the Wiki platform. This is only possible if you have a GitHub account and you are assigned a Wiki provider permission. To get a permission, send an Email to "support(at)hotmaps.eu" including your GitHub ID. We will then evaluate your request and accordingly respond to it. In order to log in, use the top-right corner login button. Once you are logged in, you can create and modify the pages.
+
+## Wiki toolbar
+On top of each page you see the edit toolbar. The figure below shows this toolbar and briefly explains the function of each button.
+
+
+![toolbar](/en/Guidelines-for-writing-a-Hotmaps-Wiki-page/toolbar_new.png)
+
+
+
+## classification of Wiki pages
+
 The Hotmaps Wiki pages are categorized in four classes:
 * Hotmaps data set repository structure
 * General Functionalities of the toolbox
