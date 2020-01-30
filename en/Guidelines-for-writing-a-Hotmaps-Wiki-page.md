@@ -94,6 +94,8 @@ Here, the most important point is to keep track of all Hotmaps repositories on G
 
 ## Calculation modules
 **NOTE I:** for the input layers please mention category of the layers as "default layer" or "personal layer" or "default/personal layer"
+
+
 **NOTE II:** If a data or data set is being used by CM while it is not part of the default data set, it should be explained and the link to the data set should be provided. Also if you retrieve data from another website, please make sure to provide the link to that website in the input section and reference section.
 
 
