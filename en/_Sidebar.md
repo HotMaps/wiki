@@ -1,6 +1,9 @@
-## Wiki Introduction
+# Wiki Introduction
 
 [Welcome page](Welcome)
+## Data sets
+* [Hotmaps data set: Method of data collection](Hotmaps-data-set-method-of-data-collection)
+* [Hotmaps open data repositories](Hotmaps-open-data-repositories)
 
 ## General tool functionalities & structure
 * [Introduction to user interface](Introduction-to-user-interface)
@@ -11,15 +14,6 @@
 * [Database behind the Hotmaps toolbox](Database-behind-the-Hotmaps-toolbox)
 * [Data upload functionalities](Data-upload-functionalities)
 * [Data export functionalities](Data-export-functionalities)
-
-## Apply Hotmaps toolbox for strategic H&C planning
-* [National level - Comprehensive assessment EED](guide-national-level-comprehensive-assessment-eed)
-* [Local & municipal levels](guide-local-and-municipal-levels)
-
-
-## Data sets
-* [Hotmaps data set: Method of data collection](Hotmaps-data-set-method-of-data-collection)
-* [Hotmaps open data repositories](Hotmaps-open-data-repositories)
 
 
 ## Calculation modules (CM)
