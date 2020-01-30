@@ -15,6 +15,8 @@
 ## Apply Hotmaps toolbox for strategic H&C planning
 *[National level - Comprehensive assessment EED](guide-national-level-comprehensive-assessment-eed)
 *[Local & municipal levels](guide-local-and-municipal-levels)
+
+
 ## Data sets
 * [Hotmaps data set: Method of data collection](Hotmaps-data-set-method-of-data-collection)
 * [Hotmaps open data repositories](Hotmaps-open-data-repositories)
