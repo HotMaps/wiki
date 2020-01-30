@@ -13,8 +13,8 @@
 * [Data export functionalities](Data-export-functionalities)
 
 ## Apply Hotmaps toolbox for strategic H&C planning
-*[National level - Comprehensive assessment EED](guide-national-level-comprehensive-assessment-eed)
-*[Local & municipal levels](guide-local-and-municipal-levels)
+* [National level - Comprehensive assessment EED](guide-national-level-comprehensive-assessment-eed)
+* [Local & municipal levels](guide-local-and-municipal-levels)
 
 
 ## Data sets
