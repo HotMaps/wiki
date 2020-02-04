@@ -3,6 +3,7 @@
 ## Table of Contents
 * [Introduction](#introduction)
 * [Wiki toolbar and sidebar](#wiki-toolbar-and-sidebar)
+* [Add figures and images](#add-figures-and-images)
 * [Classification of Wiki pages](#classification-of-wiki-pages)
 * [Hotmaps data set repository structure](#hotmaps-data-set-repository-structure)
 * [General functionalities of the toolbox](#general-functionalities-of-the-toolbox)
@@ -34,6 +35,23 @@ In order to enlarge the edit window, drag it toward the bottom-right corner as s
 
 ![](/en/Guidelines-for-writing-a-Hotmaps-Wiki-page/enlarge_edit_window_new.png)
 [**`To Top`**](#table-of-contents)
+
+
+## Add figures and images
+In order to add an image to your Wiki page, you have two options:
+
+**Method I:**
+* First, upload the image into your desired Wiki page using the "upload" button in the toolbar.
+* Jot down the provided link for the uploaded image.
+* Start editing that Wiki page and use the link to the image.
+
+
+**Method II:**
+* Start editing your desired Wiki page.
+* Drag and drop the image to the place in text that you would like to show the figure.
+
+[**`To Top`**](#table-of-contents)
+
 
 ## Classification of Wiki pages
 
