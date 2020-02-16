@@ -60,12 +60,12 @@ If you need a more flexibel way and want to analyze a region that is not covered
 
 [**`To Top`**](#table-of-contents)
 
-### How to cite
+## How to cite
 
 Jeton Hasani, in Hotmaps-Wiki, Select-a-region-in-the-Hotmaps-toolbox (April 2019)
 
 
-### Authors and reviewers
+## Authors and reviewers
 This page is written by Jeton Hasani\*.
 
 &#9744; This page was reviewed by Lukas Kranzl.
@@ -88,7 +88,7 @@ License-Text: https://spdx.org/licenses/CC-BY-4.0.html
 We would like to convey our deepest appreciation to the Horizon 2020 [Hotmaps Project](https://www.hotmaps-project.eu) (Grant Agreement number 723677), which provided the funding to carry out the present investigation.
 
 [**`To Top`**](#table-of-contents)
-<code>[Review this page](How-to-select-a-region-in-the-Hotmaps-toolbox/_edit)</code>
+
 
 [//]: # (Here are all the files to the links)
 
