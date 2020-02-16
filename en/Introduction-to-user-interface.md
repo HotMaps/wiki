@@ -187,10 +187,9 @@ Jeton Hasani, in Hotmaps-Wiki, Introduction-to-user-interface (April 2019)
 
 
 ## Authors and reviewers
-<code>[Review this page !](Hotmaps-Graphical-User-Interface/_edit)</code>
-
 This page is written by Jeton Hasani\*.
-- [ ] This page was reviewed by <code>....</code>\.
+
+&#9744; This page was reviewed by <code>....</code>\.
 
 
 \* [Energy Economics Group - TU Wien](https://eeg.tuwien.ac.at/)
@@ -210,7 +209,7 @@ License-Text: https://spdx.org/licenses/CC-BY-4.0.html
 We would like to convey our deepest appreciation to the Horizon 2020 [Hotmaps Project](https://www.hotmaps-project.eu) (Grant Agreement number 723677), which provided the funding to carry out the present investigation.
 
 [**`To Top`**](#table-of-contents)
-<code>[Review this page](Hotmaps-Graphical-User-Interface/_edit)</code>
+
 
 [//]: # (Here are all the files to the links)
 
