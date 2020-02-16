@@ -28,22 +28,22 @@ Fig.1.: Radio buttons for the terretorial scale
 After selecting a region and pressing the _LOAD RESULTS Button_ the result sidebar at the right is shown and depending on what layer you selected some indicators for them are shown. You can see that by selecting another region the results will be aggregated on the fly.
 
 ### NUTS 0 Selection
-![ selecting_nuts0_gif][ selecting_nuts0]
+![ selecting_nuts0_gif](https://wiki.hotmaps.hevs.ch/images/general_tool_functionalities_and_structure/selecting_nuts0.gif)
 
 [**`To Top`**](#table-of-contents)
 
 ### NUTS 1 Selection
-![ selecting_nuts1_gif][ selecting_nuts1]
+![ selecting_nuts1_gif](https://wiki.hotmaps.hevs.ch/images/general_tool_functionalities_and_structure/selecting_nuts1.gif)
 
 [**`To Top`**](#table-of-contents)
 
 ### NUTS 2 Selection
-![ selecting_nuts2_gif][ selecting_nuts2]
+![ selecting_nuts2_gif](https://wiki.hotmaps.hevs.ch/images/general_tool_functionalities_and_structure/selecting_nuts2.gif)
 
 [**`To Top`**](#table-of-contents)
 
 ### NUTS 3 Selection
-![ selecting_nuts3_gif][ selecting_nuts3]
+![ selecting_nuts3_gif](https://wiki.hotmaps.hevs.ch/images/general_tool_functionalities_and_structure/selecting_nuts3.gif)
 
 [**`To Top`**](#table-of-contents)
 
@@ -66,10 +66,8 @@ Jeton Hasani, in Hotmaps-Wiki, Select-a-region-in-the-Hotmaps-toolbox (April 201
 
 
 ### Authors and reviewers
-<code>[Review this page !](How-to-select-a-region-in-the-Hotmaps-toolbox/_edit)</code>
-
 This page is written by Jeton Hasani\*.
-- [ ] This page was reviewed by <code>....</code>\.
+&#9745; This page was reviewed by Lukas Kranzl.
 
 
 \* [Energy Economics Group - TU Wien](https://eeg.tuwien.ac.at/)
