@@ -1,13 +1,13 @@
 <h1>Layers section in the Hotmaps toolbox</h1>
 
 ## Table of Contents
-1. [Introduction](#introduction)
-1. [Layers](#layers)
-1. [Raster Layers](#raster-layers)
-1. [Vector Layers](#vector-layers)
-1. [How to cite](#how-to-cite)
-1. [Authors and reviewers](#authors-and-reviewers)
-1. [License](#license)
+* [Introduction](#introduction)
+* [Layers](#layers)
+* [Raster Layers](#raster-layers)
+* [Vector Layers](#vector-layers)
+* [How to cite](#how-to-cite)
+* [Authors and reviewers](#authors-and-reviewers)
+* [License](#license)
 
 ## Introduction
 By pressing the ![layers_button][layers_button] Button a sidebar with different kind of layers is shown at the left of your screen.
