@@ -1,6 +1,11 @@
-# Wiki Introduction
+## Wiki Introduction
 
 [Welcome page](Welcome)
+
+## How to apply Hotmaps toolbox
+[Guideline: Hotmaps toolbox on local level](guide-local-and-municipal-levels)
+[Guideline: Hotmaps toolbox on national level](guide-national-level-comprehensive-assessment-eed)
+
 ## Data sets
 * [Hotmaps data set: Method of data collection](Hotmaps-data-set-method-of-data-collection)
 * [Hotmaps open data repositories](Hotmaps-open-data-repositories)
