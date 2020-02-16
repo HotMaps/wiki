@@ -1,11 +1,11 @@
 <h1>Access to calculation modules</h1>
 
 ## Table of Contents
-1. [Introduction](#introduction)
-1. [Structure of a calculation module](#structure-of-a-calculation-module)
-1. [How to cite](#how-to-cite)
-1. [Authors and reviewers](#authors-and-reviewers)
-1. [License](#license)
+* [Introduction](#introduction)
+* [Structure of a calculation module](#structure-of-a-calculation-module)
+* [How to cite](#how-to-cite)
+* [Authors and reviewers](#authors-and-reviewers)
+* [License](#license)
 
 ## Introduction 
 In the following chapter we will describe how to acces a calculation module
@@ -39,10 +39,9 @@ Jeton Hasani, in Hotmaps-Wiki, Access-to-calculation-modules (April 2019)
 
 
 ## Authors and reviewers
-<code>[Review this page !](CM-Access/_edit)</code>
-
 This page is written by Jeton Hasani\*.
-- [ ] This page was reviewed by <code>....</code>\.
+
+&#9744; This page was reviewed by Lukas Kranzl.
 
 
 \* [Energy Economics Group - TU Wien](https://eeg.tuwien.ac.at/)
@@ -62,7 +61,6 @@ License-Text: https://spdx.org/licenses/CC-BY-4.0.html
 We would like to convey our deepest appreciation to the Horizon 2020 [Hotmaps Project](https://www.hotmaps-project.eu) (Grant Agreement number 723677), which provided the funding to carry out the present investigation.
 
 [**`To Top`**](#table-of-contents)
-<code>[Review this page](CM-Access/_edit/#Authors-and-reviewers)</code>
 
 [cm_access]: ../images/general_tool_functionalities_and_structure/calculation_module_access.gif
 
