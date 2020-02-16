@@ -3,11 +3,11 @@
 ## Table of Contents
 * [Introduction](#introduction)
 * [Selection by NUTS boundaries](#selection-by-nuts-boundaries)
-  * [NUTS 0- Selection](#selection-by-nuts-boundaries_nuts-0--selection)
-  * [NUTS 1- Selection](#selection-by-nuts-boundaries_nuts-1--selection)
-  * [NUTS 2- Selection](#selection-by-nuts-boundaries_nuts-2--selection)
-  * [NUTS 3- Selection](#selection-by-nuts-boundaries_nuts-3--selection)
-  * [LAU - Selection](#selection-by-nuts-boundaries_lau--selection)
+  * [NUTS 0 Selection](#selection-by-nuts-boundaries_nuts-0-selection)
+  * [NUTS 1 Selection](#selection-by-nuts-boundaries_nuts-1-selection)
+  * [NUTS 2 Selection](#selection-by-nuts-boundaries_nuts-2-selection)
+  * [NUTS 3 Selection](#selection-by-nuts-boundaries_nuts-3-selection)
+  * [LAU Selection](#selection-by-nuts-boundaries_lau-selection)
 * [Custom Selection](#custom-selection)
 * [How to cite](#how-to-cite)
 * [Authors and reviewers](#authors-and-reviewers)
@@ -27,27 +27,27 @@ Fig.1.: Radio buttons for the terretorial scale
 ## Selection by NUTS boundaries:
 After selecting a region and pressing the _LOAD RESULTS Button_ the result sidebar at the right is shown and depending on what layer you selected some indicators for them are shown. You can see that by selecting another region the results will be aggregated on the fly.
 
-### NUTS 0- Selection
+### NUTS 0 Selection
 ![ selecting_nuts0_gif][ selecting_nuts0]
 
 [**`To Top`**](#table-of-contents)
 
-### NUTS 1- Selection
+### NUTS 1 Selection
 ![ selecting_nuts1_gif][ selecting_nuts1]
 
 [**`To Top`**](#table-of-contents)
 
-### NUTS 2- Selection
+### NUTS 2 Selection
 ![ selecting_nuts2_gif][ selecting_nuts2]
 
 [**`To Top`**](#table-of-contents)
 
-### NUTS 3- Selection
+### NUTS 3 Selection
 ![ selecting_nuts3_gif][ selecting_nuts3]
 
 [**`To Top`**](#table-of-contents)
 
-### LAU- Selection
+### LAU Selection
 Beside the three NUTS Levels you have also the possibility to analyse in LAU level
 ![ selecting_lau_gif][selecting_lau]
 
