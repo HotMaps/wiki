@@ -67,7 +67,8 @@ Jeton Hasani, in Hotmaps-Wiki, Select-a-region-in-the-Hotmaps-toolbox (April 201
 
 ### Authors and reviewers
 This page is written by Jeton Hasani\*.
-&#9745; This page was reviewed by Lukas Kranzl.
+
+&#9744; This page was reviewed by Lukas Kranzl.
 
 
 \* [Energy Economics Group - TU Wien](https://eeg.tuwien.ac.at/)
