@@ -174,7 +174,7 @@ Mostafa Fallahnejad, in Hotmaps-Wiki, CM-District-heating-potentials (April 2019
 
 This page is written by Mostafa Fallahnejad\*.
 
-- [ ] This page was reviewed by Lukas Kranzl\*.
+&#9744; This page was reviewed by Lukas Kranzl\*.
 
 \* [Energy Economics Group - TU Wien](https://eeg.tuwien.ac.at/)
 
