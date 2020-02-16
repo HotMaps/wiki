@@ -1,12 +1,13 @@
 <h1>Select a region in the Hotmaps toolbox</h1>
 
 ## Table of Contents
+* [Introduction](#introduction)
 * [Selection by NUTS boundaries](#selection-by-nuts-boundaries)
-  * [NUTS 0- Selection](#nuts-0--selection)
-  * [NUTS 1- Selection](#nuts-1--selection)
-  * [NUTS 2- Selection](#nuts-2--selection)
-  * [NUTS 3- Selection](#nuts-3--selection)
-  * [LAU - Selection](#lau--selection)
+  * [NUTS 0- Selection](#selection-by-nuts-boundaries_nuts-0--selection)
+  * [NUTS 1- Selection](#selection-by-nuts-boundaries_nuts-1--selection)
+  * [NUTS 2- Selection](#selection-by-nuts-boundaries_nuts-2--selection)
+  * [NUTS 3- Selection](#selection-by-nuts-boundaries_nuts-3--selection)
+  * [LAU - Selection](#selection-by-nuts-boundaries_lau--selection)
 * [Custom Selection](#custom-selection)
 * [How to cite](#how-to-cite)
 * [Authors and reviewers](#authors-and-reviewers)
