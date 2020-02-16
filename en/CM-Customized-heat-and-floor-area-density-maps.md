@@ -33,18 +33,20 @@ This module will only be available as stand-alone module; it will not be integra
 ### Inputs
 The module accepts either shapefile or CSV file as input. The following headers are expected in case of any of the input file types (should be available in the attribute table or as header of the CSV file):
 
-* hotmaps_ID: provide a unique, integer ID for each feature (polygon)
-* Type: Building type: set to 1 for service sector; other values are considered as residential (optional: can be left empty)
-* Year_Construction: Year of construction (optional: can be left empty)
-* Address: Address of the building (optional: can be left empty)
-* GFA: Gross floor area in **_m<sup>2</sup>_**
-* Footprint: footprint of the building in **_m<sup>2</sup>_** (required if values for GFA are not provided)
-* NrFloor: number of floors (required if values for GFA are not provided)
-* spec_demand: Specific heat demand of each feature (polygon) in **_kWh_**
-* demand: Heat demand of each feature (polygon) in **_kWh_**
-* X_3035: The X-Coordinate of the center of the feature (polygon) in EPSG 3035 projection (Mandatory for the CSV file: can be left empty)
-* Y_3035: The Y-Coordinate of the center of the feature (polygon) in EPSG 3035 projection (Mandatory for the CSV file: can be left empty)
+* **hotmaps_ID**: provide a unique, integer ID for each feature (polygon)
+* **Type**: Building type: set to 1 for service sector; other values are considered as residential (optional: can be left empty)
+* **Year_Construction**: Year of construction (optional: can be left empty)
+* **Address**: Address of the building (optional: can be left empty)
+* **GFA**: Gross floor area in **_m<sup>2</sup>_**
+* **Footprint**: footprint of the building in **_m<sup>2</sup>_** (required if values for GFA are not provided)
+* **NrFloor**: number of floors (required if values for GFA are not provided)
+* **spec_demand**: Specific heat demand of each feature (polygon) in **_kWh_**
+* **demand**: Heat demand of each feature (polygon) in **_kWh_**
+* **X_3035**: The X-Coordinate of the center of the feature (polygon) in EPSG 3035 projection (Mandatory for the CSV file: can be left empty)
+* **Y_3035**: The Y-Coordinate of the center of the feature (polygon) in EPSG 3035 projection (Mandatory for the CSV file: can be left empty)
 
+
+**Important Note**: `The headers should be written as stated above. Otherwise, the code will return an error.`
 
 [**`To Top`**](#table-of-contents)
 
