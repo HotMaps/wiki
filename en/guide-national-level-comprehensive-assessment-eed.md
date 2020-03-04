@@ -1,9 +1,5 @@
 <h1>Guidelines for using the Hotmaps toolbox for analyses at national level</h1>
 
-# Guidelines for using the Hotmaps toolbox for analyses at national level
-National level - Comprehensive assessment EED
-
-
 # Table of Contents
 * [Introduction](#introduction)
 * [Part I: Overview of heating and cooling](#part-i-overview-of-heating-and-cooling)
@@ -61,7 +57,7 @@ The following data relevant for Part I of Annex VIII is available in the Hotmaps
   * Default scenarios for all EU28 MS are available from the H2020 project CHEETAH
   * This data is also integrated in the CM – Demand projection and used for the calculations in this module
 
-<code><ins>**[To Top](#guidelines-for-using-the-hotmaps-toolbox-for-analyses-at-national-level)**</ins></code>
+<code><ins>**[To Top](#table-of-contents)**</ins></code>
 
 # Part III: Analysis of the economic potential for efficiency in heating and cooling
 
@@ -104,7 +100,7 @@ The following resulting **indicators can be retrieved from the Hotmaps Calculati
   * CM - District heating supply dispatch for share of RES from heat supply to district heating
   * CM - Decentral heating supply for share of RES from decentral heat supply
 
-<code><ins>**[To Top](#guidelines-for-using-the-hotmaps-toolbox-for-analyses-at-national-level)**</ins></code>
+<code><ins>**[To Top](#table-of-contents)**</ins></code>
 
 ## Step 1: Identification of different representative cases for district heating
 
@@ -121,7 +117,7 @@ The following figure shows this procedure graphically and shows the various data
 
 In the following subchapters the different steps in this procedure are described in more detail.
 
-<code><ins>**[To Top](#guidelines-for-using-the-hotmaps-toolbox-for-analyses-at-national-level)**</ins></code>
+<code><ins>**[To Top](#table-of-contents)**</ins></code>
 
 ### Calculation of future heat demand and building floor area density maps
 
@@ -138,7 +134,7 @@ The first step in the analysis is to generate future heat demand and floor area 
 
 The developed heat demand and floor area density maps are further used in the subsequent steps in other Calculation Modules (CMs).
 
-<code><ins>**[To Top](#guidelines-for-using-the-hotmaps-toolbox-for-analyses-at-national-level)**</ins></code>
+<code><ins>**[To Top](#table-of-contents)**</ins></code>
 
 ### Identification of regions potentially interesting for district heating
 
@@ -149,7 +145,7 @@ After developing possible future scenarios of heat demand and floor area density
 * Besides several other indicators the module generates a shapefile of potential district heating areas that is displayed and stored in the toolbox in the layers section. Especially of interest are the following indicators: total heat demand in the coherent area, average heat demand density in the area. 
 * After having used the CM for the entire region / country of interest an overall map of potential district heating areas can be generated out of the single maps. 
 
-<code><ins>**[To Top](#guidelines-for-using-the-hotmaps-toolbox-for-analyses-at-national-level)**</ins></code>
+<code><ins>**[To Top](#table-of-contents)**</ins></code>
 
 ### Analysis of potentials for excess heat and renewable energy in the identified regions with potential interest for district heating
 
@@ -177,7 +173,7 @@ In a next step the potentials for excess heat and renewable energy in the region
     * Other excess heat sources:
         * Information on other excess heat sources like power plants, further industrial plants, low temperature heat sources like river water, data centers, etc. can be uploaded into the toolbox. A guide how to do this can be found here.
 
-<code><ins>**[To Top](#guidelines-for-using-the-hotmaps-toolbox-for-analyses-at-national-level)**</ins></code>
+<code><ins>**[To Top](#table-of-contents)**</ins></code>
 
 ### Identification of representative, typical district heating areas for further analysis
 
@@ -201,7 +197,7 @@ Possible indicators for grouping of typical district heating areas:
 
 For each of the developed groups of typical DH areas then one or several representative cities / regions can be selected and further analysed. These can serve as representative case studies.
 
-<code><ins>**[To Top](#guidelines-for-using-the-hotmaps-toolbox-for-analyses-at-national-level)**</ins></code>
+<code><ins>**[To Top](#table-of-contents)**</ins></code>
 
 ## Step 2: Costs and potentials for district heating in representative cities / regions
 
@@ -218,7 +214,7 @@ The following figure shows this procedure graphically and shows the various data
 
 In the following subchapters the different steps in this procedure are described in more detail.
 
-<code><ins>**[To Top](#guidelines-for-using-the-hotmaps-toolbox-for-analyses-at-national-level)**</ins></code>
+<code><ins>**[To Top](#table-of-contents)**</ins></code>
 
 ### Economic assessment of the potential for district heating
 
@@ -237,19 +233,19 @@ The scenarios can be used to analyse the influence of the different factors on t
 
 The outcomes of this step are the heat demand for district heating [GWh/yr] and the heat distribution costs [EUR/MWh] in each of the representative cities / areas. These results will then be used in the overall scenario comparison in step 4.
 
-<code><ins>**[To Top](#guidelines-for-using-the-hotmaps-toolbox-for-analyses-at-national-level)**</ins></code>
+<code><ins>**[To Top](#table-of-contents)**</ins></code>
 
 ### Estimation of costs for the transport of excess heat to district heating areas
 
 In order to estimate the costs of transporting excess heat from potential sources outside of district heating areas to potential district heating areas the CM - Excess heat transport potential can be used. The module yields levelised costs of excess heat transported to the district heating grid [EUR/MWh]. This can further be used in the next step of calculating heat supply costs in district heating.
 
-<code><ins>**[To Top](#guidelines-for-using-the-hotmaps-toolbox-for-analyses-at-national-level)**</ins></code>
+<code><ins>**[To Top](#table-of-contents)**</ins></code>
 
 ### Development of future heat load profiles
 
 Renovation of buildings leads to reductions in energy demand for space heating. This also affects the load profiles of heat demand in the district heating systems: the peak demands in winter decrease and the full load hours increase due to higher shares of hot water generation on the overall heat demand. With the CM - Heat load profiles future heat load profiles can be developed according to different heat saving levels. This can be done based on load profiles provided in the Hotmaps database (default profiles for all NUTS2 regions in Europe) or based on own profiles uploaded into the toolbox. The resulting load profiles are then used in the next step, the calculation of costs and emission of heat supply in district heating with the dispatch module.
 
-<code><ins>**[To Top](#guidelines-for-using-the-hotmaps-toolbox-for-analyses-at-national-level)**</ins></code>
+<code><ins>**[To Top](#table-of-contents)**</ins></code>
 
 ### Calculation of costs and emissions of heat supply in district heating
 
@@ -274,7 +270,7 @@ The calculations can be used to identify beneficial supply portfolios in the dif
 
 The outcomes of this step are the heat supply costs to the district heating system [EUR/MWh] in each of the representative cities / areas and the related CO2 emissions [kt/yr]. These results will then be used in the overall scenario comparison in step 4.
 
-<code><ins>**[To Top](#guidelines-for-using-the-hotmaps-toolbox-for-analyses-at-national-level)**</ins></code>
+<code><ins>**[To Top](#table-of-contents)**</ins></code>
 
 ## Step 3: Calculation of decentral heat supply
 
@@ -290,7 +286,7 @@ The calculations can be used to identify costs and benefits of various supply te
 
 The outcomes of this step are the costs of heat supply via decentral technologies [EUR/MWh] in each of the representative buildings and the related CO2 emissions [kt/yr]. These results will then be used in the overall scenario comparison in step 4.
 
-<code><ins>**[To Top](#guidelines-for-using-the-hotmaps-toolbox-for-analyses-at-national-level)**</ins></code>
+<code><ins>**[To Top](#table-of-contents)**</ins></code>
 
 ## Step 4: Comparison of results for different scenarios
 
@@ -299,18 +295,18 @@ The final step in the analysis is the comparison of the results for the differen
 ![](../images/Hotmaps_ApproachNational_Step4.png)
 *Figure: Comparison of results for different scenarios (Step 4)*
 
-<code><ins>**[To Top](#guidelines-for-using-the-hotmaps-toolbox-for-analyses-at-national-level)**</ins></code>
+<code><ins>**[To Top](#table-of-contents)**</ins></code>
 
 # References
 
 
-<code><ins>**[To Top](#guidelines-for-using-the-hotmaps-toolbox-for-analyses-at-national-level)**</ins></code>
+<code><ins>**[To Top](#table-of-contents)**</ins></code>
 
 # How to cite
 Marcus Hummel, in Hotmaps-Wiki, Guidelines for using the Hotmaps toolbox for analyses at national level (October 2020)
 
 
-<code><ins>**[To Top](#guidelines-for-using-the-hotmaps-toolbox-for-analyses-at-national-level)**</ins></code>
+<code><ins>**[To Top](#table-of-contents)**</ins></code>
 
 # Authors and reviewers
 This page is written by Marcus Hummel\*.
@@ -327,7 +323,7 @@ Gusshausstrasse 27-29/370,
 1040 Wien
 
 
-<code><ins>**[To Top](#guidelines-for-using-the-hotmaps-toolbox-for-analyses-at-national-level)**</ins></code>
+<code><ins>**[To Top](#table-of-contents)**</ins></code>
 
 # License
 Copyright © 2016-2019: Marcus Hummel
@@ -339,12 +335,12 @@ SPDX-License-Identifier: CC-BY-4.0
 
 License-Text: https://spdx.org/licenses/CC-BY-4.0.html
 
-<code><ins>**[To Top](#guidelines-for-using-the-hotmaps-toolbox-for-analyses-at-national-level)**</ins></code>
+<code><ins>**[To Top](#table-of-contents)**</ins></code>
 
 # Acknowledgement
 We would like to convey our deepest appreciation to the Horizon 2020 [Hotmaps Project](https://www.hotmaps-project.eu) (Grant Agreement number 723677), which provided the funding to carry out the present investigation.
 
-<code><ins>**[To Top](#guidelines-for-using-the-hotmaps-toolbox-for-analyses-at-national-level)**</ins></code>
+<code><ins>**[To Top](#table-of-contents)**</ins></code>
 
 
 
