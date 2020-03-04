@@ -8,7 +8,7 @@ These guidelines describe how the Hotmaps toolbox can be used to analyse costs a
 # Table of Contents
 * [Part I: Overview of heating and cooling](#part-i-overview-of-heating-and-cooling)
 * [Part III: Analysis of the economic potential for efficiency in heating and cooling](#part-iii-analysis-of-the-economic-potential-for-efficiency-in-heating-and-cooling)
-    * [Step 1: Identification of different representative cases for district heating](##step-1-identification-of-different-representative-cases-for-district-heating)
+    * [Step 1: Identification of different representative cases for district heating](#step-1-identification-of-different-representative-cases-for-district-heating)
         * [Calculation of future heat demand and building floor area density maps](#calculation-of-future-heat-demand-and-building-floor-area-density-maps)
         * [Identification of regions potentially interesting for district heating](#identification-of-regions-potentially-interesting-for-district-heating)
         * [Analysis of potentials for excess heat and renewable energy in the identified regions with potential interest for district heating](#analysis-of-potentials-for-excess-heat-and-renewable-energy-in-the-identified-regions-with-potential-interest-for-district-heating)
@@ -297,7 +297,7 @@ The final step in the analysis is the comparison of the results for the differen
 
 
 
-## Authors and reviewers
+# Authors and reviewers
 This page is written by Marcus Hummel\*.
 - [x] This page was reviewed by Lukas Kranzl\**.
 
