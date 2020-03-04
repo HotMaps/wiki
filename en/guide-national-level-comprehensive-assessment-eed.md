@@ -2,10 +2,8 @@
 
 # Guidelines for using the Hotmaps toolbox for analyses at national level
 
-These guidelines describe how the Hotmaps toolbox can be used to analyse costs and potentials for efficient and renewable heating and cooling at national level. _**The guide is especially oriented towards the development of results according to the comprehensive assessment of national heating and cooling potentials referred to in Article 14(1) of the Energy Efficiency Directive (EED) in its current version.**_
-
-
 # Table of Contents
+* [Introduction](#introduction)
 * [Part I: Overview of heating and cooling](#part-i-overview-of-heating-and-cooling)
 * [Part III: Analysis of the economic potential for efficiency in heating and cooling](#part-iii-analysis-of-the-economic-potential-for-efficiency-in-heating-and-cooling)
     * [Step 1: Identification of different representative cases for district heating](#part-iii-analysis-of-the-economic-potential-for-efficiency-in-heating-and-cooling_step-1-identification-of-different-representative-cases-for-district-heating)
@@ -23,6 +21,10 @@ These guidelines describe how the Hotmaps toolbox can be used to analyse costs a
 * [Authors and reviewers](#authors-and-reviewers)
 * [License](#license)
 * [Acknowledgement](#acknowledgement)
+
+# Introduction
+
+These guidelines describe how the Hotmaps toolbox can be used to analyse costs and potentials for efficient and renewable heating and cooling at national level. _**The guide is especially oriented towards the development of results according to the comprehensive assessment of national heating and cooling potentials referred to in Article 14(1) of the Energy Efficiency Directive (EED) in its current version.**_
 
 
 # Part I: Overview of heating and cooling
