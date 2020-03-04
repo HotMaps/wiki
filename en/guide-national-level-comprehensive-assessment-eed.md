@@ -9,17 +9,17 @@ These guidelines describe how the Hotmaps toolbox can be used to analyse costs a
 * [Part I: Overview of heating and cooling](#part-i-overview-of-heating-and-cooling)
 * [Part III: Analysis of the economic potential for efficiency in heating and cooling](#part-iii-analysis-of-the-economic-potential-for-efficiency-in-heating-and-cooling)
     * [Step 1: Identification of different representative cases for district heating](#part-iii-analysis-of-the-economic-potential-for-efficiency-in-heating-and-cooling_step-1-identification-of-different-representative-cases-for-district-heating)
-        * [Calculation of future heat demand and building floor area density maps](#part-iii-analysis-of-the-economic-potential-for-efficiency-in-heating-and-cooling_calculation-of-future-heat-demand-and-building-floor-area-density-maps)
-        * [Identification of regions potentially interesting for district heating](#part-iii-analysis-of-the-economic-potential-for-efficiency-in-heating-and-cooling_identification-of-regions-potentially-interesting-for-district-heating)
-        * [Analysis of potentials for excess heat and renewable energy in the identified regions with potential interest for district heating](#part-iii-analysis-of-the-economic-potential-for-efficiency-in-heating-and-cooling_analysis-of-potentials-for-excess-heat-and-renewable-energy-in-the-identified-regions-with-potential-interest-for-district-heating)
-        * [Identification of representative, typical district heating areas for further analysis](#part-iii-analysis-of-the-economic-potential-for-efficiency-in-heating-and-cooling_identification-of-representative-typical-district-heating-areas-for-further-analysis)
-    * [Step 2: Costs and potentials for district heating in representative cities / regions](#step-2-costs-and-potentials-for-district-heating-in-representative-cities--regions)
-        * [Economic assessment of the potential for district heating](#economic-assessment-of-the-potential-for-district-heating)
-        * [Estimation of costs for the transport of excess heat to district heating areas](#estimation-of-costs-for-the-transport-of-excess-heat-to-district-heating-areas)
-        * [Development of future heat load profiles](#development-of-future-heat-load-profiles)
-        * [Calculation of costs and emissions of heat supply in district heating](#calculation-of-costs-and-emissions-of-heat-supply-in-district-heating)
-    * [Step 3: Calculation of decentral heat supply](#step-3-calculation-of-decentral-heat-supply)
-    * [Step 4: Comparison of results for different scenarios](#step-4-comparison-of-results-for-different-scenarios)
+        * [Calculation of future heat demand and building floor area density maps]
+        * [Identification of regions potentially interesting for district heating]
+        * [Analysis of potentials for excess heat and renewable energy in the identified regions with potential interest for district heating]
+        * [Identification of representative, typical district heating areas for further analysis]
+    * [Step 2: Costs and potentials for district heating in representative cities / regions](#part-iii-analysis-of-the-economic-potential-for-efficiency-in-heating-and-cooling_step-2-costs-and-potentials-for-district-heating-in-representative-cities--regions)
+        * [Economic assessment of the potential for district heating]
+        * [Estimation of costs for the transport of excess heat to district heating areas]
+        * [Development of future heat load profiles]
+        * [Calculation of costs and emissions of heat supply in district heating]
+    * [Step 3: Calculation of decentral heat supply](#part-iii-analysis-of-the-economic-potential-for-efficiency-in-heating-and-cooling_step-3-calculation-of-decentral-heat-supply)
+    * [Step 4: Comparison of results for different scenarios](#part-iii-analysis-of-the-economic-potential-for-efficiency-in-heating-and-cooling_step-4-comparison-of-results-for-different-scenarios)
 * [Authors and reviewers](#authors-and-reviewers)
 * [License](#license)
 * [Acknowledgement](#acknowledgement)
