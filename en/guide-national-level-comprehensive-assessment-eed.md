@@ -2,6 +2,8 @@
 
 # Guidelines for using the Hotmaps toolbox for analyses at national level
 
+
+
 # Table of Contents
 * [Introduction](#introduction)
 * [Part I: Overview of heating and cooling](#part-i-overview-of-heating-and-cooling)
@@ -18,13 +20,17 @@
         * [Calculation of costs and emissions of heat supply in district heating]
     * [Step 3: Calculation of decentral heat supply](#part-iii-analysis-of-the-economic-potential-for-efficiency-in-heating-and-cooling_step-3-calculation-of-decentral-heat-supply)
     * [Step 4: Comparison of results for different scenarios](#part-iii-analysis-of-the-economic-potential-for-efficiency-in-heating-and-cooling_step-4-comparison-of-results-for-different-scenarios)
+* [References](#references)
+* [How to cite](#how-to-cite)
 * [Authors and reviewers](#authors-and-reviewers)
 * [License](#license)
 * [Acknowledgement](#acknowledgement)
 
+
 # Introduction
 
 These guidelines describe how the Hotmaps toolbox can be used to analyse costs and potentials for efficient and renewable heating and cooling at national level. _**The guide is especially oriented towards the development of results according to the comprehensive assessment of national heating and cooling potentials referred to in Article 14(1) of the Energy Efficiency Directive (EED) in its current version.**_
+
 
 
 # Part I: Overview of heating and cooling
@@ -295,9 +301,16 @@ The final step in the analysis is the comparison of the results for the differen
 
 <code><ins>**[To Top](#guidelines-for-using-the-hotmaps-toolbox-for-analyses-at-national-level)**</ins></code>
 
+# References
 
 
+<code><ins>**[To Top](#guidelines-for-using-the-hotmaps-toolbox-for-analyses-at-national-level)**</ins></code>
 
+# How to cite
+Marcus Hummel, in Hotmaps-Wiki, Guidelines for using the Hotmaps toolbox at national level (October 2020)
+
+
+<code><ins>**[To Top](#guidelines-for-using-the-hotmaps-toolbox-for-analyses-at-national-level)**</ins></code>
 
 # Authors and reviewers
 This page is written by Marcus Hummel\*.
