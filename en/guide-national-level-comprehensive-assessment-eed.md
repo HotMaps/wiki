@@ -8,7 +8,7 @@ These guidelines describe how the Hotmaps toolbox can be used to analyse costs a
 # Table of Contents
 * [Part I: Overview of heating and cooling](#part-i-overview-of-heating-and-cooling)
 * [Part III: Analysis of the economic potential for efficiency in heating and cooling](#part-iii-analysis-of-the-economic-potential-for-efficiency-in-heating-and-cooling)
-    * [Step 1: Identification of different representative cases for district heating](#step-1-identification-of-different-representative-cases-for-district-heating)
+    * [Step 1: Identification of different representative cases for district heating](##step-1-identification-of-different-representative-cases-for-district-heating)
         * [Calculation of future heat demand and building floor area density maps](#calculation-of-future-heat-demand-and-building-floor-area-density-maps)
         * [Identification of regions potentially interesting for district heating](#identification-of-regions-potentially-interesting-for-district-heating)
         * [Analysis of potentials for excess heat and renewable energy in the identified regions with potential interest for district heating](#analysis-of-potentials-for-excess-heat-and-renewable-energy-in-the-identified-regions-with-potential-interest-for-district-heating)
@@ -314,7 +314,7 @@ Gusshausstrasse 27-29/370,
 
 <code><ins>**[To Top](#guidelines-for-using-the-hotmaps-toolbox-for-analyses-at-national-level)**</ins></code>
 
-## License
+# License
 Copyright © 2016-2019: Marcus Hummel
 
 Creative Commons Attribution 4.0 International License
@@ -326,7 +326,7 @@ License-Text: https://spdx.org/licenses/CC-BY-4.0.html
 
 <code><ins>**[To Top](#guidelines-for-using-the-hotmaps-toolbox-for-analyses-at-national-level)**</ins></code>
 
-## Acknowledgement
+# Acknowledgement
 We would like to convey our deepest appreciation to the Horizon 2020 [Hotmaps Project](https://www.hotmaps-project.eu) (Grant Agreement number 723677), which provided the funding to carry out the present investigation.
 
 <code><ins>**[To Top](#guidelines-for-using-the-hotmaps-toolbox-for-analyses-at-national-level)**</ins></code>
