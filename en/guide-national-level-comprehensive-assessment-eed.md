@@ -1,7 +1,7 @@
-<h1>National level - Comprehensive assessment EED</h1>
+<h1>Guidelines for using the Hotmaps toolbox for analyses at national level</h1>
 
 # Guidelines for using the Hotmaps toolbox for analyses at national level
-
+National level - Comprehensive assessment EED
 
 
 # Table of Contents
