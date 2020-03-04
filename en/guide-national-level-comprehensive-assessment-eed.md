@@ -307,7 +307,7 @@ The final step in the analysis is the comparison of the results for the differen
 <code><ins>**[To Top](#guidelines-for-using-the-hotmaps-toolbox-for-analyses-at-national-level)**</ins></code>
 
 # How to cite
-Marcus Hummel, in Hotmaps-Wiki, Guidelines for using the Hotmaps toolbox at national level (October 2020)
+Marcus Hummel, in Hotmaps-Wiki, Guidelines for using the Hotmaps toolbox for analyses at national level (October 2020)
 
 
 <code><ins>**[To Top](#guidelines-for-using-the-hotmaps-toolbox-for-analyses-at-national-level)**</ins></code>
