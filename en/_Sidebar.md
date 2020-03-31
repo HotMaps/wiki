@@ -36,7 +36,7 @@
 * [CM - Wind potential](CM-Wind-potential)
 * [CM - Excess heat transport potential](CM-Excess-heat-transport-potential)
 * [CM - Scenario assessment](CM-Scenario-assessment)
-* [CM - Add industry plant](CM-Add-industry-plant)
+* [CM - USER-DEFINED EXCESS HEAT POTENTIALS](CM-Add-industry-plant)
 
 
 ## For Developers
