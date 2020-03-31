@@ -1,4 +1,4 @@
-<h1>CM Add industry plant</h1>
+<h1>CM USER DEFINED EXCESS HEAT POTENTIALS</h1>
 
 ## Table of Contents
 * [Introduction](#introduction)
