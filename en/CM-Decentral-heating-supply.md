@@ -23,7 +23,7 @@ This module calculates the costs of heat supply in buildings via decentral heati
 
 This calclulation module calculates the levelized cost of heat (LCOH) for various technologies to supply a user definded building
 
-![](https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/cm_decentral_heating/new/1.png)
+![](https://raw.githubusercontent.com/HotMaps/hotmaps_wiki/master/Images/cm_decentral_heating/new/1.png)
 
 The technologies are for example as follows:
 
