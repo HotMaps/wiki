@@ -1,19 +1,19 @@
 <h1>Retrieve indicators of a selected area</h1>
 
 ## Table of Contents
-1. [Introduction](#introduction)
-1. [Indicators for raster layers](#indicators-for-raster-layers)
+* [Introduction](#introduction)
+* [Indicators for raster layers](#indicators-for-raster-layers)
    * [Buildings](#buildings)
    * [Population](#population)
    * [Renewable Energy Source Potentials](#res-potentials)
-1. [Indicators for vector layers](#indicators-for-vector-layers)
+* [Indicators for vector layers](#indicators-for-vector-layers)
    * [Industry](#industry)
    * [Renewable Energy Source Potentials](#res--potentials)
    * [Electricity](#electricity)
-1. [Example](#example)
-1. [How to cite](#how-to-cite)
-1. [Authors and reviewers](#authors-and-reviewers)
-1. [License](#license)
+* [Example](#example)
+* [How to cite](#how-to-cite)
+* [Authors and reviewers](#authors-and-reviewers)
+* [License](#license)
 ## Indroduction 
 
 Depending on the layers and region you selected indicators for your configuration are shown in a sidebar at the right of your screen 
