@@ -14,6 +14,8 @@
 * [How to cite](#how-to-cite)
 * [Authors and reviewers](#authors-and-reviewers)
 * [License](#license)
+
+
 ## Indroduction 
 
 Depending on the layers and region you selected indicators for your configuration are shown in a sidebar at the right of your screen 
