@@ -24,12 +24,23 @@ This module generates both a heat demand density and a floor area density map in
 
 ## Introduction
 For the analysis of the future potentials for the supply of heat and cold from renewable and excess heat sources it is essential to take into account potential developments in the building stock of the analysed region. Part of the buildings are renovated in order to decrease energy demand for space heating, part of the buildings are demolished and new buildings are constructed. This leads to changes in the heat demand of the buildings in a region. Furthermore, the evolution of the population and the Gross Domestic Product (GDP) in a region influences the development of the demand for building floor area and thus the demand for space heating and hot water generation.
-The aim of the Calculation Module (CM) - Demand Projection is to provide scenarios of the future development of gross floor areas and heat demand in buildings for a selected area based on calculations for the EU-28 at national level. Different scenarios calculated with the Invert/EE-Lab Module are broken down to the hectare level according to the methodology developed for the default heat demand density layer (**ref**). The CM also provides the opportunity to change two basic drivers in the scenarios and generated adapted results. These two basic drivers are a) the reduction of floor area of existing buildings, and b) the reduction of the specific energy needs in the buildings.
+The aim of the Calculation Module (CM) - Demand Projection is to provide scenarios of the future development of gross floor areas and heat demand in buildings for a selected area based on calculations for the EU-28 at national level. Different scenarios calculated with the Invert/EE-Lab Module are broken down to the hectare level according to the methodology developed for the default heat demand density layer (**reference**). The CM also provides the opportunity to change two basic drivers in the scenarios and generated adapted results. These two basic drivers are a) the reduction of floor area of existing buildings, and b) the reduction of the specific energy needs in the buildings.
 
 [**`To Top`**](#table-of-contents)
 
 
 ## Inputs and outputs
+
+**Inputs**
+
+* Select scenario: here you can select one of the scenarios calculated with the Invert/EE-Lab module to be used as reference development for the calculation with the module
+* Select target year: here you can select the year for which the calculations will be performed
+* Reduction of floor area compared to the reference scenario:
+  * with this parameter you can change the development of gross floor area of currently existing buildings compared to the development as projected in the scenario calculated with the Invert/EE-Lab model
+  * you can define different relative changes for existing buildings built in different construction periods (before 1977, between 1977 and 1990, after 1990)
+  * the values to be introduced have the unit [%]
+  * a value of 25 means that the reduction of floor area in a defined construction period, e.g. before 1977, between the starting year of the calculation and the end of the selected scenario time is multiplied by 0.25. E.g. in the selected Invert/EE-Lab scenario the floor area of buildings constructed before 1977 decreases from 10 Mio. m² to 6 Mio m² between now and the end of the selected scenario time period. This equals a decrease of 4 Mio m². When choosing a value of 25 the effect of the Invert/EE-Lab scenario is changed in order to not reflect a decrease of 4 Mio m² over this time period, but of only 1 Mio. m² (4 * 0.25). Thus, the remaining floor area of buildings constructed before 1977 at the end of the scenario time period would be 9 Mio. m².
+* Reduction of specific energy needs compared to reference scenario:
 
 
 
