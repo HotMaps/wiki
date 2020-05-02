@@ -17,13 +17,37 @@
 
 
 ## In a glance
-This module generates both a heat demand density and a floor area density map in the form of raster files. The input to the module is a default development scenario of the heat demand and gross floor areas for each raster element as well as parameters to describe the relative deviation to these default developments.
+This module generates both a heat demand density and a floor area density map in the form of raster files. The input to the module are different development scenario of the heat demand and gross floor areas at national levels and broken down to each raster element as well as user-defined parameters to describe the relative deviation to the developments in the scenarios.
 
 [**`To Top`**](#table-of-contents)
 
 
 ## Introduction
 The aim of the calculation module is to transfer the scenario results for the development of the energy demand to different regions.
+
+
+
+[**`To Top`**](#table-of-contents)
+
+## Inputs and outputs
+
+
+
+
+
+
+**Output**
+
+* Tabular results on heated gross floor area per construction period, final energy demand per construction period and derived indicators.
+* Bar charts on heated gross floor area and final energy demand per construction period
+* Heat density map and map of heated gross floor area
+
+
+[**`To Top`**](#table-of-contents)
+
+
+
+## Method
 
 **The procedure is as follows**
 
@@ -41,26 +65,41 @@ Workflow performed within to the HotMaps toolbox
 4. User interaction: The user can choose to investigate the impact of more or less – relative to the selected scenario - ambitious measures, e.g. choose a higher or lower demolition rate of buildings from a certain construction period.
 
 
-**Output**
 
-* Tabular results on heated gross floor area per construction period, final energy demand per construction period and derived indicators.
-* Bar charts on heated gross floor area and final energy demand per construction period
-* Heat density map and map of heated gross floor area
+[**`To Top`**](#table-of-contents)
+
+
+
+
+## GitHub repository of this calculation module
 
 
 [**`To Top`**](#table-of-contents)
 
 
+
+
+## Sample run
+  * [Test Run 1: default input values
+  * [Test Run 2: modified input values
+
+
+[**`To Top`**](#table-of-contents)
+
 ## References
 
 
+
+
+
+[**`To Top`**](#table-of-contents)
 
 ## How to cite
 Andreas Müller, in Hotmaps-Wiki, CM-Demand-projection (October 2019)
 
 ## Authors and reviewers
 
-This page is written by Andreas Müller\*.
+This page is written by Andreas Müller and Marcus Hummel\*.
 
 
 \* [e-think energy research](http://www.e-think.ac.at)
@@ -86,7 +125,7 @@ Austria
 
 ## License
 
-Copyright © 2016-2019: Andreas Müller
+Copyright © 2016-2020: Andreas Müller, Marcus Hummel
 
 Creative Commons Attribution 4.0 International License
 
