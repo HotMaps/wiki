@@ -36,33 +36,45 @@ The aim of the Calculation Module (CM) - Demand Projection is to provide scenari
 * _Select scenario:_
   * here you can select between different scenarios calculated with the Invert/EE-Lab module to be used as reference development for the calculation with the module
 
-* Select target year: 
+* _Select target year:_
   * here you can select the year for which the calculations will be performed
 
-* Reduction of floor area compared to the reference scenario:
+* _Reduction of floor area compared to the reference scenario:_
   * with this parameter you can change the development of gross floor area of currently existing buildings compared to the development as projected in the scenario calculated with the Invert/EE-Lab model
   * you can define different relative changes for existing buildings built in different construction periods (before 1977, between 1977 and 1990, after 1990)
   * the values to be introduced have the unit [%]
   * a value of 25 means that the reduction of floor area in a defined construction period, e.g. before 1977, between the starting year of the calculation and the end of the selected scenario time is multiplied by 0.25. E.g. in the selected Invert/EE-Lab scenario the floor area of buildings constructed before 1977 decreases from 10 Mio. m² to 6 Mio m² between now and the end of the selected scenario time period. This equals a decrease of 4 Mio m². When choosing a value of 25 the effect of the Invert/EE-Lab scenario is changed in order to not reflect a decrease of 4 Mio m² over this time period, but of only 1 Mio. m² (4 * 0.25). Thus, the remaining floor area of buildings constructed before 1977 at the end of the scenario time period would be 9 Mio. m².
 
-* Reduction of specific energy needs compared to reference scenario:
+* _Reduction of specific energy needs compared to reference scenario:_
   * with this parameter you can change the development of the specific energy needs for space heating and hot water generation of currently existing buildings compared to the development as projected in the scenario calculated with the Invert/EE-Lab model
   * you can define different relative changes for existing buildings built in different construction periods (before 1977, between 1977 and 1990, after 1990)
   * the values to be introduced have the unit [%]
   * a value of 25 means that the reduction of specific energy needs in a defined construction period, e.g. before 1977, between the starting year of the calculation and the end of the selected scenario time is multiplied by 0.25. E.g. in the selected Invert/EE-Lab scenario the specific energy need for space heating and hot water generation of buildings constructed before 1977 decreases from 200 kWh/m²yr to 120 kWh/m²yr between now and the end of the selected scenario time period. This equals a decrease of 80 kWh/m²yr. When choosing a value of 25 the effect of the Invert/EE-Lab scenario is changed in order to not reflect a decrease of 80 kWh/m²yr over this time period, but of only 20 kWh/m²yr (80 * 0.25). Thus, the remaining specific energy need for space heating and hot water generation of buildings constructed before 1977 at the end of the scenario time period would be 180 kWh/m²yr.
 
+* Method to add newly constructed buildings to the map:
+  * here you can select the method that is applied to add newly constructed buildings to the resulting gross floor area and heat demand density maps
+  * the three different methods are explained in the following:
+    * No new buildings: In the maps only buildings are reflected that already exist in the current building stock and still are projected to exist at the end of the simulation period. Demolished buildings are removed from the map and no new buildings are added. The gross floor area as well as the heat demand reflected in the maps is thus remarkably lower compared to the projected values from the calcuation.
+    * Replace only demolished buildings: In the maps the gross floor area of buildings does not change compared to the gross floor area in the start year of the calculation. Currently existing buildings that are projected to be demolished are replaced with newly constructed buildings. In case that the gross floor area increases in the scenarios, the increase of the gross floor area is not reflected in the maps.
+    * Add all new buildings: In the maps all new buildings are added. In places where buildings are demolished these are replaced by new buildings. Additional newly buildt gross floor are due to an increase of overall gross floor area in the region is placed at different locations: part of it added on top of existing buildings, part of it is place between existing buildings, and part of it is placed in locations where currently no buildings exist.
+  * the choice of this method has no effect on the indicators shown in the results section of the calculation. I.e. this is only relevant for the creation of the maps, not for the overall results of the scenarios.
 
 
+**Outputs**
 
-**Output**
+* Indicators:
+  * Heated (gross floor) area total and per construction period in the start year and at the end year of the calculation
+  * Estimated final energy consumption total and per construction period in the start year and at the end year of the calculation
+  * Estimated specific energy consumption per construction period in the start year and at the end year of the calculation
 
-* Tabular results on heated gross floor area per construction period, final energy demand per construction period and derived indicators.
-* Bar charts on heated gross floor area and final energy demand per construction period
-* Heat density map and map of heated gross floor area
+* Graphics:
+  * Bar charts on heated gross floor area and final energy consumption per construction period
 
+* Layers:
+  * Heat demand density map reflecting the calculated developments
+  * Gross floor area density map reflecting the calculated developments
 
 [**`To Top`**](#table-of-contents)
-
 
 
 ## Method
@@ -87,8 +99,6 @@ Workflow performed within to the HotMaps toolbox
 [**`To Top`**](#table-of-contents)
 
 
-
-
 ## GitHub repository of this calculation module
 
 
@@ -98,22 +108,24 @@ Workflow performed within to the HotMaps toolbox
 
 
 ## Sample run
-  * [Test Run 1: default input values
-  * [Test Run 2: modified input values
 
+to be filled 
+
+* Test Run 1: default input values
+
+* Test Run 2: modified input values
 
 [**`To Top`**](#table-of-contents)
+
 
 ## References
 
 
-
-
-
 [**`To Top`**](#table-of-contents)
 
+
 ## How to cite
-Andreas Müller, in Hotmaps-Wiki, CM-Demand-projection (October 2019)
+Andreas Müller and Marcus Hummel, in Hotmaps-Wiki, CM-Demand-projection (October 2019)
 
 ## Authors and reviewers
 
