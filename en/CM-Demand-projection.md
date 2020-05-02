@@ -83,13 +83,46 @@ As written before this module is based on calculations performed with the Invert
 
 In the current state of the Toolbox (Release V3.0.0) the following two Invert/EE-Lab scenarios are available in the module:
 
-** _"reference":_ **
-  * In this scenario it is assumed that current efficiency policies remain in place and are effectively implemented
+**_"reference":_**
+In this scenario it is assumed that current efficiency policies remain in place and are effectively implemented. In particular, we assume that in general building owners and professionals comply with regulatory instruments like building codes. National differences in the policy intensity continue to exist. Therefore, the policy intensity indicates qualitatively the range of policy ambition in different countries. The energy efficiency policy mix corresponds to the current packages in place, which in most countries is a mix of regulatory approaches (building codes, nearly zero energy buildings (nZEB) definitions, RES-H obligation), economic support (subsidies for building refurbishment) and energy taxation. Main sources for implemented policies are the Mure database (www.measures-odyssee-mure.eu/) and the projects ENTRANZE (www.entranze.eu/) and Zebra2020 (www.zebra2020.eu/). 
+While the scenario considers neither a strong technology improvement nor binding energy efficiency obligations, ambitious policies to foster renewable energy are in place. This has been implemented based on mandatory renewable energy quotas on the level of individual buildings.
 
-* _"ambitious":_
-  *
+_Energy prices:_
+Energy prices increase moderately according to EU Reference Scenario 2016 (https://ec.europa.eu/energy/en/data-analysis/energy-modelling).
+
+_Technology development:_
+The assumed technological learning is very low and costs for efficient and renewable heating/cooling technologies decrease only slightly.
+
+_Qualitative overview of policy assumptions:_
+Policy intensity for RES-H: high
+Policy intensity for buildings’ efficiency: low
+Policy intensity for district heating: medium
+Energy prices: low
+Technology development: low
+
+_Results:_
+Total final energy demand for space heating, hot water and cooling in EU-28 decreases from 3650 TWh (2012) to 2800 TWh (2050).
 
 
+**_"ambitious":_**
+The ambitious scenario assumes that current energy efficiency policies are fostered and are effectively implemented. This is implemented by increased energy performance standards of refurbished buildings, along with the assumption of moderate energy efficiency technology improvements. The scenario does not consider mandatory obligations to refurbish buildings. The additional drivers to increase the energy performance of buildings are increased investment subsidy budgets for thermal building renovation as well as the introduction of a CO2-tax. It is considered that the CO2-tax starts in 2025 at a level of 5 €/tCO2 and increases along a linear trajectory to 150 €/t CO2 (incl. VAT) until 2050.
+Main sources for implemented policies are again the Mure database (www.measures-odyssee-mure.eu/) and the projects ENTRANZE (www.entranze.eu/) and Zebra2020 (www.zebra2020.eu/). The mandatory renewable energy quotas on the level of individual buildings are identical to the reference scenario. 
+
+_Energy prices:_
+Energy prices increase moderately according to the EU Reference Scenario 2016 (https://ec.europa.eu/energy/en/data-analysis/energy-modelling). In addition, a CO2-tax on onsite-emissions is introduced starting with 2025. Starting with 5 €/t CO2 in 2025, it increases to 150 €/tCO2 until 2050. The price increase leads to additional incentives for building renovation and renewable heating systems.
+
+_Technology development:_
+The assumed technological learning is moderate and costs for efficient and renewable heating/cooling technologies decrease remarkably until 2050.
+
+_Qualitative overview of policy assumptions:_
+Policy intensity for RES-H: high
+Policy intensity for buildings’ efficiency: medium
+Policy intensity for district heating: medium
+Energy prices: medium
+Technology development: medium
+
+_Results:_
+Total final energy demand for space heating, hot water and cooling in EU-28 decreases from 3650 TWh (2012) to 2550 TWh (2050). 
 
 [**`To Top`**](#table-of-contents)
 
