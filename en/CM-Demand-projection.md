@@ -24,7 +24,7 @@ This module generates both a heat demand density and a floor area density map in
 
 ## Introduction
 For the analysis of the future potentials for the supply of heat and cold from renewable and excess heat sources it is essential to take into account potential developments in the building stock of the analysed region. Part of the buildings are renovated in order to decrease energy demand for space heating, part of the buildings are demolished and new buildings are constructed. This leads to changes in the heat demand of the buildings in a region. Furthermore, the evolution of the population and the Gross Domestic Product (GDP) in a region influences the development of the demand for building floor area and thus the demand for space heating and hot water generation.
-The aim of the Calculation Module (CM) - Demand Projection is to provide scenarios of the future development of gross floor areas and heat demand in buildings for a selected area based on calculations for the EU-28 at national level. Different scenarios calculated with the Invert/EE-Lab Module are broken down to the hectare level according to the methodology developed for the default heat demand density layer (**reference**). The CM also provides the opportunity to change two basic drivers in the scenarios and generated adapted results. These two basic drivers are a) the reduction of floor area of existing buildings, and b) the reduction of the specific energy needs in the buildings.
+The aim of the Calculation Module (CM) - Demand Projection is to provide scenarios of the future development of gross floor areas and heat demand in buildings for a selected area based on calculations for the EU-28 at national level. Different scenarios calculated with the Invert/EE-Lab Module are broken down to the hectare level according to the methodology developed for the default heat demand density layer (**REFERENCE**). The CM also provides the opportunity to change two basic drivers in the scenarios and generated adapted results. These two basic drivers are a) the reduction of floor area of existing buildings, and b) the reduction of the specific energy needs in the buildings.
 
 [**`To Top`**](#table-of-contents)
 
@@ -51,7 +51,7 @@ The aim of the Calculation Module (CM) - Demand Projection is to provide scenari
   * the values to be introduced have the unit [%]
   * a value of 25 means that the reduction of specific energy needs in a defined construction period, e.g. before 1977, between the starting year of the calculation and the end of the selected scenario time is multiplied by 0.25. E.g. in the selected Invert/EE-Lab scenario the specific energy need for space heating and hot water generation of buildings constructed before 1977 decreases from 200 kWh/m²yr to 120 kWh/m²yr between now and the end of the selected scenario time period. This equals a decrease of 80 kWh/m²yr. When choosing a value of 25 the effect of the Invert/EE-Lab scenario is changed in order to not reflect a decrease of 80 kWh/m²yr over this time period, but of only 20 kWh/m²yr (80 * 0.25). Thus, the remaining specific energy need for space heating and hot water generation of buildings constructed before 1977 at the end of the scenario time period would be 180 kWh/m²yr.
 
-* Method to add newly constructed buildings to the map:
+* _Method to add newly constructed buildings to the map:_
   * here you can select the method that is applied to add newly constructed buildings to the resulting gross floor area and heat demand density maps
   * the three different methods are explained in the following:
     * No new buildings: In the maps only buildings are reflected that already exist in the current building stock and still are projected to exist at the end of the simulation period. Demolished buildings are removed from the map and no new buildings are added. The gross floor area as well as the heat demand reflected in the maps is thus remarkably lower compared to the projected values from the calcuation.
@@ -62,15 +62,15 @@ The aim of the Calculation Module (CM) - Demand Projection is to provide scenari
 
 **Outputs**
 
-* Indicators:
+* _Indicators:_
   * Heated (gross floor) area total and per construction period in the start year and at the end year of the calculation
   * Estimated final energy consumption total and per construction period in the start year and at the end year of the calculation
   * Estimated specific energy consumption per construction period in the start year and at the end year of the calculation
 
-* Graphics:
+* _Graphics:_
   * Bar charts on heated gross floor area and final energy consumption per construction period
 
-* Layers:
+* _Layers:_
   * Heat demand density map reflecting the calculated developments
   * Gross floor area density map reflecting the calculated developments
 
@@ -79,20 +79,15 @@ The aim of the Calculation Module (CM) - Demand Projection is to provide scenari
 
 ## Method
 
-**The procedure is as follows**
+As written before this module is based on calculations performed with the Invert/EE-Lab module for all countries of the EU 28 (see **www.invert.at** for a description of the method of the Invert/EE-Lab module). The calculated scenarios are analysed regarding the development of the following types of buildings: residential and non-residential buildings, 3 construction periods and newly constructed buildings. Then the population growth per NUTS3 region and the initial building stock (in terms of heated gross floor area & energy needs per construction period and building type) per NUTS 3 region are assessed. Based on this assessment the results of the calculated scenarios are transferred to the respective NUTS3 region. The NUTS3 results are then distributed to the different hectare elements according to the method developed in Müller et al 2019 (**REFERENCE**).
 
-Workflow performed prior to the HotMaps toolbox 
-1. Precalculate Invert/EE-Lab results on the Country level
-2. Assessment what happens with different types of buildings: Residential and Non-Residential buildings / 3 construction Periods and newly constructed buildings on the country level
-3. Assess population growth per NUTS3 region and initial building stock (heated gross floor area / energy needs per construction period and building type) per NUTS 3 region
-4. Transfer the NUTS0 scenario results to the NUTS3 level
-5. Integrate the NUTS3 level results in the HotMaps Toolbox
+In the current state of the Toolbox (Release V3.0.0) the following two Invert/EE-Lab scenarios are available in the module:
 
-Workflow performed within to the HotMaps toolbox
-1. Select regions
-2. Start Calculation Module, define input parameters
-3. For each raster cell, the CM calculates the estimated share of energy and heated gross floor area by building types (eg. residential building, construction period 1, unrefurbished) and apply the measures according to the national/NUTS3 development on those buildings.
-4. User interaction: The user can choose to investigate the impact of more or less – relative to the selected scenario - ambitious measures, e.g. choose a higher or lower demolition rate of buildings from a certain construction period.
+** _"reference":_ **
+  * In this scenario it is assumed that current efficiency policies remain in place and are effectively implemented
+
+* _"ambitious":_
+  *
 
 
 
