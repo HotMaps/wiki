@@ -17,7 +17,7 @@
 
 
 ## In a glance
-This module generates both a heat demand density and a floor area density map in the form of raster files. The input to the module are different development scenario of the heat demand and gross floor areas at national levels and broken down to each raster element as well as user-defined parameters to describe the relative deviation to the developments in the scenarios.
+This module generates both a heat demand density and a floor area density map in the form of raster files. The input to the module are different development scenarios of the heat demand and gross floor areas at national levels and broken down to each raster element as well as user-defined parameters to describe the relative deviation to the developments in the scenarios.
 
 [**`To Top`**](#table-of-contents)
 
