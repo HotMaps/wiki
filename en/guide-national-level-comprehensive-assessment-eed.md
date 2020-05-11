@@ -74,7 +74,6 @@ To assess the economic potential for efficiency in heating and cooling it is imp
 
 The following figure shows this approach graphically. The different steps will be explained in more detail in the following chapters of these guidelines.
 
-CHANGE FOLLOWING IMAGE:
 ![](../images/Hotmaps_ApproachNational_Overview.png)
 *Figure: Hotmaps approach for analysing the economic potential for efficiency in heating and cooling in course of Article 14 of the Energy Efficiency Directive (EED)*
 
@@ -114,7 +113,6 @@ In order to identify different, representative, typical cases for further analys
 
 The following figure shows this procedure graphically and shows the various data sources and calculation modules that can be used.
 
-CHANGE FOLLOWING IMAGE:
 ![](../images/Hotmaps_ApproachNational_Step1.png)
 *Figure: Identification of different representative, typical cases for district heating (Step 1)*
 
@@ -212,7 +210,6 @@ For the identified representative regions/cities analyses on the costs and poten
 
 The following figure shows this procedure graphically and shows the various data sources and calculation modules that can be used.
 
-CHANGE FOLLOWING IMAGE:
 ![](../images/Hotmaps_ApproachNational_Step2.png)
 *Figure: Analysis on costs and potentials for district heating in representative regions/cities (Step 2)*
 
@@ -282,8 +279,6 @@ In the third step the costs and emissions of heat supply via decentral technolog
 
 The CM - Decentral heating supply can be used to calculate the costs and emissions of heat supply via different decentral technologies. The module uses data on heat demand as well as data on costs of technologies and prices for energy carriers to calculate the levelised costs of heat supply [EUR/MWh] for the different technologies in the different typical buildings and renovation states. The following figure shows this procedure graphically and shows the various data sources feeding into the CM - Decentral heating supply.
 
-
-CHANGE FOLLOWING IMAGE:
 ![](../images/Hotmaps_ApproachNational_Step3.png)
 *Figure: Calculation of decentral heat supply (Step 3)*
 
@@ -297,7 +292,6 @@ The outcomes of this step are the costs of heat supply via decentral technologie
 
 The final step in the analysis is the comparison of the results for the different scenarios and sensitivities. For this all results calculated in the previous steps are collected both from the calculations of district heating as well as from the calculations of decentral supply and compared against each other for main indicators. This can be done in the CM - Scenario Assessment.  The following figure shows this approach.
 
-CHANGE FOLLOWING IMAGE:
 ![](../images/Hotmaps_ApproachNational_Step4.png)
 *Figure: Comparison of results for different scenarios (Step 4)*
 
