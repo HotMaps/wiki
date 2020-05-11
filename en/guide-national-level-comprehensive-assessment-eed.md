@@ -2,20 +2,13 @@
 
 # Table of Contents
 * [Introduction](#introduction)
-* [Part I: Overview of heating and cooling](#part-i-overview-of-heating-and-cooling)
-* [Part III: Analysis of the economic potential for efficiency in heating and cooling](#part-iii-analysis-of-the-economic-potential-for-efficiency-in-heating-and-cooling)
-    * [Step 1: Identification of different representative cases for district heating](#part-iii-analysis-of-the-economic-potential-for-efficiency-in-heating-and-cooling_step-1-identification-of-different-representative-cases-for-district-heating)
-        * [Calculation of future heat demand and building floor area density maps]
-        * [Identification of regions potentially interesting for district heating]
-        * [Analysis of potentials for excess heat and renewable energy in the identified regions with potential interest for district heating]
-        * [Identification of representative, typical district heating areas for further analysis]
-    * [Step 2: Costs and potentials for district heating in representative cities / regions](#part-iii-analysis-of-the-economic-potential-for-efficiency-in-heating-and-cooling_step-2-costs-and-potentials-for-district-heating-in-representative-cities--regions)
-        * [Economic assessment of the potential for district heating]
-        * [Estimation of costs for the transport of excess heat to district heating areas]
-        * [Development of future heat load profiles]
-        * [Calculation of costs and emissions of heat supply in district heating]
-    * [Step 3: Calculation of decentral heat supply](#part-iii-analysis-of-the-economic-potential-for-efficiency-in-heating-and-cooling_step-3-calculation-of-decentral-heat-supply)
-    * [Step 4: Comparison of results for different scenarios](#part-iii-analysis-of-the-economic-potential-for-efficiency-in-heating-and-cooling_step-4-comparison-of-results-for-different-scenarios)
+* [Overview of the Hotmaps scenario toolchain](#overview-of-the-hotmaps-scenario-toolchain)
+    * [Step 1: Analysis of current heat demand and available resource potentials(#step-i-analysis-of-current-heat-demand-and-available-resource-potentials)
+    * [Step 2: Calculation of future heat demand and gross floor area density maps](#step-ii-Calculation-of-future-heat-demand-and-gross-floor-area-density-maps)
+    * [Step 3: Calculation of costs of decentral heat supply]
+    * [Step 4: Calculation of district heating distribution costs]
+    * [Step 5: Calculation of costs of heat supply to district heating]
+    * [Step 6: Assessment of scenarios for entire heat demand and supply for the selected area]
 * [References](#references)
 * [How to cite](#how-to-cite)
 * [Authors and reviewers](#authors-and-reviewers)
