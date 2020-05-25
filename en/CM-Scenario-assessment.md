@@ -20,14 +20,14 @@
 
 ## In a glance
 
-This module allows comparing up to 10 different scenarios. The module is not integrated into the Hotmaps Toolbox, but it is provided as a separate Excel sheet that combines the results of all other calculation modules previously run.
->>>ADD ATTACHMENT WITH THE EXCEL WORKBOOK
+This module allows comparing up to 10 different scenarios. The module is not integrated into the Hotmaps Toolbox, but it is provided as a separate Excel sheet that combines the results of other calculation modules which must be previously run.
+>>> ADD ATTACHMENT WITH THE EXCEL WORKBOOK
 
 [**`To Top`**](#table-of-contents)
 
 ## Introduction
 
-This module offers a quick comparison of scenarios, based on the results of the following calculation modules: Decentral heating supply, District heating potential: economic assessment, and District heating supply dispatch. These modules must be run independently for each scenario taken into consideration, then the results must be reported in the relevant sheet of the Excel Workbook. A comparison of scenarios is then shown in the sheet "Final Tabel".
+This module offers a quick comparison of scenarios, based on the results of the following calculation modules: Decentral heating supply, District heating potential: economic assessment, and District heating supply dispatch. These modules must be run independently for each scenario taken into consideration, then the results shall be reported in the Excel Workbook by compiling the relevant sheet. The overall indicators are calculated and shown in the sheet "Final Tabel" both in the form of a table and charts: cost per year, levelized costs, CO2 emissions, final energy, useful energy, and RES/DH shares.
 
 [**`To Top`**](#table-of-contents)
 
@@ -46,7 +46,6 @@ In the following, required indicators from each calculation module for the "**ca
 * Total heat demand in _*MWh*_
 
 
-
 ### CM - Demand projection
 
 * Total floor area in _*m<sup>2</sup>*_
@@ -62,11 +61,13 @@ In the following, required indicators from each calculation module for the "**ca
 * Total heat demand in potential district heating areas in *_MWh_*
 * Share of heat demand in district heating areas from the total heat demand in the selected area in _*%*_
 
+
 ### CM - District heating potential: economic assessment
 
 * District heating potential in the last year of the investment in _*MWh*_
 * Share of heat demand in district heating areas from the total heat demand in the selected area in _*%*_
 * Average specific **distribution** grid cost in economic district heating areas in _*EUR/MWh*_
+
 
 ### CM - District heating supply dispatch
 
@@ -76,7 +77,7 @@ In the following, required indicators from each calculation module for the "**ca
   * Overall supply cost in _*EUR/MWh*_ for the whole carrier mix: CAPEX + OPEX + Energy Costs
 
 ```
-Note: the supply cost in scenario assessment may become very large if we show it in form of bar charts for all energy carriers. It shall be disscussed further for the implementation.
+Note: the supply cost in scenario assessment may become very large if we show it in form of bar charts for all energy carriers. It shall be discussed further for the implementation.
 ```
 
 ### CM - Decentral heating supply - City level
