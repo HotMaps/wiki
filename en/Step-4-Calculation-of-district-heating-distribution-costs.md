@@ -1,4 +1,4 @@
-## Step 4: Calculation of district heating distribution costs
+<h1>Step 4: Calculation of district heating distribution costs</h1>
 
 *Figure 6: Method for calculating scenarios and sensitivities of heating demand and supply for this strategy process*
 
@@ -16,5 +16,3 @@ For the representative cities/areas an economic assessment of district heating c
 
 The scenarios can be used to analyse the influence of the different factors on the heat distribution costs in district heating systems in the different representative cities/areas. For different settings of depreciation time and interest rate, one scenario of district heating expansion per representative city/area should be selected for further analysis. The outcomes of this step are the heat demand for district heating [GWh/yr] and the heat distribution costs [EUR/MWh] in each of the representative cities/areas. These results will then be used in the overall scenario comparison in step 4.
 
-
-<code><ins>**[To Top](#table-of-contents)**</ins></code>
