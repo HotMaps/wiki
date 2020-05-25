@@ -3,8 +3,7 @@
 ## Table of Contents
 * [In a glance](#in-a-glance)
 * [Introduction](#introduction)
-* [Calculation module: Scenario assessment inputs](#calculation-module-scenario-assessment-inputs)
-* [Overall scenario assessment](#overall-scenario-assessment)
+* [Calculation module: Scenario assessment inputs and outputs](#calculation-module-scenario-assessment-inputs-and-outputs)
 * [Interpretation of input parameters](#intepretation-of-input-parameters)
 * [GitHub repository of this calculation module](#github-repository-of-this-calculation-module)
 * [Sample run](#sample-run)
@@ -31,28 +30,16 @@ This module offers a quick comparison of scenarios, based on the results of the 
 
 [**`To Top`**](#table-of-contents)
 
-## Calculation module - Scenario assessment inputs
+## Scenario assessment inputs and outputs
 
-In the following, the required indicators from each calculation module needed for the "**Calculation module - Scenario assessment**" are enumerated. These indicators should be saved for each scenario tag and later on, be compiled in the scenario assessment workbook.
+The inputs compiled in the scenario assessment module are produced by the following calculation modules. These indicators should be saved for each scenario tag and later on, be compiled in the scenario assessment workbook. In case the inputs required by these modules were not available, they can be calculated using other calculation modules on the Toolbox as shown in the Training section.
 
-### [CM - District heating potential: economic assessment](#CM-District-heating-potential-economic-assessment)
-
-### [CM - District heating supply dispatch](https://wiki.hotmaps.hevs.ch/edit/en/CM-District-heating-potential-economic-assessment)
-
-### [CM - Decentral heating supply - City level]()
+**1. [CM - Decentral heating supply](https://wiki.hotmaps.hevs.ch/en/CM-Decentral-heating-supply)**
+**1. [CM - District heating supply dispatch](https://wiki.hotmaps.hevs.ch/en/CM-District-heating-supply-dispatch)**
+**1. [CM - District heating potential: economic assessment](https://wiki.hotmaps.hevs.ch/en/CM-District-heating-potential-economic-assessment)**
 
 
-[**`To Top`**](#table-of-contents)
-
-## Overall scenario assessment
-
-The indicators for this part originate from two calculation modules:
-
-1. CM - Decentral heating supply
-1. CM - District heating potential: economic assessment
-1. CM - District heating supply dispatch
-
-For each scenario tag, the following three indicators are shown in the form of **stacked bar chart**:
+For each scenario tag, the following indicators are shown in the form of **stacked bar chart**:
 
 * Overall (aggregated) costs of heat supply by **district heating system** and **decentral heating system** in _*M EUR/year*_
 * Overall (aggregated) CO<sub>2</sub> emissions by **district heating system** and **decentral heating system** in _*tons/year*_
