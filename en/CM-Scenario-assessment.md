@@ -46,6 +46,12 @@ In the following, the required indicators from each calculation module needed fo
 * Total heat demand in _*MWh*_
 
 
+### CM - Renewable energy
+
+
+### CM - District heating supply dispatch
+
+
 ### CM - Heat load profiles
 
 
@@ -71,7 +77,8 @@ In the following, the required indicators from each calculation module needed fo
   * Overall supply cost in _*EUR/MWh*_ for the whole carrier mix: CAPEX + OPEX + Energy Costs
 
 ```
-Note: the supply cost in scenario assessment may become very large if we show it in the form of bar charts for all energy carriers. It shall be discussed further for the implementation.
+Note: the supply cost in scenario assessment may become very large if we show it in the form of bar charts for all energy carriers.
+It shall be discussed further for the implementation.
 ```
 
 ### CM - Decentral heating supply - City level
@@ -95,6 +102,7 @@ Note: the supply cost in scenario assessment may become very large if we show it
 The indicators for this part originate from two calculation modules:
 
 1. CM - Decentral heating supply
+1. CM - District heating potential: economic assessment
 1. CM - District heating supply dispatch
 
 For each scenario tag, the following three indicators are shown in the form of **stacked bar chart**:
