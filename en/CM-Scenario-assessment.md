@@ -21,6 +21,7 @@
 
 This module allows comparing up to 10 different scenarios. The module is not integrated into the Hotmaps Toolbox, but it is provided as a separate Excel sheet that combines the results of other calculation modules which must be previously run.
 >>> ADD ATTACHMENT WITH THE EXCEL WORKBOOK
+[/en/CM-Scenario-assessment/[Exercise 5.xlsx]]
 
 [**`To Top`**](#table-of-contents)
 
