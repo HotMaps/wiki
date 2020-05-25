@@ -3,8 +3,7 @@
 ## Table of Contents
 * [In a glance](#in-a-glance)
 * [Introduction](#introduction)
-* [Inputs and outputs](inputs-and-outputs)
-* [Calculation module scenario comparison](#calculation-module-scenario-comparison)
+* [Scenario comparison inputs](#scenario-comparison-inputs)
 * [Overall scenario assessment](#overall-scenario-assessment)
 * [Interpretation of input parameters](#intepretation-of-input-parameters)
 * [GitHub repository of this calculation module](#github-repository-of-this-calculation-module)
@@ -31,14 +30,9 @@ This module offers a quick comparison of scenarios, based on the results of the 
 
 [**`To Top`**](#table-of-contents)
 
-## Inputs and outputs
+## Scenario comparison inputs
 
-
-[**`To Top`**](#table-of-contents)
-
-## Calculation module scenario comparison
-
-In the following, required indicators from each calculation module for the "**calculation module scenario comparison** are enumerated. These indicators should be saved for each scenario tag and later on, be shown in the scenario assessment tool.
+In the following, the required indicators from each calculation module for the "**calculation module scenario comparison** are enumerated. These indicators should be saved for each scenario tag and later on, be compiled in the scenario assessment tool.
 
 ### CM - Customized heat and floor area density maps
 
