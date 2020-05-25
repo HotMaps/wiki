@@ -35,65 +35,11 @@ This module offers a quick comparison of scenarios, based on the results of the 
 
 In the following, the required indicators from each calculation module needed for the "**Calculation module - Scenario assessment**" are enumerated. These indicators should be saved for each scenario tag and later on, be compiled in the scenario assessment workbook.
 
-### CM - Customized heat and floor area density maps
+### [CM - District heating potential: economic assessment](#CM-District-heating-potential-economic-assessment)
 
-* Total floor area in _*m<sup>2</sup>*_
-* Total heat demand in _*MWh*_
+### [CM - District heating supply dispatch](https://wiki.hotmaps.hevs.ch/edit/en/CM-District-heating-potential-economic-assessment)
 
-
-### CM - Demand projection
-
-* Total floor area in _*m<sup>2</sup>*_
-* Total heat demand in _*MWh*_
-
-
-### CM - Renewable energy
-
-
-### CM - District heating supply dispatch
-
-
-### CM - Heat load profiles
-
-
-
-### CM - District heating potential areas: user-defined thresholds
-
-* Total heat demand in potential district heating areas in *_MWh_*
-* Share of heat demand in district heating areas from the total heat demand in the selected area in _*%*_
-
-
-### CM - District heating potential: economic assessment
-
-* District heating potential in the last year of the investment in _*MWh*_
-* Share of heat demand in district heating areas from the total heat demand in the selected area in _*%*_
-* Average specific **distribution** grid cost in economic district heating areas in _*EUR/MWh*_
-
-
-### CM - District heating supply dispatch
-
-* Energy carrier mix in form of stacked bar chart:
-  * Consumption level in _*MWh*_
-  * CO<sub>2</sub> emissions in _*tons/year*_ per energy carrier
-  * Overall supply cost in _*EUR/MWh*_ for the whole carrier mix: CAPEX + OPEX + Energy Costs
-
-```
-Note: the supply cost in scenario assessment may become very large if we show it in the form of bar charts for all energy carriers.
-It shall be discussed further for the implementation.
-```
-
-### CM - Decentral heating supply - City level
-
-* Energy carrier mix in form of stacked bar chart:
-  * Referenced heat cost for the whole energy carrier mix in _*EUR/MWh*_: CAPEX + OPEX + Energy Costs
-  * Decentral heating CO<sub>2</sub> emission per energy carrier in _*tons/year*_
-* Weighted average levelized cost of heat for the building stock in _*EUR/MWh*_
-
-
-### CM - Excess heat transport potential
-
-* Available Excess heat potential in _*MWh*_
-* Cost of excess heat in _*EUR/MWh*_
+### [CM - Decentral heating supply - City level]()
 
 
 [**`To Top`**](#table-of-contents)
