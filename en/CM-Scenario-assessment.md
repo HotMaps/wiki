@@ -3,7 +3,7 @@
 ## Table of Contents
 * [In a glance](#in-a-glance)
 * [Introduction](#introduction)
-* [Scenario comparison inputs](#scenario-comparison-inputs)
+* [Calculation module: Scenario assessment inputs](#calculation-module-scenario-assessment-inputs)
 * [Overall scenario assessment](#overall-scenario-assessment)
 * [Interpretation of input parameters](#intepretation-of-input-parameters)
 * [GitHub repository of this calculation module](#github-repository-of-this-calculation-module)
@@ -26,13 +26,13 @@ This module allows comparing up to 10 different scenarios. The module is not int
 
 ## Introduction
 
-This module offers a quick comparison of scenarios, based on the results of the following calculation modules: Decentral heating supply, District heating potential: economic assessment, and District heating supply dispatch. These modules must be run independently for each scenario taken into consideration, then the results shall be reported in the Excel Workbook by compiling the relevant sheet. The overall indicators are calculated and shown in the sheet "Final Tabel" both in the form of a table and charts: cost per year, levelized costs, CO2 emissions, final energy, useful energy, and RES/DH shares.
+This module offers a quick comparison of scenarios, based on the results of the following calculation modules: Decentral heating supply, District heating potential: economic assessment, and District heating supply dispatch. These modules must be run independently for each scenario under consideration, then the results shall be reported in the Excel Workbook by compiling the relevant sheet. Bear in mind that in order to have the input for the above-mentioned calculation modules, other modules must be previously run, as specified below in the **Calculation module: Scenario assessment inputs**(#calculation-module-scenario-assessment-inputs). The overall indicators are calculated and shown in the sheet "Final Tabel" both in the form of a table and charts: cost per year, levelized costs, CO2 emissions, final energy, useful energy, and RES/DH shares.
 
 [**`To Top`**](#table-of-contents)
 
-## Scenario comparison inputs
+## Calculation module - Scenario assessment inputs
 
-In the following, the required indicators from each calculation module for the "**calculation module scenario comparison** are enumerated. These indicators should be saved for each scenario tag and later on, be compiled in the scenario assessment tool.
+In the following, the required indicators from each calculation module needed for the "**Calculation module - Scenario assessment**" are enumerated. These indicators should be saved for each scenario tag and later on, be compiled in the scenario assessment workbook.
 
 ### CM - Customized heat and floor area density maps
 
@@ -71,7 +71,7 @@ In the following, the required indicators from each calculation module for the "
   * Overall supply cost in _*EUR/MWh*_ for the whole carrier mix: CAPEX + OPEX + Energy Costs
 
 ```
-Note: the supply cost in scenario assessment may become very large if we show it in form of bar charts for all energy carriers. It shall be discussed further for the implementation.
+Note: the supply cost in scenario assessment may become very large if we show it in the form of bar charts for all energy carriers. It shall be discussed further for the implementation.
 ```
 
 ### CM - Decentral heating supply - City level
@@ -97,7 +97,7 @@ The indicators for this part originate from two calculation modules:
 1. CM - Decentral heating supply
 1. CM - District heating supply dispatch
 
-For each scenario tag, the following three indicators are shown in form of **stacked bar chart**:
+For each scenario tag, the following three indicators are shown in the form of **stacked bar chart**:
 
 * Overall (aggregated) costs of heat supply by **district heating system** and **decentral heating system** in _*EUR*_
 * Overall (aggregated) CO<sub>2</sub> emissions by **district heating system** and **decentral heating system** in _*tons/year*_
