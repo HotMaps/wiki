@@ -1,4 +1,4 @@
-## Step 1: Analysis of current heat demand and available resource potentials
+<h1>Step 1: Analysis of current heat demand and available resource potentials</h1>
 
 [[/en/guide-local-and-municipal-levels/Hotmaps_Calulate_Scenarios.png]]
 *Figure 2: Method for calculating scenarios and sensitivities of heating demand and supply for this strategy process*
@@ -28,5 +28,3 @@ In the next step, the potentials for excess heat and renewable energy in the reg
   * Other excess heat sources:
     * Information on other excess heat sources like power plants, further industrial plants, low-temperature heat sources like river water, data centers, etc. can be uploaded into the toolbox. A guide on how to do this can be found here.
 
-
-<code><ins>**[To Top](#table-of-contents)**</ins></code>
