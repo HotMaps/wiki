@@ -107,9 +107,10 @@ The indicators for this part originate from two calculation modules:
 
 For each scenario tag, the following three indicators are shown in the form of **stacked bar chart**:
 
-* Overall (aggregated) costs of heat supply by **district heating system** and **decentral heating system** in _*EUR*_
+* Overall (aggregated) costs of heat supply by **district heating system** and **decentral heating system** in _*M EUR/year*_
 * Overall (aggregated) CO<sub>2</sub> emissions by **district heating system** and **decentral heating system** in _*tons/year*_
 * Overall energy carrier mix in _*MWh*_
+* Overal (aggregated) final energy and useful energy in _*GWh/year*_
 
 
 [**`To Top`**](#table-of-contents)
