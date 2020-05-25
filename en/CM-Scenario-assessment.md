@@ -41,8 +41,8 @@ The inputs compiled in the scenario assessment module are produced by the follow
 
 For each scenario tag, the following indicators are shown in the form of **stacked bar chart**:
 
-* Overall (aggregated) costs of heat supply by **district heating system** and **decentral heating system** in _*M EUR/year*_
-* Overall (aggregated) CO<sub>2</sub> emissions by **district heating system** and **decentral heating system** in _*tons/year*_
+* Overall (aggregated) costs of heat supply by district heating system and decentral heating system in _*M EUR/year*_
+* Overall (aggregated) CO<sub>2</sub> emissions by district heating system and decentral heating system in _*tons/year*_
 * Overall energy carrier mix in _*MWh*_
 * Overal (aggregated) final energy and useful energy in _*GWh/year*_
 
