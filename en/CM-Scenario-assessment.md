@@ -3,11 +3,15 @@
 ## Table of Contents
 * [In a glance](#in-a-glance)
 * [Introduction](#introduction)
+* [Inputs and outputs](inputs-and-outputs)
 * [Calculation module scenario comparison](#calculation-module-scenario-comparison)
 * [Overall scenario assessment](#overall-scenario-assessment)
+* [Interpretation of input parameters](#intepretation-of-input-parameters)
+* [GitHub repository of this calculation module](#github-repository-of-this-calculation-module)
 * [Sample run](#sample-run)
   * [Test Run 1: Calculation module scenario comparison](#test-run-1-calculation-module-scenario-comparison)
   * [Test Run 2: Overall scenario assessment](#test-run-2-overall-scenario-assessment)
+* [Interpretation of results](#interpretation-of-results)
 * [References](#references)
 * [How to cite](#how-to-cite)
 * [Authors and reviewers](#authors-and-reviewers)
@@ -16,11 +20,18 @@
 
 ## In a glance
 
+This module allows comparing up to 10 different scenarios. The module is not integrated into the Hotmaps Toolbox, but it is provided as a separate Excel sheet that combines the results of all other calculation modules previously run.
+>>>ADD ATTACHMENT WITH THE EXCEL WORKBOOK
 
 [**`To Top`**](#table-of-contents)
 
-
 ## Introduction
+
+This module offers a quick comparison of scenarios, based on the results of the following calculation modules: Decentral heating supply, District heating potential: economic assessment, and District heating supply dispatch. These modules must be run independently for each scenario taken into consideration, then the results must be reported in the relevant sheet of the Excel Workbook. A comparison of scenarios is then shown in the sheet "Final Tabel".
+
+[**`To Top`**](#table-of-contents)
+
+## Inputs and outputs
 
 
 [**`To Top`**](#table-of-contents)
@@ -100,8 +111,17 @@ For each scenario tag, the following three indicators are shown in form of **sta
 
 [**`To Top`**](#table-of-contents)
 
-## Sample run
+## Interpretation of input parameters
 
+
+[**`To Top`**](#table-of-contents)
+
+## GitHub repository of this calculation module](#github-repository-of-this-calculcation-module)
+
+
+[**`To Top`**](#table-of-contents)
+
+## Sample run
 
 
 [**`To Top`**](#table-of-contents)
@@ -109,17 +129,17 @@ For each scenario tag, the following three indicators are shown in form of **sta
 ### Test Run 1: Calculation module scenario comparison
 
 
-
-
 [**`To Top`**](#table-of-contents)
 
 ### Test Run 2: Overall scenario assessment
 
 
+[**`To Top`**](#table-of-contents)
+
+## Interpretation of results](#interpretation-of-results
 
 
 [**`To Top`**](#table-of-contents)
-
 
 ## References
 
@@ -129,7 +149,6 @@ For each scenario tag, the following three indicators are shown in form of **sta
 ## How to cite
 
 Mostafa Fallahnejad, in Hotmaps-Wiki, CM-Scenario-assessment (June 2019)
-
 
 [**`To Top`**](#table-of-contents)
 
