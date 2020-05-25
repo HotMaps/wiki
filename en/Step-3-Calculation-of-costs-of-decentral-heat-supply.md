@@ -1,4 +1,4 @@
-## Step 3: Calculation of costs of decentral heat supply
+<h1>Step 3: Calculation of costs of decentral heat supply</h1>
 
 *Figure 4: Method for calculating scenarios and sensitivities of heating demand and supply for this strategy process*
 
@@ -13,5 +13,3 @@ The calculations can be used to identify costs and benefits of various supply te
 
 The outcomes of this step are the costs of heat supply via decentral technologies [EUR/MWh] in each of the representative buildings and the related CO2 emissions [kt/yr]. These results will then be used in the overall scenario comparison in step 4.
 
-
-<code><ins>**[To Top](#table-of-contents)**</ins></code>
