@@ -1,4 +1,4 @@
-## Step 5: Calculation of costs of heat supply to district heating
+<h1>Step 5: Calculation of costs of heat supply to district heating</h1>
 
 *Figure 7: Method for calculating scenarios and sensitivities of heating demand and supply for this strategy process*
 
@@ -31,5 +31,3 @@ The calculations can be used to identify beneficial supply portfolios in the dif
 
 The outcomes of this step are the heat supply costs to the district heating system [EUR/MWh] in each of the representative cities/areas and the related CO2 emissions [kt/yr]. These results will then be used in the overall scenario comparison in step 4.
 
-
-<code><ins>**[To Top](#table-of-contents)**</ins></code>
