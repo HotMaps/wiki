@@ -46,7 +46,7 @@ More information on the methodology applied in the different calculation modules
 
 # The different steps in the Hotmaps scenario toolchain
 
-In the following subchapter, the different steps in generating scenarios for a selected city or region are explained.
+In the following separate pages, the different steps in generating scenarios for a selected city or region are explained singularly.
 
 
 [Step 1: Analysis of current heat demand and available resource potentials](https://wiki.hotmaps.hevs.ch/en/Step-1-Analysis-of-current-heat-demand-and-available-resource-potentials)
