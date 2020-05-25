@@ -3,7 +3,7 @@
 ## Table of Contents
 * [In a glance](#in-a-glance)
 * [Introduction](#introduction)
-* [Calculation module: Scenario assessment inputs and outputs](#calculation-module-scenario-assessment-inputs-and-outputs)
+* [Scenario assessment inputs and outputs](#scenario-assessment-inputs-and-outputs)
 * [Interpretation of input parameters](#intepretation-of-input-parameters)
 * [GitHub repository of this calculation module](#github-repository-of-this-calculation-module)
 * [Sample run](#sample-run)
@@ -26,7 +26,7 @@ This module allows comparing up to 10 different scenarios. The module is not int
 
 ## Introduction
 
-This module offers a quick comparison of scenarios, based on the results of the following calculation modules: Decentral heating supply, District heating potential: economic assessment, and District heating supply dispatch. These modules must be run independently for each scenario under consideration, then the results shall be reported in the Excel Workbook by compiling the relevant sheet. Bear in mind that in order to have the input for the above-mentioned calculation modules, other modules must be previously run, as specified below in the **[Calculation module: Scenario assessment inputs](#calculation-module-scenario-assessment-inputs)**. The overall indicators are calculated and shown in the sheet "Final Tabel" both in the form of a table and charts: cost per year, levelized costs, CO2 emissions, final energy, useful energy, and RES/DH shares.
+This module offers a quick comparison of scenarios, based on the results of the following calculation modules: Decentral heating supply, District heating potential: economic assessment, and District heating supply dispatch. These modules must be run independently for each scenario under consideration, then the results shall be reported in the Excel Workbook by compiling the relevant sheet. Bear in mind that in order to have the input for the above-mentioned calculation modules, other modules must be previously run, as specified below in the following paragraph **[Scenario assessment inputs and outputs]**. The overall indicators are calculated and shown in the sheet "Final Tabel" both in the form of a table and charts: cost per year, levelized costs, CO2 emissions, final energy, useful energy, and RES/DH shares.
 
 [**`To Top`**](#table-of-contents)
 
