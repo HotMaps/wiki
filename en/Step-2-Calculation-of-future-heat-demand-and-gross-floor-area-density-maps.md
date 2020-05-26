@@ -1,6 +1,6 @@
 <h1>Step 2: Calculation of future heat demand and gross floor area density maps</h1>
 
-[[en/Step-2-Calculation-of-future-heat-demand-and-gross-floor-area-density-maps/Hotmaps_Local_Toolchain_Step_2.png]]
+[[/en/Step-2-Calculation-of-future-heat-demand-and-gross-floor-area-density-maps/Hotmaps_Local_Toolchain_Step_2.png]]
 
 *Figure 3: Method for calculating scenarios and sensitivities of heating demand and supply for this strategy process*
 
