@@ -1,6 +1,7 @@
 <h1>Step 5: Calculation of costs of heat supply to district heating</h1>
 
-*Figure 7: Method for calculating scenarios and sensitivities of heating demand and supply for this strategy process*
+[[/en/Step-5-Calculation-of-costs-of-heat-supply-to-district-heating/Hotmaps_Local_Toolchain_Step_5.png]]
+*Figure: The steps to calculate the costs of heat supply to district heating are highlighted in the toolchain above*
 
 ### Estimation of costs for the transport of excess heat to district heating areas
 In order to estimate the costs of transporting excess heat from potential sources outside of district heating areas to potential district heating areas the CM - Excess heat transport potential can be used. The module yields levelised costs of excess heat transported to the district heating grid [EUR/MWh]. This can further be used in the next step of calculating heat supply costs in district heating.
