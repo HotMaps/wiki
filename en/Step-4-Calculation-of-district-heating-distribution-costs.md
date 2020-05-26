@@ -1,6 +1,7 @@
 <h1>Step 4: Calculation of district heating distribution costs</h1>
 
-*Figure 6: Method for calculating scenarios and sensitivities of heating demand and supply for this strategy process*
+[[/en/Step-4-Calculation-of-district-heating-distribution-costs/Hotmaps_Local_Toolchain_Step_4.png]]
+*Figure: The steps to calculate the district heating distribution costs are highlighted in the toolchain above*
 
 ### Economic assessment of the potential for district heating
 For the representative cities/areas an economic assessment of district heating can be performed in order to gain more detailed insights on the costs and economic feasibility of district heating and the amount of heat potentially supplied by district heating in the areas. For this purpose the CM - District heating potential: economic assessment can be used. This module generates a map of potential district heating areas based on an assessment of the heat distribution costs. An analysis of the feasibility of district heating in the analysed areas can be assessed in the following way:
