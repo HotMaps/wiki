@@ -1,5 +1,7 @@
 <h1>Step 1: Analysis of current heat demand and available resource potentials</h1>
 
+[[/en/Step-1-Analysis-of-current-heat-demand-and-available-resource-potentials/Wiki-toolchain-2.jpg]]
+
 *Figure 2: Method for calculating scenarios and sensitivities of heating demand and supply for this strategy process*
 
 ### Analysis of potentials for excess heat and renewable energy in the identified regions with potential interest for district heating
