@@ -1,6 +1,7 @@
 <h1>Step 3: Calculation of costs of decentral heat supply</h1>
 
-*Figure 4: Method for calculating scenarios and sensitivities of heating demand and supply for this strategy process*
+[[/en/Step-3-Calculation-of-costs-of-decentral-heat-supply/Hotmaps_Local_Toolchain_Step_3.png]]
+*Figure: The Calculation of decentral heat supply costs is highlighted in the toolchain above.*
 
 ### Calculation of decentral heat supply
 In the third step, the costs and emissions of heat supply via decentral technologies are calculated. This calculation should be performed for different representative buildings in the country/region of interest. While for district heating representative cities/areas have been developed in step 1 of the approach, typical buildings in each EU Member State data can be found in the Hotmaps default database. Also, for many EU countries detailed building typologies (building archetypes) with data on heat demand before and after renovation can be found in statistics and literature.
