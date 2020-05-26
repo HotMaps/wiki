@@ -29,7 +29,7 @@ For calculating scenarios of potential future heating demand and supply in the c
 
 [[/en/guide-local-and-municipal-levels/Hotmaps_Local_Toolchain_Overview.png]]
 
-*Figure 1: Method for calculating scenarios and sensitivities of heating demand and supply for this strategy process*
+*Figure: Method for calculating scenarios and sensitivities of heating demand and supply for this strategy process*
 
 The first step in the analysis was to generate heat demand density maps for the year 2050. This was started with analysing renovation measures in buildings of the city. The costs and effects of various different renovation options for each building in the city were calculated. Then all calculated renovation measures in all buildings of the city were ranked by their costs. Based on this ranking the cheapest renovations for reaching pre-defined saving targets were identified and applied to the buildings in the buildings database. With the “CM - Customised heat and floor area density maps”, the heat demand and gross floor area density maps for different heat-saving levels in the city were then generated.
 These heat demand and gross floor area density maps were further on used to analyse the sensitivity of heat distribution costs in potential district heating (DH) networks. With the “CM - District heating potential: economic assessment” the costs and location of potential DH networks were calculated for different saving levels, DH market shares, and maximum grid costs.
