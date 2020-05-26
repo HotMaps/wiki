@@ -2,7 +2,7 @@
 
 [[/en/Step-2-Calculation-of-future-heat-demand-and-gross-floor-area-density-maps/Hotmaps_Local_Toolchain_Step_2.png]]
 
-*Figure 3: Method for calculating scenarios and sensitivities of heating demand and supply for this strategy process*
+*Figure: The steps to calculate the future heat demand and gross floor area density maps are highlighted in the toolchain above*
 
 The first step in the analysis is to generate future heat demand and floor area density maps for your city/region of interest. You can use data developed in the course of the Hotmaps project for all EU-28 countries (Hotmaps default data, available in the Hotmaps database), or you can use other heat demand density maps for your region of interest.
 
