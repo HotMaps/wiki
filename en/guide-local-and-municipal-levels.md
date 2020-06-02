@@ -21,8 +21,6 @@
 
 These guidelines describe how the Hotmaps database and toolbox can be used to analyse potentials, costs, and emissions for efficient and renewable heating and cooling at local level. The steps listed below will be recalled also as part of the process described in the [Guidelines for using the Hotmaps toolbox for analyses at national level](https://wiki.hotmaps.hevs.ch/en/guide-national-level-comprehensive-assessment-eed#introduction).
 
-**Please note that the Energy Efficiency Directive (EED) in its current version, and namely its Article 14(1), only apply at national level: its provisions are not relevant at local level and will not be referred to here.**
-
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
 
 # The Hotmaps Scenario Toolchain: Overview
