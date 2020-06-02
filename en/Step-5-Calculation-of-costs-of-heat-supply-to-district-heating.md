@@ -31,3 +31,6 @@ The costs and emissions of heat supply in district heating system depends on the
 The calculations can be used to identify beneficial supply portfolios in the different representative cities/areas and their sensitivity to important influencing parameters like energy carrier and CO2 prices or interest rate and depreciation time.
 
 The outcomes of this step are the heat supply costs to the district heating system [EUR/MWh] in each of the representative cities/areas and the related CO2 emissions [kt/yr]. These results will then be used in the overall [Scenario Assessment](https://wiki.hotmaps.hevs.ch/en/CM-Scenario-assessment) in [Step 6](https://wiki.hotmaps.hevs.ch/en/Step-6-Assessment-of-scenarios-for-entire-heat-demand-and-supply-for-the-selected-area).
+
+The following figure shows the overall approach.
+[[/en/Step-5-Calculation-of-costs-of-heat-supply-to-district-heating/Wiki local detailed Step 5.png]]
