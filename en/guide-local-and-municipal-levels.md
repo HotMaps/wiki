@@ -2,8 +2,8 @@
 
 # Table of Contents
 * [Introduction](#introduction)
-* [The Hotmaps scenario toolchain: overview](#the-hotmaps-scenario-toolchain-overview)
-* [The Hotmaps scenario toolchain: different steps](#the-hotmaps-scenario-toolchain-different-steps)
+* [The Hotmaps Scenario Toolchain: Overview](#the-hotmaps-scenario-toolchain-overview)
+* [The Hotmaps Scenario Toolchain: Different Steps](#the-hotmaps-scenario-toolchain-different-steps)
     * [Step 1: Analysis of current heat demand and available resource potentials](https://wiki.hotmaps.hevs.ch/en/Step-1-Analysis-of-current-heat-demand-and-available-resource-potentials)
     * [Step 2: Calculation of future heat demand and gross floor area density maps](https://wiki.hotmaps.hevs.ch/en/Step-2-Calculation-of-future-heat-demand-and-gross-floor-area-density-maps)
     * [Step 3: Calculation of costs of decentral heat supply](https://wiki.hotmaps.hevs.ch/en/Step-3-Calculation-of-costs-of-decentral-heat-supply)
@@ -19,11 +19,13 @@
 
 # Introduction
 
-These guidelines describe how the Hotmaps database and toolbox can be used to analyse potentials, costs, and emissions for efficient and renewable heating and cooling at local level. The steps listed below will be recalled also as part of the process described in the [Guidelines for using the Hotmaps toolbox for analyses at national level](https://wiki.hotmaps.hevs.ch/en/guide-national-level-comprehensive-assessment-eed#introduction). **Please note that the Energy Efficiency Directive (EED) in its current version, and namely its Article 14(1), only apply at national level, its provisions are not relevant at local level and will not be referred to here.**
+These guidelines describe how the Hotmaps database and toolbox can be used to analyse potentials, costs, and emissions for efficient and renewable heating and cooling at local level. The steps listed below will be recalled also as part of the process described in the [Guidelines for using the Hotmaps toolbox for analyses at national level](https://wiki.hotmaps.hevs.ch/en/guide-national-level-comprehensive-assessment-eed#introduction).
+
+**Please note that the Energy Efficiency Directive (EED) in its current version, and namely its Article 14(1), only apply at national level: its provisions are not relevant at local level and will not be referred to here.**
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
 
-# The Hotmaps scenario toolchain: Overview
+# The Hotmaps Scenario Toolchain: Overview
 
 For calculating scenarios of potential future heating demand and supply in the city and the related costs and emissions we use the Hotmaps toolbox. In the toolbox, various calculation modules (CMs) are contained for analysing different parts of the heating and cooling systems. The following figure shows the different CMs (in light blue) that were used and the information that was created from or feeding into the CMs.
 
@@ -40,11 +42,10 @@ The costs of DH supply from different technologies were calculated with the [CM 
 
 The results for selected scenarios from the heat savings calculations [(CM - Customised heat and floor area density maps)](https://wiki.hotmaps.hevs.ch/en/CM-Customized-heat-and-floor-area-density-maps), the decentral heating costs module [(CM - Decentral heating supply)](https://wiki.hotmaps.hevs.ch/en/CM-Decentral-heating-supply), the DH supply dispatch module [(CM - DH supply dispatch)](https://wiki.hotmaps.hevs.ch/en/CM-District-heating-supply-dispatch), as well as the DH potential: economic assessment module [(CM - District heating potential: economic assessment)](https://wiki.hotmaps.hevs.ch/en/CM-District-heating-potential-economic-assessment) were then compiled in the [CM - Scenario assessment](https://wiki.hotmaps.hevs.ch/en/CM-Scenario-assessment). The outcome is a comparison of the costs, the share of renewable energy, and the related CO2 emissions of different scenarios of future heating systems.
 
-
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
 
 
-# The Hotmaps scenario toolchain: different steps
+# The Hotmaps Scenario Toolchain: Different Steps
 
 In the following separate pages, the different steps in generating scenarios for a selected city or region are explained singularly.
 
@@ -60,14 +61,14 @@ In the following separate pages, the different steps in generating scenarios for
 
 # References
 
-
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
+
 
 # How to cite
 Marcus Hummel, in Hotmaps-Wiki, Guidelines for using the Hotmaps toolbox for analyses at national level (October 2020)
 
-
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
+
 
 # Authors and reviewers
 This page is written by Marcus Hummel\*.
@@ -83,8 +84,8 @@ Institute of Energy Systems and Electrical Drives,
 Gusshausstrasse 27-29/370,
 1040 Wien
 
-
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
+
 
 # License
 Copyright © 2016-2019: Marcus Hummel
@@ -98,12 +99,11 @@ License-Text: https://spdx.org/licenses/CC-BY-4.0.html
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
 
+
 # Acknowledgement
 We would like to convey our deepest appreciation to the Horizon 2020 [Hotmaps Project](https://www.hotmaps-project.eu) (Grant Agreement number 723677), which provided the funding to carry out the present investigation.
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
-
-
 
 
 
