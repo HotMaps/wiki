@@ -1,6 +1,6 @@
 <h1>Step 1: Analysis of current heat demand and available resource potentials</h1>
 
-[[/en/Step-1-Analysis-of-current-heat-demand-and-available-resource-potentials/Hotmaps_Local_Toolchain_Step_1.jpg]]
+[[/en/Step-1-Analysis-of-current-heat-demand-and-available-resource-potentials/Local_toolchain_1.png]]
 
 *The steps to analyse the potentials for excess heat and renewable energy are highlighted above.*
 
