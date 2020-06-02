@@ -29,3 +29,7 @@ In the next step, the potentials for excess heat and renewable energy in the reg
   * Other excess heat sources:
     * Information on other excess heat sources like power plants, further industrial plants, low-temperature heat sources like river water, data centers, etc. can be uploaded into the toolbox. A guide on how to do this can be found [here](https://wiki.hotmaps.hevs.ch/en/CM-Add-industry-plant).
 
+The following figure shows this procedure graphically and shows the various data sources and calculation modules that can be used.
+
+[[/en/Step-1-Analysis-of-current-heat-demand-and-available-resource-potentials/Wiki local detailed Step 1.png]]
+*Identification of different representative, typical cases for district heating (Step 1).*
