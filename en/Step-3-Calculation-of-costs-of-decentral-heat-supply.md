@@ -1,6 +1,6 @@
 <h1>Step 3: Calculation of costs of decentral heat supply</h1>
 
-[[/en/Step-3-Calculation-of-costs-of-decentral-heat-supply/Hotmaps_Local_Toolchain_Step_3.png]]
+[[/en/Step-3-Calculation-of-costs-of-decentral-heat-supply/Hotmaps_Local_Toolchain_Step_3final.png]]
 *The steps to calculate the decentral heat supply costs are highlighted above.*
 
 ### Calculation of decentral heat supply
