@@ -8,7 +8,7 @@ In the third step, the costs and emissions of heat supply via decentral technolo
 
 The [CM - Decentral heating supply](https://wiki.hotmaps.hevs.ch/en/CM-Decentral-heating-supply) can be used to calculate the costs and emissions of heat supply via different decentral technologies. The module uses data on heat demand as well as data on costs of technologies and prices for energy carriers to calculate the levelised costs of heat supply [EUR/MWh] for the different technologies in the different typical buildings and renovation states. The following figure shows this procedure graphically and shows the various data sources feeding into the [CM - Decentral heating supply](https://wiki.hotmaps.hevs.ch/en/CM-Decentral-heating-supply).
 
-[[/en/Step-3-Calculation-of-costs-of-decentral-heat-supply/Wiki-local-detailed-Step-3final.png]]
+[[/en/Step-3-Calculation-of-costs-of-decentral-heat-supply/Wiki-local-detailed-Step-3fin.png]]
 *Calculation of decentral heat supply*
 
 The calculations can be used to identify costs and benefits of various supply technologies in different representative buildings and their sensitivity to important influencing parameters like energy carrier and CO2 prices or interest rate and depreciation time.
