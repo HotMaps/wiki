@@ -1,6 +1,6 @@
 <h1>Step 2: Calculation of future heat demand and gross floor area density maps</h1>
 
-[[/en/Step-2-Calculation-of-future-heat-demand-and-gross-floor-area-density-maps/Hotmaps_Local_Toolchain_Step_2.png]]
+[[/en/Step-2-Calculation-of-future-heat-demand-and-gross-floor-area-density-maps/Local_toolchain_2.png]]
 
 *The steps to calculate the future heat demand and gross floor area density maps are highlighted above*
 
