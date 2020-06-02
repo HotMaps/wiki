@@ -2,8 +2,8 @@
 
 # Table of Contents
 * [Introduction](#introduction)
-* [Overview of the Hotmaps scenario toolchain](#overview-of-the-hotmaps-scenario-toolchain)
-* [The Hotmaps scenario toolchain steps](#the-hotmaps-toolchain-steps)
+* [The Hotmaps scenario toolchain: overview](#the-hotmaps-scenario-toolchain-overview)
+* [The Hotmaps scenario toolchain: different steps](#the-hotmaps-scenario-toolchain-different-steps)
     * [Step 1: Analysis of current heat demand and available resource potentials](https://wiki.hotmaps.hevs.ch/en/Step-1-Analysis-of-current-heat-demand-and-available-resource-potentials)
     * [Step 2: Calculation of future heat demand and gross floor area density maps](https://wiki.hotmaps.hevs.ch/en/Step-2-Calculation-of-future-heat-demand-and-gross-floor-area-density-maps)
     * [Step 3: Calculation of costs of decentral heat supply](https://wiki.hotmaps.hevs.ch/en/Step-3-Calculation-of-costs-of-decentral-heat-supply)
@@ -23,7 +23,7 @@ These guidelines describe how the Hotmaps database and toolbox can be used to an
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
 
-# Overview of the Hotmaps scenario toolchain
+# The Hotmaps scenario toolchain: overview
 
 For calculating scenarios of potential future heating demand and supply in the city and the related costs and emissions we use the Hotmaps toolbox. In the toolbox, various calculation modules (CMs) are contained for analysing different parts of the heating and cooling systems. The following figure shows the different CMs (in light blue) that were used and the information that was created from or feeding into the CMs.
 
@@ -45,7 +45,7 @@ More information on the methodology applied in the different calculation modules
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
 
 
-# The Hotmaps scenario toolchain steps
+# The Hotmaps scenario toolchain: different steps
 
 In the following separate pages, the different steps in generating scenarios for a selected city or region are explained singularly.
 
