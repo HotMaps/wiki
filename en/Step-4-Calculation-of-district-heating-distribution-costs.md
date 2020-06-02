@@ -1,6 +1,6 @@
 <h1>Step 4: Calculation of district heating distribution costs</h1>
 
-[[/en/Step-4-Calculation-of-district-heating-distribution-costs/Hotmaps_Local_Toolchain_Step_4.png]]
+[[/en/Step-4-Calculation-of-district-heating-distribution-costs/Hotmaps_Local_Toolchain_Step_4final.png]]
 *The steps to calculate the district heating distribution costs are highlighted above.*
 
 ### Economic assessment of the potential for district heating
