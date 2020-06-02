@@ -3,7 +3,7 @@
 # Table of Contents
 * [Introduction](#introduction)
 * [Overview of the Hotmaps scenario toolchain](#overview-of-the-hotmaps-scenario-toolchain)
-* [The different steps in the Hotmaps scenario toolchain](#the-different-steps-in-the-hotmaps-scenario-toolchain)
+* [The Hotmaps scenario toolchain steps](#the-hotmaps-toolchain-steps)
     * [Step 1: Analysis of current heat demand and available resource potentials](https://wiki.hotmaps.hevs.ch/en/Step-1-Analysis-of-current-heat-demand-and-available-resource-potentials)
     * [Step 2: Calculation of future heat demand and gross floor area density maps](https://wiki.hotmaps.hevs.ch/en/Step-2-Calculation-of-future-heat-demand-and-gross-floor-area-density-maps)
     * [Step 3: Calculation of costs of decentral heat supply](https://wiki.hotmaps.hevs.ch/en/Step-3-Calculation-of-costs-of-decentral-heat-supply)
@@ -45,7 +45,7 @@ More information on the methodology applied in the different calculation modules
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
 
 
-# The different steps in the Hotmaps scenario toolchain
+# The Hotmaps scenario toolchain steps
 
 In the following separate pages, the different steps in generating scenarios for a selected city or region are explained singularly.
 
