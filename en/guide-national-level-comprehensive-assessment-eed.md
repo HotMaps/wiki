@@ -67,10 +67,14 @@ The Hotmaps toolbox contains a number of calculation modules (CMs) that can be u
 
 ## Overview of the Hotmaps approach
 To assess the economic potential for efficiency in heating and cooling it is important to distinguish between areas potentially supplied by district heating and areas where decentral supply will most probably be more economically efficient. Thus, **the Hotmaps approach strongly builds on the following four steps**:
+
 1. Identify different representative, typical cases for district heating in the country/region under investigation
-1. Carry out analyses of district heating grid construction/expansion and district heat supply for the identified representative cases
-1. Calculate indicators of decentral heat supply
-1. Compare different scenarios of district heating and decentral heat supply and sensitivity calculations
+
+2. Carry out analyses of district heating grid construction/expansion and district heat supply for the identified representative cases
+
+3. Calculate indicators of decentral heat supply
+
+4. Compare different scenarios of district heating and decentral heat supply and sensitivity calculations
 
 The following figure shows this approach graphically. The different steps will be explained in more detail in the following chapters of these guidelines.
 
