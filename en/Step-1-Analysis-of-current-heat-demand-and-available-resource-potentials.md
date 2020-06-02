@@ -31,5 +31,5 @@ In the next step, the potentials for excess heat and renewable energy in the reg
 
 The following figure shows this procedure graphically and shows the various data sources and calculation modules that can be used.
 
-[[/en/Step-1-Analysis-of-current-heat-demand-and-available-resource-potentials/Wiki local detailed Step 1.png]]
+[[/en/Step-1-Analysis-of-current-heat-demand-and-available-resource-potentials/Wiki-local-detailed-Step-1.png]]
 *Identification of different representative, typical cases for district heating (Step 1).*
