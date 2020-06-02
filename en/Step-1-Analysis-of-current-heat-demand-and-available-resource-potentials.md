@@ -2,7 +2,7 @@
 
 [[/en/Step-1-Analysis-of-current-heat-demand-and-available-resource-potentials/Hotmaps_Local_Toolchain_Step_1.jpg]]
 
-*Figure: The steps to analyse the potentials for excess heat and renewable energy are highlighted in the toolchain above*
+*The steps to analyse the potentials for excess heat and renewable energy are highlighted in the toolchain above*
 
 ### Analysis of potentials for excess heat and renewable energy in the identified regions with potential interest for district heating
 In the next step, the potentials for excess heat and renewable energy in the regions that have been identified as potentially interesting for district heating can be analysed. These data together with the data on heat demand and heat demand density in the regions collected in the previous step can then be used to characterise representative district heating areas for further analysis steps. The following list gives an overview of the heat sources that should be taken into account and links to the default data for the respective energy source, which is available in the Hotmaps database:
