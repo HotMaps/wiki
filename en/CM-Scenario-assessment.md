@@ -34,7 +34,7 @@ The Scenario Assessment module offers a quick comparison of different scenarios,
 * District heating potential: economic assessment,
 * District heating supply dispatch.
 
-These modules shall be run independently for each scenario under consideration, then their results shall be reported in the relevant sheet of Excel Workbook. The cells to be filled are properly marked and a color-coding is reported on the first sheet of the workbook. Bear in mind that the three above-mentioned calculation modules, require some inputs that you may already have, or that you may have to calculate running other modules, as specified in the following paragraph **Scenario assessment inputs and outputs**.
+These modules shall be run independently for each scenario under consideration, then their results shall be reported in the relevant sheet of Excel Workbook. The cells to be filled are properly marked and a color-coding legend is reported on the first sheet of the workbook. Bear in mind that the three above-mentioned calculation modules, require some inputs that you may already have, or that you may have to calculate running other modules, as specified in the following paragraph **Scenario assessment inputs and outputs**.
 
 The sheet "Final Tabel" calculates and shows a comparison of these indicators both in the figures and charts for each scenario:
 * Cost per year,
