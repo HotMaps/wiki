@@ -48,7 +48,7 @@ The sheet "Final Tabel" calculates and shows a comparison of these indicators bo
 
 ## Scenario assessment inputs and outputs
 
-The inputs compiled in the scenario assessment module are produced by the following calculation modules. These indicators should be saved for each scenario tag and later on, be compiled in the scenario assessment workbook. In case the inputs required by these modules were not available, they can be calculated using other calculation modules on the Toolbox as shown in the Training section.
+The inputs compiled in the scenario assessment module are produced by the following calculation modules. 
 
 **1. [CM - Decentral heating supply](https://wiki.hotmaps.hevs.ch/en/CM-Decentral-heating-supply)**
 
@@ -56,6 +56,7 @@ The inputs compiled in the scenario assessment module are produced by the follow
 
 **3. [CM - District heating potential: economic assessment](https://wiki.hotmaps.hevs.ch/en/CM-District-heating-potential-economic-assessment)**
 
+These indicators should be saved for each scenario tag and later on, be compiled in the scenario assessment workbook. In case the inputs required by these modules were not available, they can be calculated using other calculation modules on the Toolbox as shown in the **[Training section]()**.
 
 For each scenario tag, the following indicators are shown in the form of stacked bar chart:
 
