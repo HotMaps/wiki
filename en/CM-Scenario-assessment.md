@@ -5,10 +5,8 @@
 * [Introduction](#introduction)
 * [Scenario assessment inputs and outputs](#scenario-assessment-inputs-and-outputs)
 * [Interpretation of input parameters](#intepretation-of-input-parameters)
-* [GitHub repository of this calculation module](#github-repository-of-this-calculation-module)
 * [Sample run](#sample-run)
-  * [Test Run 1: Calculation module scenario comparison](#test-run-1-calculation-module-scenario-comparison)
-  * [Test Run 2: Overall scenario assessment](#test-run-2-overall-scenario-assessment)
+  * [Test Run: Example of a scenario assessment](#test-run-example-of-a-scenario-assessment)
 * [Interpretation of results](#interpretation-of-results)
 * [References](#references)
 * [How to cite](#how-to-cite)
@@ -73,22 +71,12 @@ For each scenario tag, the following indicators are shown in the form of stacked
 
 [**`To Top`**](#table-of-contents)
 
-## GitHub repository of this calculation module
-
-
-[**`To Top`**](#table-of-contents)
-
 ## Sample run
 
 
 [**`To Top`**](#table-of-contents)
 
-### Test Run 1: Calculation module scenario comparison
-
-
-[**`To Top`**](#table-of-contents)
-
-### Test Run 2: Overall scenario assessment
+### Test Run: Example of a scenario assessment
 
 
 [**`To Top`**](#table-of-contents)
