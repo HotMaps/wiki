@@ -18,15 +18,31 @@
 
 ## In a glance
 
-This module allows comparing up to 10 different scenarios. The module is not integrated into the Hotmaps Toolbox, but it is provided as a separate Excel sheet that combines the results of other calculation modules which must be previously run.
+This module allows comparing different scenarios. The module is not integrated into the Hotmaps Toolbox, but it is provided as a separate Excel workbook that combines the results of other calculation modules which must be previously run. The template as it is allows comparing up to 10 different scenarios, but if properly adapted, it can work for any number of scenarios. Separate worksheets are set up to collate the key indicators from each calculation module, while key indicators are automatically collated in the final table and represented in graphs.
+
+For instance, the scenarios assessment could be built upon one common business case of decentral heating with certain fixed supply options, examined in a sensitivity analysis for a set of different district heating systems, with different penetration levels and different centralised heating supply technologies that may vary by the capacity of the energy generators. Viceversa, another sensitivity assessment could be run with one centralised heat supply scenario, investigating the impact of the different decentralised technologies, or any other combination of scenarios.
+
 >>> ADD ATTACHMENT WITH THE EXCEL WORKBOOK
-[/en/CM-Scenario-assessment/[Exercise 5.xlsx]]
+
 
 [**`To Top`**](#table-of-contents)
 
 ## Introduction
 
-This module offers a quick comparison of scenarios, based on the results of the following calculation modules: Decentral heating supply, District heating potential: economic assessment, and District heating supply dispatch. These modules must be run independently for each scenario under consideration, then the results shall be reported in the Excel Workbook by compiling the relevant sheet. Bear in mind that in order to have the input for the above-mentioned calculation modules, other modules must be previously run, as specified below in the following paragraph **Scenario assessment inputs and outputs**. The overall indicators are calculated and shown in the sheet "Final Tabel" both in the form of a table and charts: cost per year, levelized costs, CO2 emissions, final energy, useful energy, and RES/DH shares.
+The Scenario Assessment module offers a quick comparison of different scenarios, based on the results of the following calculation modules: 
+* Decentral heating supply,
+* District heating potential: economic assessment,
+* District heating supply dispatch.
+
+These modules shall be run independently for each scenario under consideration, then their results shall be reported in the relevant sheet of Excel Workbook. The cells to be filled are properly marked and a color-coding is reported on the first sheet of the workbook. Bear in mind that the three above-mentioned calculation modules, require some inputs that you may already have, or that you may have to calculate running other modules, as specified in the following paragraph **Scenario assessment inputs and outputs**.
+
+The sheet "Final Tabel" calculates and shows a comparison of these indicators both in the figures and charts for each scenario:
+* Cost per year,
+* Levelized costs,
+* CO2 emissions,
+* Final energy,
+* Useful energy,
+* RES/DH shares.
 
 [**`To Top`**](#table-of-contents)
 
