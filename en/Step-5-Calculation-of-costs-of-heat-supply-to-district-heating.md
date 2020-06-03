@@ -1,6 +1,6 @@
 <h1>Step 5: Calculation of costs of heat supply to district heating</h1>
 
-[[/en/Step-5-Calculation-of-costs-of-heat-supply-to-district-heating/Hotmaps_Local_Toolchain_Step_5.png]]
+[[/en/Step-5-Calculation-of-costs-of-heat-supply-to-district-heating/Hotmaps_Local_Toolchain_Step_5final.png]]
 *The steps to calculate the costs of heat supply to district heating are highlighted above*
 
 ### Estimation of costs for the transport of excess heat to district heating areas
