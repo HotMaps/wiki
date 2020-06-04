@@ -79,6 +79,16 @@ On top of these, the workbook has instructions in red text and additional calcul
 
 [[/en/CM-Scenario-assessment/CM-Scenario-Assessment-Colour-Coding.jpg]]
  
+### Final Table
+
+In this sheet, a table has been prepared (R4:Z17) to add a short description of the different scenarios object of the assessment. The table is right above the charts, it can be a reminder for the user or clarification for other collaborators.
+Further down in the sheet there are some parameters that have already been filled out, but can be adjusted, as long as they are not left empty:
+
+* Renewable factor:
+* General efficiency factor:
+* Grid losses:
+
+
 
 [**`To Top`**](#table-of-contents)
 
