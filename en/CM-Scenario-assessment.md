@@ -25,11 +25,11 @@ This module allows comparing different scenarios. The module is not integrated i
 
 ## Introduction
 
-The approach to assess a number of different scenarios in this module build on the following steps:
-* The calculation of the building stock for the selected area
-* The calculation of costs, emissions and energy parameters for decentral heating supply,
-* The calculation of costs, emissions and energy parameters for an economic assessment of district heating supply
-* The calculation of supply dispatch costs, based on the size of the network assumed.
+The approach to assess a number of different scenarios in this module build on the following calculation steps:
+* The building stock for the selected area
+* Costs, emissions and energy parameters for decentral heating supply,
+* Costs, emissions and energy parameters for an economic assessment of district heating supply
+* Supply dispatch costs, based on the size of the network assumed.
 
 This means that in each scenario a certain portion of heating is assumed to be provided through decentral heating and another through district heating. For instance, the scenarios assessment could be built upon one common business case of decentral heating with certain fixed supply options, examined in a sensitivity analysis for a set of different district heating systems, with different penetration levels and different centralised heating supply technologies that may vary by the capacity of the energy generators. Viceversa, another sensitivity assessment could be run with one centralised heat supply scenario, investigating the impact of the different decentralised technologies, or any other combination of scenarios.
 
