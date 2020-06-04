@@ -76,7 +76,7 @@ The input parameters needed to run this module are divided into:
 
 On top of these, the workbook has instructions in red text and additional calculations that should not be edited in grey cells. The picture below shows how the color-coding indicated on the front sheet of the workbook looks like.
 
-[[/en/CM-Scenario-assessment/Scenario-Assessment-Colour-Coding.tiff]]
+[[/en/CM-Scenario-assessment/CM-Scenario-Assessment-Colour-Coding.jpg]]
  
 
 [**`To Top`**](#table-of-contents)
