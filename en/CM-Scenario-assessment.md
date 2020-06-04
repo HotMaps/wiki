@@ -16,25 +16,25 @@
 
 ## In a glance
 
-This module allows comparing different scenarios. The module is not integrated into the Hotmaps Toolbox, but it is provided as a separate Excel workbook that combines the results of other calculation modules which must be previously run. The template as it is allows comparing up to 9 different scenarios, but if properly adapted, it can work for any number of scenarios. Separate worksheets are set up to collate the key indicators from each calculation module, while key indicators are automatically collated in the final table and represented in graphs.
+This module allows comparing different heating scenarios. The module is not integrated into the Hotmaps Toolbox, but it is provided as a separate Excel workbook that combines the results of other calculation modules to be previously run. The template as it is allows comparing up to 9 different scenarios, but if properly adapted, it can work for any number of scenarios. Separate worksheets are set up to collate the key indicators from each calculation module, while key indicators are automatically collated in the final table and represented in graphs.
 
->>> ADD ATTACHMENT WITH THE EXCEL WORKBOOK
+[CM - SCENARIO ASSESSMENT WORKBOOK](https://github.com/HotMaps/scenario_assessment/raw/master/data/ScenarioAssessment_Template.xlsx)
+https://github.com/HotMaps/scenario_assessment/raw/master/data/ScenarioAssessment_Template.xlsx
 
 
 [**`To Top`**](#table-of-contents)
 
 ## Introduction
 
-The approach to assess a number of different scenarios in this module build on the following calculation steps:
+The approach to assessing a number of different heating scenarios follows this sequence of calculations:
 * The building stock for the selected area
 * Costs, emissions and energy parameters for decentral heating supply,
 * Costs, emissions and energy parameters for an economic assessment of district heating supply
 * Supply dispatch costs, based on the size of the network assumed.
 
-This means that in each scenario a certain portion of heating is assumed to be provided through decentral heating and another through district heating. For instance, the scenarios assessment could be built upon one common business case of decentral heating with certain fixed supply options, examined in a sensitivity analysis for a set of different district heating systems, with different penetration levels and different centralised heating supply technologies that may vary by the capacity of the energy generators. Viceversa, another sensitivity assessment could be run with one centralised heat supply scenario, investigating the impact of the different decentralised technologies, or any other combination of scenarios.
+In each scenario, a certain portion of heating is assumed to be provided through decentral heating and another through district heating. For instance, a sensitivity analysis for a set of different district heating systems, with different penetration levels and different centralised heating supply technologies that may vary by the capacity of the energy generators could be built upon one common business case of decentral heating with certain fixed supply options. Viceversa, other sensitivity assessments could be run with one centralised heat supply scenario, investigating the impact of the different decentralised technologies, or with any other combination of scenarios.
 
-The Scenario Assessment is though to have the user run independently all the calculations modules for each scenario under consideration, then report the results in the relevant sheet of Excel Workbook, and be able to compare and assess them. Bear in mind that the three above-mentioned calculation modules, require some inputs that you may already have, or that you may have to calculate running other modules, as specified in the following paragraph **Scenario assessment inputs and outputs**.
-
+The user runs independently all the calculations modules for each scenario under consideration, reports the results in the relevant sheet of Excel Workbook, and then compares them. 
 
 [**`To Top`**](#table-of-contents)
 
@@ -48,7 +48,7 @@ The inputs compiled in the scenario assessment Workbook are produced by the foll
 
 **3. [CM - District heating potential: economic assessment](https://wiki.hotmaps.hevs.ch/en/CM-District-heating-potential-economic-assessment)**
 
-These indicators should be saved for each scenario and later on, be compiled in the scenario assessment workbook.  The cells to be filled are properly marked and a color-coding legend is reported on the first sheet of the workbook, as explained in the following paragraph [Interpretation of input parameters](#intepretation-of-input-parameters). In case the inputs required by these modules were not available, they can be calculated using other calculation modules on the Toolbox as shown in the **[Training section]()**.
+These indicators should be saved for each scenario and later on, be compiled in the scenario assessment workbook.  The cells to be filled are properly marked and a color-coding legend is reported on the first sheet of the workbook, as explained in the following paragraph [Interpretation of input parameters](#intepretation-of-input-parameters). Bear in mind that the three above-mentioned calculation modules, require some inputs that you may already have, or that you may have to calculate running other modules, as specified in the following paragraph **Scenario assessment inputs and outputs**. In case the inputs required by these modules were not available, they can be calculated using other calculation modules on the Toolbox as shown in the **[Training section]()**.
 
 The sheet "Final Tabel" calculates and shows a comparison of these indicators both in the figures and charts for each scenario:
 * Cost per year,
@@ -95,17 +95,17 @@ Further down in the sheet there are some parameters that have already been fille
 
 #### Building Stock
 
-This set of three tabs is used to build the building stock that will be used as an input parameter to calculate the output of the decentral heating supply.
+This set of three tabs is used to build the building stock that will be used as an input parameter to calculate the output of the decentral heating supply. Please visit this page for a deeper understanding of how the building stock feeds into the [CM - Decentral heating supply](https://wiki.hotmaps.hevs.ch/en/CM-Decentral-heating-supply).
 
 **Single-family building stock**
-The worksheet as it is offers to structure a building stock for single-family houses of two different types. The user can adapt the Workbook in order to combine any number of different building categories (e.g. per age, gross floor area, category, etc.). 
+The worksheet as it is offers to structure a building stock for single-family houses of two different types, each column is dedicated to a building type and the CM - Decentral heating supply should be run once per type of buildings. The user can adapt the Workbook in order to combine any number of different building categories (e.g. per age, gross floor area, category, etc.). 
 
 **Multi-family building stock**
 
 **Decentral heating building stock** 
 
 
-Please visit this page for a deeper understanding of how the building stock feeds into the [CM - Decentral heating supply](https://wiki.hotmaps.hevs.ch/en/CM-Decentral-heating-supply).
+
 
 [**`To Top`**](#table-of-contents)
 
