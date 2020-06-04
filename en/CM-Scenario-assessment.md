@@ -98,21 +98,7 @@ Further down in the sheet there are some parameters that have already been fille
 This set of three tabs is used to build the building stock that will be used as an input parameter to calculate the output of the decentral heating supply.
 
 **Single-family building stock**
-The worksheet as it is offers to structure a building stock for single-family houses of two different ages, although the toolbox offers seven different age categories. The inputs required are structured a follows:
-* INPUTS
- * Building Age
- * Interest Rate
- * Gross Floor Area
- * Building category
- * year
- * savings for space heating
-* BASIC INPUTS
- * emission factor - Electricity
- * emission factor - Light fuel oil
- * emission factor - Biomass solid
- * emission factor - Natural gas
-* INPUT TYPE SELECTION
- * Type: nuts_id_number
+The worksheet as it is offers to structure a building stock for single-family houses of two different types. The user can adapt the Workbook in order to combine any number of different building categories (e.g. per age, gross floor area, category, etc.). For a deeper understanding of how to set a building stock of single-family houses, please visit the dedicated page(https://wiki.hotmaps.hevs.ch/en/CM-Decentral-heating-supply).
 
 **Multi-family building stock**
 
