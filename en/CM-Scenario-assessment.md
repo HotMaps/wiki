@@ -86,11 +86,12 @@ On top of these, the workbook has instructions in red text and additional calcul
 This sheet mainly shows overall output parameters both in figures and charts, and it has few input parameters.
 
 A *Scenarios Table* (R4:Z17) is ready to be filled with short description of the different scenarios object of the assessment. The table is right above the charts, it can be a reminder for the user or clarification for other collaborators.
+
 Further down in the sheet there are some parameters that have already been filled out, but can be adjusted, as long as they are not left empty:
 
 * *Renewable factor*: is used to calculate the green final energy out of total final energy demand. 
 * *General efficiency factor*: is used to calculate the total useful energy demand out of total final energy demand.
-* *Grid losses*: is used to build the decentral and district heating factor to calculate all the main overall indicators(levelized cost LCOH, CO2 emissions, Final energy, and Useful energy,)
+* *Grid losses*: is used to build the decentral and district heating factor to calculate all the main overall indicators(levelized cost LCOH, CO2 emissions, Final energy, and Useful energy).
 
 #### Building Stock
 
