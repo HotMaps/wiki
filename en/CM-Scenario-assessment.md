@@ -48,7 +48,7 @@ The inputs compiled in the scenario assessment Workbook are produced by the foll
 
 **3. [CM - District heating potential: economic assessment](https://wiki.hotmaps.hevs.ch/en/CM-District-heating-potential-economic-assessment)**
 
-These indicators should be saved for each scenario and later on, be compiled in the scenario assessment workbook.  The cells to be filled are properly marked and a color-coding legend is reported on the first sheet of the workbook, as explained in the following paragraph [Interpretation of input parameters](#intepretation-of-input-parameters). Bear in mind that the three above-mentioned calculation modules, require some inputs that you may already have, or that you may have to calculate running other modules, as specified in the following paragraph **Scenario assessment inputs and outputs**. In case the inputs required by these modules were not available, they can be calculated using other calculation modules on the Toolbox as shown in the **[Training section]()**.
+The inpout and output of these modules should be saved for each scenario and then compiled in the scenario assessment workbook.  The cells to be filled are properly marked and a color-coding legend is reported on the first sheet of the workbook, as explained in the following paragraph [Interpretation of input parameters](#intepretation-of-input-parameters). The three above-mentioned calculation modules, require some inputs that you may already have, or that you may have to calculate running other modules, as specified in the following paragraph as well as in the **[Training section]()**.
 
 The sheet "Final Tabel" calculates and shows a comparison of these indicators both in the figures and charts for each scenario:
 * Cost per year,
@@ -59,7 +59,6 @@ The sheet "Final Tabel" calculates and shows a comparison of these indicators bo
 * RES/DH shares.
 
 For each scenario, the following indicators are shown in the form of stacked bar chart:
-
 * Overall (aggregated) costs of heat supply by district heating system and decentral heating system in _*M EUR/year*_
 * Overall (aggregated) CO<sub>2</sub> emissions by district heating system and decentral heating system in _*tons/year*_
 * Overall energy carrier mix in _*MWh*_
@@ -72,10 +71,10 @@ For each scenario, the following indicators are shown in the form of stacked bar
 
 The input parameters needed to run this module are divided into:
 
-* Parameters to be selected from a drop-menu or filled out in the field in the calculation modules on the Toolbox. These fields are highlighted in turquoise in the workbook. 
-* Parameters that can be selected either in the calculation modules on the Toolbox, or in the workbook, but that are already provided as examples and can be considered default values. These fields are highlighted in green in the workbook.
-* Parameters that are calculated and provided as output data in the Toolbox, and should be copied into the workbook in the fields highlighted in yellow.
-* Parameters that are calculated and provided as output data in the Workbook. These fields are highlighted in red and should be copied into another sheet as input for further elaboration.
+* Parameters to be selected/filled out in the calculation modules on the Toolbox: highlighted in turquoise in the workbook. 
+* Parameters to be selected/filled out in the workbook, but that are already provided as default values: highlighted in green in the workbook.
+* Parameters provided as output data in the Toolbox, to be copied into the workbook in the fields highlighted in yellow.
+* Parameters calculated and provided as output data in the Workbook, to be copied into another sheet as input for further elaboration: highlighted in red.
 
 On top of these, the workbook has instructions in red text and additional calculations that should not be edited in grey cells. The picture below shows how the color-coding indicated on the front sheet of the workbook looks like.
 
@@ -83,26 +82,28 @@ On top of these, the workbook has instructions in red text and additional calcul
  
 #### Final Table
 
-This sheet mainly shows overall output parameters both in figures and charts, and it has few input parameters.
+This sheet mainly shows the overall output parameters both in figures and charts, and it has few input parameters.
 
-A *Scenarios Table* (R4:Z17) is ready to be filled with short description of the different scenarios object of the assessment. The table is right above the charts, it can be a reminder for the user or clarification for other collaborators.
+A *Scenarios Table* (R4:Z17) is ready to be filled with a short description of the different scenarios object of the assessment. Placed right above the charts, this table can be a reminder for the user or clarification for other collaborators.
 
 Further down in the sheet there are some parameters that have already been filled out, but can be adjusted, as long as they are not left empty:
-
 * *Renewable factor*: is used to calculate the green final energy out of total final energy demand. 
 * *General efficiency factor*: is used to calculate the total useful energy demand out of total final energy demand.
 * *Grid losses*: is used to build the decentral and district heating factor to calculate all the main overall indicators(levelized cost LCOH, CO2 emissions, Final energy, and Useful energy).
 
+
 #### Building Stock
 
-This set of three tabs is used to build the building stock that will be used as an input parameter to calculate the output of the decentral heating supply. Please visit this page for a deeper understanding of how the building stock feeds into the [CM - Decentral heating supply](https://wiki.hotmaps.hevs.ch/en/CM-Decentral-heating-supply).
+This set of three tabs is used to build the building stock that will be used as an input parameter to calculate the output of the decentral heating supply. Please visit the [CM - Decentral heating supply](https://wiki.hotmaps.hevs.ch/en/CM-Decentral-heating-supply) page for a deeper understanding of how the building stock feeds into that module.
 
 **Single-family building stock**
-The worksheet as it is offers to structure a building stock for single-family houses of two different types, each column is dedicated to a building type and the CM - Decentral heating supply should be run once per type of buildings. The user can adapt the Workbook in order to combine any number of different building categories (e.g. per age, gross floor area, category, etc.). 
+The worksheet as it is offers to structure a building stock for single-family houses of two different types: each column is dedicated to a building type and the CM - Decentral heating supply should be run once per each type. However, the user can adapt the Workbook in order to combine any number of different building categories (e.g. per age, gross floor area, category, etc.). 
 
 **Multi-family building stock**
+The worksheet as it is offers to structure a building stock for multi-family houses of eight different types: each column is dedicated to a building type and the CM - Decentral heating supply should be run once per each type. However, the user can adapt the Workbook in order to combine any number of different building categories (e.g. per age, gross floor area, category, etc.). 
 
-**Decentral heating building stock** 
+
+#### Decentral heating supply
 
 
 
