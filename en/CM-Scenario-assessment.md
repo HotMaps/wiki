@@ -16,9 +16,7 @@
 
 ## In a glance
 
-This module allows comparing different scenarios. The module is not integrated into the Hotmaps Toolbox, but it is provided as a separate Excel workbook that combines the results of other calculation modules which must be previously run. The template as it is allows comparing up to 10 different scenarios, but if properly adapted, it can work for any number of scenarios. Separate worksheets are set up to collate the key indicators from each calculation module, while key indicators are automatically collated in the final table and represented in graphs.
-
-For instance, the scenarios assessment could be built upon one common business case of decentral heating with certain fixed supply options, examined in a sensitivity analysis for a set of different district heating systems, with different penetration levels and different centralised heating supply technologies that may vary by the capacity of the energy generators. Viceversa, another sensitivity assessment could be run with one centralised heat supply scenario, investigating the impact of the different decentralised technologies, or any other combination of scenarios.
+This module allows comparing different scenarios. The module is not integrated into the Hotmaps Toolbox, but it is provided as a separate Excel workbook that combines the results of other calculation modules which must be previously run. The template as it is allows comparing up to 9 different scenarios, but if properly adapted, it can work for any number of scenarios. Separate worksheets are set up to collate the key indicators from each calculation module, while key indicators are automatically collated in the final table and represented in graphs.
 
 >>> ADD ATTACHMENT WITH THE EXCEL WORKBOOK
 
@@ -41,6 +39,8 @@ The sheet "Final Tabel" calculates and shows a comparison of these indicators bo
 * Final energy,
 * Useful energy,
 * RES/DH shares.
+
+For instance, the scenarios assessment could be built upon one common business case of decentral heating with certain fixed supply options, examined in a sensitivity analysis for a set of different district heating systems, with different penetration levels and different centralised heating supply technologies that may vary by the capacity of the energy generators. Viceversa, another sensitivity assessment could be run with one centralised heat supply scenario, investigating the impact of the different decentralised technologies, or any other combination of scenarios.
 
 [**`To Top`**](#table-of-contents)
 
