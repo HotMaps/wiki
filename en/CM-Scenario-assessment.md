@@ -18,11 +18,11 @@
 
 This module allows comparing different heating scenarios. The module is not integrated into the Hotmaps Toolbox, but it is provided as a separate Excel workbook that combines the results of other calculation modules to be previously run. The template as it is allows comparing up to 9 different scenarios, but if properly adapted, it can work for any number of scenarios. Separate worksheets are set up to collate the key indicators from each calculation module, while key indicators are automatically collated in the final table and represented in graphs.
 
-[CM - SCENARIO ASSESSMENT WORKBOOK](https://github.com/HotMaps/scenario_assessment/raw/master/data/ScenarioAssessment_Template.xlsx)
-https://github.com/HotMaps/scenario_assessment/raw/master/data/ScenarioAssessment_Template.xlsx
+[SCENARIO ASSESSMENT WORKBOOK: CLICK HERE TO DOWNLOAD(https://github.com/HotMaps/scenario_assessment/raw/master/data/ScenarioAssessment_Template.xlsx)
 
 
 [**`To Top`**](#table-of-contents)
+
 
 ## Introduction
 
@@ -40,7 +40,7 @@ The user runs independently all the calculations modules for each scenario under
 
 ## Scenario assessment inputs and outputs
 
-The inputs compiled in the scenario assessment Workbook are produced by the following calculation modules. 
+The inputs compiled in the scenario assessment Workbook are produced by the following calculation modules: 
 
 **1. [CM - Decentral heating supply](https://wiki.hotmaps.hevs.ch/en/CM-Decentral-heating-supply)**
 
