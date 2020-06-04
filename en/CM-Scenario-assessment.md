@@ -106,10 +106,10 @@ The worksheet as it is offers to structure a building stock for multi-family hou
 
 
 ### Decentral heating supply
-
+In this sheet, the input to enter is the *Heat demand total (Final Energy)* for the selected area and the *Share of building type on the total useful energy demand for heat in 2050* per each type of building. The template offers a set of 10 different types of building, per category and age. The user can adjust the parameters of the building types, as well as the total number of building types combined at this stage, and the *Share of total useful heat demand in the building type supplied by the different individual heating technologies*.
 
 ### Ref. Decentral heating supply
-
+The output of the previous sheet *Decentral heating supply*, shown in fields highlighted in red, is to be copied and pasted in this sheet in the yellow fields. This sheet is meant to combine a number of decentral heating scenarios that will be considered for the portion of decentral heating in each one of the scenarios assessed in the Final Table. So for instance, if the sensitivity analysis builds on one fixed decentral heating scenario and evaluates the impact of nine levels of penetration of district heating, then the previous steps should be carried out only once and the Decentral heating supply outcome should be pasted in all the nine columns of this sheet. Conversely, if different decentral heating scenarios are compared, the three steps previously described should be repeated for each one.
 
 ### Ref. DH Economic Assessment
 
