@@ -5,9 +5,8 @@
 * [Introduction](#introduction)
 * [Scenario assessment inputs and outputs](#scenario-assessment-inputs-and-outputs)
 * [Interpretation of input parameters](#intepretation-of-input-parameters)
+* [Interpretation of output results](#interpretation-of-results)
 * [Sample run](#sample-run)
-  * [Test Run: Example of a scenario assessment](#test-run-example-of-a-scenario-assessment)
-* [Interpretation of results](#interpretation-of-results)
 * [References](#references)
 * [How to cite](#how-to-cite)
 * [Authors and reviewers](#authors-and-reviewers)
@@ -106,21 +105,25 @@ The worksheet as it is offers to structure a building stock for multi-family hou
 #### Decentral heating supply
 
 
+#### Ref. Decentral heating supply
 
 
-[**`To Top`**](#table-of-contents)
-
-## Sample run
+#### Ref. DH Economic Assessment
 
 
-[**`To Top`**](#table-of-contents)
+#### Ref. DH supply dispatch
 
-### Test Run: Example of a scenario assessment
 
 
 [**`To Top`**](#table-of-contents)
 
 ## Interpretation of results
+
+
+[**`To Top`**](#table-of-contents)
+
+
+## Sample run: Tomaszów Mazowiecki
 
 
 [**`To Top`**](#table-of-contents)
