@@ -25,22 +25,16 @@ This module allows comparing different scenarios. The module is not integrated i
 
 ## Introduction
 
-The Scenario Assessment module offers a quick comparison of different scenarios, based on the results of the following calculation modules: 
-* Decentral heating supply,
-* District heating potential: economic assessment,
-* District heating supply dispatch.
+The approach to assess a number of different scenarios in this module build on the following steps:
+* The calculation of the building stock for the selected area
+* The calculation of costs, emissions and energy parameters for decentral heating supply,
+* The calculation of costs, emissions and energy parameters for an economic assessment of district heating supply
+* The calculation of supply dispatch costs, based on the size of the network assumed.
 
-These modules shall be run independently for each scenario under consideration, then their results shall be reported in the relevant sheet of Excel Workbook. The cells to be filled are properly marked and a color-coding legend is reported on the first sheet of the workbook. Bear in mind that the three above-mentioned calculation modules, require some inputs that you may already have, or that you may have to calculate running other modules, as specified in the following paragraph **Scenario assessment inputs and outputs**.
+This means that in each scenario a certain portion of heating is assumed to be provided through decentral heating and another through district heating. For instance, the scenarios assessment could be built upon one common business case of decentral heating with certain fixed supply options, examined in a sensitivity analysis for a set of different district heating systems, with different penetration levels and different centralised heating supply technologies that may vary by the capacity of the energy generators. Viceversa, another sensitivity assessment could be run with one centralised heat supply scenario, investigating the impact of the different decentralised technologies, or any other combination of scenarios.
 
-The sheet "Final Tabel" calculates and shows a comparison of these indicators both in the figures and charts for each scenario:
-* Cost per year,
-* Levelized costs,
-* CO2 emissions,
-* Final energy,
-* Useful energy,
-* RES/DH shares.
+The Scenario Assessment is though to have the user run independently all the calculations modules for each scenario under consideration, then report the results in the relevant sheet of Excel Workbook, and be able to compare and assess them. Bear in mind that the three above-mentioned calculation modules, require some inputs that you may already have, or that you may have to calculate running other modules, as specified in the following paragraph **Scenario assessment inputs and outputs**.
 
-For instance, the scenarios assessment could be built upon one common business case of decentral heating with certain fixed supply options, examined in a sensitivity analysis for a set of different district heating systems, with different penetration levels and different centralised heating supply technologies that may vary by the capacity of the energy generators. Viceversa, another sensitivity assessment could be run with one centralised heat supply scenario, investigating the impact of the different decentralised technologies, or any other combination of scenarios.
 
 [**`To Top`**](#table-of-contents)
 
@@ -55,6 +49,14 @@ The inputs compiled in the scenario assessment module are produced by the follow
 **3. [CM - District heating potential: economic assessment](https://wiki.hotmaps.hevs.ch/en/CM-District-heating-potential-economic-assessment)**
 
 These indicators should be saved for each scenario tag and later on, be compiled in the scenario assessment workbook. In case the inputs required by these modules were not available, they can be calculated using other calculation modules on the Toolbox as shown in the **[Training section]()**.
+
+The sheet "Final Tabel" calculates and shows a comparison of these indicators both in the figures and charts for each scenario:
+* Cost per year,
+* Levelized costs,
+* CO2 emissions,
+* Final energy,
+* Useful energy,
+* RES/DH shares.
 
 For each scenario tag, the following indicators are shown in the form of stacked bar chart:
 
