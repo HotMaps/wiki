@@ -68,6 +68,16 @@ For each scenario tag, the following indicators are shown in the form of stacked
 
 ## Interpretation of input parameters
 
+The input parameters needed to run this module are divided into:
+1. Parameters to be selected from a drop-menu or filled out in the field in the calculation modules on the Toolbox. These fields are highlighted in turquoise in the workbook. 
+2. Parameters that can be selected either in the calculation modules on the Toolbox, or in the workbook, but that are already provided as examples and can be considered default values. These fields are highlighted in green in the workbook.
+3. Parameters that are calculated and provided as output data in the Toolbox, and should be copied into the workbook in the fields highlighted in yellow.
+4. Parameters that are calculated and provided as output data in the Workbook. These fields are highlighted in red and should be copied into another sheet as input for further elaboration.
+
+On top of these, the workbook has instructions in red text and additional calculations that should not be edited in grey cells. The picture below shows how the color-coding indicated on the front sheet of the workbook looks like.
+
+[[/en/CM-Scenario-assessment/Scenario Assessment Colour Coding.tiff]]
+ 
 
 [**`To Top`**](#table-of-contents)
 
