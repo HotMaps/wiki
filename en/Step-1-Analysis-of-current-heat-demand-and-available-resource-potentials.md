@@ -32,3 +32,6 @@ The following figure shows this procedure graphically and shows the various data
 
 [[/en/Step-1-Analysis-of-current-heat-demand-and-available-resource-potentials/Wiki-local-detailed-Step-1final.png]]
 *Identification of different representative, typical cases for district heating (Step 1).*
+
+[**`To the Scenario Toolchain Steps`**](guide-local-and-municipal-levels#the-hotmaps-scenario-toolchain-different-steps)
+[**`To the next step`**](#Step-2-Calculation-of-future-heat-demand-and-gross-floor-area-density-maps)
