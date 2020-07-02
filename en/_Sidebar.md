@@ -37,6 +37,7 @@
 * [CM - Excess heat transport potential](CM-Excess-heat-transport-potential)
 * [CM - Scenario assessment](CM-Scenario-assessment)
 * [CM - User-defined excess heat potentials](CM-Add-industry-plant)
+* [CM - Vehicle stock at NUTS 2 level](CM-Vehicle-stock-at-NUTS-2-level)
 
 
 ## For Developers
