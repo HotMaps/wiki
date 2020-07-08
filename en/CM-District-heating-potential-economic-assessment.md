@@ -34,10 +34,6 @@ The input parameters and layers as well as output layers and parameters are as f
 
 **Input layers and parameters are:**
 
-* Heat density map and gross floor area density map (by default is provided by the toolbox)
-  * in raster format (\*.tif)
-  * with 1 hectare resolution
-  * demand densities in _**MWh/ha**_ and gross floor area densities in _**m<sup>2</sup>/ha**_
 * First year of investment
 * Last year of investment
 * Depreciation time in _**years**_
@@ -51,6 +47,10 @@ The input parameters and layers as well as output layers and parameters are as f
   * Outer city
   * Park
 * Full load hours 
+* Heat density map and gross floor area density map (by default is provided by the toolbox)
+  * in raster format (\*.tif)
+  * with 1 hectare resolution
+  * demand densities in _**MWh/ha**_ and gross floor area densities in _**m<sup>2</sup>/ha**_
 
 **Output layers and parameters are:**
 
