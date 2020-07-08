@@ -21,7 +21,7 @@
 
 
 ## Calculation modules (CM)
-* [CM - Customized heat and floor area density maps](CM-Customized-heat-and-floor-area-density-maps)
+* [CM - Customized heat and gross floor area density maps](CM-Customized-heat-and-floor-area-density-maps)
 * [CM - Scale heat and cool density maps](CM-Scale-heat-and-cool-density-maps)
 * [CM - Demand projection](CM-Demand-projection)
 * [CM - Heat load profiles](CM-Heat-load-profiles)
