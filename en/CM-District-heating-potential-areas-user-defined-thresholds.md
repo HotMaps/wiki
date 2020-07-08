@@ -40,12 +40,12 @@ The input parameters and layers as well as output layers and parameters are as f
 
 **Input layers and parameters are:**
 
+* Minimum heat demand in each hectare [_**MWh/ha**_]: a value between _*0*_ and _*1000*_
+* Minimum heat demand in a DH area [_**GWh/year**_]: a value between _*0*_ and _*500*_
 * Heat density map (by default is provided by the toolbox)
   * in raster format (\*.tif)
   * with 1 hectare resolution
   * demand densities in _**MWh/ha**_
-* Minimum heat demand in each hectare [_**MWh/ha**_]: a value between _*0*_ and _*1000*_
-* Minimum heat demand in a DH area [_**GWh/year**_]: a value between _*0*_ and _*500*_
 
 **Output layers and parameters are:**
 
