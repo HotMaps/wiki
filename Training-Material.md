@@ -78,12 +78,12 @@ TBD
 The training material is presented below following the order in which it has been used or distributed. To see the agenda used during the trainings, please refer to the [Training Material Guidelines]() (LINK TO BE ADDED WHEN FILE HAS BEEN UPLOADED)
   - [Before the training](#training-material-before-the-training)
   - [Introductory webinar](#introductory-webinar)
-  - [Introduction to the use of the tool, exercises 1 - 2](#Introduction-to-the-use-of-the-tool-exercises-1---2)
-  - [Wrap-up of exercises 1 - 2, introduction to exercises 3 and 4](#Wrap-up-of-exercises-1---2-introduction-to-exercises-3---4)
-  - [Wrap-up of exercises 3 - 4, introduction to exercises 5](#Wrap-up-of-exercises-3---4-introduction-to-exercise-5)
+  - [Introduction to the use of the tool, exercises 1 - 2](#Introduction-to-the-use-of-the-tool-exercises-1-2)
+  - [Wrap-up of exercises 1 - 2, introduction to exercises 3 and 4](#Wrap-up-of-exercises-1-2-introduction-to-exercises-3-4)
+  - [Wrap-up of exercises 3 - 4, introduction to exercises 5](#Wrap-up-of-exercises-3-4-introduction-to-exercise-5)
   - [Closing and explanation of exercises 5, feedback questionnaire, certificates and final remarks](#Closing-and-explanation-of-exercises-5-feedback questionnaire-certificates-and-final-remarks)
 
-###Before the training
+####Before the training
 * [Link to email sent to participants]() (LINK TO BE ADDED WHEN FILE HAS BEEN UPLOADED)
 * [Tutorial: How to use Hotmaps](https://youtu.be/dUDACmC_LO8)
 
@@ -94,35 +94,35 @@ Handbooks:
  * [Appendix report to the Handbook for strategic heat planning: Case descriptions](https://vbn.aau.dk/da/publications/appendix-report-to-the-hotmaps-handbook-for-strategic-heat-planni)
 
 
-###Introductory webinar, one week before the intensive training
+####Introductory webinar, one week before the intensive training
 * [Hotmaps online training - Preparatory webinar (recording)](https://www.youtube.com/watch?v=nGJ8BJNB4z8)
-* Link to presentation used for the webinar
+* Link to presentation used for the webinar ?
 * Link to an archived Google Classroom ?! 
 * [Tutorial: How to use Hotmaps](https://youtu.be/dUDACmC_LO8)
 * [Hotmaps online training - Introduction: How can the toolbox support energy planning?](https://www.youtube.com/watch?v=7IPcVlWsarc)
 * [Hotmaps online training - Introduction: the EU wide database](https://www.youtube.com/watch?v=dyJ5zySYBkM)
 * [Test: introduction videos](https://docs.google.com/forms/d/e/1FAIpQLSf4lO8jXH77CRRjzwL4OT4ZoEO5AeSpRZhKnzWbKvZLRUwW_Q/viewform?authuser=1)
 
-###Introduction to the use of the tool, exercises 1 - 2
+####Introduction to the use of the tool, exercises 1 - 2
 * [Hotmaps online training - Presentation exercises 1 and 2](https://www.youtube.com/watch?v=DOnJArGz_3E)
 * Link to the presentation used for the webinar ?
 * Link to exercise 1-2 word (LINK TO BE ADDED WHEN FILE HAS BEEN UPLOADED)
 * Link to exercise 1-2 excel (LINK TO BE ADDED WHEN FILE HAS BEEN UPLOADED)
 * Link to how to open a csv  (LINK TO BE ADDED WHEN FILE HAS BEEN UPLOADED)
 
-###Wrap-up of exercises 1 - 2, introduction to exercises 3 and 4
+####Wrap-up of exercises 1 - 2, introduction to exercises 3 and 4
 * [Hotmaps online training - Wrap-up exercises 1 and 2 and Presentation exercises 3 and 4](https://www.youtube.com/watch?v=YbfLLoREo6w)
 * Link to the presentation used for the webinar ?
 * Link to exercise 3-4 word (LINK TO BE ADDED WHEN FILE HAS BEEN UPLOADED)
 * Link to exercise 3-4 excel (LINK TO BE ADDED WHEN FILE HAS BEEN UPLOADED)
 
-###Wrap-up of exercises 3 - 4, introduction to exercises 5
+####Wrap-up of exercises 3 - 4, introduction to exercises 5
 * [Hotmaps online training - Wrap-up exercises 3 and 4 and Presentation exercise 5](https://www.youtube.com/watch?v=NAcdCrsQZuI)
 * Link to the presentation used for the webinar ?
 * Link to exercise 5 word (LINK TO BE ADDED WHEN FILE HAS BEEN UPLOADED)
 * Link to exercise 5 excel (LINK TO BE ADDED WHEN FILE HAS BEEN UPLOADED)
 
-###Closing and explanation of exercises 5, feedback questionnaire, certificates and final remarks
+####Closing and explanation of exercises 5, feedback questionnaire, certificates and final remarks
 * [Hotmaps online training - Wrap-up exercises 3 and 4 and Presentation exercise 5](https://www.youtube.com/watch?v=NAcdCrsQZuI)
 * Link to exercise 5 complete (LINK TO BE ADDED WHEN FILE HAS BEEN UPLOADED)
 * [Feedback questionnaire](https://docs.google.com/forms/d/e/1FAIpQLScZ-ZWohPtDjVUtfrVKRWDaLmzH0LWiL2m2RLpXKKn_8l0ddw/viewform?authuser=1)
@@ -135,6 +135,11 @@ Handbooks:
 [**`To Top`**](#table-of-contents)
 
 ## Feedback
+
+Collecting feedback was an essential part of all the Hotmaps trainings, because it gave the training team information about how the training had been received and perceived, as well as where there was room for improvements. A feedback questionnaire has been used both for the on-site and for the online trainings, with some differences. Please access them below:
+
+* [Feedback questionnaire (on-site)] (LINK TO BE ADDED WHEN FILE HAS BEEN UPLOADED)
+* [Feedback questionnaire (online)](https://docs.google.com/forms/d/e/1FAIpQLScZ-ZWohPtDjVUtfrVKRWDaLmzH0LWiL2m2RLpXKKn_8l0ddw/viewform?authuser=1)
 
 
 
