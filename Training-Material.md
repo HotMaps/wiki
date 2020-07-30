@@ -58,7 +58,7 @@ After the COVID-19 outbreak, the remaining trainings planned in Milton Keynes (U
 
 ## Guidelines to host a Hotmpas training 
 
-The document on the [Training Materials](link) provides guidelines and examples to assist the performance of further training workshops on the use of the Hotmaps tool, as well as the self-taught training. In addition, it elaborates on practical aspects of designing, organizing and delivering a Hotmaps training, such as training structure, selection of trainers, locations and timing, promotion activities, registration and more. The process of subsequent adjustments due both to the experience and feedback gathered in the first two on-site trainings and to the COVID-19 outbreak, is explained by presenting both the original workshop draft and final agendas, as well as the online trainings agendas, together with the on-site training materials and those later used online.
+The document on the [Training Materials]() (LINK TO BE ADDED WHEN FILE HAS BEEN UPLOADED) provides guidelines and examples to assist the performance of further training workshops on the use of the Hotmaps tool, as well as the self-taught training. In addition, it elaborates on practical aspects of designing, organizing and delivering a Hotmaps training, such as training structure, selection of trainers, locations and timing, promotion activities, registration and more. The process of subsequent adjustments due both to the experience and feedback gathered in the first two on-site trainings and to the COVID-19 outbreak, is explained by presenting both the original workshop draft and final agendas, as well as the online trainings agendas, together with the on-site training materials and those later used online.
 
 The document provides also guidelines for a live presentation of the tool, a list of all the available capacity building and educational materials produced, together with their respective use. All the sections of the trainings are explained in details and the training material used is illustrated, including the use of an e-learning platform, the exercises hand-outs and their relative solutions. 
 
@@ -75,7 +75,7 @@ TBD
 
 ## Training Material: online courses
 
-The training material is presented below following the order in which it has been used or distributed. To see the agenda used during the trainings, please refer to the [Training Material Guidelines](add link)
+The training material is presented below following the order in which it has been used or distributed. To see the agenda used during the trainings, please refer to the [Training Material Guidelines]() (LINK TO BE ADDED WHEN FILE HAS BEEN UPLOADED)
   - [Before the training](#training-material-before-the-training)
   - [Introductory webinar](#introductory-webinar)
   - [Introduction to the use of the tool, exercises 1 - 2](#Introduction-to-the-use-of-the-tool-exercises-1---2)
@@ -84,7 +84,7 @@ The training material is presented below following the order in which it has bee
   - [Closing and explanation of exercises 5, feedback questionnaire, certificates and final remarks](#Closing-and-explanation-of-exercises-5-feedback questionnaire-certificates-and-final-remarks)
 
 ###Before the training
-* [Link to email sent to participants]()
+* [Link to email sent to participants]() (LINK TO BE ADDED WHEN FILE HAS BEEN UPLOADED)
 * [Tutorial: How to use Hotmaps](https://youtu.be/dUDACmC_LO8)
 
 Handbooks:
@@ -106,27 +106,27 @@ Handbooks:
 ###Introduction to the use of the tool, exercises 1 - 2
 * [Hotmaps online training - Presentation exercises 1 and 2](https://www.youtube.com/watch?v=DOnJArGz_3E)
 * Link to the presentation used for the webinar ?
-* Link to exercise 1-2 word (TO BE ADDED WHEN UPLOADED)
-* Link to exercise 1-2 excel (TO BE ADDED WHEN UPLOADED)
-* Link to how to open a csv  (TO BE ADDED WHEN UPLOADED)
+* Link to exercise 1-2 word (LINK TO BE ADDED WHEN FILE HAS BEEN UPLOADED)
+* Link to exercise 1-2 excel (LINK TO BE ADDED WHEN FILE HAS BEEN UPLOADED)
+* Link to how to open a csv  (LINK TO BE ADDED WHEN FILE HAS BEEN UPLOADED)
 
 ###Wrap-up of exercises 1 - 2, introduction to exercises 3 and 4
 * [Hotmaps online training - Wrap-up exercises 1 and 2 and Presentation exercises 3 and 4](https://www.youtube.com/watch?v=YbfLLoREo6w)
 * Link to the presentation used for the webinar ?
-* Link to exercise 3-4 word (TO BE ADDED WHEN UPLOADED)
-* Link to exercise 3-4 excel (TO BE ADDED WHEN UPLOADED)
+* Link to exercise 3-4 word (LINK TO BE ADDED WHEN FILE HAS BEEN UPLOADED)
+* Link to exercise 3-4 excel (LINK TO BE ADDED WHEN FILE HAS BEEN UPLOADED)
 
 ###Wrap-up of exercises 3 - 4, introduction to exercises 5
 * [Hotmaps online training - Wrap-up exercises 3 and 4 and Presentation exercise 5](https://www.youtube.com/watch?v=NAcdCrsQZuI)
 * Link to the presentation used for the webinar ?
-* Link to exercise 5 word (TO BE ADDED WHEN UPLOADED)
-* Link to exercise 5 excel (TO BE ADDED WHEN UPLOADED)
+* Link to exercise 5 word (LINK TO BE ADDED WHEN FILE HAS BEEN UPLOADED)
+* Link to exercise 5 excel (LINK TO BE ADDED WHEN FILE HAS BEEN UPLOADED)
 
 ###Closing and explanation of exercises 5, feedback questionnaire, certificates and final remarks
 * [Hotmaps online training - Wrap-up exercises 3 and 4 and Presentation exercise 5](https://www.youtube.com/watch?v=NAcdCrsQZuI)
-* Link to exercise 5 complete (TO BE ADDED WHEN UPLOADED)
+* Link to exercise 5 complete (LINK TO BE ADDED WHEN FILE HAS BEEN UPLOADED)
 * [Feedback questionnaire](https://docs.google.com/forms/d/e/1FAIpQLScZ-ZWohPtDjVUtfrVKRWDaLmzH0LWiL2m2RLpXKKn_8l0ddw/viewform?authuser=1)
-* Link to Template for certificates (TO BE ADDED WHEN UPLOADED)
+* Link to Template for certificates (LINK TO BE ADDED WHEN FILE HAS BEEN UPLOADED)
 * Link to the presentation used for the webinar ?
 * Link to exercise 1-2 complete ?
 * Link to exercise 3-4 complete ?
