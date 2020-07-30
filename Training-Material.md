@@ -14,16 +14,21 @@
 
 ## At a glance
 
-In the course of the Hotmaps project, a number of free and open access trainings have been held, both in-person and online. This section gathers all the training materials developed in the context of these workshops and courses, with the aim to help both future users to attend a self-paced self-taught Hotmaps training, and future trainers/workshop hosts to organize their own Hotmaps training.
+In the course of the Hotmaps project, a number of free and open access trainings have been held. This section gathers all the training materials developed in the context of these on-site workshops and online courses, with the aim of helping users to learn about the Hompats toolbox and database through self-paced self-taught training, and future trainers/workshop hosts to organize future Hotmaps training.
 
 
 [**`To Top`**](#table-of-contents)
 
 ## Introduction
 
-The Hotmaps trainings have been conceived for heating and cooling planning professionals.
-Hotmaps learning material is currently available in English and German.
-The training is modular and it includes:
+All Hotmaps trainings have been conceived for heating and cooling planning professionals. The training addresses how the Hotmaps database and toolbox are structured and what are their functionalities, but the theory and procedures of heating and cooling planning are assumed as already well known by participants and are not covered by the training. If participants think that they could use more training on the heating and cooling planning theory, please refer to the [Hotmaps Handbooks](https://www.hotmaps-project.eu/hotmaps-handbook-and-wiki-released/). No additional preparation is required to be able to complete these trainings.
+
+The Hotmaps learning material is currently available in English and German and it consists of a mix of   Videos, a Tutorial, recordings of Webinars, and Exercises. The training is modular and it covers the following functionalities:
+  - Mapping of heat demand and resource potentials
+  - Calculation of decentral heat supply costs
+  - Calculation of district heating supply costs
+  - Calculation of district heating distribution costs
+  - Setting up of consistent scenarios for the region
 
 
 [**`To Top`**](#table-of-contents)
@@ -31,14 +36,14 @@ The training is modular and it includes:
 ## Past training workshops and online courses 
 
 These are the trainings originally planned to be held in person:
- 	Bolzano (IT), December 9 th -10 th 2019 > Done
- 	Brussels (BE), February 19 th -20 th 2020 > Done
- 	Milton Keynes (UK), April 1st – 2nd 2020 > Cancelled due to Covid-19 pandemic.
- 	Frankfurt-am-Main (DE), May 5th – 6th 2020 > Cancelled due to Covid-19 pandemic.
+  - Bolzano (IT), December 9 th -10 th 2019 > Done
+  - Brussels (BE), February 19 th -20 th 2020 > Done
+  - Milton Keynes (UK), April 1st – 2nd 2020 > Cancelled due to Covid-19 pandemic.
+  - Frankfurt-am-Main (DE), May 5th – 6th 2020 > Cancelled due to Covid-19 pandemic.
 These are the trainings that have been eventually held virtually as countermeasure:
- 	Online training in English, April 27th - May 12th 2020
- 	Online training in German, May 4th - 19th 2020
- 	Online training in English, stretched over three weeks, June 29th - July 17th 2020
+  - Online training in English, April 27th - May 12th 2020
+  - Online training in German, May 4th - 19th 2020
+  - Online training in English, stretched over three weeks, June 29th - July 17th 2020
 
 
 [**`To Top`**](#table-of-contents)
