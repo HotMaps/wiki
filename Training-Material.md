@@ -75,7 +75,7 @@ TBD
 
 ## Training Material: online courses
 
-The training material is presented below following the order in which it has been used or distributed:
+The training material is presented below following the order in which it has been used or distributed. To see the agenda used during the trainings, please refer to the [Training Material Guidelines](add link)
   - [Before the training](#training-material-before-the-training)
   - [Introductory webinar](#introductory-webinar)
   - [Introduction to the use of the tool, exercises 1 - 2](#Introduction-to-the-use-of-the-tool-exercises-1---2)
@@ -84,51 +84,52 @@ The training material is presented below following the order in which it has bee
   - [Closing and explanation of exercises 5, feedback questionnaire, certificates and final remarks](#Closing-and-explanation-of-exercises-5-feedback questionnaire-certificates-and-final-remarks)
 
 ###Before the training
-[Link to email sent to participants]()
-[Link to tutorial](https://youtu.be/dUDACmC_LO8)
+* [Link to email sent to participants]()
+* [Tutorial: How to use Hotmaps](https://youtu.be/dUDACmC_LO8)
+
 Handbooks:
- - [Summary of the Hotmaps Handbooks for strategic heat planning](https://www.hotmaps-project.eu/wp-content/uploads/2019/04/Summary-Hotmaps-Handbook.pdf)
- - [Handbook 1 – Definition & experiences of strategic heat planning](https://vbn.aau.dk/da/publications/definition-amp-experiences-of-strategic-heat-planning)
- - [Handbook 2 – Guidance for comprehensive assessment of efficient heating and cooling](https://vbn.aau.dk/da/publications/guidance-for-the-comprehensive-assessment-of-efficient-heating-an)
- - [Appendix report to the Handbook for strategic heat planning: Case descriptions](https://vbn.aau.dk/da/publications/appendix-report-to-the-hotmaps-handbook-for-strategic-heat-planni)
+ * [Summary of the Hotmaps Handbooks for strategic heat planning](https://www.hotmaps-project.eu/wp-content/uploads/2019/04/Summary-Hotmaps-Handbook.pdf)
+ * [Handbook 1 – Definition & experiences of strategic heat planning](https://vbn.aau.dk/da/publications/definition-amp-experiences-of-strategic-heat-planning)
+ * [Handbook 2 – Guidance for comprehensive assessment of efficient heating and cooling](https://vbn.aau.dk/da/publications/guidance-for-the-comprehensive-assessment-of-efficient-heating-an)
+ * [Appendix report to the Handbook for strategic heat planning: Case descriptions](https://vbn.aau.dk/da/publications/appendix-report-to-the-hotmaps-handbook-for-strategic-heat-planni)
 
 
-###Introductory webinar, one week before the intensive training (1 hour)
-Link to presentation used for the webinar
-Link to recording of the webinar
-Link to an archived Google Classroom. 
-Link to tutorial
-Link to introd. video 1
-Link to introd. video 2
-Link to introductory test
+###Introductory webinar, one week before the intensive training
+* [Hotmaps online training - Preparatory webinar (recording)](https://www.youtube.com/watch?v=nGJ8BJNB4z8)
+* Link to presentation used for the webinar
+* Link to an archived Google Classroom ?! 
+* [Tutorial: How to use Hotmaps](https://youtu.be/dUDACmC_LO8)
+* [Hotmaps online training - Introduction: How can the toolbox support energy planning?](https://www.youtube.com/watch?v=7IPcVlWsarc)
+* [Hotmaps online training - Introduction: the EU wide database](https://www.youtube.com/watch?v=dyJ5zySYBkM)
+* [Test: introduction videos](https://docs.google.com/forms/d/e/1FAIpQLSf4lO8jXH77CRRjzwL4OT4ZoEO5AeSpRZhKnzWbKvZLRUwW_Q/viewform?authuser=1)
 
 ###Introduction to the use of the tool, exercises 1 - 2
-Link to exercise 1-2 word
-Link to exercise 1-2 excel
-Link to how to open a csv
-Link to recording of the webinar
-Link to the presentation used for the webinar
+* [Hotmaps online training - Presentation exercises 1 and 2](https://www.youtube.com/watch?v=DOnJArGz_3E)
+* Link to the presentation used for the webinar ?
+* Link to exercise 1-2 word (TO BE ADDED WHEN UPLOADED)
+* Link to exercise 1-2 excel (TO BE ADDED WHEN UPLOADED)
+* Link to how to open a csv  (TO BE ADDED WHEN UPLOADED)
 
 ###Wrap-up of exercises 1 - 2, introduction to exercises 3 and 4
-Link to exercise 3-4 word
-Link to exercise 3-4 excel
-Link to recording of the webinar
-Link to the presentation used for the webinar
+* [Hotmaps online training - Wrap-up exercises 1 and 2 and Presentation exercises 3 and 4](https://www.youtube.com/watch?v=YbfLLoREo6w)
+* Link to the presentation used for the webinar ?
+* Link to exercise 3-4 word (TO BE ADDED WHEN UPLOADED)
+* Link to exercise 3-4 excel (TO BE ADDED WHEN UPLOADED)
 
 ###Wrap-up of exercises 3 - 4, introduction to exercises 5
-Link to exercise 5 word
-Link to exercise 5 excel
-Link to recording of the webinar
-Link to the presentation used for the webinar
+* [Hotmaps online training - Wrap-up exercises 3 and 4 and Presentation exercise 5](https://www.youtube.com/watch?v=NAcdCrsQZuI)
+* Link to the presentation used for the webinar ?
+* Link to exercise 5 word (TO BE ADDED WHEN UPLOADED)
+* Link to exercise 5 excel (TO BE ADDED WHEN UPLOADED)
 
 ###Closing and explanation of exercises 5, feedback questionnaire, certificates and final remarks
-Link to exercise 1-2 complete
-Link to exercise 3-4 complete
-Link to exercise 5 complete 
-Link to feedback questionnaire
-Link to Template for certificates
-Link to recording of the webinar
-Link to the presentation used for the webinar
+* [Hotmaps online training - Wrap-up exercises 3 and 4 and Presentation exercise 5](https://www.youtube.com/watch?v=NAcdCrsQZuI)
+* Link to exercise 5 complete (TO BE ADDED WHEN UPLOADED)
+* [Feedback questionnaire](https://docs.google.com/forms/d/e/1FAIpQLScZ-ZWohPtDjVUtfrVKRWDaLmzH0LWiL2m2RLpXKKn_8l0ddw/viewform?authuser=1)
+* Link to Template for certificates (TO BE ADDED WHEN UPLOADED)
+* Link to the presentation used for the webinar ?
+* Link to exercise 1-2 complete ?
+* Link to exercise 3-4 complete ?
 
 
 [**`To Top`**](#table-of-contents)
