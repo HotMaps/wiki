@@ -14,16 +14,16 @@
 
 ## At a glance
 
-In the course of the Hotmaps project, a number of free and open access trainings have been held. This section gathers all the training materials developed in the context of these on-site workshops and online courses, with the aim of helping users to learn about the Hompats toolbox and database through self-paced self-taught training, and future trainers/workshop hosts to organize future Hotmaps training.
+In the course of the Hotmaps project, a number of free and open access trainings have been held, both on-site and online. This section gathers all the training materials developed in the context of these workshops and courses, with the aim of helping users to learn about the Hompats toolbox and database through a self-paced and self-taught training, and future trainers/workshop hosts to organize future Hotmaps training.
 
 
 [**`To Top`**](#table-of-contents)
 
 ## Introduction
 
-All Hotmaps trainings have been conceived for heating and cooling planning professionals. The training addresses how the Hotmaps database and toolbox are structured and what are their functionalities, but the theory and procedures of heating and cooling planning are assumed as already well known by participants and are not covered by the training. If participants think that they could use more training on the heating and cooling planning theory, please refer to the [Hotmaps Handbooks](https://www.hotmaps-project.eu/hotmaps-handbook-and-wiki-released/). No additional preparation is required to be able to complete these trainings.
+All Hotmaps trainings have been conceived for heating and cooling planning professionals. The training addresses how the Hotmaps database and toolbox are structured and what are their functionalities, but the theory and procedures of heating and cooling planning are assumed as already familiar to participants and are not covered by the training. Those who wish to learn more also on the heating and cooling planning theory, are invited to read the [Hotmaps Handbooks](https://www.hotmaps-project.eu/hotmaps-handbook-and-wiki-released/), possibly before taking the training. No additional preparation is required to be able to complete this training.
 
-The training has been set up to combine:
+The training combines:
   - A presentation of the Hotmaps project. 
   - A virtual tour of the Hotmaps tool.
   - Practical and written exercises, to be performed by the participants based on spreadsheets and explanatory documents.
@@ -31,27 +31,25 @@ The training has been set up to combine:
 
 
 The Hotmaps learning material is currently available in English and German. The training is modular and it covers the following functionalities:
-  - Mapping of heat demand and resource potentials
-  - Calculation of decentral heat supply costs
-  - Calculation of district heating supply costs
-  - Calculation of district heating distribution costs
-  - Setting up of consistent scenarios for the region
+  - Mapping of heat demand and resource potentials (exercise 1)
+  - Calculation of decentral heat supply costs (exercise 2)
+  - Calculation of district heating supply costs (exercise 3)
+  - Calculation of district heating distribution costs (exercise 4)
+  - Setting up of consistent scenarios for the region (exercise 5)
 
 
 [**`To Top`**](#table-of-contents)
 
 ## Past training workshops and online courses 
 
-These are the trainings originally planned to be held in person:
+There have been two training workshops held in person:
   - Bolzano (IT), December 9 th -10 th 2019 > Done
   - Brussels (BE), February 19 th -20 th 2020 > Done
-  - Milton Keynes (UK), April 1st – 2nd 2020 > Cancelled due to Covid-19 pandemic.
-  - Frankfurt-am-Main (DE), May 5th – 6th 2020 > Cancelled due to Covid-19 pandemic.
 
-These are the trainings that have been eventually held virtually as countermeasure:
-  - Online training in English, April 27th - May 12th 2020
+After the COVID-19 outbreak, the remaining trainings planned in Milton Keynes (UK), April 1st – 2nd, and Frankfurt-am-Main (DE), May 5th – 6th 2020, were cancelled. Thre online courses have been eventually held virtually as countermeasure:
+  - First online training in English, April 27th - May 12th 2020
   - Online training in German, May 4th - 19th 2020
-  - Online training in English, stretched over three weeks, June 29th - July 17th 2020
+  - Second online training in English, stretched over three weeks, June 29th - July 17th 2020
 
 
 [**`To Top`**](#table-of-contents)
