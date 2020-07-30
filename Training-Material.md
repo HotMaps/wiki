@@ -29,6 +29,7 @@ The training has been set up to combine:
   - Practical and written exercises, to be performed by the participants based on spreadsheets and explanatory documents.
   - Support, Discussion and Feedback sessions.
 
+
 The Hotmaps learning material is currently available in English and German. The training is modular and it covers the following functionalities:
   - Mapping of heat demand and resource potentials
   - Calculation of decentral heat supply costs
