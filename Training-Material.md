@@ -3,7 +3,8 @@
 ## Table of Contents
 * [At a glance](#at-a-glance)
 * [Introduction](#introduction)
-* [Past training workshops and online courses](#Past-training-workshops-and-online-courses)
+* [Past training workshops and online courses](#past-training-workshops-and-online-courses)
+* [Guidelines to host a Hotmpas training](#guidelines-to-host-a-hotmpas-training)
 * [Training Material: on-site workshops](#training-material-on-site-workshops)
 * [Training Material: online courses](#training-material-online-courses)
 * [References](#references)
@@ -50,6 +51,17 @@ After the COVID-19 outbreak, the remaining trainings planned in Milton Keynes (U
   - First online training in English, April 27th - May 12th 2020
   - Online training in German, May 4th - 19th 2020
   - Second online training in English, stretched over three weeks, June 29th - July 17th 2020
+
+
+[**`To Top`**](#table-of-contents)
+
+## Guidelines to host a Hotmpas training 
+
+The document on the [Training Materials](link) provides guidelines and examples to assist the performance of further training workshops on the use of the Hotmaps tool, as well as the self-taught training. In addition, it elaborates on practical aspects of organizing and delivering a Hotmaps training, such as training structure, selection of trainers, locations and timing, promotion activities, registration and more. The process of subsequent adjustments due both to the experience and feedback gathered in the first two on-site trainings and to the COVID-19 outbreak, is explained by presenting both the original workshop draft and final agendas, as well as the online trainings agendas, together with the on-site training materials and those later used online.
+
+The document provides also guidelines for a live presentation of the tool, a list of all the available capacity building and educational materials produced, together with their respective use. All the sections of the trainings are explained in details and the training material used is illustrated, including the use of an e-learning platform, the exercises hand-outs and their relative solutions. 
+
+Finally, it presents the feedback collected, providing both an overview of how the trainings were received, and how future trainings could build on this experience. 
 
 
 [**`To Top`**](#table-of-contents)
