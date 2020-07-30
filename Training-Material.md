@@ -23,7 +23,13 @@ In the course of the Hotmaps project, a number of free and open access trainings
 
 All Hotmaps trainings have been conceived for heating and cooling planning professionals. The training addresses how the Hotmaps database and toolbox are structured and what are their functionalities, but the theory and procedures of heating and cooling planning are assumed as already well known by participants and are not covered by the training. If participants think that they could use more training on the heating and cooling planning theory, please refer to the [Hotmaps Handbooks](https://www.hotmaps-project.eu/hotmaps-handbook-and-wiki-released/). No additional preparation is required to be able to complete these trainings.
 
-The Hotmaps learning material is currently available in English and German and it consists of a mix of   Videos, a Tutorial, recordings of Webinars, and Exercises. The training is modular and it covers the following functionalities:
+The training has been set up to combine:
+  - A presentation of the Hotmaps project. 
+  - A virtual tour of the Hotmaps tool.
+  - Practical and written exercises, to be performed by the participants based on spreadsheets and explanatory documents.
+  - Support, Discussion and Feedback sessions.
+
+The Hotmaps learning material is currently available in English and German. The training is modular and it covers the following functionalities:
   - Mapping of heat demand and resource potentials
   - Calculation of decentral heat supply costs
   - Calculation of district heating supply costs
