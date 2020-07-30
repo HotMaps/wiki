@@ -76,11 +76,11 @@ TBD
 ## Training Material: online courses
 
 The training online has followed the following structure:
-  - Introductory webinar
-  - Introduction to the use of the tool, exercises 1 - 2
-  - Wrap-up of exercises 1 - 2, introduction to exercises 3 and 4
-  - Wrap-up of exercises 3 - 4, introduction to exercises 5
-  - Closing and explanation of exercises 5, feedback questionnaire, certificates and final remarks
+  - [Introductory webinar](#introductory-webinar)
+  - [Introduction to the use of the tool, exercises 1 - 2](#Introduction-to-the-use-of-the-tool-exercises-1---2)
+  - [Wrap-up of exercises 1 - 2, introduction to exercises 3 and 4](#Wrap-up-of-exercises-1---2-introduction-to-exercises-3---4)
+  - [Wrap-up of exercises 3 - 4, introduction to exercises 5](#Wrap-up-of-exercises-3---4-introduction-to-exercise-5)
+  - [Closing and explanation of exercises 5, feedback questionnaire, certificates and final remarks](#Closing-and-explanation-of-exercises-5-feedback questionnaire-certificates-and-final-remarks)
 
 ###Introductory webinar, one week before the intensive training (1 hour)
 This webinar was meant to welcome the participants, present the trainers, the Hotmaps project, Hotmpas toolbox, the structure and modality of the training, and the e-learning platform. All webinars were provided with Microsoft Teams.
