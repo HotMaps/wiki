@@ -4,7 +4,7 @@
 * [At a glance](#at-a-glance)
 * [Introduction](#introduction)
 * [Past training workshops and online courses](#past-training-workshops-and-online-courses)
-* [Guidelines to host a Hotmaps training](#guidelines-to-host-a-hotmpas-training)
+* [Guidelines to host a Hotmaps training](#guidelines-to-host-a-hotmaps-training)
 * [Training Material: on-site workshops](#training-material-on-site-workshops)
 * [Training Material: online courses](#training-material-online-courses)
 * [Collection of Feedback](#collection-of-feedback)
@@ -56,7 +56,7 @@ After the COVID-19 outbreak, the remaining trainings planned in Milton Keynes (U
 
 [**`To Top`**](#table-of-contents)
 
-## Guidelines to host a Hotmpas training 
+## Guidelines to host a Hotmaps training 
 
 The document on the [Training Materials]() (LINK TO BE ADDED WHEN FILE HAS BEEN UPLOADED) provides guidelines and examples to assist the performance of further training workshops on the use of the Hotmaps tool, as well as the self-taught training. In addition, it elaborates on practical aspects of designing, organizing and delivering a Hotmaps training, such as training structure, selection of trainers, locations and timing, promotion activities, registration and more. The process of subsequent adjustments due both to the experience and feedback gathered in the first two on-site trainings and to the COVID-19 outbreak, is explained by presenting both the original workshop draft and final agendas, as well as the online trainings agendas, together with the on-site training materials and those later used online.
 
