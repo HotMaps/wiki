@@ -4,7 +4,7 @@
 * [At a glance](#at-a-glance)
 * [Introduction](#introduction)
 * [Past training workshops and online courses](#past-training-workshops-and-online-courses)
-* [Guidelines to host a Hotmpas training](#guidelines-to-host-a-hotmpas-training)
+* [Guidelines to host a Hotmaps training](#guidelines-to-host-a-hotmpas-training)
 * [Training Material: on-site workshops](#training-material-on-site-workshops)
 * [Training Material: online courses](#training-material-online-courses)
 * [Collection of Feedback](#collection-of-feedback)
