@@ -62,7 +62,7 @@ The document on the [Training Materials](link) provides guidelines and examples 
 
 The document provides also guidelines for a live presentation of the tool, a list of all the available capacity building and educational materials produced, together with their respective use. All the sections of the trainings are explained in details and the training material used is illustrated, including the use of an e-learning platform, the exercises hand-outs and their relative solutions. 
 
-Finally, it presents the feedback collected, providing both an overview of how the trainings were received, and how future trainings could build on this experience. 
+Finally, it presents the feedback collected, providing both an overview of how the trainings were received, and how future trainings could build on this experience. To see the feedback questionnaire used in the on-site and online trainings, please check the following sections on the respective Training Material. 
 
 
 [**`To Top`**](#table-of-contents)
@@ -84,16 +84,22 @@ The training material is presented below following the order in which it has bee
   - [Closing and explanation of exercises 5, feedback questionnaire, certificates and final remarks](#Closing-and-explanation-of-exercises-5-feedback questionnaire-certificates-and-final-remarks)
 
 ###Before the training
-Link to email sent to participants
-Link to tutorial
-Link to handbooks
+[Link to email sent to participants]()
+[Link to tutorial](https://youtu.be/dUDACmC_LO8)
+Handbooks:
+ - [Summary of the Hotmaps Handbooks for strategic heat planning](https://www.hotmaps-project.eu/wp-content/uploads/2019/04/Summary-Hotmaps-Handbook.pdf)
+ - [Handbook 1 – Definition & experiences of strategic heat planning](https://vbn.aau.dk/da/publications/definition-amp-experiences-of-strategic-heat-planning)
+ - [Handbook 2 – Guidance for comprehensive assessment of efficient heating and cooling](https://vbn.aau.dk/da/publications/guidance-for-the-comprehensive-assessment-of-efficient-heating-an)
+ - [Appendix report to the Handbook for strategic heat planning: Case descriptions](https://vbn.aau.dk/da/publications/appendix-report-to-the-hotmaps-handbook-for-strategic-heat-planni)
+
 
 ###Introductory webinar, one week before the intensive training (1 hour)
-Link to recording of the webinar
 Link to presentation used for the webinar
+Link to recording of the webinar
 Link to an archived Google Classroom. 
 Link to tutorial
-Link to first two videos
+Link to introd. video 1
+Link to introd. video 2
 Link to introductory test
 
 ###Introduction to the use of the tool, exercises 1 - 2
