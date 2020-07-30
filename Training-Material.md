@@ -40,6 +40,7 @@ These are the trainings originally planned to be held in person:
   - Brussels (BE), February 19 th -20 th 2020 > Done
   - Milton Keynes (UK), April 1st – 2nd 2020 > Cancelled due to Covid-19 pandemic.
   - Frankfurt-am-Main (DE), May 5th – 6th 2020 > Cancelled due to Covid-19 pandemic.
+
 These are the trainings that have been eventually held virtually as countermeasure:
   - Online training in English, April 27th - May 12th 2020
   - Online training in German, May 4th - 19th 2020
@@ -50,7 +51,7 @@ These are the trainings that have been eventually held virtually as countermeasu
 
 ## Training Material: on-site workshops
 
-
+TBD
 
 [**`To Top`**](#table-of-contents)
 
