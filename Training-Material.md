@@ -102,8 +102,8 @@ Handbooks:
 
 ####Introductory webinar, one week before the intensive training
 * [Hotmaps online training - Preparatory webinar (recording)](https://www.youtube.com/watch?v=nGJ8BJNB4z8)
-* Link to presentation used for the webinar ?
-* Link to an archived Google Classroom ?! 
+* Link to presentation used for the webinar **(SHOULD WE POST THIS?)**
+* Link to an archived Google Classroom **(SHOULD WE CREATE A CLASS AND LEAVE IT OPEN AND ACCESSIBLE FOR THIS WIKI PAGE?)** 
 * [Tutorial: How to use Hotmaps](https://youtu.be/dUDACmC_LO8)
 * [Hotmaps online training - Introduction: How can the toolbox support energy planning?](https://www.youtube.com/watch?v=7IPcVlWsarc)
 * [Hotmaps online training - Introduction: the EU wide database](https://www.youtube.com/watch?v=dyJ5zySYBkM)
@@ -111,20 +111,20 @@ Handbooks:
 
 ####Introduction to the use of the tool, exercises 1 - 2
 * [Hotmaps online training - Presentation exercises 1 and 2](https://www.youtube.com/watch?v=DOnJArGz_3E)
-* Link to the presentation used for the webinar ?
+* Link to the presentation used for the webinar **(SHOULD WE POST THIS?)**
 * Link to exercise 1-2 word (LINK TO BE ADDED WHEN FILE HAS BEEN UPLOADED)
 * Link to exercise 1-2 excel (LINK TO BE ADDED WHEN FILE HAS BEEN UPLOADED)
 * Link to how to open a csv  (LINK TO BE ADDED WHEN FILE HAS BEEN UPLOADED)
 
 ####Wrap-up of exercises 1 - 2, introduction to exercises 3 and 4
 * [Hotmaps online training - Wrap-up exercises 1 and 2 and Presentation exercises 3 and 4](https://www.youtube.com/watch?v=YbfLLoREo6w)
-* Link to the presentation used for the webinar ?
+* Link to the presentation used for the webinar **(SHOULD WE POST THIS?)**
 * Link to exercise 3-4 word (LINK TO BE ADDED WHEN FILE HAS BEEN UPLOADED)
 * Link to exercise 3-4 excel (LINK TO BE ADDED WHEN FILE HAS BEEN UPLOADED)
 
 ####Wrap-up of exercises 3 - 4, introduction to exercises 5
 * [Hotmaps online training - Wrap-up exercises 3 and 4 and Presentation exercise 5](https://www.youtube.com/watch?v=NAcdCrsQZuI)
-* Link to the presentation used for the webinar ?
+* Link to the presentation used for the webinar **(SHOULD WE POST THIS?)**
 * Link to exercise 5 word (LINK TO BE ADDED WHEN FILE HAS BEEN UPLOADED)
 * Link to exercise 5 excel (LINK TO BE ADDED WHEN FILE HAS BEEN UPLOADED)
 
@@ -133,9 +133,9 @@ Handbooks:
 * Link to exercise 5 complete (LINK TO BE ADDED WHEN FILE HAS BEEN UPLOADED)
 * [Feedback questionnaire](https://docs.google.com/forms/d/e/1FAIpQLScZ-ZWohPtDjVUtfrVKRWDaLmzH0LWiL2m2RLpXKKn_8l0ddw/viewform?authuser=1)
 * Link to Template for certificates (LINK TO BE ADDED WHEN FILE HAS BEEN UPLOADED)
-* Link to the presentation used for the webinar ?
-* Link to exercise 1-2 complete ?
-* Link to exercise 3-4 complete ?
+* Link to the presentation used for the webinar **(SHOULD WE POST THIS?)**
+* Link to exercise 1-2 complete **(SHOULD WE POST THIS?)**
+* Link to exercise 3-4 complete **(SHOULD WE POST THIS?)**
 
 
 [**`To Top`**](#table-of-contents)
@@ -144,7 +144,7 @@ Handbooks:
 
 Collecting feedback was an essential part of all the Hotmaps trainings, because it gave the training team information about how the training had been received and perceived, as well as where there was room for improvements. A feedback questionnaire has been used both for the on-site and for the online trainings, with some differences. Please access them below:
 
-* [Feedback questionnaire (on-site)] (LINK TO BE ADDED WHEN FILE HAS BEEN UPLOADED)
+* [Feedback questionnaire (on-site)] . (LINK TO BE ADDED WHEN FILE HAS BEEN UPLOADED)
 * [Feedback questionnaire (online)](https://docs.google.com/forms/d/e/1FAIpQLScZ-ZWohPtDjVUtfrVKRWDaLmzH0LWiL2m2RLpXKKn_8l0ddw/viewform?authuser=1)
 
 
