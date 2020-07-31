@@ -76,12 +76,12 @@ TBD
 ## Training Material: online courses
 
 The training material is presented below following the order in which it has been used or distributed. To see the agenda used during the trainings, please refer to the [Training Material Guidelines]() (LINK TO BE ADDED WHEN FILE HAS BEEN UPLOADED)
-  - [Before the training](#training-material-before-the-training)
-  - [Introductory webinar](#introductory-webinar)
-  - [Introduction to the use of the tool, exercises 1 - 2](#Introduction-to-the-use-of-the-tool-exercises-1-2)
-  - [Wrap-up of exercises 1 - 2, introduction to exercises 3 and 4](#Wrap-up-of-exercises-1-2-introduction-to-exercises-3-4)
-  - [Wrap-up of exercises 3 - 4, introduction to exercises 5](#Wrap-up-of-exercises-3-4-introduction-to-exercise-5)
-  - [Closing and explanation of exercises 5, feedback questionnaire, certificates and final remarks](#Closing-and-explanation-of-exercises-5-feedback questionnaire-certificates-and-final-remarks)
+  - [Before the training](#training-material-online-courses-before-the-training)
+  - [Introductory webinar](#training-material-online-courses-introductory-webinar)
+  - [Introduction to the use of the tool, exercises 1 - 2](#training-material-online-courses-introduction-to-the-use-of-the-tool-exercises-1-2)
+  - [Wrap-up of exercises 1 - 2, introduction to exercises 3 and 4](#training-material-online-courses-wrap-up-of-exercises-1-2-introduction-to-exercises-3-4)
+  - [Wrap-up of exercises 3 - 4, introduction to exercises 5](#training-material-online-courses-wrap-up-of-exercises-3-4-introduction-to-exercise-5)
+  - [Closing and explanation of exercises 5, feedback questionnaire, certificates and final remarks](#training-material-online-courses-closing-and-explanation-of-exercises-5-feedback questionnaire-certificates-and-final-remarks)
 
 ####Before the training
 * [Link to email sent to participants]() (LINK TO BE ADDED WHEN FILE HAS BEEN UPLOADED)
