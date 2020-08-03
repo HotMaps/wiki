@@ -90,7 +90,7 @@ The training material is presented below following the order in which it has bee
   - [Closing and explanation of exercises 5, feedback questionnaire, certificates and final remarks](#training-material-online-courses_closing-and-explanation-of-exercises-5-feedback questionnaire-certificates-and-final-remarks)
 
 ####Before the training
-* [Link to email sent to participants]() (LINK TO BE ADDED WHEN FILE HAS BEEN UPLOADED) [German version]() (LINK TO BE ADDED WHEN FILE HAS BEEN UPLOADED)
+* [Link to email sent to participants]() (LINK TO BE ADDED WHEN FILE HAS BEEN UPLOADED) [German version]() (LINK TO BE ADDED WHEN FILE HAS BEEN UPLOADED) **(SHOULD WE POST THIS?)**
 * [Tutorial: How to use Hotmaps](https://youtu.be/dUDACmC_LO8)
 
 Handbooks:
@@ -132,7 +132,7 @@ Handbooks:
 * [Hotmaps online training - Wrap-up exercises 3 and 4 and Presentation exercise 5](https://www.youtube.com/watch?v=NAcdCrsQZuI) [German version]() (LINK TO BE ADDED)
 * Link to exercise 5 complete (LINK TO BE ADDED WHEN FILE HAS BEEN UPLOADED) [German version]() (LINK TO BE ADDED WHEN FILE HAS BEEN UPLOADED)
 * [Feedback questionnaire](https://docs.google.com/forms/d/e/1FAIpQLScZ-ZWohPtDjVUtfrVKRWDaLmzH0LWiL2m2RLpXKKn_8l0ddw/viewform?authuser=1) [German version]() (LINK TO BE ADDED WHEN FILE HAS BEEN UPLOADED)
-* Link to Template for certificates (LINK TO BE ADDED WHEN FILE HAS BEEN UPLOADED) [German version]() (LINK TO BE ADDED WHEN FILE HAS BEEN UPLOADED)
+* Link to Template for certificates (LINK TO BE ADDED WHEN FILE HAS BEEN UPLOADED) [German version]() (LINK TO BE ADDED WHEN FILE HAS BEEN UPLOADED) **(SHOULD WE POST THIS?)**
 * Link to the presentation used for the webinar **(SHOULD WE POST THIS?)**
 * Link to exercise 1-2 complete **(SHOULD WE POST THIS?)**
 * Link to exercise 3-4 complete **(SHOULD WE POST THIS?)**
