@@ -123,7 +123,7 @@ Handbooks:
 * Link to exercise 3-4 excel (LINK TO BE ADDED WHEN FILE HAS BEEN UPLOADED)
 
 ####Wrap-up of exercises 3 - 4, introduction to exercises 5
-* [Hotmaps online training - Wrap-up exercises 3 and 4 and Presentation exercise 5](https://www.youtube.com/watch?v=NAcdCrsQZuI)
+* [Hotmaps online training - Wrap-up exercises 3 and 4 and Presentation exercise 5](https://www.youtube.com/watch?v=NAcdCrsQZuI) [German version]() (LINK TO BE ADDED)
 * Link to the presentation used for the webinar **(SHOULD WE POST THIS?)**
 * Link to exercise 5 word (LINK TO BE ADDED WHEN FILE HAS BEEN UPLOADED) [German version]() (LINK TO BE ADDED WHEN FILE HAS BEEN UPLOADED)
 * Link to exercise 5 excel (LINK TO BE ADDED WHEN FILE HAS BEEN UPLOADED) [German version]() (LINK TO BE ADDED WHEN FILE HAS BEEN UPLOADED)
@@ -145,7 +145,7 @@ Handbooks:
 Collecting feedback was an essential part of all the Hotmaps training courses because it gave the training team information about how the training had been received and perceived, as well as where there was room for improvements. A feedback questionnaire has been used both for the on-site and for the online training, with some differences. Please access them below:
 
 * [Feedback questionnaire (on-site)] . (LINK TO BE ADDED WHEN FILE HAS BEEN UPLOADED)
-* [Feedback questionnaire (online)](https://docs.google.com/forms/d/e/1FAIpQLScZ-ZWohPtDjVUtfrVKRWDaLmzH0LWiL2m2RLpXKKn_8l0ddw/viewform?authuser=1)
+* [Feedback questionnaire (online)](https://docs.google.com/forms/d/e/1FAIpQLScZ-ZWohPtDjVUtfrVKRWDaLmzH0LWiL2m2RLpXKKn_8l0ddw/viewform?authuser=1) [German version]() (LINK TO BE ADDED WHEN FILE HAS BEEN UPLOADED)
 
 
 
