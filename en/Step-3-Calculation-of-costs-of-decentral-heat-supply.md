@@ -15,7 +15,7 @@ The [CM - Decentral heating supply](https://wiki.hotmaps.hevs.ch/en/CM-Decentral
 
 [[/en/Step-3-Calculation-of-costs-of-decentral-heat-supply/Wiki-local-detailed-Step-3fin.png]]
 *Figure: Calculation of decentral heat supply*
-
+<br\>  
 The calculations can be used to identify costs and benefits of various supply technologies in different representative buildings and their sensitivity to important influencing parameters like energy carrier and CO2 prices or interest rate and depreciation time.
 
 The outcomes of this step are the costs of heat supply via decentral technologies [EUR/MWh] in each of the representative buildings and the related CO2 emissions [kt/yr]. These results will then be used in the overall [Scenario Assessment](https://wiki.hotmaps.hevs.ch/en/CM-Scenario-assessment) in [Step 6](https://wiki.hotmaps.hevs.ch/en/Step-6-Assessment-of-scenarios-for-entire-heat-demand-and-supply-for-the-selected-area).
