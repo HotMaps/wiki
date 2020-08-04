@@ -1,5 +1,7 @@
-(step-2-Calculation-of-future-heat-demand-and-gross-floor-area-density-maps)
-
+[**`Scenario Toolchain Steps`**](guide-local-and-municipal-levels#the-hotmaps-scenario-toolchain-different-steps)
+[**`Previous step`**](step-2-Calculation-of-future-heat-demand-and-gross-floor-area-density-maps)
+[**`Next step`**](step-4-calculation-of-district-heating-distribution-costs)
+<br\>  
 <h1>Step 3: Calculation of costs of decentral heat supply</h1>
 
 [[/en/Step-3-Calculation-of-costs-of-decentral-heat-supply/Hotmaps_Local_Toolchain_Step_3final.png]]
@@ -16,4 +18,9 @@ The [CM - Decentral heating supply](https://wiki.hotmaps.hevs.ch/en/CM-Decentral
 The calculations can be used to identify costs and benefits of various supply technologies in different representative buildings and their sensitivity to important influencing parameters like energy carrier and CO2 prices or interest rate and depreciation time.
 
 The outcomes of this step are the costs of heat supply via decentral technologies [EUR/MWh] in each of the representative buildings and the related CO2 emissions [kt/yr]. These results will then be used in the overall [Scenario Assessment](https://wiki.hotmaps.hevs.ch/en/CM-Scenario-assessment) in [Step 6](https://wiki.hotmaps.hevs.ch/en/Step-6-Assessment-of-scenarios-for-entire-heat-demand-and-supply-for-the-selected-area).
+<br\>  
+<br\>  
+[**`Scenario Toolchain Steps`**](guide-local-and-municipal-levels#the-hotmaps-scenario-toolchain-different-steps)
+[**`Previous step`**](step-2-Calculation-of-future-heat-demand-and-gross-floor-area-density-maps)
+[**`Next step`**](step-4-calculation-of-district-heating-distribution-costs)
 
