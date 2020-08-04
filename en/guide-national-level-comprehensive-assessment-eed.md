@@ -4,6 +4,7 @@
 * [Introduction](#introduction)
 * [Part I: Overview of heating and cooling](#part-i-overview-of-heating-and-cooling)
 * [Part III: Analysis of the economic potential for efficiency in heating and cooling](#part-iii-analysis-of-the-economic-potential-for-efficiency-in-heating-and-cooling)
+  * [Overview of the Hotmaps approach](#part-iii-analysis-of-the-economic-potential-for-efficiency-in-heating-and-cooling_overview-of-the-hotmaps-approach)
   * [Different Steps](#part-iii-analysis-of-the-economic-potential-for-efficiency-in-heating-and-cooling_different-steps)
     * [Step 1: Identification of different representative cases for district heating](https://wiki.hotmaps.hevs.ch/en/Step-1-Identification-of-different-representative-cases-for-district-heating)
     * [Step 2: Costs and potentials for district heating in representative regions or cities](https://wiki.hotmaps.hevs.ch/en/Step-2-Costs-and-potentials-for-district-heating-in-representative-regions-or-cities)
