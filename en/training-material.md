@@ -6,7 +6,7 @@
 * [Past training workshops and online courses](#past-training-workshops-and-online-courses)
 * [Guidelines to host a Hotmaps training](#guidelines-to-host-a-hotmaps-training)
 * [Training Material](#training-material)
-  * [On-site Training](#training-material_onsite-training)
+  * [On-site Training](#training-material_on-site-training)
   * [Online Training](#training-material_online-training)
     * [Before the training](#training-material_online-training_before-the-training)
     * [Preparatory webinar](#training-material_online-training_preparatory-webinar)
@@ -94,7 +94,7 @@ The training material is presented below following the order in which it has bee
 
 #### Before the training
 * Email sent to participants before the first webinar [English]() / [German]() (LINKS TO BE ADDED WHEN FILE HAS BEEN UPLOADED) **(SHOULD WE POST THIS?)**
-* [Tutorial: How to use Hotmaps](https://youtu.be/dUDACmC_LO8) (This tutorial can be seen in any language, by using the automatic youtube translation tools)
+* Tutorial: How to use Hotmaps [English](https://youtu.be/dUDACmC_LO8) (This tutorial can be seen in any language, by using the youtube translation)
 
 Handbooks:
  * [Summary of the Hotmaps Handbooks for strategic heat planning](https://www.hotmaps-project.eu/wp-content/uploads/2019/04/Summary-Hotmaps-Handbook.pdf)
@@ -107,7 +107,7 @@ Handbooks:
 * Preparatory webinar: introduction to the Hotmaps project, toolbox, database, and online training [English](https://www.youtube.com/watch?v=nGJ8BJNB4z8) / [German](https://www.youtube.com/watch?v=4FLplnzbtg0)
 * Presentation used for the webinar [English]() / [German]() (ADD LINKS WHEN FILES HAVE BEEN UPLOADED) **(SHOULD WE POST THIS?)**
 * Archived/active Google Classroom  [English]() / [German]() (ADD LINKS) **(SHOULD WE CREATE A CLASS AND LEAVE IT OPEN AND ACCESSIBLE FOR THIS WIKI PAGE?)** 
-* [Tutorial: How to use Hotmaps](https://youtu.be/dUDACmC_LO8) (This tutorial can be seen in any language, by using the automatic youtube translation tools)
+* Tutorial: How to use Hotmaps [English](https://youtu.be/dUDACmC_LO8) (This tutorial can be seen in any language, by using the youtube translation)
 * Introductory video: How can the toolbox support energy planning? [English](https://www.youtube.com/watch?v=7IPcVlWsarc)
 * Introductory video: The EU wide database [English](https://www.youtube.com/watch?v=dyJ5zySYBkM)
 * Test: introduction videos [English](https://docs.google.com/forms/d/e/1FAIpQLSf4lO8jXH77CRRjzwL4OT4ZoEO5AeSpRZhKnzWbKvZLRUwW_Q/viewform?authuser=1) / [German](https://docs.google.com/forms/d/e/1FAIpQLSfpqw2j-Dfc8YmOHRDGCw3J3RE8-0oDtN0ekbeh3rnCHRwIHg/viewform?authuser=1)
@@ -120,8 +120,7 @@ Handbooks:
 * How to open a CSV [English]() / [German]() (ADD LINKS WHEN FILES HAVE BEEN UPLOADED)
 
 #### Exercises 3-4
-* Webinar: Wrap-up of exercises 1-2, introduction to exercises 3-4 [English](https://www.youtube.com/watch?v=YbfLLoREo6w)
-  [German version](https://www.youtube.com/watch?v=8U_9bT3TZgg)
+* Webinar: Wrap-up of exercises 1-2, introduction to exercises 3-4 [English](https://www.youtube.com/watch?v=YbfLLoREo6w) / [German](https://www.youtube.com/watch?v=8U_9bT3TZgg)
 * Presentation used for the webinar [English]() / [German]() (ADD LINKS WHEN FILES HAVE BEEN UPLOADED) **(SHOULD WE POST THIS?)**
 * Exercises 3-4 word [English]() / [German]() (ADD LINKS WHEN FILES HAVE BEEN UPLOADED)
 * Exercises 3-4 excel [English]() / [German]() (ADD LINKS WHEN FILES HAVE BEEN UPLOADED)
@@ -133,7 +132,7 @@ Handbooks:
 * Exercise 5 excel [English]() / [German]() (ADD LINKS WHEN FILES HAVE BEEN UPLOADED)
 
 #### Closing Webinar
-* Webinar: Wrap-up exercise 5, feedback questionnaire, certificates and final remarks [English](https://www.youtube.com/watch?v=NAcdCrsQZuI) / [German](https://www.youtube.com/watch?v=CPCDR-iBTZA)
+* Webinar: Wrap-up of exercise 5, feedback questionnaire, certificates and final remarks [English](https://www.youtube.com/watch?v=NAcdCrsQZuI) / [German](https://www.youtube.com/watch?v=CPCDR-iBTZA)
 * Exercise 5 complete [English]() / [German]() (ADD LINKS WHEN FILES HAVE BEEN UPLOADED)
 * Feedback questionnaire [English](https://docs.google.com/forms/d/e/1FAIpQLScZ-ZWohPtDjVUtfrVKRWDaLmzH0LWiL2m2RLpXKKn_8l0ddw/viewform?authuser=1) / [German](https://docs.google.com/forms/d/e/1FAIpQLSdoYCGCWnkPkFawSBLCokFaBIikdvisyAhngdt7NJ3_60F5uw/viewform?authuser=1)
 * Template for certificates [English]() / [German]() (ADD LINKS WHEN FILES HAVE BEEN UPLOADED) **(SHOULD WE POST THIS?)**
@@ -148,9 +147,8 @@ Handbooks:
 
 Collecting feedback was an essential part of all the Hotmaps training courses because it gave the training team information about how the training had been received and perceived, as well as where there was room for improvements. A feedback questionnaire has been used both for the on-site and for the online training, with some differences. Please access them below:
 
-* [Feedback questionnaire (on-site)]() (LINK TO BE ADDED WHEN FILE HAS BEEN UPLOADED)
-* [Feedback questionnaire (online)](https://docs.google.com/forms/d/e/1FAIpQLScZ-ZWohPtDjVUtfrVKRWDaLmzH0LWiL2m2RLpXKKn_8l0ddw/viewform?authuser=1) 
-  [German version](https://docs.google.com/forms/d/e/1FAIpQLSdoYCGCWnkPkFawSBLCokFaBIikdvisyAhngdt7NJ3_60F5uw/viewform?authuser=1)
+* Feedback questionnaire (on-site) [English]() (LINK TO BE ADDED WHEN FILE HAS BEEN UPLOADED)
+* Feedback questionnaire (online) [English](https://docs.google.com/forms/d/e/1FAIpQLScZ-ZWohPtDjVUtfrVKRWDaLmzH0LWiL2m2RLpXKKn_8l0ddw/viewform?authuser=1) / [German](https://docs.google.com/forms/d/e/1FAIpQLSdoYCGCWnkPkFawSBLCokFaBIikdvisyAhngdt7NJ3_60F5uw/viewform?authuser=1)
 
 
 
