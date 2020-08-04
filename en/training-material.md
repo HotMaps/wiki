@@ -92,7 +92,7 @@ The training material is presented below following the order in which it has bee
   - [Exercise 5](#training-material_online-training_exercise-5)
   - [Closing Webinar](#training-material_online-training_closing-webinar)
 
-#### Before the training
+##### Before the training
 * Email sent to participants before the first webinar [English]() / [German]() (LINKS TO BE ADDED WHEN FILE HAS BEEN UPLOADED) **(SHOULD WE POST THIS?)**
 * Tutorial: How to use Hotmaps [English](https://youtu.be/dUDACmC_LO8) (This tutorial can be seen in any language, by using the youtube translation)
 
@@ -103,7 +103,7 @@ Handbooks:
  * [Appendix report to the Handbook for strategic heat planning: Case descriptions](https://vbn.aau.dk/da/publications/appendix-report-to-the-hotmaps-handbook-for-strategic-heat-planni)
 
 
-#### Preparatory Webinar
+##### Preparatory Webinar
 * Preparatory webinar: introduction to the Hotmaps project, toolbox, database, and online training [English](https://www.youtube.com/watch?v=nGJ8BJNB4z8) / [German](https://www.youtube.com/watch?v=4FLplnzbtg0)
 * Presentation used for the webinar [English]() / [German]() (ADD LINKS WHEN FILES HAVE BEEN UPLOADED) **(SHOULD WE POST THIS?)**
 * Archived/active Google Classroom  [English]() / [German]() (ADD LINKS) **(SHOULD WE CREATE A CLASS AND LEAVE IT OPEN AND ACCESSIBLE FOR THIS WIKI PAGE?)** 
@@ -112,26 +112,26 @@ Handbooks:
 * Introductory video: The EU wide database [English](https://www.youtube.com/watch?v=dyJ5zySYBkM)
 * Test: introduction videos [English](https://docs.google.com/forms/d/e/1FAIpQLSf4lO8jXH77CRRjzwL4OT4ZoEO5AeSpRZhKnzWbKvZLRUwW_Q/viewform?authuser=1) / [German](https://docs.google.com/forms/d/e/1FAIpQLSfpqw2j-Dfc8YmOHRDGCw3J3RE8-0oDtN0ekbeh3rnCHRwIHg/viewform?authuser=1)
 
-#### Exercises 1-2
+##### Exercises 1-2
 * Webinar: introduction to exercises 1-2 [English](https://www.youtube.com/watch?v=DOnJArGz_3E) / [German](https://www.youtube.com/watch?v=qvgpgkp7WEE)
 * Presentation used for the webinar  [English]() / [German]() (ADD LINKS WHEN FILES HAVE BEEN UPLOADED) **(SHOULD WE POST THIS?)**
 * Exercises 1-2 word [English]() / [German]() (ADD LINKS WHEN FILES HAVE BEEN UPLOADED)
 * Exercises 1-2 excel [English]() / [German]() (ADD LINKS WHEN FILES HAVE BEEN UPLOADED)
 * How to open a CSV [English]() / [German]() (ADD LINKS WHEN FILES HAVE BEEN UPLOADED)
 
-#### Exercises 3-4
+##### Exercises 3-4
 * Webinar: Wrap-up of exercises 1-2, introduction to exercises 3-4 [English](https://www.youtube.com/watch?v=YbfLLoREo6w) / [German](https://www.youtube.com/watch?v=8U_9bT3TZgg)
 * Presentation used for the webinar [English]() / [German]() (ADD LINKS WHEN FILES HAVE BEEN UPLOADED) **(SHOULD WE POST THIS?)**
 * Exercises 3-4 word [English]() / [German]() (ADD LINKS WHEN FILES HAVE BEEN UPLOADED)
 * Exercises 3-4 excel [English]() / [German]() (ADD LINKS WHEN FILES HAVE BEEN UPLOADED)
 
-#### Exercise 5
+##### Exercise 5
 * Webinar: Wrap-up of exercises 3-4, introduction to exercise 5 [English](https://www.youtube.com/watch?v=NAcdCrsQZuI) / [German](https://www.youtube.com/watch?v=lnTw9aCR6Fw)
 * Presentation used for the webinar [English]() / [German]() (ADD LINKS WHEN FILES HAVE BEEN UPLOADED) **(SHOULD WE POST THIS?)**
 * Exercise 5 word [English]() / [German]() (ADD LINKS WHEN FILES HAVE BEEN UPLOADED)
 * Exercise 5 excel [English]() / [German]() (ADD LINKS WHEN FILES HAVE BEEN UPLOADED)
 
-#### Closing Webinar
+##### Closing Webinar
 * Webinar: Wrap-up of exercise 5, feedback questionnaire, certificates and final remarks [English](https://www.youtube.com/watch?v=NAcdCrsQZuI) / [German](https://www.youtube.com/watch?v=CPCDR-iBTZA)
 * Exercise 5 complete [English]() / [German]() (ADD LINKS WHEN FILES HAVE BEEN UPLOADED)
 * Feedback questionnaire [English](https://docs.google.com/forms/d/e/1FAIpQLScZ-ZWohPtDjVUtfrVKRWDaLmzH0LWiL2m2RLpXKKn_8l0ddw/viewform?authuser=1) / [German](https://docs.google.com/forms/d/e/1FAIpQLSdoYCGCWnkPkFawSBLCokFaBIikdvisyAhngdt7NJ3_60F5uw/viewform?authuser=1)
