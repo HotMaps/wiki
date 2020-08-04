@@ -1,8 +1,9 @@
 <h1>Step 1: Analysis of current heat demand and available resource potentials</h1>
 
 [[/en/Step-1-Analysis-of-current-heat-demand-and-available-resource-potentials/Hotmaps_Local_Toolchain_Step_1final.png]]
-*The steps to analyse the potentials for excess heat and renewable energy are highlighted above.*
-
+*Figure: The steps to analyse the potentials for excess heat and renewable energy are highlighted in the Toolchain above.*
+<br/>  
+<br/>
 ### Analysis of potentials for excess heat and renewable energy in the identified regions with potential interest for district heating
 In the next step, the potentials for excess heat and renewable energy in the regions that have been identified as potentially interesting for district heating can be analysed. These data together with the data on heat demand and heat demand density in the regions collected in the previous step can then be used to characterise representative district heating areas for further analysis steps. The following list gives an overview of the heat sources that should be taken into account and links to the default data for the respective energy source, which is available in the Hotmaps database:
 
@@ -29,9 +30,9 @@ In the next step, the potentials for excess heat and renewable energy in the reg
     * Information on other excess heat sources like power plants, further industrial plants, low-temperature heat sources like river water, data centers, etc. can be uploaded into the toolbox. A guide on how to do this can be found [here](https://wiki.hotmaps.hevs.ch/en/CM-Add-industry-plant).
 
 The following figure shows this procedure graphically and shows the various data sources and calculation modules that can be used.
-
+<br/>  
 [[/en/Step-1-Analysis-of-current-heat-demand-and-available-resource-potentials/Wiki-local-detailed-Step-1final.png]]
-*Identification of different representative, typical cases for district heating (Step 1).*
+*Figure: Identification of different representative, typical cases for district heating (Step 1).*
 
 [**`To the Scenario Toolchain Steps`**](guide-local-and-municipal-levels#the-hotmaps-scenario-toolchain-different-steps)
 [**`To the next step`**](step-2-Calculation-of-future-heat-demand-and-gross-floor-area-density-maps)
