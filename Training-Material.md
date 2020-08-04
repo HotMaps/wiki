@@ -64,7 +64,7 @@ After the COVID-19 outbreak, the remaining training workshops planned in Milton 
 
 ## Guidelines to host a Hotmaps training 
 
-The document on the [Training Materials]() (LINK TO BE ADDED WHEN FILE HAS BEEN UPLOADED) provides guidelines and examples to assist the performance of further training workshops on the use of the Hotmaps tool, as well as the self-taught training. In addition, it elaborates on practical aspects of designing, organizing and delivering a Hotmaps training, such as training structure, selection of trainers, locations and timing, promotion activities, registration and more. The process of subsequent adjustments due both to the experience and feedback gathered in the first two on-site training workshops and to the COVID-19 outbreak is explained by presenting both the original workshop draft and final agendas, as well as the online training courses agendas, together with the on-site training materials and those later used online.
+The document on the [Training Materials]() **(LINK TO BE ADDED WHEN FILE HAS BEEN UPLOADED)** provides guidelines and examples to assist the performance of further training workshops on the use of the Hotmaps tool, as well as the self-taught training. In addition, it elaborates on practical aspects of designing, organizing and delivering a Hotmaps training, such as training structure, selection of trainers, locations and timing, promotion activities, registration and more. The process of subsequent adjustments due both to the experience and feedback gathered in the first two on-site training workshops and to the COVID-19 outbreak is explained by presenting both the original workshop draft and final agendas, as well as the online training courses agendas, together with the on-site training materials and those later used online.
 
 The document provides also guidelines for a live presentation of the tool, a list of all the available capacity building and educational materials produced, together with their respective use. All the sections of the training are explained in details and the training material used is illustrated, including the use of an e-learning platform, the exercises hand-outs and their relative solutions. 
 
@@ -101,41 +101,63 @@ Handbooks:
 
 
 ####Introductory webinar, one week before the intensive training
-* [Hotmaps online training - Preparatory webinar (recording)](https://www.youtube.com/watch?v=nGJ8BJNB4z8) [German version](https://www.youtube.com/watch?v=4FLplnzbtg0)
-* Link to the presentation used for the webinar **(SHOULD WE POST THIS?)**
-* Link to an archived Google Classroom **(SHOULD WE CREATE A CLASS AND LEAVE IT OPEN AND ACCESSIBLE FOR THIS WIKI PAGE?)** 
+* [Hotmaps online training - Preparatory webinar (recording)](https://www.youtube.com/watch?v=nGJ8BJNB4z8)
+  [German version](https://www.youtube.com/watch?v=4FLplnzbtg0)
+* [Link to the presentation used for the webinar] **(SHOULD WE POST THIS?)**
+  [German version]() (LINK TO BE ADDED WHEN FILE HAS BEEN UPLOADED)  
+* [Link to an archived/active Google Classroom] **(SHOULD WE CREATE A CLASS AND LEAVE IT OPEN AND ACCESSIBLE FOR THIS WIKI PAGE?)** 
 * [Tutorial: How to use Hotmaps](https://youtu.be/dUDACmC_LO8)
+  This tutorial can be seen in any language, providing the user logs in into youtube with his account and as the desired language set as default
 * [Hotmaps online training - Introduction: How can the toolbox support energy planning?](https://www.youtube.com/watch?v=7IPcVlWsarc)
 * [Hotmaps online training - Introduction: the EU wide database](https://www.youtube.com/watch?v=dyJ5zySYBkM)
-* [Test: introduction videos](https://docs.google.com/forms/d/e/1FAIpQLSf4lO8jXH77CRRjzwL4OT4ZoEO5AeSpRZhKnzWbKvZLRUwW_Q/viewform?authuser=1) [German version](https://docs.google.com/forms/d/e/1FAIpQLSfpqw2j-Dfc8YmOHRDGCw3J3RE8-0oDtN0ekbeh3rnCHRwIHg/viewform?authuser=1)
+* [Test: introduction videos](https://docs.google.com/forms/d/e/1FAIpQLSf4lO8jXH77CRRjzwL4OT4ZoEO5AeSpRZhKnzWbKvZLRUwW_Q/viewform?authuser=1)
+  [German version](https://docs.google.com/forms/d/e/1FAIpQLSfpqw2j-Dfc8YmOHRDGCw3J3RE8-0oDtN0ekbeh3rnCHRwIHg/viewform?authuser=1)
 
 ####Introduction to the use of the tool, exercises 1 - 2
-* [Hotmaps online training - Presentation exercises 1 and 2](https://www.youtube.com/watch?v=DOnJArGz_3E) [German version](https://www.youtube.com/watch?v=qvgpgkp7WEE)
-* Link to the presentation used for the webinar **(SHOULD WE POST THIS?)** [German version]() (LINK TO BE ADDED WHEN FILE HAS BEEN UPLOADED)
-* Link to exercise 1-2 word (LINK TO BE ADDED WHEN FILE HAS BEEN UPLOADED) [German version]() (LINK TO BE ADDED WHEN FILE HAS BEEN UPLOADED)
-* Link to exercise 1-2 excel (LINK TO BE ADDED WHEN FILE HAS BEEN UPLOADED) [German version]() (LINK TO BE ADDED WHEN FILE HAS BEEN UPLOADED)
-* Link to how to open a CSV  (LINK TO BE ADDED WHEN FILE HAS BEEN UPLOADED) [German version]() (LINK TO BE ADDED WHEN FILE HAS BEEN UPLOADED)
+* [Hotmaps online training - Presentation exercises 1 and 2](https://www.youtube.com/watch?v=DOnJArGz_3E)
+  [German version](https://www.youtube.com/watch?v=qvgpgkp7WEE)
+* [Link to the presentation used for the webinar] **(SHOULD WE POST THIS?)**
+  [German version]() (LINK TO BE ADDED WHEN FILE HAS BEEN UPLOADED)
+* [Link to exercise 1-2 word]() (LINK TO BE ADDED WHEN FILE HAS BEEN UPLOADED)
+  [German version]() (LINK TO BE ADDED WHEN FILE HAS BEEN UPLOADED)
+* [Link to exercise 1-2 excel] (LINK TO BE ADDED WHEN FILE HAS BEEN UPLOADED)
+  [German version]() (LINK TO BE ADDED WHEN FILE HAS BEEN UPLOADED)
+* [Link to how to open a CSV]() (LINK TO BE ADDED WHEN FILE HAS BEEN UPLOADED)
+  [German version]() (LINK TO BE ADDED WHEN FILE HAS BEEN UPLOADED)
 
 ####Wrap-up of exercises 1 - 2, introduction to exercises 3 and 4
-* [Hotmaps online training - Wrap-up exercises 1 and 2 and Presentation exercises 3 and 4](https://www.youtube.com/watch?v=YbfLLoREo6w) [German version](https://www.youtube.com/watch?v=8U_9bT3TZgg)
-* Link to the presentation used for the webinar **(SHOULD WE POST THIS?)** [German version]() (LINK TO BE ADDED WHEN FILE HAS BEEN UPLOADED)
-* Link to exercise 3-4 word (LINK TO BE ADDED WHEN FILE HAS BEEN UPLOADED)
-* Link to exercise 3-4 excel (LINK TO BE ADDED WHEN FILE HAS BEEN UPLOADED)
+* [Hotmaps online training - Wrap-up exercises 1 and 2 and Presentation exercises 3 and 4](https://www.youtube.com/watch?v=YbfLLoREo6w)
+  [German version](https://www.youtube.com/watch?v=8U_9bT3TZgg)
+* [Link to the presentation used for the webinar] **(SHOULD WE POST THIS?)**
+  [German version]() (LINK TO BE ADDED WHEN FILE HAS BEEN UPLOADED)
+* [Link to exercise 3-4 word]() (LINK TO BE ADDED WHEN FILE HAS BEEN UPLOADED)
+  [German version]() (LINK TO BE ADDED WHEN FILE HAS BEEN UPLOADED)
+* [Link to exercise 3-4 excel]() (LINK TO BE ADDED WHEN FILE HAS BEEN UPLOADED)
+  [German version]() (LINK TO BE ADDED WHEN FILE HAS BEEN UPLOADED)
 
 ####Wrap-up of exercises 3 - 4, introduction to exercises 5
 * [Hotmaps online training - Wrap-up exercises 3 and 4 and Presentation exercise 5](https://www.youtube.com/watch?v=NAcdCrsQZuI) [German version](https://www.youtube.com/watch?v=lnTw9aCR6Fw)
-* Link to the presentation used for the webinar **(SHOULD WE POST THIS?)** [German version]() (LINK TO BE ADDED WHEN FILE HAS BEEN UPLOADED)
-* Link to exercise 5 word (LINK TO BE ADDED WHEN FILE HAS BEEN UPLOADED) [German version]() (LINK TO BE ADDED WHEN FILE HAS BEEN UPLOADED)
-* Link to exercise 5 excel (LINK TO BE ADDED WHEN FILE HAS BEEN UPLOADED) [German version]() (LINK TO BE ADDED WHEN FILE HAS BEEN UPLOADED)
+* [Link to the presentation used for the webinar]() **(SHOULD WE POST THIS?)**
+  [German version]() (LINK TO BE ADDED WHEN FILE HAS BEEN UPLOADED)
+* [Link to exercise 5 word]() (LINK TO BE ADDED WHEN FILE HAS BEEN UPLOADED)
+  [German version]() (LINK TO BE ADDED WHEN FILE HAS BEEN UPLOADED)
+* [Link to exercise 5 excel]() (LINK TO BE ADDED WHEN FILE HAS BEEN UPLOADED)
+  [German version]() (LINK TO BE ADDED WHEN FILE HAS BEEN UPLOADED)
 
 ####Closing and explanation of exercises 5, feedback questionnaire, certificates and final remarks
 * [Hotmaps online training - Wrap-up exercises 3 and 4 and Presentation exercise 5](https://www.youtube.com/watch?v=NAcdCrsQZuI) [German version](https://www.youtube.com/watch?v=CPCDR-iBTZA)
-* Link to exercise 5 complete (LINK TO BE ADDED WHEN FILE HAS BEEN UPLOADED) [German version]() (LINK TO BE ADDED WHEN FILE HAS BEEN UPLOADED)
-* [Feedback questionnaire](https://docs.google.com/forms/d/e/1FAIpQLScZ-ZWohPtDjVUtfrVKRWDaLmzH0LWiL2m2RLpXKKn_8l0ddw/viewform?authuser=1) [German version](https://docs.google.com/forms/d/e/1FAIpQLSdoYCGCWnkPkFawSBLCokFaBIikdvisyAhngdt7NJ3_60F5uw/viewform?authuser=1)
-* Link to Template for certificates (LINK TO BE ADDED WHEN FILE HAS BEEN UPLOADED) [German version]() (LINK TO BE ADDED WHEN FILE HAS BEEN UPLOADED) **(SHOULD WE POST THIS?)**
-* Link to the presentation used for the webinar **(SHOULD WE POST THIS?)** [German version]() (LINK TO BE ADDED WHEN FILE HAS BEEN UPLOADED)
-* Link to exercise 1-2 complete **(SHOULD WE POST THIS?)** [German version]() (LINK TO BE ADDED WHEN FILE HAS BEEN UPLOADED)
-* Link to exercise 3-4 complete **(SHOULD WE POST THIS?)** [German version]() (LINK TO BE ADDED WHEN FILE HAS BEEN UPLOADED)
+* [Link to exercise 5 complete]() (LINK TO BE ADDED WHEN FILE HAS BEEN UPLOADED)
+  [German version]() (LINK TO BE ADDED WHEN FILE HAS BEEN UPLOADED)
+* [Feedback questionnaire](https://docs.google.com/forms/d/e/1FAIpQLScZ-ZWohPtDjVUtfrVKRWDaLmzH0LWiL2m2RLpXKKn_8l0ddw/viewform?authuser=1)
+  [German version](https://docs.google.com/forms/d/e/1FAIpQLSdoYCGCWnkPkFawSBLCokFaBIikdvisyAhngdt7NJ3_60F5uw/viewform?authuser=1)
+* [Link to Template for certificates]() (LINK TO BE ADDED WHEN FILE HAS BEEN UPLOADED)
+  [German version]() (LINK TO BE ADDED WHEN FILE HAS BEEN UPLOADED) **(SHOULD WE POST THIS?)**
+* [Link to the presentation used for the webinar]() **(SHOULD WE POST THIS?)**
+  [German version]() (LINK TO BE ADDED WHEN FILE HAS BEEN UPLOADED)
+* [Link to exercise 1-2 complete]() **(SHOULD WE POST THIS?)** 
+  [German version]() (LINK TO BE ADDED WHEN FILE HAS BEEN UPLOADED)
+* [Link to exercise 3-4 complete]() **(SHOULD WE POST THIS?)**
+  [German version]() (LINK TO BE ADDED WHEN FILE HAS BEEN UPLOADED)
 
 
 [**`To Top`**](#table-of-contents)
@@ -144,8 +166,9 @@ Handbooks:
 
 Collecting feedback was an essential part of all the Hotmaps training courses because it gave the training team information about how the training had been received and perceived, as well as where there was room for improvements. A feedback questionnaire has been used both for the on-site and for the online training, with some differences. Please access them below:
 
-* [Feedback questionnaire (on-site)] . (LINK TO BE ADDED WHEN FILE HAS BEEN UPLOADED)
-* [Feedback questionnaire (online)](https://docs.google.com/forms/d/e/1FAIpQLScZ-ZWohPtDjVUtfrVKRWDaLmzH0LWiL2m2RLpXKKn_8l0ddw/viewform?authuser=1) [German version](https://docs.google.com/forms/d/e/1FAIpQLSdoYCGCWnkPkFawSBLCokFaBIikdvisyAhngdt7NJ3_60F5uw/viewform?authuser=1)
+* [Feedback questionnaire (on-site)]() (LINK TO BE ADDED WHEN FILE HAS BEEN UPLOADED)
+* [Feedback questionnaire (online)](https://docs.google.com/forms/d/e/1FAIpQLScZ-ZWohPtDjVUtfrVKRWDaLmzH0LWiL2m2RLpXKKn_8l0ddw/viewform?authuser=1) 
+  [German version](https://docs.google.com/forms/d/e/1FAIpQLSdoYCGCWnkPkFawSBLCokFaBIikdvisyAhngdt7NJ3_60F5uw/viewform?authuser=1)
 
 
 
