@@ -92,18 +92,18 @@ The following resulting **indicators can be retrieved from the Hotmaps Calculati
 
 * Economic potential: 
   * Levelised costs of Heat (LCOH) [EUR/MWh]:
-    * CM - District heating supply dispatch  for costs of heat supply to district heating
-    * CM - Decentral heating supply for costs of decentral heat supply 
-    * CM - Excess heat transport potential for costs of transporting excess heat to potential district heating networks
+    * [CM - District heating supply dispatch](https://wiki.hotmaps.hevs.ch/en/CM-District-heating-supply-dispatch) for costs of heat supply to district heating
+    * [CM - Decentral heating supply](https://wiki.hotmaps.hevs.ch/en/CM-Decentral-heating-supply) for costs of decentral heat supply 
+    * [CM - Excess heat transport potential](https://wiki.hotmaps.hevs.ch/en/CM-Excess-heat-transport-potential) for costs of transporting excess heat to potential district heating networks
   * Specific district heating grid costs (expansion and/or new construction) [EUR/MWh]:
-    * CM - District heating potential: economic assessment
+    * [CM - District heating potential: economic assessment](https://wiki.hotmaps.hevs.ch/en/CM-District-heating-potential-economic-assessment)
 * GHG emissions:
   * CO2 emissions [kt]:
-    * CM - District heating supply dispatch for CO2 emissions from heat supply to district heating
-    * CM - Decentral heating supply for CO2 emissions from decentral heat supply
+    * [CM - District heating supply dispatch](https://wiki.hotmaps.hevs.ch/en/CM-District-heating-supply-dispatch) for CO2 emissions from heat supply to district heating
+    * [CM - Decentral heating supply](https://wiki.hotmaps.hevs.ch/en/CM-Decentral-heating-supply) for CO2 emissions from decentral heat supply
 * Impact on the share of RES can be calculated based on the results of the following CMs:
-  * CM - District heating supply dispatch for share of RES from heat supply to district heating
-  * CM - Decentral heating supply for share of RES from decentral heat supply
+  * [CM - District heating supply dispatch](https://wiki.hotmaps.hevs.ch/en/CM-District-heating-supply-dispatch) for share of RES from heat supply to district heating
+  * [CM - Decentral heating supply](https://wiki.hotmaps.hevs.ch/en/CM-Decentral-heating-supply) for share of RES from decentral heat supply
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
 
