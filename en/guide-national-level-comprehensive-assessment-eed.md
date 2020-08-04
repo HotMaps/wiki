@@ -9,7 +9,7 @@
         * [Identification of areas potentially interesting for district heating](#part-iii-analysis-of-the-economic-potential-for-efficiency-in-heating-and-cooling_step-1-identification-of-different-representative-cases-for-district-heating_identification-of-areas-potentially-interesting-for-district-heating)
         * [Analysis of potentials for excess heat and renewable energy in the identified areas with potential interest for district heating](#part-iii-analysis-of-the-economic-potential-for-efficiency-in-heating-and-cooling_step-1-identification-of-different-representative-cases-for-district-heating_analysis of potentials for excess heat and renewable energy in the identified areas with potential interest for district heating)
         * [Identification of representative, typical district heating areas for further analysis](#part-iii-analysis-of-the-economic-potential-for-efficiency-in-heating-and-cooling_step-1-identification-of-different-representative-cases-for-district-heating_identification-of-representative-typical-district-heating-areas-for-further-analysis)
-    * [Step 2: Costs and potentials for district heating in representative regions/cities](#part-iii-analysis-of-the-economic-potential-for-efficiency-in-heating-and-cooling_step-2-costs-and-potentials-for-district-heating-in-representative-regionscities)
+    * [Step 2: Costs and potentials for district heating in representative regions or cities](#part-iii-analysis-of-the-economic-potential-for-efficiency-in-heating-and-cooling_step-2-costs-and-potentials-for-district-heating-in-representative-regions-or-cities)
         * [Economic assessment of the potential for district heating](#part-iii-analysis-of-the-economic-potential-for-efficiency-in-heating-and-cooling_step-2-costs-and-potentials-for-district-heating-in-representative-regions-cities_Economic-assessment-of-the-potential-for-district-heating)
         * [Estimation of costs for the transport of excess heat to district heating areas](#part-iii-analysis-of-the-economic-potential-for-efficiency-in-heating-and-cooling_step-2-costs-and-potentials-for-district-heating-in-representative-regions-cities_Estimation-of-costs-for-the-transport-of-excess-heat-to-district-heating-areas)
         * [Development of future heat load profiles](#part-iii-analysis-of-the-economic-potential-for-efficiency-in-heating-and-cooling_step-2-costs-and-potentials-for-district-heating-in-representative-regions-cities_Development-of-future-heat-load-profiles)
@@ -204,7 +204,7 @@ For each of the developed groups of typical DH areas, then one or several repres
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
 
-## Step 2: Costs and potentials for district heating in representative regions/cities
+## Step 2: Costs and potentials for district heating in representative regions or cities
 
 For the identified representative cities/areas analyses on the costs and potentials for the heat supply with district heating can be performed. For these analyses, Hotmaps provides various default data layers in the Hotmaps database as well as different Calculation Modules (CMs). Also, own data can be uploaded and used. These analyses can consist of the following steps:
 * Assess the economic potential for district heating networks
