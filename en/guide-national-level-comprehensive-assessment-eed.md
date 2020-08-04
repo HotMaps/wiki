@@ -177,10 +177,7 @@ In the next step, the potentials for excess heat and renewable energy in the reg
     * [DB - Industrial sites excess heat](https://gitlab.com/hotmaps/industrial_sites/industrial_sites_industryBenchmarks)
   * Other excess heat sources:
     * Information on other excess heat sources like power plants, further industrial plants, low-temperature heat sources like river water, data centres, etc. can be uploaded into the toolbox. A guide on how to do this can be found [here](https://wiki.hotmaps.hevs.ch/en/CM-Add-industry-plant).
-<br/>  
-[[/en/guide-national-level-comprehensive-assessment-eed/Wiki local detailed Step 1final.png]]
-*Figure: Identification of different representative, typical cases for district heating (Step 1).*
-
+  
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
 
 ### Identification of representative, typical district heating areas for further analysis
