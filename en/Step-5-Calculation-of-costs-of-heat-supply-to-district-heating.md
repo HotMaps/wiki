@@ -1,8 +1,13 @@
+[**`Scenario Toolchain Steps`**](guide-local-and-municipal-levels#the-hotmaps-scenario-toolchain-different-steps)
+[**`Previous step`**](step-4-calculation-of-district-heating-distribution-costs)
+[**`Next step`**](step-6-assessment-of-scenarios-for-entire-heat-demand-and-supply-for-the-selected-area)
+<br\>  
 <h1>Step 5: Calculation of costs of heat supply to district heating</h1>
 
 [[/en/Step-5-Calculation-of-costs-of-heat-supply-to-district-heating/Hotmaps_Local_Toolchain_Step_5final.png]]
-*The steps to calculate the costs of heat supply to district heating are highlighted above*
-
+*Figure: The steps to calculate the costs of heat supply to district heating are highlighted in the Toolchain above*
+<br\>  
+<br\>  
 ### Estimation of costs for the transport of excess heat to district heating areas
 In order to estimate the costs of transporting excess heat from potential sources outside of district heating areas to potential district heating areas the [CM - Excess heat transport potential](https://wiki.hotmaps.hevs.ch/en/CM-Excess-heat-transport-potential) can be used. The module yields levelised costs of excess heat transported to the district heating grid [EUR/MWh]. This can further be used in the next step of calculating heat supply costs in district heating.
 
@@ -34,3 +39,9 @@ The outcomes of this step are the heat supply costs to the district heating syst
 
 The following figure shows the overall approach.
 [[/en/Step-5-Calculation-of-costs-of-heat-supply-to-district-heating/Wiki-local-detailed-Step-5final.png]]
+*Figure: Overall approach to the calculation of heat supply to district heating costs*
+<br\>  
+<br\>  
+[**`Scenario Toolchain Steps`**](guide-local-and-municipal-levels#the-hotmaps-scenario-toolchain-different-steps)
+[**`Previous step`**](step-4-calculation-of-district-heating-distribution-costs)
+[**`Next step`**](step-6-assessment-of-scenarios-for-entire-heat-demand-and-supply-for-the-selected-area)
