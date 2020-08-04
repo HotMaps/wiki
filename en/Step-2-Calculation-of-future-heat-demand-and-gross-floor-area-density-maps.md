@@ -1,7 +1,7 @@
 <h1>Step 2: Calculation of future heat demand and gross floor area density maps</h1>
-
+<br/>  
 [[/en/Step-2-Calculation-of-future-heat-demand-and-gross-floor-area-density-maps/Hotmaps_Local_Toolchain_Step_2final.png]]
-
+<br/>  
 *The steps to calculate the future heat demand and gross floor area density maps are highlighted above*
 
 The first step in the analysis is to generate future heat demand and floor area density maps for your city/region of interest. You can use data developed in the course of the Hotmaps project for all EU-28 countries ([Hotmaps default data](https://wiki.hotmaps.hevs.ch/en/Hotmaps-open-data-repositories), available in the [Hotmaps database](https://gitlab.com/hotmaps)), or you can use other heat demand density maps for your region of interest.
@@ -16,3 +16,7 @@ The first step in the analysis is to generate future heat demand and floor area 
   * It is also possible to further adapt the own heat density maps with the [CM - Scale heat and cold density maps](https://wiki.hotmaps.hevs.ch/en/CM-Scale-heat-and-cool-density-maps) or via the [CM - Demand projection](https://wiki.hotmaps.hevs.ch/en/CM-Demand-projection) like for the default layer.
 
 The developed heat demand and floor area density maps are further used in the subsequent steps in other Calculation Modules (CMs).
+<br/>  
+<br/>  
+[**`To the Scenario Toolchain Steps`**](guide-local-and-municipal-levels#the-hotmaps-scenario-toolchain-different-steps)
+[**`To the next step`**](step-2-Calculation-of-future-heat-demand-and-gross-floor-area-density-maps)
