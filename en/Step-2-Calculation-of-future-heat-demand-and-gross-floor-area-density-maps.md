@@ -1,6 +1,6 @@
-[**`To the Scenario Toolchain Steps`**](guide-local-and-municipal-levels#the-hotmaps-scenario-toolchain-different-steps)
-[**`To the previous step`**](step-1-analysis-of-current-heat-demand-and-available-resource-potentials)
-[**`To the next step`**](step-2-calculation-of-future-heat-demand-and-gross-floor-area-density-maps)
+[**`Scenario Toolchain Steps`**](guide-local-and-municipal-levels#the-hotmaps-scenario-toolchain-different-steps)
+[**`Previous step`**](step-1-analysis-of-current-heat-demand-and-available-resource-potentials)
+[**`Next step`**](step-2-calculation-of-future-heat-demand-and-gross-floor-area-density-maps)
 <br/>  
 <h1>Step 2: Calculation of future heat demand and gross floor area density maps</h1>
 <br/>  
@@ -23,6 +23,6 @@ The first step in the analysis is to generate future heat demand and floor area 
 The developed heat demand and floor area density maps are further used in the subsequent steps in other Calculation Modules (CMs).
 <br/>  
 <br/>  
-[**`To the Scenario Toolchain Steps`**](guide-local-and-municipal-levels#the-hotmaps-scenario-toolchain-different-steps)
-[**`To the previous step`**](step-1-analysis-of-current-heat-demand-and-available-resource-potentials)
-[**`To the next step`**](step-2-calculation-of-future-heat-demand-and-gross-floor-area-density-maps)
+[**`Scenario Toolchain Steps`**](guide-local-and-municipal-levels#the-hotmaps-scenario-toolchain-different-steps)
+[**`Previous step`**](step-1-analysis-of-current-heat-demand-and-available-resource-potentials)
+[**`Next step`**](step-2-calculation-of-future-heat-demand-and-gross-floor-area-density-maps)
