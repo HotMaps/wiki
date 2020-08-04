@@ -78,7 +78,7 @@ Finally, it presents the feedback collected, providing both an overview of how t
 
 ### On-site Training
 
-TBD
+**TO BE COMPLETED**
 
 [**`To Top`**](#table-of-contents)
 
@@ -91,6 +91,7 @@ The training material is presented below following the order in which it has bee
   - [Exercises 3-4](#training-material_online-training_exercises-3-4)
   - [Exercise 5](#training-material_online-training_exercise-5)
   - [Closing Webinar](#training-material_online-training_closing-webinar)
+
 
 ##### Before the training
 * Email sent to participants before the first webinar [English]() / [German]() (LINKS TO BE ADDED WHEN FILE HAS BEEN UPLOADED) **(SHOULD WE POST THIS?)**
@@ -112,6 +113,7 @@ Handbooks:
 * Introductory video: The EU wide database [English](https://www.youtube.com/watch?v=dyJ5zySYBkM)
 * Test: introduction videos [English](https://docs.google.com/forms/d/e/1FAIpQLSf4lO8jXH77CRRjzwL4OT4ZoEO5AeSpRZhKnzWbKvZLRUwW_Q/viewform?authuser=1) / [German](https://docs.google.com/forms/d/e/1FAIpQLSfpqw2j-Dfc8YmOHRDGCw3J3RE8-0oDtN0ekbeh3rnCHRwIHg/viewform?authuser=1)
 
+
 ##### Exercises 1-2
 * Webinar: introduction to exercises 1-2 [English](https://www.youtube.com/watch?v=DOnJArGz_3E) / [German](https://www.youtube.com/watch?v=qvgpgkp7WEE)
 * Presentation used for the webinar  [English]() / [German]() (ADD LINKS WHEN FILES HAVE BEEN UPLOADED) **(SHOULD WE POST THIS?)**
@@ -119,17 +121,20 @@ Handbooks:
 * Exercises 1-2 excel [English]() / [German]() (ADD LINKS WHEN FILES HAVE BEEN UPLOADED)
 * How to open a CSV [English]() / [German]() (ADD LINKS WHEN FILES HAVE BEEN UPLOADED)
 
+
 ##### Exercises 3-4
 * Webinar: Wrap-up of exercises 1-2, introduction to exercises 3-4 [English](https://www.youtube.com/watch?v=YbfLLoREo6w) / [German](https://www.youtube.com/watch?v=8U_9bT3TZgg)
 * Presentation used for the webinar [English]() / [German]() (ADD LINKS WHEN FILES HAVE BEEN UPLOADED) **(SHOULD WE POST THIS?)**
 * Exercises 3-4 word [English]() / [German]() (ADD LINKS WHEN FILES HAVE BEEN UPLOADED)
 * Exercises 3-4 excel [English]() / [German]() (ADD LINKS WHEN FILES HAVE BEEN UPLOADED)
 
+
 ##### Exercise 5
 * Webinar: Wrap-up of exercises 3-4, introduction to exercise 5 [English](https://www.youtube.com/watch?v=NAcdCrsQZuI) / [German](https://www.youtube.com/watch?v=lnTw9aCR6Fw)
 * Presentation used for the webinar [English]() / [German]() (ADD LINKS WHEN FILES HAVE BEEN UPLOADED) **(SHOULD WE POST THIS?)**
 * Exercise 5 word [English]() / [German]() (ADD LINKS WHEN FILES HAVE BEEN UPLOADED)
 * Exercise 5 excel [English]() / [German]() (ADD LINKS WHEN FILES HAVE BEEN UPLOADED)
+
 
 ##### Closing Webinar
 * Webinar: Wrap-up of exercise 5, feedback questionnaire, certificates and final remarks [English](https://www.youtube.com/watch?v=NAcdCrsQZuI) / [German](https://www.youtube.com/watch?v=CPCDR-iBTZA)
