@@ -112,10 +112,10 @@ In this sheet, the input to enter is the *Heat demand total (Final Energy)* for 
 The output of the previous sheet *Decentral heating supply*, shown in fields highlighted in red, is to be copied and pasted in this sheet in the yellow fields. This sheet is meant to combine a number of decentral heating scenarios that will be considered for the portion of decentral heating in each one of the scenarios assessed in the Final Table. So for instance, if the sensitivity analysis builds on one fixed decentral heating scenario and evaluates the impact of nine levels of penetration of district heating, then the previous steps should be carried out only once and the Decentral heating supply outcome should be pasted in all the nine columns of this sheet. Conversely, if different decentral heating scenarios are compared, the three steps previously described should be repeated for each one.
 
 ### Ref. DH Economic Assessment
-
+The input used to run several scenarios of the *CM DH Economic Assessment* are to be written in the blue cells, and each run's output is to be pasted in the yellow fields. This sheet is also meant to combine a number of decentral heating scenarios that will be considered for the portion of decentral heating in each one of the scenarios assessed in the Final Table, but in relation to the economic assessment and costs. As for the previous sheet, if the sensitivity analysis builds on one fixed decentral heating scenario and evaluates the impact of nine levels of penetration of district heating, then the Decentral Heating Economics Assessment outcome should be pasted in all the nine columns of this sheet. Conversely, if different decentral heating scenarios are compared, a separate run of the Calculation module should be complete for each scenario.
 
 ### Ref. DH supply dispatch
-
+The input used to run several scenarios of the *CM DH Supply Dispatch* are to be written in the blue cells, and each run's output is to be pasted in the yellow fields. This sheet is also meant to combine a number of decentral heating scenarios that will be considered for the portion of decentral heating in each one of the scenarios assessed in the Final Table. As for the previous sheet, if the sensitivity analysis builds on one fixed decentral heating scenario and evaluates the impact of nine levels of penetration of district heating, then the Decentral Heating Economics Assessment outcome should be pasted in all the nine columns of this sheet. Conversely, if different decentral heating scenarios are compared, a separate run of the Calculation module should be complete for each scenario.
 
 
 [**`To Top`**](#table-of-contents)
@@ -151,7 +151,7 @@ Mostafa Fallahnejad, in Hotmaps-Wiki, CM-Scenario-assessment (June 2019)
 
 ## Authors and reviewers
 
-This page is written by Mostafa Fallahnejad\*.
+This page is written by Mostafa Fallahnejad, Giulia Conforto and David Schmidinger\*.
 
 - [ ] This page was reviewed by Lukas Kranzl\*.
 
