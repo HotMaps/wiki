@@ -84,7 +84,7 @@ For additional supports on heating and cooling planning, please refer to the Hot
 * [Handbook 1 – Definition &amp; experiences of strategic heat planning](https://vbn.aau.dk/da/publications/definition-amp-experiences-of-strategic-heat-planning)
 * [Handbook 2 – Guidance for comprehensive assessment of efficient heating and cooling](https://vbn.aau.dk/da/publications/guidance-for-the-comprehensive-assessment-of-efficient-heating-an)
 * [Appendix report to the Handbook for strategic heat planning: Case descriptions](https://vbn.aau.dk/da/publications/appendix-report-to-the-hotmaps-handbook-for-strategic-heat-planni)
-* [Training Materials](Training-Materials)
+* [Training Material](https://wiki.hotmaps.hevs.ch/Training-Material)
 
 
 ## For developers
