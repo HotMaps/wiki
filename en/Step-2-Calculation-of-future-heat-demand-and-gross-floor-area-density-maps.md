@@ -1,6 +1,6 @@
 [**`Scenario Toolchain Steps`**](guide-local-and-municipal-levels#the-hotmaps-scenario-toolchain-different-steps)
 [**`Previous step`**](step-1-analysis-of-current-heat-demand-and-available-resource-potentials)
-[**`Next step`**](step-2-calculation-of-future-heat-demand-and-gross-floor-area-density-maps)
+[**`Next step`**](step-3-Calculation-of-costs-of-decentral-heat-supply)
 <br/>  
 <h1>Step 2: Calculation of future heat demand and gross floor area density maps</h1>
 <br/>  
