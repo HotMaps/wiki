@@ -1,3 +1,7 @@
+[**`Scenario Toolchain Steps`**](guide-national-level-comprehensive-assessment-eed#part-iii-analysis-of-the-economic-potential-for-efficiency-in-heating-and-cooling_different-steps)
+[**`Previous step`**](step-1-identification-of-different-representative-cases-for-district-heating)
+[**`Next step`**](Step-3-Calculation-of-decentral-heat-supply)
+<br/>  
 <h1>Step 2: Costs and potentials for district heating in representative regions or cities</h1>
 
 # Table of Contents
@@ -79,3 +83,7 @@ The calculations can be used to identify beneficial supply portfolios in the dif
 The outcomes of this step are the heat supply costs to the district heating system [EUR/MWh] in each of the representative cities/areas and the related CO2 emissions [kt/yr]. These results will then be used in the overall scenario comparison in step 4.
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
+
+[**`Scenario Toolchain Steps`**](guide-national-level-comprehensive-assessment-eed#part-iii-analysis-of-the-economic-potential-for-efficiency-in-heating-and-cooling_different-steps)
+[**`Previous step`**](step-1-identification-of-different-representative-cases-for-district-heating)
+[**`Next step`**](Step-3-Calculation-of-decentral-heat-supply)
