@@ -1,4 +1,4 @@
-[**`To the Scenario Toolchain Steps`**](guide-local-and-municipal-levels_the-hotmaps-scenario-toolchain-different-steps)
+[**`To the Scenario Toolchain Steps`**](guide-local-and-municipal-levels#the-hotmaps-scenario-toolchain-different-steps)
 [**`To the next step`**](step-2-Calculation-of-future-heat-demand-and-gross-floor-area-density-maps)
 <br/>  
 <h1>Step 1: Analysis of current heat demand and available resource potentials</h1>
@@ -37,5 +37,5 @@ The following figure shows this procedure graphically and shows the various data
 *Figure: Identification of different representative, typical cases for district heating (Step 1).*
 <br/>  
 <br/>  
-[**`To the Scenario Toolchain Steps`**](guide-local-and-municipal-levels_the-hotmaps-scenario-toolchain-different-steps)
+[**`To the Scenario Toolchain Steps`**](guide-local-and-municipal-levels#the-hotmaps-scenario-toolchain-different-steps)
 [**`To the next step`**](step-2-Calculation-of-future-heat-demand-and-gross-floor-area-density-maps)
