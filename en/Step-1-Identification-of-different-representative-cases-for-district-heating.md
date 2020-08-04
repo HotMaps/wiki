@@ -1,5 +1,5 @@
 [**`Scenario Toolchain Steps`**](guide-national-level-comprehensive-assessment-eed#part-iii-analysis-of-the-economic-potential-for-efficiency-in-heating-and-cooling_different-steps)
-[**`Next step`**](step-2-Calculation-of-future-heat-demand-and-gross-floor-area-density-maps)
+[**`Next step`**](step-2-Costs-and-potentials-for-district-heating-in-representative-regions-or-cities)
 <br/>  
 <h1>Step 1: Identification of different representative cases for district heating</h1>
 
@@ -103,4 +103,4 @@ The analysis cities/areas potentially interesting for district heating follows t
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
 <br/>  
 [**`Scenario Toolchain Steps`**](guide-national-level-comprehensive-assessment-eed#part-iii-analysis-of-the-economic-potential-for-efficiency-in-heating-and-cooling_different-steps)
-[**`Next step`**](step-2-Calculation-of-future-heat-demand-and-gross-floor-area-density-maps)
+[**`Next step`**](step-2-Costs-and-potentials-for-district-heating-in-representative-regions-or-cities)
