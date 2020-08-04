@@ -104,15 +104,21 @@ The following resulting **indicators can be retrieved from the Hotmaps Calculati
 ## Different Steps
 
 * [Step 1: Identification of different representative cases for district heating](https://wiki.hotmaps.hevs.ch/en/Step-1-Identification-of-different-representative-cases-for-district-heating)
-   * Calculation of future heat demand and building floor area density maps
-   * Identification of areas potentially interesting for district heating
-   * Analysis of potentials for excess heat and renewable energy in the identified areas with potential interest for district heating
-   * Identification of representative, typical district heating areas for further analysis
+   * [Calculation of future heat demand and building floor area density maps](Step-1-Identification-of-different-representative-cases-for-district-heating#step-1-identification-of-different-representative-cases-for-district-heating_calculation-of-future-heat-demand-and-building-floor-area-density-maps)
+   * [Identification of areas potentially interesting for district heating](Step-1-Identification-of-different-representative-cases-for-district-heating#step-1-identification-of-different-representative-cases-for-district-heating_identification-of-areas-potentially-interesting-for-district-heating)
+   * [Identification of representative, typical district heating areas for further analysis](Step-1-Identification-of-different-representative-cases-for-district-heating#step-1-identification-of-different-representative-cases-for-district-heating_identification-of-representative-typical-district-heating-areas-for-further-analysis)
+   * [Analysis on local level](Step-1-Identification-of-different-representative-cases-for-district-heating#step-1-identification-of-different-representative-cases-for-district-heating_analysis-on-local-level)
+     * [Step 1: Analysis of current heat demand and available resource potentials](https://wiki.hotmaps.hevs.ch/en/Step-1-Analysis-of-current-heat-demand-and-available-resource-potentials)
+     * [Step 2: Calculation of future heat demand and gross floor area density maps](https://wiki.hotmaps.hevs.ch/en/Step-2-Calculation-of-future-heat-demand-and-gross-floor-area-density-maps)
+     * [Step 3: Calculation of costs of decentral heat supply](https://wiki.hotmaps.hevs.ch/en/Step-3-Calculation-of-costs-of-decentral-heat-supply)
+     * [Step 4: Calculation of district heating distribution costs](https://wiki.hotmaps.hevs.ch/en/Step-4-Calculation-of-district-heating-distribution-costs)
+     * [Step 5: Calculation of costs of heat supply to district heating](https://wiki.hotmaps.hevs.ch/en/Step-5-Calculation-of-costs-of-heat-supply-to-district-heating)
+     * [Step 6: Assessment of scenarios for entire heat demand and supply for the selected area](https://wiki.hotmaps.hevs.ch/en/Step-6-Assessment-of-scenarios-for-entire-heat-demand-and-supply-for-the-selected-area)
 * [Step 2: Costs and potentials for district heating in representative regions or cities](https://wiki.hotmaps.hevs.ch/en/Step-2-Costs-and-potentials-for-district-heating-in-representative-regions-or-cities)
-   * Economic assessment of the potential for district heating
-   * Estimation of costs for the transport of excess heat to district heating areas
-   * Development of future heat load profiles
-   * Calculation of costs and emissions of heat supply in district heating
+   * [Economic assessment of the potential for district heating](Step-2-Costs-and-potentials-for-district-heating-in-representative-regions-or-cities#step-2-costs-and-potentials-for-district-heating-in-representative-regions-or-cities_economic-assessment-of-the-potential-for-district-heating)
+   * [Estimation of costs for the transport of excess heat to district heating areas](Step-2-Costs-and-potentials-for-district-heating-in-representative-regions-or-cities#step-2-costs-and-potentials-for-district-heating-in-representative-regions-or-cities_estimation-of-costs-for-the-transport-of-excess-heat-to-district-heating-areas)
+   * [Development of future heat load profiles](Step-2-Costs-and-potentials-for-district-heating-in-representative-regions-or-cities#step-2-costs-and-potentials-for-district-heating-in-representative-regions-or-cities_development-of-future-heat-load-profiles)
+   * [Calculation of costs and emissions of heat supply in district heating](Step-2-Costs-and-potentials-for-district-heating-in-representative-regions-or-cities#step-2-costs-and-potentials-for-district-heating-in-representative-regions-or-cities_calculation-of-costs-and-emissions-of-heat-supply-in-district-heating)
 * [Step 3: Calculation of decentral heat supply](https://wiki.hotmaps.hevs.ch/en/Step-3-Calculation-of-decentral-heat-supply)
 * [Step 4: Comparison of results for different scenarios](https://wiki.hotmaps.hevs.ch/en/Step-4-Comparison-of-results-for-different-scenarios)
 
