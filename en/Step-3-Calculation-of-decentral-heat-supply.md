@@ -1,3 +1,7 @@
+[**`Scenario Toolchain Steps`**](guide-national-level-comprehensive-assessment-eed#part-iii-analysis-of-the-economic-potential-for-efficiency-in-heating-and-cooling_different-steps)
+[**`Previous step`**](Step-2-Costs-and-potentials-for-district-heating-in-representative-regions-or-cities)
+[**`Next step`**](Step-4-Comparison-of-results-for-different-scenarios)
+
 ## Step 3: Calculation of decentral heat supply
 
 In the third step, the costs and emissions of heat supply via decentral technologies are calculated. This calculation should be performed for different representative buildings in the country/region of interest. While for district heating representative cities/areas have been developed in step 1 of the approach, typical buildings in each EU Member State data can be found in the Hotmaps default database. Also, for many EU countries detailed building typologies (building archetypes) with data on heat demand before and after renovation can be found in statistics and literature.
@@ -12,3 +16,7 @@ The calculations can be used to identify costs and benefits of various supply te
 The outcomes of this step are the costs of heat supply via decentral technologies [EUR/MWh] in each of the representative buildings and the related CO2 emissions [kt/yr]. These results will then be used in the overall scenario comparison in step 4.
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
+
+[**`Scenario Toolchain Steps`**](guide-national-level-comprehensive-assessment-eed#part-iii-analysis-of-the-economic-potential-for-efficiency-in-heating-and-cooling_different-steps)
+[**`Previous step`**](Step-2-Costs-and-potentials-for-district-heating-in-representative-regions-or-cities)
+[**`Next step`**](Step-4-Comparison-of-results-for-different-scenarios)
