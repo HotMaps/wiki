@@ -65,7 +65,7 @@ After the COVID-19 outbreak, the remaining training workshops planned in Milton 
 
 ## Guidelines to host a Hotmaps training 
 
-The document on the [Training Materials]() **(LINK TO BE ADDED WHEN FILE HAS BEEN UPLOADED)** provides guidelines and examples to assist the performance of further training workshops on the use of the Hotmaps tool, as well as the self-taught training. In addition, it elaborates on practical aspects of designing, organizing and delivering a Hotmaps training, such as training structure, selection of trainers, locations and timing, promotion activities, registration and more. The process of subsequent adjustments due both to the experience and feedback gathered in the first two on-site training workshops and to the COVID-19 outbreak is explained by presenting both the original workshop draft and final agendas, as well as the online training courses agendas, together with the on-site training materials and those later used online.
+The document on the [Training Material Guideline]() **(LINK TO BE ADDED WHEN FILE HAS BEEN UPLOADED)** provides guidelines and examples to assist the performance of further training workshops on the use of the Hotmaps tool, as well as the self-taught training. In addition, it elaborates on practical aspects of designing, organizing and delivering a Hotmaps training, such as training structure, selection of trainers, locations and timing, promotion activities, registration and more. The process of subsequent adjustments due both to the experience and feedback gathered in the first two on-site training workshops and to the COVID-19 outbreak is explained by presenting both the original workshop draft and final agendas, as well as the online training courses agendas, together with the on-site training materials and those later used online.
 
 The document provides also guidelines for a live presentation of the tool, a list of all the available capacity building and educational materials produced, together with their respective use. All the sections of the training are explained in details and the training material used is illustrated, including the use of an e-learning platform, the exercises hand-outs and their relative solutions. 
 
@@ -84,7 +84,7 @@ TBD
 
 ### Online Training
 
-The training material is presented below following the order in which it has been used or distributed. To see the agenda used during the training, please refer to the [Training Material Guidelines]() (LINK TO BE ADDED WHEN FILE HAS BEEN UPLOADED)
+The training material is presented below following the order in which it has been used or distributed. To see the agenda used during the training, please refer to the [Training Material Guideline]() (LINK TO BE ADDED WHEN FILE HAS BEEN UPLOADED)
   - [Before the training](#training-material_online-training_before-the-training)
   - [Preparatory webinar](#training-material_online-training_preparatory-webinar)
   - [Exercises 1-2](#training-material_online-training_exercises-1-2)
