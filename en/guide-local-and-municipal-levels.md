@@ -22,7 +22,7 @@ These guidelines describe how the Hotmaps database and toolbox can be used to an
 For calculating scenarios of potential future heating demand and supply in the city and the related costs and emissions we use the Hotmaps toolbox. In the toolbox, various calculation modules (CMs) are contained for analysing different parts of the heating and cooling systems. The following figure shows the different CMs (in light blue) that were used and the information that was created from or feeding into the CMs.
 <br/>
 <br/>  
-[[/en/guide-local-and-municipal-levels/Hotmaps_Local_Toolchain_Overview_final.png]]
+[[/en/guide-local-and-municipal-levels/Toolchain_29_06_2020.png]]
 
 *Figure: Method for calculating scenarios and sensitivities of heating demand and supply for this strategy process*
 <br/>
