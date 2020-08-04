@@ -1,3 +1,6 @@
+[**`Scenario Toolchain Steps`**](guide-national-level-comprehensive-assessment-eed#part-iii-analysis-of-the-economic-potential-for-efficiency-in-heating-and-cooling_different-steps)
+[**`Next step`**](step-2-Calculation-of-future-heat-demand-and-gross-floor-area-density-maps)
+<br/>  
 <h1>Step 1: Identification of different representative cases for district heating</h1>
 
 # Table of Contents
@@ -86,7 +89,7 @@ For each of the developed groups of typical DH areas, then one or several repres
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
 
-## Analyses on local level
+## Analysis on local level
 
 The analysis cities/areas potentially interesting for district heating follows the process explained in the [Guideline: Hotmaps toolbox on local level](https://wiki.hotmaps.hevs.ch/en/guide-local-and-municipal-levels):
   * [Step 1: Analysis of current heat demand and available resource potentials](https://wiki.hotmaps.hevs.ch/en/Step-1-Analysis-of-current-heat-demand-and-available-resource-potentials)
@@ -98,3 +101,6 @@ The analysis cities/areas potentially interesting for district heating follows t
 
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
+<br/>  
+[**`Scenario Toolchain Steps`**](guide-national-level-comprehensive-assessment-eed#part-iii-analysis-of-the-economic-potential-for-efficiency-in-heating-and-cooling_different-steps)
+[**`Next step`**](step-2-Calculation-of-future-heat-demand-and-gross-floor-area-density-maps)
