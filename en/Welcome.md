@@ -30,7 +30,7 @@ General toolbox functionalities guide the user through the interface of the tool
 
 The calculation module section, on the other hand, provides an in-depth explanation of concepts and methodologies behind the calculation modules. Besides the explanation of the methodology, the provided examples and test runs for each calculation module help the user to obtain understanding of input parameters and obtained results. Currently, only few calculation modules have been integrated into the toolbox. The calculation module section will expand further by integration of new calculation modules.
 
-The aim of section "How to apply hotmaps toolbox?" is to guide the Hotmaps users to perform heating and cooling planning with the Hotmaps toolbox.
+The aim of section "How to apply hotmaps toolbox?" is to guide the Hotmaps users to perform heating and cooling planning with the Hotmaps toolbox. It includes guidelines on the use of Hotmaps at local and national level, as well and training materials and handbooks.
 
 The developers section contains all information required for developers to contribute to the Hotmaps toolbox or to understand how it works. It explains amongst all the IT infrastructure of the Hotmaps toolbox, data set integration, contribution in calculation module development etc.
 
@@ -75,15 +75,16 @@ Each calculation module can be used to analyse different parts of the heating an
 
 ![](../images/Hotmaps_toolchain_2019-05-09.png)
 
-* [Guideline for a possible use of the Hotmaps toolbox on local level](guide-local-and-municipal-levels)
-* [Guideline for a possible use of the Hotmaps toolbox on national level](guide-national-level-comprehensive-assessment-eed)
+* [Guideline for using the Hotmaps toolbox on local level](guide-local-and-municipal-levels)
+* [Guideline for using the Hotmaps toolbox on national level](guide-national-level-comprehensive-assessment-eed)
 
 
-For additional supports on heating and cooling planning, please refer to the Hotmaps handbook:
+For additional supports on heating and cooling planning, please refer to the Hotmaps handbooks and to the Training Material page:
 * [Summary of the Hotmaps Handbooks for strategic heat planning](https://www.hotmaps-project.eu/wp-content/uploads/2019/04/Summary-Hotmaps-Handbook.pdf)
 * [Handbook 1 – Definition &amp; experiences of strategic heat planning](https://vbn.aau.dk/da/publications/definition-amp-experiences-of-strategic-heat-planning)
 * [Handbook 2 – Guidance for comprehensive assessment of efficient heating and cooling](https://vbn.aau.dk/da/publications/guidance-for-the-comprehensive-assessment-of-efficient-heating-an)
 * [Appendix report to the Handbook for strategic heat planning: Case descriptions](https://vbn.aau.dk/da/publications/appendix-report-to-the-hotmaps-handbook-for-strategic-heat-planni)
+* [Training Material](Training-Material)
 
 
 ## For developers
