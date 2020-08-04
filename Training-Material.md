@@ -103,9 +103,9 @@ Handbooks:
 ####Introductory webinar, one week before the intensive training
 * [Hotmaps online training - Preparatory webinar (recording)](https://www.youtube.com/watch?v=nGJ8BJNB4z8)
   [German version](https://www.youtube.com/watch?v=4FLplnzbtg0)
-* [Link to the presentation used for the webinar] **(SHOULD WE POST THIS?)**
+* [Link to the presentation used for the webinar]() **(SHOULD WE POST THIS?)**
   [German version]() (LINK TO BE ADDED WHEN FILE HAS BEEN UPLOADED)  
-* [Link to an archived/active Google Classroom] **(SHOULD WE CREATE A CLASS AND LEAVE IT OPEN AND ACCESSIBLE FOR THIS WIKI PAGE?)** 
+* [Link to an archived/active Google Classroom]() **(SHOULD WE CREATE A CLASS AND LEAVE IT OPEN AND ACCESSIBLE FOR THIS WIKI PAGE?)** 
 * [Tutorial: How to use Hotmaps](https://youtu.be/dUDACmC_LO8)
   This tutorial can be seen in any language, providing the user logs in into youtube with his account and as the desired language set as default
 * [Hotmaps online training - Introduction: How can the toolbox support energy planning?](https://www.youtube.com/watch?v=7IPcVlWsarc)
@@ -116,11 +116,11 @@ Handbooks:
 ####Introduction to the use of the tool, exercises 1 - 2
 * [Hotmaps online training - Presentation exercises 1 and 2](https://www.youtube.com/watch?v=DOnJArGz_3E)
   [German version](https://www.youtube.com/watch?v=qvgpgkp7WEE)
-* [Link to the presentation used for the webinar] **(SHOULD WE POST THIS?)**
+* [Link to the presentation used for the webinar]() **(SHOULD WE POST THIS?)**
   [German version]() (LINK TO BE ADDED WHEN FILE HAS BEEN UPLOADED)
 * [Link to exercise 1-2 word]() (LINK TO BE ADDED WHEN FILE HAS BEEN UPLOADED)
   [German version]() (LINK TO BE ADDED WHEN FILE HAS BEEN UPLOADED)
-* [Link to exercise 1-2 excel] (LINK TO BE ADDED WHEN FILE HAS BEEN UPLOADED)
+* [Link to exercise 1-2 excel]() (LINK TO BE ADDED WHEN FILE HAS BEEN UPLOADED)
   [German version]() (LINK TO BE ADDED WHEN FILE HAS BEEN UPLOADED)
 * [Link to how to open a CSV]() (LINK TO BE ADDED WHEN FILE HAS BEEN UPLOADED)
   [German version]() (LINK TO BE ADDED WHEN FILE HAS BEEN UPLOADED)
@@ -128,7 +128,7 @@ Handbooks:
 ####Wrap-up of exercises 1 - 2, introduction to exercises 3 and 4
 * [Hotmaps online training - Wrap-up exercises 1 and 2 and Presentation exercises 3 and 4](https://www.youtube.com/watch?v=YbfLLoREo6w)
   [German version](https://www.youtube.com/watch?v=8U_9bT3TZgg)
-* [Link to the presentation used for the webinar] **(SHOULD WE POST THIS?)**
+* [Link to the presentation used for the webinar]() **(SHOULD WE POST THIS?)**
   [German version]() (LINK TO BE ADDED WHEN FILE HAS BEEN UPLOADED)
 * [Link to exercise 3-4 word]() (LINK TO BE ADDED WHEN FILE HAS BEEN UPLOADED)
   [German version]() (LINK TO BE ADDED WHEN FILE HAS BEEN UPLOADED)
