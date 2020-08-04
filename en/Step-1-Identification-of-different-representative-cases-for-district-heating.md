@@ -4,7 +4,7 @@
 * [Step 1: Identification of different representative cases for district heating](#step-1-identification-of-different-representative-cases-for-district-heating)
   * [Calculation of future heat demand and building floor area density maps](#step-1-identification-of-different-representative-cases-for-district-heating_calculation-of-future-heat-demand-and-building-floor-area-density-maps)
   * [Identification of areas potentially interesting for district heating](#step-1-identification-of-different-representative-cases-for-district-heating_identification-of-areas-potentially-interesting-for-district-heating)
-  * [Analysis of potentials for excess heat and renewable energy in the identified areas with potential interest for district heating](#step-1-identification-of-different-representative-cases-for-district-heating_analysis of potentials for excess heat and renewable energy in the identified areas with potential interest for district heating)
+  * [Analysis of potentials for excess heat and renewable energy in the identified areas with potential interest for district heating](https://wiki.hotmaps.hevs.ch/en/Step-1-Analysis-of-current-heat-demand-and-available-resource-potentials)
   * [Identification of representative, typical district heating areas for further analysis](#step-1-identification-of-different-representative-cases-for-district-heating_identification-of-representative-typical-district-heating-areas-for-further-analysis)
 
 # Step 1: Identification of different representative cases for district heating
@@ -48,37 +48,19 @@ After developing possible future scenarios of heat demand and floor area density
 * The CM is possible to use at NUTS3 - NUTS0 level and also on hectare level (=own selection of an area). However, for larger areas calculation might take a long time, or the module may find too many feasible areas and may not be able to display the results. In such a case the area of interest can be split up, e.g. in the different NUTS3 or Hectare areas, and for each of these the CM can be started.
 * The CM identifies potential district heating areas based on the following two threshold values: a heat demand threshold for the heat demand in each cell of the heat demand density map and a heat demand threshold for groups of connected cells with heat demand above the previous threshold (=coherent area). These two threshold values have to be defined by the user.
 * Besides several other indicators the module generates a shapefile of potential district heating areas that are displayed and stored in the toolbox in the layers section. Especially of interest are the following indicators: total heat demand in the coherent area, average heat demand density in the area. 
-* After having used the CM for the entire region/country of interest an overall map of potential district heating areas can be generated out of the single maps. 
+* After having used the CM for the entire region/country of interest an overall map of potential district heating areas can be generated out of the single maps.
+
+The analysis cities/areas potentially interesting for district heating follows the process explained in the [Guideline: Hotmaps toolbox on local level](https://wiki.hotmaps.hevs.ch/en/guide-local-and-municipal-levels):
+  * [Step 1: Analysis of current heat demand and available resource potentials](https://wiki.hotmaps.hevs.ch/en/Step-1-Analysis-of-current-heat-demand-and-available-resource-potentials)
+  * [Step 2: Calculation of future heat demand and gross floor area density maps](https://wiki.hotmaps.hevs.ch/en/Step-2-Calculation-of-future-heat-demand-and-gross-floor-area-density-maps)
+  * [Step 3: Calculation of costs of decentral heat supply](https://wiki.hotmaps.hevs.ch/en/Step-3-Calculation-of-costs-of-decentral-heat-supply)
+  * [Step 4: Calculation of district heating distribution costs](https://wiki.hotmaps.hevs.ch/en/Step-4-Calculation-of-district-heating-distribution-costs)
+  * [Step 5: Calculation of costs of heat supply to district heating](https://wiki.hotmaps.hevs.ch/en/Step-5-Calculation-of-costs-of-heat-supply-to-district-heating)
+  * [Step 6: Assessment of scenarios for entire heat demand and supply for the selected area](https://wiki.hotmaps.hevs.ch/en/Step-6-Assessment-of-scenarios-for-entire-heat-demand-and-supply-for-the-selected-area)
+
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
 
-## Analysis of potentials for excess heat and renewable energy in the identified country/region with potential interest for district heating
-
-In the next step, the potentials for excess heat and renewable energy in the regions that have been identified as potentially interesting for district heating can be analysed. These data together with the data on heat demand and heat demand density in the regions collected in the previous step can then be used to characterise representative district heating areas for further analysis steps. The following list gives an overview of the heat sources that should be taken into account and links to the default data for the respective energy source, which is available in the Hotmaps database:
-
-* Renewable energy sources:
-  * [Waste water treatment plants:](https://gitlab.com/hotmaps/potential/WWTP)
-    * DB - Wastewater treatment plants power
-    * DB - Wastewater treatment plants capacity
-  * [Agricultural biomass:](https://gitlab.com/hotmaps/potential/potential_biomass)
-    * DB - Agricultural residues
-    * DB - Livestock effluents
-  * Forestal biomass:
-    * [DB - Forest residues](https://gitlab.com/hotmaps/potential/potential_forest)
-  * Waste:
-    * [DB - Municipal solid waste](https://gitlab.com/hotmaps/potential/potential_municipal_solid_waste)
-  * Geothermal energy:
-    * [DB - Geothermal potential heat conductivity](https://gitlab.com/hotmaps/potential/potential_geothermal_raster)
-  * Solar thermal energy:
-    * [DB - Potential solar thermal collectors - rooftop](https://gitlab.com/hotmaps/potential/potential_solarthermal_collectors_rooftop)
-    * [DB - Potential solar thermal collectors open - field](https://gitlab.com/hotmaps/potential/potential_solarthermal_collectors_open_field)
-* Excess heat:
-  * Large industrial sites:
-    * [DB - Industrial sites excess heat](https://gitlab.com/hotmaps/industrial_sites/industrial_sites_industryBenchmarks)
-  * Other excess heat sources:
-    * Information on other excess heat sources like power plants, further industrial plants, low-temperature heat sources like river water, data centres, etc. can be uploaded into the toolbox. A guide on how to do this can be found [here](https://wiki.hotmaps.hevs.ch/en/CM-Add-industry-plant).
-  
-<code><ins>**[To Top](#table-of-contents)**</ins></code>
 
 ## Identification of representative, typical district heating areas for further analysis
 
