@@ -1,3 +1,5 @@
+(step-2-Calculation-of-future-heat-demand-and-gross-floor-area-density-maps)
+
 <h1>Step 3: Calculation of costs of decentral heat supply</h1>
 
 [[/en/Step-3-Calculation-of-costs-of-decentral-heat-supply/Hotmaps_Local_Toolchain_Step_3final.png]]
