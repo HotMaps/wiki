@@ -63,7 +63,7 @@ Marcus Hummel, in Hotmaps-Wiki, Guidelines for using the Hotmaps toolbox for ana
 
 
 # Authors and reviewers
-This page is written by Marcus Hummel\*.
+This page is written by Marcus Hummel and Giulia Conforto\*.
 - [x] This page was reviewed by Lukas Kranzl\**.
 
 \* [e-think](https://e-think.ac.at/),
