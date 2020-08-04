@@ -107,12 +107,16 @@ The following resulting **indicators can be retrieved from the Hotmaps Calculati
 ## Different Steps
 
 * [Step 1: Identification of different representative cases for district heating](https://wiki.hotmaps.hevs.ch/en/Step-1-Identification-of-different-representative-cases-for-district-heating)
-   * [Calculation of future heat demand and building floor area density maps](https://wiki.hotmaps.hevs.ch/en/Step-1-Identification-of-different-representative-cases-for-district-heating_calculation-of-future-heat-demand-and-building-floor-area-density-maps)
-   * [Identification of areas potentially interesting for district heating](#step-1-identification-of-different-representative-cases-for-district-heating_identification-of-areas-potentially-interesting-for-district-heating)
-   * [Analysis of potentials for excess heat and renewable energy in the identified areas with potential interest for district heating](#step-1-identification-of-different-representative-cases-for-district-heating_analysis of potentials for excess heat and renewable energy in the identified areas with potential interest for district heating)
-   * [Identification of representative, typical district heating areas for further analysis](#step-1-identification-of-different-representative-cases-for-district-heating_identification-of-representative-typical-district-heating-areas-for-further-analysis)
-
-
+   * Calculation of future heat demand and building floor area density maps
+   * Identification of areas potentially interesting for district heating
+   * Analysis of potentials for excess heat and renewable energy in the identified areas with potential interest for district heating
+   * Identification of representative, typical district heating areas for further analysis
+* [Step 2: Costs and potentials for district heating in representative regions or cities](https://wiki.hotmaps.hevs.ch/en/Step-2-Costs-and-potentials-for-district-heating-in-representative-regions-or-cities)
+   * Economic assessment of the potential for district heating
+   * Estimation of costs for the transport of excess heat to district heating areas
+   * Development of future heat load profiles
+   * Calculation of costs and emissions of heat supply in district heating
+* [Step 3: Calculation of decentral heat supply]
 
 ## Step 3: Calculation of decentral heat supply
 
