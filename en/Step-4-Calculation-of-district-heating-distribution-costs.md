@@ -2,7 +2,6 @@
 [**`Previous step`**](step-3-calculation-of-costs-of-decentral-heat-supply)
 [**`Next step`**](step-5-calculation-of-costs-of-heat-supply-to-district-heating)
 <br\>  
-<br\>  
 <h1>Step 4: Calculation of district heating distribution costs</h1>
 
 [[/en/Step-4-Calculation-of-district-heating-distribution-costs/Hotmaps_Local_Toolchain_Step_4final.png]]
