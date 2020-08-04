@@ -54,8 +54,10 @@ The Hotmaps learning material is currently available in **English** and **German
 There have been two training workshops held in person:
   - Bolzano (IT), December 9 th -10 th 2019 > Done
   - Brussels (BE), February 19 th -20 th 2020 > Done
+  - Milton Keynes (UK), April 1st – 2nd 2020 > Cancelled
+  - Frankfurt-am-Main (DE), May 5th – 6th 2020 > Cancelled
 
-After the COVID-19 outbreak, the remaining training workshops planned in Milton Keynes (UK), April 1st – 2nd, and Frankfurt-am-Main (DE), May 5th – 6th 2020, were cancelled. Thre online courses have been eventually held virtually as countermeasure:
+After the COVID-19 outbreak, three online courses have been eventually held virtually as countermeasure:
   - First online training in English, April 27th - May 12th 2020
   - Online training in German, May 4th - 19th 2020
   - Second online training in English, stretched over three weeks, June 29th - July 17th 2020
