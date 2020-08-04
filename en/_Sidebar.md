@@ -4,6 +4,7 @@
 ## How to apply Hotmaps toolbox
 * [Guideline: Hotmaps toolbox on local level](guide-local-and-municipal-levels)
 * [Guideline: Hotmaps toolbox on national level](guide-national-level-comprehensive-assessment-eed)
+* [Training material](training_material)
 
 ## Data sets
 * [Hotmaps data set: Method of data collection](Hotmaps-data-set-method-of-data-collection)
