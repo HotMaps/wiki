@@ -5,15 +5,15 @@
 * [Part I: Overview of heating and cooling](#part-i-overview-of-heating-and-cooling)
 * [Part III: Analysis of the economic potential for efficiency in heating and cooling](#part-iii-analysis-of-the-economic-potential-for-efficiency-in-heating-and-cooling)
     * [Step 1: Identification of different representative cases for district heating](#part-iii-analysis-of-the-economic-potential-for-efficiency-in-heating-and-cooling_step-1-identification-of-different-representative-cases-for-district-heating)
-        * [Calculation of future heat demand and building floor area density maps]
-        * [Identification of areas potentially interesting for district heating]
-        * [Analysis of potentials for excess heat and renewable energy in the identified areas with potential interest for district heating]
-        * [Identification of representative, typical district heating areas for further analysis]
-    * [Step 2: Costs and potentials for district heating in representative regions/cities](#part-iii-analysis-of-the-economic-potential-for-efficiency-in-heating-and-cooling_step-2-costs-and-potentials-for-district-heating-in-representative-regions--cities)
-        * [Economic assessment of the potential for district heating]
-        * [Estimation of costs for the transport of excess heat to district heating areas]
-        * [Development of future heat load profiles]
-        * [Calculation of costs and emissions of heat supply in district heating]
+        * [Calculation of future heat demand and building floor area density maps](#part-iii-analysis-of-the-economic-potential-for-efficiency-in-heating-and-cooling_step-1-identification-of-different-representative-cases-for-district-heating_calculation-of-future-heat-demand-and-building-floor-area-density-maps)
+        * [Identification of areas potentially interesting for district heating](#part-iii-analysis-of-the-economic-potential-for-efficiency-in-heating-and-cooling_step-1-identification-of-different-representative-cases-for-district-heating_identification-of-areas-potentially-interesting-for-district-heating)
+        * [Analysis of potentials for excess heat and renewable energy in the identified areas with potential interest for district heating](#part-iii-analysis-of-the-economic-potential-for-efficiency-in-heating-and-cooling_step-1-identification-of-different-representative-cases-for-district-heating_analysis of potentials for excess heat and renewable energy in the identified areas with potential interest for district heating)
+        * [Identification of representative, typical district heating areas for further analysis](#part-iii-analysis-of-the-economic-potential-for-efficiency-in-heating-and-cooling_step-1-identification-of-different-representative-cases-for-district-heating_identification-of-representative-typical-district-heating-areas-for-further-analysis)
+    * [Step 2: Costs and potentials for district heating in representative regions/cities](#part-iii-analysis-of-the-economic-potential-for-efficiency-in-heating-and-cooling_step-2-costs-and-potentials-for-district-heating-in-representative-regions-cities)
+        * [Economic assessment of the potential for district heating](#part-iii-analysis-of-the-economic-potential-for-efficiency-in-heating-and-cooling_step-2-costs-and-potentials-for-district-heating-in-representative-regions-cities_Economic-assessment-of-the-potential-for-district-heating)
+        * [Estimation of costs for the transport of excess heat to district heating areas](#part-iii-analysis-of-the-economic-potential-for-efficiency-in-heating-and-cooling_step-2-costs-and-potentials-for-district-heating-in-representative-regions-cities_Estimation-of-costs-for-the-transport-of-excess-heat-to-district-heating-areas)
+        * [Development of future heat load profiles](#part-iii-analysis-of-the-economic-potential-for-efficiency-in-heating-and-cooling_step-2-costs-and-potentials-for-district-heating-in-representative-regions-cities_Development-of-future-heat-load-profiles)
+        * [Calculation of costs and emissions of heat supply in district heating](#part-iii-analysis-of-the-economic-potential-for-efficiency-in-heating-and-cooling_step-2-costs-and-potentials-for-district-heating-in-representative-regions-cities_Calculation-of-costs-and-emissions-of-heat-supply-in-district-heating)
     * [Step 3: Calculation of decentral heat supply](#part-iii-analysis-of-the-economic-potential-for-efficiency-in-heating-and-cooling_step-3-calculation-of-decentral-heat-supply)
     * [Step 4: Comparison of results for different scenarios](#part-iii-analysis-of-the-economic-potential-for-efficiency-in-heating-and-cooling_step-4-comparison-of-results-for-different-scenarios)
 * [References](#references)
@@ -52,7 +52,7 @@ The following data relevant for Part I of Annex VIII is available in the Hotmaps
     * [DB – Heat density non-residential](https://gitlab.com/hotmaps/heat/heat_nonres_curr_density)
     * [DB – Heat density total](https://gitlab.com/hotmaps/heat/heat_tot_curr_density)
   * (b) + (c) Existing and planned supply points
-    * No default data is contained for supply points, but own data can uploaded and displayed
+    * No default data is contained for supply points, but own data can be uploaded and displayed
     * [How to create an account](#introduction-to-user-interface)
     * [How to upload own data to the toolbox](#data-upload-functionalities)
 * Point 4: forecast of trends in the demand for heating and cooling
@@ -120,13 +120,13 @@ The following figure shows this procedure graphically and shows the various data
 ![](../images/Hotmaps_ApproachNational_Step1.png)
 *Figure: Identification of different representative, typical cases for district heating (Step 1)*
 
-In the following subchapters the different steps in this procedure are described in more detail.
+In the following subchapters, the different steps in this procedure are described in more detail.
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
 
 ### Calculation of future heat demand and building floor area density maps
 
-The first step in the analysis is to generate future heat demand and floor area density maps for your region/country of interest. You can use data developed in the course of the Hotmaps project for all EU-28 countries (Hotmaps default data, available in the Hotmaps database), or you can use other heat demand density maps for your region/contry of interest.
+The first step in the analysis is to generate future heat demand and floor area density maps for your region/country of interest. You can use data developed in the course of the Hotmaps project for all EU-28 countries (Hotmaps default data, available in the Hotmaps database), or you can use other heat demand density maps for your region/country of interest.
 
 * **Use heat demand and floor area density maps developed in the course of the Hotmaps project** - default data on heat demand density from the Hotmaps database:
     * For all EU 28 Member States (MS) heat demand density maps reflecting the heat demand from space heating and hot water generation in buildings have been developed. They are available as the total demand in residential and non-residential buildings but also split between residential and non-residential buildings. All maps are all available at hectare level, i.e. with a resolution of 100x100m. The heat demand density maps can be accessed in the layers section of the Hotmaps database and more information on how to select the country/region of your interest can be found here.
@@ -135,7 +135,7 @@ The first step in the analysis is to generate future heat demand and floor area 
         * The [CM - Demand projection](https://wiki.hotmaps.hevs.ch/en/CM-Demand-projection) can be used to generate future heat demand and floor area density maps based on default development scenarios of the building stock in the EU (link to further info on the default scenarios. It is also possible to adapt several parameters compared to the default calculations like a reduction of energy demand or a reduction of floor area.
 * **Use own data on heat demand density in your country/region of analysis**:
     * It is possible to upload heat density maps in a raster file format (.tif) to the Hotmaps toolbox when creating a user account and logging in to the private section. Uploaded heat demand density layers can reflect the current situation of heat demand densities in the country/region of interest, or also a possible future scenario of heat demand densities, depending on the input data used for generating the respective layers. More information on how to create a user account and how to upload your own data can be found here.
-    * It is also possible to further adapt the own heat density maps with the CM - Scale heat and cold density maps or via the CM - Demand projection like for the default layer.
+    * It is also possible to further adapt the own heat density maps with the [CM - Scale heat and cold density maps](https://wiki.hotmaps.hevs.ch/en/CM-Scale-heat-and-cool-density-maps) or via the [CM - Demand projection](https://wiki.hotmaps.hevs.ch/en/CM-Demand-projection) like for the default layer.
 
 The developed heat demand and floor area density maps are further used in the subsequent steps in other Calculation Modules (CMs).
 
@@ -147,7 +147,7 @@ After developing possible future scenarios of heat demand and floor area density
 
 * The CM is possible to use at NUTS3 - NUTS0 level and also on hectare level (=own selection of an area). However, for larger areas calculation might take a long time, or the module may find too many feasible areas and may not be able to display the results. In such a case the area of interest can be split up, e.g. in the different NUTS3 or Hectare areas, and for each of these the CM can be started.
 * The CM identifies potential district heating areas based on the following two threshold values: a heat demand threshold for the heat demand in each cell of the heat demand density map and a heat demand threshold for groups of connected cells with heat demand above the previous threshold (=coherent area). These two threshold values have to be defined by the user.
-* Besides several other indicators the module generates a shapefile of potential district heating areas that is displayed and stored in the toolbox in the layers section. Especially of interest are the following indicators: total heat demand in the coherent area, average heat demand density in the area. 
+* Besides several other indicators the module generates a shapefile of potential district heating areas that are displayed and stored in the toolbox in the layers section. Especially of interest are the following indicators: total heat demand in the coherent area, average heat demand density in the area. 
 * After having used the CM for the entire region/country of interest an overall map of potential district heating areas can be generated out of the single maps. 
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
@@ -176,7 +176,7 @@ In the next step, the potentials for excess heat and renewable energy in the reg
   * Large industrial sites:
     * [DB - Industrial sites excess heat](https://gitlab.com/hotmaps/industrial_sites/industrial_sites_industryBenchmarks)
   * Other excess heat sources:
-    * Information on other excess heat sources like power plants, further industrial plants, low-temperature heat sources like river water, data centers, etc. can be uploaded into the toolbox. A guide on how to do this can be found [here](https://wiki.hotmaps.hevs.ch/en/CM-Add-industry-plant).
+    * Information on other excess heat sources like power plants, further industrial plants, low-temperature heat sources like river water, data centres, etc. can be uploaded into the toolbox. A guide on how to do this can be found [here](https://wiki.hotmaps.hevs.ch/en/CM-Add-industry-plant).
 <br/>  
 [[/en/guide-national-level-comprehensive-assessment-eed/Wiki local detailed Step 1final.png]]
 *Figure: Identification of different representative, typical cases for district heating (Step 1).*
@@ -185,7 +185,7 @@ In the next step, the potentials for excess heat and renewable energy in the reg
 
 ### Identification of representative, typical district heating areas for further analysis
 
-The data collected in the two previous steps can be used to define different types of representative, typical district heating (DH) areas in the region/country of interest. Regions/cities with similar dimensions and combinations of total heat demand, average heat demand density, and potentials for renewable energy and excess heat can be grouped together.
+The data collected in the two previous steps can be used to define different types of representative, typical district heating (DH) areas in the region/country of interest. Regions/cities with similar dimensions and combinations of total heat demand, average heat demand density, and potentials for renewable energy and excess heat can be grouped.
 
 Possible indicators for grouping of typical district heating areas:
 * overall heat demand in the area [GWh/yr]
@@ -203,13 +203,13 @@ Possible indicators for grouping of typical district heating areas:
     * large industrial sites
     * other
 
-For each of the developed groups of typical DH areas then one or several representative cities/regions can be selected and further analysed. These can serve as representative case studies.
+For each of the developed groups of typical DH areas, then one or several representative cities/regions can be selected and further analysed. These can serve as representative case studies.
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
 
 ## Step 2: Costs and potentials for district heating in representative cities/regions
 
-For the identified representative cities/areas analyses on the costs and potentials for the heat supply with district heating can be performed. For these analyses Hotmaps provides various default data layers in the Hotmaps database as well as different Calculation Modules (CMs). Also, own data can be uploaded and used. These analyses can consist of the following steps:
+For the identified representative cities/areas analyses on the costs and potentials for the heat supply with district heating can be performed. For these analyses, Hotmaps provides various default data layers in the Hotmaps database as well as different Calculation Modules (CMs). Also, own data can be uploaded and used. These analyses can consist of the following steps:
 * Assess the economic potential for district heating networks
 * Estimate the costs for the transport of excess heat to district heating areas
 * Develop future heat load profiles
@@ -220,13 +220,13 @@ The following figure shows this procedure graphically and shows the various data
 ![](../images/Hotmaps_ApproachNational_Step2.png)
 *Figure: Analysis of costs and potentials for district heating in representative cities/regions (Step 2)*
 
-In the following subchapters the different steps in this procedure are described in more detail.
+In the following subchapters, the different steps in this procedure are described in more detail.
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
 
 ### Economic assessment of the potential for district heating
 
-For the representative cities/areas an economic assessment of district heating can be performed in order to gain more detailed insights on the costs and economic feasibility of district heating and the amount of heat potentially supplied by district heating in the areas. For this purpose the CM - District heating potential: economic assessment can be used. This module generates a map of potential district heating areas based on an assessment of the heat distribution costs. An analysis of the feasibility of district heating in the analysed areas can be assessed in the following way:
+For the representative cities/areas, an economic assessment of district heating can be performed to gain more detailed insights on the costs and economic feasibility of district heating and the amount of heat potentially supplied by district heating in the areas. For this purpose the CM - District heating potential: economic assessment can be used. This module generates a map of potential district heating areas based on an assessment of the heat distribution costs. An analysis of the feasibility of district heating in the analysed areas can be assessed in the following way:
 
 * Adapt network construction costs according to experiences in your region/country of interest
 * Calculate the average heat distribution costs and district heating demands for different input parameters
@@ -237,7 +237,7 @@ For the representative cities/areas an economic assessment of district heating c
     * Network construction costs
     * Depreciation time and interest rate
 
-The scenarios can be used to analyse the influence of the different factors on the heat distribution costs in district heating systems in the different representative cities/areas. For different settings of depreciation time and interest rate one scenario of district heating expansion per representative city/area should be selected for further analysis.
+The scenarios can be used to analyse the influence of the different factors on the heat distribution costs in district heating systems in the different representative cities/areas. For different settings of depreciation time and interest rate, one scenario of district heating expansion per representative city/area should be selected for further analysis.
 
 The outcomes of this step are the heat demand for district heating [GWh/yr] and the heat distribution costs [EUR/MWh] in each of the representative cities/areas. These results will then be used in the overall scenario comparison in step 4.
 
@@ -282,7 +282,7 @@ The outcomes of this step are the heat supply costs to the district heating syst
 
 ## Step 3: Calculation of decentral heat supply
 
-In the third step the costs and emissions of heat supply via decentral technologies are calculated. This calculation should be performed for different representative buildings in the country/region of interest. While for district heating representative cities/areas have been developed in step 1 of the approach, typical buildings in each EU Member State data can be found in the Hotmaps default database. Also, for many EU countries detailed building typologies (building archetypes) with data on heat demand before and after renovation can be found in statistics and literature.
+In the third step, the costs and emissions of heat supply via decentral technologies are calculated. This calculation should be performed for different representative buildings in the country/region of interest. While for district heating representative cities/areas have been developed in step 1 of the approach, typical buildings in each EU Member State data can be found in the Hotmaps default database. Also, for many EU countries detailed building typologies (building archetypes) with data on heat demand before and after renovation can be found in statistics and literature.
 
 The CM - Decentral heating supply can be used to calculate the costs and emissions of heat supply via different decentral technologies. The module uses data on heat demand as well as data on costs of technologies and prices for energy carriers to calculate the levelised costs of heat supply [EUR/MWh] for the different technologies in the different typical buildings and renovation states. The following figure shows this procedure graphically and shows the various data sources feeding into the CM - Decentral heating supply.
 
@@ -297,7 +297,7 @@ The outcomes of this step are the costs of heat supply via decentral technologie
 
 ## Step 4: Comparison of results for different scenarios
 
-The final step in the analysis is the comparison of the results for the different scenarios and sensitivities. For this all results calculated in the previous steps are collected both from the calculations of district heating as well as from the calculations of decentral supply and compared against each other for main indicators. This can be done in the CM - Scenario Assessment.  The following figure shows this approach.
+The final step in the analysis is the comparison of the results for the different scenarios and sensitivities. For this, all results calculated in the previous steps are collected both from the calculations of district heating as well as from the calculations of decentral supply and compared against each other for main indicators. This can be done in the CM - Scenario Assessment.  The following figure shows this approach.
 
 ![](../images/Hotmaps_ApproachNational_Step4.png)
 *Figure: Comparison of results for different scenarios (Step 4)*
