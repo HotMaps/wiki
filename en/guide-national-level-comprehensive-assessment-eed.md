@@ -39,25 +39,25 @@ The following data relevant for Part I of Annex VIII is available in the Hotmaps
 
 * Point 2: current heating and cooling supply
   * (b) (v) industrial installations:
-    * DB – Industrial sites excess heat
-    * DB – Industrial sites company names 
-    * DB – Industrial sites subsector
+    * [DB - Industrial sites excess heat](https://gitlab.com/hotmaps/industrial_sites/industrial_sites_industryBenchmarks)
+    * [DB – Industrial sites company names](https://gitlab.com/hotmaps/industrial_sites/industrial_sites_Industrial_Database) 
+    * [DB – Industrial sites subsector](https://gitlab.com/hotmaps/industrial_sites/industrial_sites_industryBenchmarks)
   * All other:
     * No default data is contained for supply points, but own data can uploaded and displayed
-    * How to create an account
-    * How to upload own data to the toolbox
+    * [How to create an account](#introduction-to-user-interface)
+    * [How to upload own data to the toolbox](#data-upload-functionalities)
 * Point 3: a map covering the entire national territory
   * (a) Heating and cooling demand areas (not for industrial demand)
-    * DB – Heat density residential
-    * DB – Heat density non-residential
-    * DB – Heat density total
+    * [DB – Heat density residential](https://gitlab.com/hotmaps/heat/heat_res_curr_density)
+    * [DB – Heat density non-residential](https://gitlab.com/hotmaps/heat/heat_nonres_curr_density)
+    * [DB – Heat density total](https://gitlab.com/hotmaps/heat/heat_tot_curr_density)
   * (b) + (c) Existing and planned supply points
     * No default data is contained for supply points, but own data can uploaded and displayed
-    * How to create an account
-    * How to upload own data to the toolbox
+    * [How to create an account](#introduction-to-user-interface)
+    * [How to upload own data to the toolbox](#data-upload-functionalities)
 * Point 4: forecast of trends in the demand for heating and cooling
-  * Default scenarios for all EU28 MS are available from the H2020 project CHEETAH
-  * This data is also integrated into the CM – Demand projection and used for the calculations in this module
+  * Default scenarios for all EU28 MS are available from the H2020 project [CHEETAH](http://www.cheetah-project.eu/)
+  * This data is also integrated into the [CM – Demand projection](https://wiki.hotmaps.hevs.ch/en/CM-Demand-projection) and used for the calculations in this module
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
 
