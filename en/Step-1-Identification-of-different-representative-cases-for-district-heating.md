@@ -79,8 +79,6 @@ Possible indicators for grouping of typical district heating areas:
 
 For each of the developed groups of typical DH areas, then one or several representative cities/regions can be selected and further analysed. These can serve as representative case studies.
 
-<code><ins>**[To Top](#table-of-contents)**</ins></code>
-
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
 <br/>  
