@@ -123,11 +123,7 @@ The input used to run several scenarios of the *CM DH Supply Dispatch* are to be
 ## Interpretation of results
 
 ### Final Table
-### Building Stock
-### Decentral heating supply
-### Ref. Decentral heating supply
-### Ref. DH Economic Assessment
-### Ref. DH supply dispatch
+### Anything else?
 
 
 [**`To Top`**](#table-of-contents)
