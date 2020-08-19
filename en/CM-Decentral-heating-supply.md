@@ -17,13 +17,13 @@
 
 
 ## In a glance
-This module calculates the costs of heat supply in buildings via decentral heating technologies. Inputs to the module are investment and O&M costs, energy prices, the hourly load profile of heat demand as well as depreciation time and interest rate. Furthermore, the composition of buildings and renovation states of the buildings in the analysed area are required. The outputs are heat supply costs of various decentral heat supply technologies for the defined buildings and price assumptions as well as reference decentral supply costs for the analysed area and related CO2 emissions.
+This module calculates the costs of heat supply in buildings via decentral heating technologies. Inputs to the module are investment costs, O&M costs, energy prices, the hourly load profile of heat demand as well as depreciation time and interest rate. Furthermore, the composition of buildings and renovation states of the buildings in the analysed area are required. The outputs are heat supply costs of various decentral heat supply technologies for the defined buildings and price assumptions as well as reference decentral supply costs for the analysed area and related CO2 emissions.
 
 [**`To Top`**](#table-of-contents)
 
 ## Introduction
 
-This calclulation module calculates the levelized cost of heat (LCOH) for various technologies to supply a user definded building
+This calculation module calculates the levelized cost of heat (LCOH) for various technologies to supply a user-defined building.
 
 ![](https://raw.githubusercontent.com/HotMaps/hotmaps_wiki/master/Images/cm_decentral_heating/new/1.png)
 
@@ -34,7 +34,7 @@ The technologies are for example as follows:
 * Bio-oil boiler,
 * Oil boiler,
 * Biomass automatic and manual,
-* Wood stove,
+* Woodstove,
 * Natural gas,
 * Solar thermal
 
@@ -129,13 +129,13 @@ costs and operational costs and fuel costs **for each heating technology** are
 determined.
 
 The specific investment and operational costs are assumed to have an exponential
-behavior:
+behaviour:
 
 ![](https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/cm_decentral_heating/new/4.png)
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
 
-Therefor based on the country, year and building type of the entered inputs the
+Therefore based on the country, year and building type of the entered inputs the
 factors for each technology are figured out:
 
 ![](https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/cm_decentral_heating/new/5.png)
@@ -148,16 +148,16 @@ With the factors determined the absolute costs can be calculated as follows:
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
 
-For the fuel costs the price data of the energy carriers are needed.
+For the fuel costs, the price data of the energy carriers are needed.
 
 ![](https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/cm_decentral_heating/new/7.png)
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
 
-Now we have all needed data and can calculate the levelized cost of heat.
+Now we have all the needed data and can calculate the levelized cost of heat.
 
 The levelized cost of heat for each heating system is calculated as the net
-present value of the cashflow and the heat generation over the lifetime.
+present value of the cash flow and the heat generation over the lifetime.
 
 The levelized cost of heat is given by:
 
@@ -166,8 +166,8 @@ The levelized cost of heat is given by:
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
 
 In this calculation the yearly costs and the yearly heat production (useful
-energy demand) is assumed to be constant over the life time and thus the
-summations transform to a geometric series and the transforming factor is called
+energy demand) is assumed to be constant over the lifetime and thus the
+summations transform into a geometric series and the transforming factor is called
 the annuity factor α. A graphical representation of this transforming process is
 shown in the figures below
 
@@ -177,7 +177,7 @@ shown in the figures below
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
 
-This assumption simplifies the calculation and the LCOH is given by following
+This assumption simplifies the calculation and the LCOH is given by the following
 formula:
 
 ![](https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/cm_decentral_heating/new/11.png)
@@ -238,4 +238,3 @@ License-Text: https://spdx.org/licenses/CC-BY-4.0.html
 We would like to convey our deepest appreciation to the Horizon 2020 [Hotmaps Project](https://www.hotmaps-project.eu) (Grant Agreement number 723677), which provided the funding to carry out the present investigation.
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
-
