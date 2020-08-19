@@ -1,7 +1,6 @@
 <h1>CM Customized heat and gross floor area density maps</h1>
 
 ## Table of Contents
-* [In a glance](#in-a-glance)
 * [Introduction](#introduction)
 * [Inputs and outputs](#inputs-and-outputs)
   * [Inputs](#inputs-and-outputs_inputs)
@@ -15,23 +14,16 @@
 * [Acknowledgement](#acknowledgement)
 
 
-## In a glance
-This module generates both a heat density and a floor area density map in the form of raster files. The inputs to the module are either a shapefile with required data in its attribute table or a CSV file. The input data should be sufficient for calculating floor area and heat demand densities. For example, X-coordinate and Y-coordinate of the center of buildings that in case of shapefile, will be automatically calculated; heat demand of buildings or specific heat demand and its floor area. Instead of floor areas, the building footprint and number of floors can be provided.
-
-This module will only be available as stand-alone module; it will not be integrated into the toolbox.
-
-
-
 ## Introduction
-This module generates both a heat density and a floor area density map in the form of raster files. The inputs to the module are either a shapefile with required data in its attribute table or a CSV file. The input data should be sufficient for calculating floor area and heat demand densities. For example, X-coordinate and Y-coordinate of the center of buildings that in case of shapefile, will be automatically calculated; heat demand of buildings or specific heat demand and its floor area. Instead of floor areas, the building footprint and number of floors can be provided.
+This module generates both a heat density and a floor area density map in the form of raster files. The inputs to the module are either a shapefile with required data in its attribute table or a CSV file. The input data should be sufficient for calculating floor area and heat demand densities. For example, X-coordinate and Y-coordinate of the centre of buildings that in case of shapefile, will be automatically calculated; heat demand of buildings or specific heat demand and its floor area. Instead of floor areas, the building footprint and number of floors can be provided.
 
-This module will only be available as stand-alone module; it will not be integrated into the toolbox.
+This module will only be available as a stand-alone module; it will not be integrated into the toolbox.
 
 
 ## Inputs and outputs
 
 ### Inputs
-The module accepts either shapefile or CSV file as input. The following headers are expected in case of any of the input file types (should be available in the attribute table or as header of the CSV file):
+The module accepts either shapefile or CSV file as input. The following headers are expected in case of any of the input file types (should be available in the attribute table or as the header of the CSV file):
 
 * **hotmaps_ID**: provide a unique, integer ID for each feature (polygon)
 * **Type**: Building type: set to 1 for service sector; other values are considered as residential (optional: can be left empty)
