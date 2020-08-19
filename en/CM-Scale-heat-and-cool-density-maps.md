@@ -16,27 +16,27 @@
 * [Acknowledgement](#acknowledgement)
 
 ## In a glance
-This module scales the default layer with a given factor. The aim is to provide a distribution of heat and cold demand, if only the total amount of heat and cold demand is available.
+This module scales the default layer with a given factor. The aim is to provide a distribution of heat and cold demand if only the total amount of heat and cold demand is available.
 
 [**`To Top`**](#table-of-contents)
 
 
 ## Introduction
 
-The aim of the calculation module is to quickly obtain a new raster by scaling a raster density map by a user-chosen factor. It generate a new raster by multiplying each cells of the input raster by the given factor.
+The aim of the calculation module is to quickly obtain a new raster by scaling a raster density map by a user-chosen factor. It generates a new raster by multiplying each cell of the input raster by the given factor.
 
 [**`To Top`**](#table-of-contents)
 
 
 ## Inputs and outputs
 
-The input parameters and layers as well as output layers and parameters are as follows.
+The input parameters and layers, as well as output layers and parameters, are as follows.
 
 **Input layers and parameters are:**
 
 * Multiplication factor [-]: a real value between _*0*_ and _*1000*_
   * if the multiplication factor is > 1, the output raster is greater than the input. 
-  * if the multiplicatino factor is < 1, the output raster is smaller than the input.
+  * if the multiplication factor is < 1, the output raster is smaller than the input.
 * The layer to be scaled :
   * Heat or Cool density map in raster format (\*.tif)
 
@@ -48,14 +48,14 @@ The input parameters and layers as well as output layers and parameters are as f
 
 
 ## Method
-Each cell's value of the input raster is multiply by the multiplication factor.
+Each cell's value of the input raster is multiplied by the multiplication factor.
 
 
 [**`To Top`**](#table-of-contents)
 
 ## Application
-If we know the total consumption of an area, and the indicator _Total head demand_ does not correspond  this value, it is possible to scale the heat demand by the ratio (Total_real / Total_default).
-The following figure gives the example for a multiplication factor value of 0.5.
+If we know the total consumption of an area, and the indicator _Total head demand_ does not correspond this value, it is possible to scale the heat demand by the ratio (Total_real / Total_default).
+The following figure gives the example of a multiplication factor value of 0.5.
 
 ![Fig. 1-0](images/Wiki_CM_scale.png "Name the run session")
 
