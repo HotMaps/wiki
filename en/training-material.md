@@ -96,7 +96,7 @@ The training material is presented below following the order in which it has bee
 
 
 ##### Before the training
-* Email sent to participants before the first webinar [English]() / [German]() (LINKS TO BE ADDED WHEN FILE HAS BEEN UPLOADED) **(SHOULD WE POST THIS?)**
+* Email sent to participants before the first webinar [English]([[/en/training-material/Hotmaps - Final email before training.docx]]) / [German]([[/en/training-material/Hotmaps - Final email before training (DE).docx]]) (LINKS TO BE ADDED WHEN FILE HAS BEEN UPLOADED) **(SHOULD WE POST THIS?)**
 * Tutorial: How to use Hotmaps [English](https://youtu.be/dUDACmC_LO8) (This tutorial can be seen in any language, by using the youtube translation)
 
 Handbooks:
