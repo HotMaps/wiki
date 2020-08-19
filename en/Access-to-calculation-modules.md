@@ -6,6 +6,7 @@
 * [How to cite](#how-to-cite)
 * [Authors and reviewers](#authors-and-reviewers)
 * [License](#license)
+* [Acknowledgement](#acknowledgement)
 
 ## Introduction 
 In the following chapter we will describe how to acces a calculation module
