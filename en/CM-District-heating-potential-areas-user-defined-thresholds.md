@@ -23,7 +23,7 @@ This module generates a shapefile of potential district heating areas based on t
 
 ## Introduction
 
-The heat demand plays an important role in determination of potential district heating (DH) areas. For example, implementation of district heating in areas with low heat demand is not economically viable. On the other hand, defining any area with high heat demand density as potential DH area can also be inaccurate. A high heat demand density in an area could be due to presence of a few consumers with a very high heat demand within that area. In contrary, a low average heat demand density could be a sign of zones with a very low heat demand within the selected area. The aim of DH potential module is to provide a reasonable balance between heat demand density in an area and its constituting zones.
+The heat demand plays an important role in the determination of potential district heating (DH) areas. For example, the implementation of district heating in areas with low heat demand is not economically viable. On the other hand, defining any area with high heat demand density as a potential DH area can also be inaccurate. A high heat demand density in an area could be due to the presence of a few consumers with a very high heat demand within that area. On the contrary, a low average heat demand density could be a sign of zones with a very low heat demand within the selected area. The aim of DH potential module is to provide a reasonable balance between heat demand density in an area and its constituting zones.
 
 The DH potential module determines the DH areas and their corresponding DH potential based on heat demand densities. The heat demand densities are obtained from the input GIS layer, namely **[European Heat Density Map (EHDM)](https://gitlab.com/hotmaps/heat/heat_tot_curr_density)**, which was developed in course of  **[Hotmaps project](https://www.hotmaps-project.eu)**. The EHDM is in raster format and has a resolution of one hectare and Coordinate Reference System (CRS) of "_*ETRS89 / LAEA Europe - EPSG 3035*_". The cells in EHDM show the heating densities in _**MWh/ha**_.
 
@@ -35,7 +35,7 @@ As output, one GIS layer, three indicators and two diagrams are presented. These
 
 ## Inputs and outputs
 
-The input parameters and layers as well as output layers and parameters are as follows.
+The input parameters and layers, as well as output layers and parameters, are as follows.
 
 
 **Input layers and parameters are:**
@@ -44,7 +44,7 @@ The input parameters and layers as well as output layers and parameters are as f
 * Minimum heat demand in a DH area [_**GWh/year**_]: a value between _*0*_ and _*500*_
 * Heat density map (by default is provided by the toolbox)
   * in raster format (\*.tif)
-  * with 1 hectare resolution
+  * with 1-hectare resolution
   * demand densities in _**MWh/ha**_
 
 **Output layers and parameters are:**
@@ -56,15 +56,15 @@ The input parameters and layers as well as output layers and parameters are as f
 
 
 ## Method
-The potential for DH in a specific region can be defined by the overall heat demand and its spatial allocation. In the Hotmaps toolbox, the heating demand is shown in EHDM in form of a raster map. Any selection or cut from EHDM is constitute from one or more one-hectare cells. In order to properly define potential DH areas, both the heat demand in each cell and also in an area should reach a certain level. For starting point, the Hotmaps toolbox suggests default values for these two parameters. However, depending on the distribution of heat demand and also the local consideration, the Hotmaps user can modify these values.
+The potential for DH in a specific region can be defined by the overall heat demand and its spatial allocation. In the Hotmaps toolbox, the heating demand is shown in EHDM in the form of a raster map. Any selection or cut from EHDM is constituted by one or more one-hectare cells. In order to properly define potential DH areas, both the heat demand in each cell and also in an area should reach a certain level. As a starting point, the Hotmaps toolbox suggests default values for these two parameters. However, depending on the distribution of heat demand and also the local consideration, the Hotmaps user can modify these values.
 
 The determination of DH areas is done in two steps:
 
-In the first step, all the cells with heating demand below the input parameter for the minimum heating demand in hectare are filtered. By eliminating these cells from the map, we obtain groups of cells that are attached to each other. Each set of these attached cells constitute small zones that here, are referred as “coherent areas”. In the second steps, the total heat demand in each coherent area is calculated. For each coherent area, if the total heat demand is higher than the input parameter for the "minimum heat demand in a DH area", then, it is considered as potential DH area.
+In the first step, all the cells with heating demand below the input parameter for the minimum heating demand in hectare are filtered. By eliminating these cells from the map, we obtain groups of cells that are attached to each other. Each set of these attached cells constitute small zones that here, are referred to as “coherent areas”. In the second steps, the total heat demand in each coherent area is calculated. For each coherent area, if the total heat demand is higher than the input parameter for the "minimum heat demand in a DH area", then, it is considered as potential DH area.
 
-Finally, for the DH areas, the potential is calculated and presented in form of GIS layer, which can be seen in the toolbox.
+Finally, for the DH areas, the potential is calculated and presented in the form of GIS layer, which can be seen in the toolbox.
 
-This code uses the concept of connected components from image processing library of Scipy in order to detect the potential district heating areas.
+This code uses the concept of connected components from the image processing library of Scipy in order to detect the potential district heating areas.
 
 [**`To Top`**](#table-of-contents)
 
@@ -110,11 +110,11 @@ To run the calculation module, follow the next steps:
 * As output, indicators and diagrams are shown in the "RESULTS" window. The indicators show:
   * the total heat demand in _*GWh*_ within the selected zone,
   * total DH potential in _*GWh*_ within the selected zone,
-  * the share of DH potential from totoal demand, which is obtained by division of DH potential by total heat demand in the region.
+  * the share of DH potential from the total demand, which is obtained by division of DH potential by total heat demand in the region.
 
 ![Fig. 4-1](../images/cm_dh_potential/4-1.png "INDICATORS tab")
 
-Additionally, also two diagrams are generated. The first one shows the DH potential in each DH area. The correponding labels can be found in the map, too. The second diagram illustrates the total DH potential in comparision with the total heat demand in the selected area.
+Additionally, also two diagrams are generated. The first one shows the DH potential in each DH area. The corresponding labels can be found on the map, too. The second diagram illustrates the total DH potential in comparison with the total heat demand in the selected area.
 
 ![Fig. 4-2](../images/cm_dh_potential/4-2.png "GRAPHICS tab")
 
@@ -122,7 +122,7 @@ Additionally, also two diagrams are generated. The first one shows the DH potent
 
 ![Fig. 4-3](../images/cm_dh_potential/4-3.png "Calculation module layers")
 
-Following these steps, you will get an impression about the input values and potential DH areas.
+Following these steps, you will get an impression of the input values and potential DH areas.
 
 
 [**`To Top`**](#table-of-contents)
@@ -131,7 +131,7 @@ Following these steps, you will get an impression about the input values and pot
 
 ### Test Run 2: modified input values
 
-Depending on your experience and  local knowledge, you may increase or decrease the input values to obtain better results. In case of Aalborg, for instance, you may know that the heat demand in outer city areas is relatively close to the central part of the city and DH system is also feasible in those areas. Therefore, you may decide to reduce the minimum heat demand in cells that are part of a DH area; however, to guarantee enough heat demand, you may increase the minimum heat demand in a DH area. Here you re-run the calculation modules with new input parameters.
+Depending on your experience and local knowledge, you may increase or decrease the input values to obtain better results. In the case of Aalborg, for instance, you may know that the heat demand in outer city areas is relatively close to the central part of the city and DH system is also feasible in those areas. Therefore, you may decide to reduce the minimum heat demand in cells that are part of a DH area; however, to guarantee enough heat demand, you may increase the minimum heat demand in a DH area. Here you re-run the calculation modules with new input parameters.
 
 * Assign a name to the run session (optional - here, we chose "Test Run 2") and set the input parameters (_*250 MWh/ha*_ for min. heat demand in hectare and _*35 GWh/year*_ for the minimum demand in DH area).
 
@@ -141,15 +141,15 @@ Depending on your experience and  local knowledge, you may increase or decrease 
 * As output, indicators and diagrams are shown in the "RESULTS" window.  The indicators show:
   * the total heat demand in _*GWh*_ within the selected zone,
   * total DH potential in _*GWh*_ within the selected zone,
-  * the share of DH potential from totoal demand, which is obtained by division of DH potential by total heat demand in the region.
+  * the share of DH potential from total demand, which is obtained by division of DH potential by total heat demand in the region.
 
 ![Fig. 5-1](../images/cm_dh_potential/5-1.png "INDICATORS tab")
 
-Additionally, also two diagrams are generated. The first one shows the DH potential in each DH area. The correponding labels can be found in the map, too. The second diagram illustrates the total DH potential in comparision with the total heat demand in the selected area.
+Additionally, also two diagrams are generated. The first one shows the DH potential in each DH area. The corresponding labels can be found on the map, too. The second diagram illustrates the total DH potential in comparison with the total heat demand in the selected area.
 
 ![Fig. 5-2](../images/cm_dh_potential/5-2.png "GRAPHICS tab")
 
-* Also a new layer is added to the canvas showing DH areas. This layer is added to the list of layers under the "Calculation module" category. The run session name distiguishes the outputs of this run from other ones.
+* Also a new layer is added to the canvas showing DH areas. This layer is added to the list of layers under the "Calculation module" category. The run session name distinguishes the outputs of this run from other ones.
 
 ![Fig. 5-3](../images/cm_dh_potential/5-3.png "Calculation module layers")
 
