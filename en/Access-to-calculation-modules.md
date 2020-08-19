@@ -9,7 +9,7 @@
 * [Acknowledgement](#acknowledgement)
 
 ## Introduction 
-In the following chapter we will describe how to acces a calculation module
+In the following chapter, we will describe how to access a calculation module
 
 **Steps to access a calculation module**
 
@@ -21,8 +21,8 @@ In the following chapter we will describe how to acces a calculation module
 1. Select a region
 2. Enable the Layer Section
 3. Go to the <code>Calculation Modules</code> Tab
-4. Acces your desired module
-5. Define the paramters and run
+4. Access your desired module
+5. Define the parameters and run
 6. results are shown in the results bar and in the map
 
 ![cm_access.png][cm_access_png]
@@ -30,7 +30,7 @@ In the following chapter we will describe how to acces a calculation module
 
 ## Structure of a calculation module
 
-The picture below shows the structre of a calculation module
+The picture below shows the structure of a calculation module
 
 ![cm_structure_png][cm_structure]
 
