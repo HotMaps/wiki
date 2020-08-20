@@ -1,17 +1,25 @@
+<h1>National Level - Step 1: Identification of different representative cases for district heating</h1>
+
 [**`Scenario Toolchain Steps`**](guide-national-level-comprehensive-assessment-eed#part-iii-analysis-of-the-economic-potential-for-efficiency-in-heating-and-cooling_different-steps)
 [**`Next step`**](step-2-Costs-and-potentials-for-district-heating-in-representative-regions-or-cities)
 <br/>  
-<h1>Step 1: Identification of different representative cases for district heating</h1>
 
-# Table of Contents
-* [Step 1: Identification of different representative cases for district heating](#step-1-identification-of-different-representative-cases-for-district-heating)
+## Table of Contents
+* [Introduction](#introduction)
+* [Identification of different representative cases for district heating](#identification-of-different-representative-cases-for-district-heating)
   * [Calculation of future heat demand and building floor area density maps](#step-1-identification-of-different-representative-cases-for-district-heating_calculation-of-future-heat-demand-and-building-floor-area-density-maps)
   * [Identification of areas potentially interesting for district heating](#step-1-identification-of-different-representative-cases-for-district-heating_identification-of-areas-potentially-interesting-for-district-heating)
   * [Identification of representative, typical district heating areas for further analysis](#step-1-identification-of-different-representative-cases-for-district-heating_identification-of-representative-typical-district-heating-areas-for-further-analysis)
+  * [Calculation of RES potential](#calculation-of-RES-potential)
+* [How to cite](#how-to-cite)
+* [Authors and reviewers](#authors-and-reviewers)
+* [License](#license)
+* [Acknowledgement](#acknowledgement)
 
+## Introduction
+This is the first step of the analysis at national level.
 
-# Step 1: Identification of different representative cases for district heating
-
+## Identification of different representative cases for district heating
 In order to identify different, representative, typical cases for further analysis of the costs and potentials for district heating in the country/region of interest Hotmaps provides various default data layers in the Hotmaps database as well as different Calculation Modules (CMs). Also, own data can be uploaded and used. This identification procedure can consist of the following steps:
 * Calculate scenarios of future heat demand and building floor area density maps for the entire country/region of interest
 * Identify areas potentially interesting for district heating based on user-defined threshold values
@@ -27,7 +35,7 @@ In the following subchapters, the different steps in this procedure are describe
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
 
-## Calculation of future heat demand and building floor area density maps
+### Calculation of future heat demand and building floor area density maps
 
 The first step in the analysis is to generate future heat demand and floor area density maps for your region/country of interest. You can use data developed in the course of the Hotmaps project for all EU-28 countries (Hotmaps default data, available in the Hotmaps database), or you can use other heat demand density maps for your region/country of interest.
 
@@ -44,7 +52,7 @@ The developed heat demand and floor area density maps are further used in the su
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
 
-## Identification of city/area potentially interesting for district heating
+### Identification of city/area potentially interesting for district heating
 
 After developing possible future scenarios of heat demand and floor area density maps for the city/area of interest, potential district heating cities/areas can be identified. This can be done using the [CM - District heating potential areas: user-defined thresholds](https://wiki.hotmaps.hevs.ch/en/CM-District-heating-potential-areas-user-defined-thresholds) according to the following steps:
 
@@ -57,7 +65,7 @@ After developing possible future scenarios of heat demand and floor area density
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
 
 
-## Identification of representative, typical district heating areas for further analysis
+### Identification of representative, typical district heating areas for further analysis
 
 The data collected in the two previous steps can be used to define different types of representative, typical district heating (DH) areas in the region/country of interest. Regions/cities with similar dimensions and combinations of total heat demand, average heat demand density, and potentials for renewable energy and excess heat can be grouped.
 
@@ -79,8 +87,60 @@ Possible indicators for grouping of typical district heating areas:
 
 For each of the developed groups of typical DH areas, then one or several representative cities/regions can be selected and further analysed. These can serve as representative case studies.
 
+### Calculation of RES potential
+
+FILL
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
+
+
+## How to cite
+Marcus Hummel, Giulia Conforto, in Hotmaps-Wiki, Guidelines for using the Hotmaps toolbox for analyses at national level (August 2020)
+
+<code><ins>**[To Top](#table-of-contents)**</ins></code>
+
+
+## Authors and reviewers
+This page is written by Marcus Hummel and Giulia Conforto\*.
+- This page was reviewed by ...\**.
+
+\* [e-think](https://e-think.ac.at/),
+Zentrum f. Energiewirtschaft und Umwelt,
+Argentinierstrasse 18/10,
+1040 Wien
+
+<code><ins>**[To Top](#table-of-contents)**</ins></code>
+
+
+## License
+Copyright © 2016-2019: Marcus Hummel
+
+Creative Commons Attribution 4.0 International License
+This work is licensed under a Creative Commons CC BY 4.0 International License.
+
+SPDX-License-Identifier: CC-BY-4.0
+
+License-Text: https://spdx.org/licenses/CC-BY-4.0.html
+
+<code><ins>**[To Top](#table-of-contents)**</ins></code>
+
+
+## Acknowledgement
+We would like to convey our deepest appreciation to the Horizon 2020 [Hotmaps Project](https://www.hotmaps-project.eu) (Grant Agreement number 723677), which provided the funding to carry out the present investigation.
+
+<code><ins>**[To Top](#table-of-contents)**</ins></code>
+
+
+
+
+<!--- THIS IS A SUPER UNIQUE IDENTIFIER -->
+
+View in another language:
+
+ [German](../de/GL-national)<sup>\*</sup> 
+
+<sup>\*</sup> machine translated
+
 <br/>  
 [**`Scenario Toolchain Steps`**](guide-national-level-comprehensive-assessment-eed#part-iii-analysis-of-the-economic-potential-for-efficiency-in-heating-and-cooling_different-steps)
 [**`Next step`**](step-2-Costs-and-potentials-for-district-heating-in-representative-regions-or-cities)
