@@ -5,7 +5,7 @@
 [**`Next step`**](step-4-calculation-of-district-heating-distribution-costs)
 <br\>  
 
-# Table of Contents
+## Table of Contents
 * [Introduction](#introduction)
 * [Calculation of costs of decentral heat supply](#calculation-of-costs-of-decentral-heat-supply)
 * [How to cite](#how-to-cite)
