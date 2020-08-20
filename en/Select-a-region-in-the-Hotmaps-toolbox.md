@@ -12,17 +12,19 @@
 * [How to cite](#how-to-cite)
 * [Authors and reviewers](#authors-and-reviewers)
 * [License](#license)
+* [Acknowledgement](#acknowledgement)
+
 
 ## Introduction
 There are two ways to select a region in the Hotmaps toolbox:
 1. selection by the [NUTS classification (Nomenclature of territorial units for statistics))](https://ec.europa.eu/eurostat/web/nuts/background)
-2. custom hectar selection
+2. custom hectare selection
 
-With the [radio buttons](#fig1) at the right of your screen you can choose the terretorial scale that you want to analyze (NUTS regions, [LAU (Local Administrative Units](https://ec.europa.eu/eurostat/web/nuts/local-administrative-units) or hectar level)
+With the [radio buttons](#fig1) at the right of your screen, you can choose the territorial scale that you want to analyze (NUTS regions, [LAU (Local Administrative Units](https://ec.europa.eu/eurostat/web/nuts/local-administrative-units) or hectare level)
 
 <a name="Fig1">![radio_buttons_png][radio_buttons]</a>
 
-Fig.1.: Radio buttons for the terretorial scale
+Fig.1.: Radio buttons for the territorial scale
 
 ## Selection by NUTS boundaries:
 After selecting a region and pressing the _LOAD RESULTS Button_ the result sidebar at the right is shown and depending on what layer you selected some indicators for them are shown. You can see that by selecting another region the results will be aggregated on the fly.
@@ -48,13 +50,13 @@ After selecting a region and pressing the _LOAD RESULTS Button_ the result sideb
 [**`To Top`**](#table-of-contents)
 
 ### LAU Selection
-Beside the three NUTS Levels you have also the possibility to analyse in LAU level
+Besides the three NUTS Levels, you have also the possibility to analyse in LAU level
 ![ selecting_lau_gif][selecting_lau]
 
 [**`To Top`**](#table-of-contents)
 
 ## Custom Selection:
-If you need a more flexibel way and want to analyze a region that is not covered by the NUTS or LAU boundaries then it is better to specify your own customs regions (see below).
+If you need a more flexible way and want to analyze a region that is not covered by the NUTS or LAU boundaries then it is better to specify your own customs regions (see below).
 
 ![ selecting_hectare_gif][selecting_hectare]
 
