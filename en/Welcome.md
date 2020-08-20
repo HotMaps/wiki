@@ -2,14 +2,14 @@
 
 ## Hotmaps toolbox
 
-Heating and cooling in residential and industrial sectors accounts for half of the EU’s energy consumption. More than 80% of heating and cooling is still generated from fossil fuels [[1](#references)]. Meanwhile, heat losses are also significantly high. This sector needs to be transformed! 
+Heating and cooling in residential and industrial sectors account for half of the EU’s energy consumption. More than 80% of heating and cooling is still generated from fossil fuels [[1](#references)]. Meanwhile, heat losses are also significantly high. This sector needs to be transformed! 
 Hotmaps is a website, which allows you to provide within 5 minutes a first estimation of heating and cooling demand in your region and the potentials of local renewable energy to cover this demand. Subsequently, by using more detailed data and applying its calculation modules, you are able to elaborate much more comprehensive heating and cooling strategies.
-What we offer is an open source online software that supports planning processes of the energy sector on the local level in a transparent manner. We provide:
-* a starting data set, 
-* customisations of the software for your specific needs, 
-* training and support services.
+What we offer is open-source online software that supports the planning processes of the energy sector on the local level in a transparent manner. We provide:
+* A starting data set, 
+* Customisations of the software for your specific needs, 
+* Training and support services.
 
-Thanks to this software, you will be able to take practical decisions in your area of interest (village, town, city, etc.). We applied and demonstrated the values of the Hotmaps website in seven pilot areas. The website was developed by leading research institutions across Europe together with cities. Go on the website by clicking [HERE](https://www.hotmaps.hevs.ch/map) and discover your city’s climate neutral energy future. 
+Thanks to this software, you will be able to make practical decisions in your area of interest (village, town, city, etc.). We applied and demonstrated the values of the Hotmaps website in seven pilot areas. The website was developed by leading research institutions across Europe together with cities. Go on the website by clicking [HERE](https://www.hotmaps.hevs.ch/map) and discover your city’s climate-neutral energy future. 
 
 
 ## How to use the Hotmaps toolbox for heating and cooling planning 
@@ -28,13 +28,13 @@ The data set section provides information about Hotmaps data set repositories an
 
 General toolbox functionalities guide the user through the interface of the toolbox. The section covers all general aspects of the toolbox, which are related to the user experience, e.g. navigating through different parts of the toolbox, layer selection, retrieving indicators, data upload and export functionalities etc.
 
-The calculation module section, on the other hand, provides an in-depth explanation of concepts and methodologies behind the calculation modules. Besides the explanation of the methodology, the provided examples and test runs for each calculation module help the user to obtain understanding of input parameters and obtained results. Currently, only few calculation modules have been integrated into the toolbox. The calculation module section will expand further by integration of new calculation modules.
+The calculation module section, on the other hand, provides an in-depth explanation of concepts and methodologies behind the calculation modules. Besides the explanation of the methodology, the provided examples and test runs for each calculation module help the user to obtain an understanding of input parameters and obtained results. Currently, only a few calculation modules have been integrated into the toolbox. The calculation module section will expand further by integration of new calculation modules.
 
-The aim of section "How to apply hotmaps toolbox?" is to guide the Hotmaps users to perform heating and cooling planning with the Hotmaps toolbox. It includes guidelines on the use of Hotmaps at local and national level, as well and training materials and handbooks.
+The aim of the section "How to apply Hotmaps toolbox?" is to guide the Hotmaps users to perform heating and cooling planning with the Hotmaps toolbox. It includes guidelines on the use of Hotmaps at the local and national level, as well and training materials and handbooks.
 
-The developers section contains all information required for developers to contribute to the Hotmaps toolbox or to understand how it works. It explains amongst all the IT infrastructure of the Hotmaps toolbox, data set integration, contribution in calculation module development etc.
+The developers' section contains all information required for developers to contribute to the Hotmaps toolbox or to understand how it works. It explains amongst all the IT infrastructure of the Hotmaps toolbox, data set integration, contribution in calculation module development etc.
 
-**The Hotmaps Wiki is a living document**, i.e. it grows as the Hotmaps toolbox grows. The Hotmaps developers continue updating Hotmaps Wiki pages by introduction of new updates, improvements, functionalities and calculation modules. Please use [this guideline](Guidelines-for-writing-a-Hotmaps-Wiki-page) for writing a Hotmaps Wiki page.
+**The Hotmaps Wiki is a living document**, i.e. it grows as the Hotmaps toolbox grows. The Hotmaps developers continue updating Hotmaps Wiki pages by the introduction of new updates, improvements, functionalities and calculation modules. Please use [this guideline](Guidelines-for-writing-a-Hotmaps-Wiki-page) for writing a Hotmaps Wiki page.
 
 We hope you enjoy exploring the toolbox and find it helpful for your heating and cooling planning!
 
@@ -97,7 +97,7 @@ For additional supports on heating and cooling planning, please refer to the Hot
 ![](../images/Hotmaps_test.JPG)
 
 ## References
-[1] EU H2020 Project: Mapping and analyses of the current and future (2020 - 2030) heat-ing/cooling fuel deployment (fossil/renewables). WP1 Report. 2016. accessed via https://ec.europa.eu/energy/sites/ener/files/documents/Report%20WP1.pdf
+[1] EU H2020 Project: Mapping and analyses of the current and future (2020 - 2030) heating/cooling fuel deployment (fossil/renewables). WP1 Report. 2016. accessed via https://ec.europa.eu/energy/sites/ener/files/documents/Report%20WP1.pdf
 
 
 
