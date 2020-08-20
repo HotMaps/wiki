@@ -58,14 +58,14 @@ In the following separate pages, the different steps in generating scenarios for
 
 
 # How to cite
-Marcus Hummel, in Hotmaps-Wiki, Guidelines for using the Hotmaps toolbox for analyses at national level (October 2020)
+Marcus Hummel, Giulia Conforto, in Hotmaps-Wiki, Guidelines for using the Hotmaps toolbox for analyses at national level (October 2020)
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
 
 
 # Authors and reviewers
 This page is written by Marcus Hummel and Giulia Conforto\*.
-- [x] This page was reviewed by Lukas Kranzl\**.
+- This page was reviewed by Lukas Kranzl\**.
 
 \* [e-think](https://e-think.ac.at/),
 Zentrum f. Energiewirtschaft und Umwelt,
