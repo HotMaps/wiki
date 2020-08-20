@@ -146,7 +146,7 @@ Mostafa Fallahnejad, in Hotmaps-Wiki, CM-Scenario-assessment (June 2019)
 
 ## Authors and reviewers
 
-- [ ] This page is written by Mostafa Fallahnejad, Giulia Conforto and David Schmidinger\*.
+- This page is written by Giulia Conforto and David Schmidinger\*.
 
 \* [e-think - energy research](http://e-think.ac.at/)
 
@@ -155,7 +155,7 @@ Argentinierstrasse 18/10
 A-1040 Wien, Austria
 
 
-- [ ] This page was reviewed by Lukas Kranzl\*.
+- This page was reviewed by Lukas Kranzl\*.
 
 \* [Energy Economics Group - TU Wien](https://eeg.tuwien.ac.at/)
 
