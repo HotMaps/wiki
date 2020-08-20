@@ -30,7 +30,7 @@ Integration of new public datasets is handled as follow:
 
 1. datasets must be pushed to a git repository ([Add your datasets on GitLab](#add-your-datasets-on-gitlab))
 2. every night a script integrates the new/updated datasets to the DEV platform
-3. if everything worked well, the dataset is now available on the DEV platform and developers can integrate it in their code
+3. if everything worked well, the dataset is now available on the DEV platform and developers can integrate it into their code
 4. Once coding is finished the new features are added to the production platform through a new release
 
 ![data integration](images/data-integration-workflow.png)
@@ -67,7 +67,7 @@ The code of the application is located on GitHub under the [Hotmaps organization
 
 If you want to add some code to Hotmaps you have two possibilities: if you want to update the interface or the backend directly, you have to modify the client or service repository of the toolbox. If you want to add your own calculation module, you can create your own repository by following [the readme of the base_calculation_module repository](https://github.com/HotMaps/base_calculation_module)
 
-If you want to perform some work on the Git repository, please do not work directly with the master branch. Create a new branch from the develop branch, do your work on this branch and when your feature is tested, you can merge your work with the develop branch as show in the following graph. 
+If you want to perform some work on the Git repository, please do not work directly with the master branch. Create a new branch from the develop branch, do your work on this branch and when your feature is tested, you can merge your work with the develop branch as shown in the following graph. 
 
 ![git_workflow](images/git_workflow.png)
 
@@ -87,17 +87,17 @@ You can find more information on how to work in these documents:
 
 All services and components are used through their own Docker container. All these containers are defined in a single docker-compose file. The image above represents the IT architecture of Hotmaps.
 
-Some partner organizations limited communication to port 80 only. To avoid the problems caused by this limitation, the creation of a reverse proxy was made. This reverse proxy offers a single entrypoint and then distributes the request sent by the customer to the service concerned. The reverse proxy is composed by three components :
+Some partner organizations limited communication to port 80 only. To avoid the problems caused by this limitation, the creation of a reverse proxy was made. This reverse proxy offers a single entry point and then distributes the request sent by the customer to the service concerned. The reverse proxy is composed of three components :
 
-1. Reverse proxy server : it serves as a unique entrypoint and distributes requests to the right services.
-2. Proxy-gen : it is a service that automatically maps all services in the reverse proxy. Thus, it is not necessary to manually add a new service to the proxy configuration
-3. lets-encrypt : it is a service that allows the use of the SSL protocol. It is necessary in order to activate the https protocol. The SSL certificates are signed by an email address configured in this service. 
+1. Reverse proxy server: it serves as a unique entry point and distributes requests to the right services.
+2. Proxy-gen: it is a service that automatically maps all services in the reverse proxy. Thus, it is not necessary to manually add a new service to the proxy configuration
+3. lets-encrypt: it is a service that allows the use of the SSL protocol. It is necessary in order to activate the https protocol. The SSL certificates are signed by an email address configured in this service. 
 
 Three networks exist :
 
-- hotmaps_nginx allows the reverse proxy to communicate with the api, the frontend and the geoserver. It mainly allows to distribute a request to the correct service among the three.
-- hotmaps_backend allows the communication between all the components of the backend : api, frontend, geoserver and the PostgreSQL database. 
-- hotmaps_cm-net allows the communication between each calculation modules and the api.
+- hotmaps_nginx allows the reverse proxy to communicate with the API, the frontend and the GeoServer. It mainly allows distributing a request to the correct service among the three.
+- hotmaps_backend allows the communication between all the components of the backend: API, frontend, GeoServer and the PostgreSQL database. 
+- hotmaps_cm-net allows the communication between each calculation modules and the API.
 
 Each calculation module has its own Docker container. 
 
@@ -130,7 +130,7 @@ Both machines have the same specification:
 
 We frequently run performance tests on the development server in order to guarantee a certain amount of concurrent users. 
 
-As an example, below are the results of the first beta release versus the future release tests. The new release includes some performance improvements.
+As an example, below are the results of the first beta release versus future release tests. The new release includes some performance improvements.
 
 *This example shows the performance tests of concurrent users using the same function: "duration curve for hectare selection". The bold line shows the limit where the server starts to raise errors. Hectare selection is a good example as it shows the queries that require the most resources.*
 
