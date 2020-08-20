@@ -18,6 +18,7 @@
 * [How to cite](#how-to-cite)
 * [Authors and reviewers](#authors-and-reviewers)
 * [License](#license)
+* [Acknowledgement](#acknowledgement)
 
 ## Introduction Page 
 Once the toolbox is opened, the disclaiming page is shown ([Fig.1](#fig1)). Besides the disclaimer message, additional information regarding the objectives of the Hotmaps toolbox as well as the link to the Hotmaps project website and the data repositories is provided.
@@ -26,7 +27,7 @@ Once the toolbox is opened, the disclaiming page is shown ([Fig.1](#fig1)). Besi
 _Fig. 1 Short introduction to Hotmas toolbox_
 
 
-The Hotmaps GUI is a GIS-based interface. By closing the disclaiming page, the user sees the map of Europe. By default, the heat demand density map of EU-28 countries and NUTS 3 layer are depicted. In addition to these two maps, some tools and buttons can be seen in GUI. These tools are illustrated in [Fig.2](#fig2)
+The Hotmaps GUI is a GIS-based interface. By closing the disclaiming page, the user sees the map of Europe. By default, the heat demand density map of EU-28 countries and NUTS 3 layer is depicted. In addition to these two maps, some tools and buttons can be seen in GUI. These tools are illustrated in [Fig.2](#fig2)
 
 <a name="Fig2">![first_glance][Fig2] </a>
 _Fig. 2 Initial Page_
@@ -49,13 +50,13 @@ With this toolbar you can:
 3. [_Layers:_](#layers) show the layer sidebar
 4. [_Selection Tools_:](#selection-tool) enable or disable the selection tools
 5. [_Show Result:_](#show-result) show the result sidebar of your selected regions
-6. [_Feedback:_](#feedback) give us Feedback regarding the tool
+6. [_Feedback:_](#feedback) give us feedback regarding the tool
 
 ### Connect
 Here you can: 
-* create an account 
-* login to your account to save your progress
-* or reset your password if you forget it 
+* Create an account 
+* Log-in into your account to save your progress
+* Or reset your password if you forget it 
 
 #### Login
 
@@ -72,7 +73,7 @@ _Fig.4.: Login Form_
 
 #### Register
 
-Here you can create a account for the _hotmaps_ website. After submitting the [form](#fig5) you will receive an email for activating your account. With your account you will be able to save your progress.
+Here you can create an account for the _hotmaps_ website. After submitting the [form](#fig5) you will receive an email for activating your account. With your account, you will be able to save your progress.
 
 ![register_gif][register_gif]
 
@@ -94,7 +95,7 @@ _Fig.6.: Recover Form_
 [**`To Top`**](#table-of-contents)
 
 ### Go To Place
-You can zoom to a specify region by typing its name (see animation below)
+You can zoom to a specified region by typing its name (see animation below)
  
 ![go_to_place_gif][go_to_place]
 
@@ -121,10 +122,10 @@ The figure below shows the appearance of the tools:
 
 ![selection_tools.png][selection_tools_png] 
 
-1. tool for selection of regions
-2. creating a custom square region
-3. creating a custom circle region
-4. creating a custom polygon region
+1. Tool for the selection of regions
+2. Create a custom square region
+3. Create a custom circle region
+4. Create a custom polygon region
 
 <ol type="A">
 <li>shows how many regions you selected</li>
@@ -144,8 +145,8 @@ Depending on the layers and region you selected results for your configuration a
 [**`To Top`**](#table-of-contents)
 
 ### Feedback
-Do you have any suggestions how to improve the tool?
-Have you notice any errors?
+Do you have any suggestions on how to improve the tool?
+Have you noticed any errors?
 Please let us know!
 By giving us feedback you can help us improve the toolbox!
 
@@ -167,7 +168,7 @@ and set a priority:
 [**`To Top`**](#table-of-contents)
 
 ## Tiles
-You can choose the terretorial scale that you want to analyze (NUTS regions or hectar level) and set te tile of the map
+You can choose the territorial scale that you want to analyze (NUTS regions or hectare level) and set the tile of the map
 
 ![maping_gif][mapping_gif]
 
@@ -175,9 +176,9 @@ There are following configurations possible
 
 ![maping_gif][mapping]
 
-1. Zomm in and Zoom out the map
-2. Show the NUTS boundaries to select specifc NUTS regions or use hectar to customize your [selection](#selection-tools)
-3. Use Openstreetmap tile or Satalite tile
+1. Zoom in and Zoom out the map
+2. Show the NUTS boundaries to select specific NUTS regions or use hectare to customize your [selection](#selection-tools)
+3. Use OpenStreetMap tile or Satelite tile
 
 [**`To Top`**](#table-of-contents)
 
