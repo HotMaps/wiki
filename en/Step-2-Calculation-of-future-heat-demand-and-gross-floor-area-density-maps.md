@@ -5,7 +5,7 @@
 [**`Next step`**](step-3-Calculation-of-costs-of-decentral-heat-supply)
 <br/>  
 
-# Table of Contents
+## Table of Contents
 * [Introduction](#introduction)
 * [Calculation of future heat demand and gross floor area density maps](#calculation-of-future-heat-demand-and-gross-floor-area-density-maps)
 * [How to cite](#how-to-cite)
