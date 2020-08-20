@@ -5,7 +5,7 @@
 [**`Next step`**](step-5-calculation-of-costs-of-heat-supply-to-district-heating)
 <br\>  
 
-# Table of Contents
+## Table of Contents
 * [Introduction](#introduction)
 * [Calculation of district heating distribution costs](#calculation-of-district-heating-distribution-costs)
 * [How to cite](#how-to-cite)
@@ -35,13 +35,13 @@ For the representative cities/areas an economic assessment of district heating c
 The scenarios can be used to analyse the influence of the different factors on the heat distribution costs in district heating systems in the different representative cities/areas. For different settings of depreciation time and interest rate, one scenario of district heating expansion per representative city/area should be selected for further analysis. The outcomes of this step are the heat demand for district heating [GWh/yr] and the heat distribution costs [EUR/MWh] in each of the representative cities/areas. These results will then be used in the overall [Scenario Assessment](https://wiki.hotmaps.hevs.ch/en/CM-Scenario-assessment) in [Step 6](https://wiki.hotmaps.hevs.ch/en/Step-6-Assessment-of-scenarios-for-entire-heat-demand-and-supply-for-the-selected-area).
 <br\>  
 
-# How to cite
+## How to cite
 Marcus Hummel, Giulia Conforto, in Hotmaps-Wiki, Guidelines for using the Hotmaps toolbox for analyses at local level (August 2020)
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
 
 
-# Authors and reviewers
+## Authors and reviewers
 This page is written by Marcus Hummel and Giulia Conforto\*.
 - This page was reviewed by ...\.
 
@@ -53,7 +53,7 @@ Argentinierstrasse 18/10,
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
 
 
-# License
+## License
 Copyright © 2016-2019: Marcus Hummel
 
 Creative Commons Attribution 4.0 International License
@@ -66,7 +66,7 @@ License-Text: https://spdx.org/licenses/CC-BY-4.0.html
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
 
 
-# Acknowledgement
+## Acknowledgement
 We would like to convey our deepest appreciation to the Horizon 2020 [Hotmaps Project](https://www.hotmaps-project.eu) (Grant Agreement number 723677), which provided the funding to carry out the present investigation.
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
