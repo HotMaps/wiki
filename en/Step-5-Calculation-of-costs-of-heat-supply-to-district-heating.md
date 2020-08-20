@@ -16,7 +16,7 @@
 * [Acknowledgement](#acknowledgement)
 
 ## Introduction
-This is the fourth step of the analysis at local and municipal level.
+This is the fifth step of the analysis at local and municipal level.
 
 [[/en/Step-5-Calculation-of-costs-of-heat-supply-to-district-heating/Hotmaps_Local_Toolchain_Step_5final.png]]
 *Figure: The steps to calculate the costs of heat supply to district heating are highlighted in the Toolchain above*
