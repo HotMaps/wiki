@@ -24,7 +24,7 @@ This module calculates the potential of shallow geothermal energy to be used in 
 ## Introduction
 
 It aims to compute the shallow geothermal potential based on [r.green.gshp.theoretical](https://grass.osgeo.org/grass76/manuals/addons/r.green.gshp.theoretical.html) according to the [G.pot methodology](https://www.sciencedirect.com/science/article/pii/S0360544216303358). 
-In this module the output is the theoretical maximum energy that can be converted in the ideal case without considering the financial and spatial constraints. 
+In this module, the output is the theoretical maximum energy that can be converted in the ideal case without considering the financial and spatial constraints. 
 
 
 [**`To Top`**](#table-of-contents)
@@ -32,7 +32,7 @@ In this module the output is the theoretical maximum energy that can be converte
 
 ## Inputs and outputs
 
-The input parameters and layers as well as output layers and parameters are as follows.
+The input parameters and layers, as well as output layers and parameters, are as follows.
 
 
 **Input layers and parameters are:**
@@ -43,7 +43,7 @@ The input parameters and layers as well as output layers and parameters are as f
 * Value with depth-averaged ground thermal capacity [MJ m-3 K-1]
 * Value with depth-averaged ground thermal capacity [MJ m<sup>-3</sup> K<sup>-1</sup>]
 
-The advanced input are:
+The advanced input is:
 * Borehole radius [m]
 * Borehole thermal resistance [m K W<sup>-1</sup>]
 * Borehole length [m]
