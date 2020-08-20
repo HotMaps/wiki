@@ -14,9 +14,10 @@
 * [How to cite](#how-to-cite)
 * [Authors and reviewers](#authors-and-reviewers)
 * [License](#license)
+* [Acknowledgement](#acknowledgement)
 
 
-## Indroduction 
+## Introduction 
 
 Depending on the layers and region you selected indicators for your configuration are shown in a sidebar at the right of your screen 
 
@@ -24,15 +25,15 @@ Depending on the layers and region you selected indicators for your configuratio
 
 [**`To Top`**](#table-of-contents)
 
-In the following we look at the indicators that are displayed for raster and vector layers.
+In the following, we look at the indicators that are displayed for raster and vector layers.
 
 ## Indicators for raster layers 
 
-The indicators on raster layers are different from vector layers. With different we mean in terms of aggregation and disaggregation. This different behaviour comes from the territorial resolutions. 
+The indicators on raster layers are different from vector layers. With different, we mean in terms of aggregation and disaggregation. This different behaviour comes from territorial resolutions. 
 
 Raster Layers have generally a much higher resolution whereas vector layers have only attributes at points or polygons. 
 
-That mean on the one hand for example that if you select a vector layer which is defined by NUTS3 polygons and you want for example to select a LAU region then the NUTS3 value will not be disaggregated to LAU level, instead the NUTS3 indicator where this LAU region is located will be shown in the results side bar. 
+That means on the one hand for example that if you select a vector layer which is defined by NUTS3 polygons and you want for example to select an LAU region then the NUTS3 value will not be disaggregated to LAU level, instead, the NUTS3 indicator where this LAU region is located will be shown in the results sidebar. 
 
 On the other hand, raster layers are aggregated and disaggregated "arbitrarily"* 
 
@@ -46,12 +47,12 @@ On the other hand, raster layers are aggregated and disaggregated "arbitrarily"*
 
 **Extra Feature**
 
-When you select the heat denisity layer and the Population Layer at the same time an extra indicator is shown (see picture below)
+When you select the heat density layer and the Population Layer at the same time an extra indicator is shown (see picture below)
 
 ![hdm2.png][hdm2]
 
 ### In General:
-When one of the bulding layers and the population layer is selected at the same time, an extra indicator will be shown as described before
+When one of the building layers and the population layer is selected at the same time, an extra indicator will be shown as described before
 
 <code><ins>**[To Chapter](#indicators-for-raster-layers)**</ins></code>
 
@@ -168,13 +169,13 @@ When one of the bulding layers and the population layer is selected at the same 
 
 <code><ins>**[To Chapter](#indicators-for-vector-layers)**</ins></code>
 
-**Argicultural Residues**
+**Agricultural Residues**
 
 ![ar.png][ar]
 
 <code><ins>**[To Chapter](#indicators-for-vector-layers)**</ins></code>
 
-**Lifestock Effluents**
+**Livestock Effluents**
 
 ![le.png][le]
 
@@ -206,7 +207,7 @@ In the picture below you can see how it looks when all layers are visualized (he
 
 ![all_map.png][all_map]
 
-Although this maps looks pretty messy, the indicators are straight forward illustrated. See below all indicators that are described in the result sidebar when you select all layers for Austria (NUTS0)
+Although this map can look a bit confusing at first sight, its indicators are straight forward illustrated. See below all indicators that are described in the result sidebar when you select all layers for Austria (NUTS0)
 
 ![all_results.png][all_results]
 
