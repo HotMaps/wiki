@@ -15,7 +15,7 @@
 
 ## Indicators
 
-This documentation explain how to manage indicators on the Hotmaps toolbox. An indicator is a value that is displayed on the Hotmaps toolbox in the client side. The indicator is part of a layer. Indicator is a value, for a specific spatial region, with a unit. An indicator is part of a layer dictionary. A layer object contains an array named "indicators". This table will be used to list all the indicators that you want to see for the layer.
+This page explains how to manage indicators on the Hotmaps toolbox. An indicator is a value that is displayed on the Hotmaps toolbox in the client-side. The indicator is part of a layer. An indicator is a value, for a specific spatial region, with a unit. An indicator is part of a layer dictionary. A layer object contains an array named "indicators". This table will be used to list all the indicators that you want to see for the layer.
 
     layers = {
 	    'heat_tot_curr_density_tif':{
@@ -85,7 +85,7 @@ Name of the geometry column in the database (Exemple: 'geom', 'geometry')
 
 Type of the layer in the database (Values: 'vector' or 'raster'). 
 
-***Important :*** If it is a raster, the column available are **count, sum, mean, stddev, min and max**
+***Important:*** If it is a raster, the column available are **count, sum, mean, stddev, min and max**
 
 - 'Indicators'
 
@@ -106,23 +106,23 @@ A simple indicator is an object with 3 parameters.
 
 - 'table_column'
 
-This is the table column that is selected in the table. (Exemple: 'count')
+This is the table column that is selected in the table. (Example: 'count')
 
 ![tablecolumnselection](/api/assets/table_image.png)
 
 - 'unit'
 
-This is the unit of the indicator. (Exemple: 'cells', 'MWh')
+This is the unit of the indicator. (Example: 'cells', 'MWh')
 
 - 'indicator_id'
 
-This is the indicator identifier of the indicator (Like an ID). This name **must be unique** in the array of indicator.
+This is the indicator identifier of the indicator (Like an ID). This name **must be unique** in the array of indicators.
 
 
 
 ### Cross indicator
 
-A cross indicator is an object with 7 parameters. The goal of this indicator is to make a calcul between simple indicators and cross indicator. 
+A cross indicator is an object with 7 parameters. The goal of this indicator is to make a calculation among simple indicators. 
 
 	{
         'reference_indicator_id_1': 'consumption',
@@ -137,7 +137,7 @@ A cross indicator is an object with 7 parameters. The goal of this indicator is 
 
 - 'reference_indicator_id_1'
 
-Corresponds to the identifier of a simple indicator. This name **must be defined** in the indicator array. It is the value number 1.
+Corresponds to the identifier of a simple indicator. This name **must be defined** in the indicator array. It is value number 1.
 
 - 'reference_tablename_indicator_id_1'
 
@@ -149,7 +149,7 @@ Calcul rule to apply to the 2 values (Values: '/' or '*' or '+' or '-')
 
 - 'reference_indicator_id_1'
 
-Corresponds to the identifier of a simple indicator. This name **must be defined** in the indicator array. It is the value number 2.
+Corresponds to the identifier of a simple indicator. This name **must be defined** in the indicator array. It is value number 2.
 
 - 'reference_tablename_indicator_id_2'
 
@@ -157,14 +157,14 @@ Reference of the layer tablename that reference the value number 2. (Exemple: 'p
 
 - 'unit'
 
-This is the unit of the indicator. (Exemple: 'cells', 'MWh')
+This is the unit of the indicator. (Example: 'cells', 'MWh')
 
 - 'name'
 
-This is the name of the indicator (Like an ID). This name **must be unique** in the array of indicator.
+This is the name of the indicator (Like an ID). This name **must be unique** in the array of indicators.
 
 
-##### Note: For this exemple, the calculation bellow is done.
+##### Note: For this example, the calculation below is done.
 
     reference_indicator_id_1.reference_indicator_id_1 / reference_indicator_id_1.reference_indicator_id_1 = heat_tot_curr_density_tif.consumption / pop_tot_curr_density_tif.count_cell
 
