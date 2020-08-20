@@ -1,4 +1,4 @@
-<h1>Local Level Analysis - Step 1: Analysis of current heat demand and available resource potentials</h1>
+<h1>Local Level - Step 1: Analysis of current heat demand and available resource potentials</h1>
 
 [**`Local Scenario Toolchain Steps`**](guide-local-and-municipal-levels#the-hotmaps-scenario-toolchain-different-steps)
 [**`Next step`**](step-2-Calculation-of-future-heat-demand-and-gross-floor-area-density-maps)
@@ -12,11 +12,12 @@
 * [Acknowledgement](#acknowledgement)
 
 ## Introduction
-This is a step of the analysis at local and municipal level.
+This is the first step of the analysis at local and municipal level.
 
 [[/en/Step-1-Analysis-of-current-heat-demand-and-available-resource-potentials/Hotmaps_Local_Toolchain_Step_1final.png]]
-*Figure: The steps to analyse the potentials for excess heat and renewable energy are highlighted in the Toolchain above.*
 <br/>
+*Figure: The steps to analyse the potentials for excess heat and renewable energy are highlighted in the Toolchain above.*
+
 
 ## Analysis of potentials for excess heat and renewable energy in the identified regions with potential interest for district heating
 In this step, the potentials for excess heat and renewable energy in the regions that have been identified as potentially interesting for district heating can be analysed. These data together with the data on heat demand and heat demand density in the regions collected in the previous step can then be used to characterise representative district heating areas for further analysis steps. The following list gives an overview of the heat sources that should be taken into account and links to the default data for the respective energy source, which is available in the Hotmaps database:
