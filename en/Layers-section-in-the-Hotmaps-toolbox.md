@@ -8,6 +8,7 @@
 * [How to cite](#how-to-cite)
 * [Authors and reviewers](#authors-and-reviewers)
 * [License](#license)
+* [Acknowledgement](#acknowledgement)
 
 ## Introduction
 By pressing the ![layers_button][layers_button] Button a sidebar with different kind of layers is shown at the left of your screen.
@@ -21,7 +22,7 @@ By pressing the ![layers_button][layers_button] Button a sidebar with different 
 1. Shows the symbology section of the layer (legend)
 2. Shows the information section (primary a link to the GitLab repository, it is highly recommended to look for more information about the data in the [GitLab Repository](https://gitlab.com/hotmaps) )
 3. Download the layer for the selected region(en-s)
-4. Redircets you to the GitLab repository to download the whole layer
+4. Redirects you to the GitLab repository to download the whole layer
 
 [**`To Top`**](#table-of-contents)
 
@@ -78,8 +79,8 @@ Following vector layers are visualized:
 1. **6 x Renewable Energy Sources Potential layers:**
    * Waste Water Treatment Plants Power
    * Waste Water Treatment Plants Capacity
-   * Argicultural Residues
-   * Lifestock Effluents
+   * Agricultural Residues
+   * Livestock Effluents
    * Geothermal Potential Heat Conductivity
    * Municipal Solid Waste
 
