@@ -6,10 +6,6 @@
 * [Part III: Analysis of the economic potential for efficiency in heating and cooling](#part-iii-analysis-of-the-economic-potential-for-efficiency-in-heating-and-cooling)
   * [Overview of the Hotmaps approach](#part-iii-analysis-of-the-economic-potential-for-efficiency-in-heating-and-cooling_overview-of-the-hotmaps-approach)
   * [Different Steps](#part-iii-analysis-of-the-economic-potential-for-efficiency-in-heating-and-cooling_different-steps)
-    * [Step 1: Identification of different representative cases for district heating](https://wiki.hotmaps.hevs.ch/en/Step-1-Identification-of-different-representative-cases-for-district-heating)
-    * [Step 2: Costs and potentials for district heating in representative regions or cities](https://wiki.hotmaps.hevs.ch/en/Step-2-Costs-and-potentials-for-district-heating-in-representative-regions-or-cities)
-    * [Step 3: Calculation of decentral heat supply](https://wiki.hotmaps.hevs.ch/en/Step-3-Calculation-of-decentral-heat-supply)
-    * [Step 4: Comparison of results for different scenarios](https://wiki.hotmaps.hevs.ch/en/Step-4-Comparison-of-results-for-different-scenarios)
 * [References](#references)
 * [How to cite](#how-to-cite)
 * [Authors and reviewers](#authors-and-reviewers)
@@ -19,7 +15,7 @@
 
 # Introduction
 
-These guidelines describe how the Hotmaps toolbox can be used to analyse costs and potentials for efficient and renewable heating and cooling at national level. _**The guide is especially oriented towards the development of results according to the comprehensive assessment of national heating and cooling potentials referred to in Article 14(1) of the Energy Efficiency Directive (EED) in its current version.**_
+These guidelines describe how the Hotmaps toolbox can be used to analyse costs and potentials for efficient and renewable heating and cooling at the national level. _**The guide is especially oriented towards the development of results according to the comprehensive assessment of national heating and cooling potentials referred to in Article 14(1) of the Energy Efficiency Directive (EED) in its current version.**_
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
 
@@ -96,8 +92,8 @@ The following resulting **indicators can be retrieved from the Hotmaps Calculati
     * [CM - District heating supply dispatch](https://wiki.hotmaps.hevs.ch/en/CM-District-heating-supply-dispatch) for CO2 emissions from heat supply to district heating
     * [CM - Decentral heating supply](https://wiki.hotmaps.hevs.ch/en/CM-Decentral-heating-supply) for CO2 emissions from decentral heat supply
 * Impact on the share of RES can be calculated based on the results of the following CMs:
-  * [CM - District heating supply dispatch](https://wiki.hotmaps.hevs.ch/en/CM-District-heating-supply-dispatch) for share of RES from heat supply to district heating
-  * [CM - Decentral heating supply](https://wiki.hotmaps.hevs.ch/en/CM-Decentral-heating-supply) for share of RES from decentral heat supply
+  * [CM - District heating supply dispatch](https://wiki.hotmaps.hevs.ch/en/CM-District-heating-supply-dispatch) for the share of RES from heat supply to district heating
+  * [CM - Decentral heating supply](https://wiki.hotmaps.hevs.ch/en/CM-Decentral-heating-supply) for the share of RES from decentral heat supply
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
 
@@ -124,14 +120,14 @@ The following resulting **indicators can be retrieved from the Hotmaps Calculati
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
 
 # How to cite
-Marcus Hummel, in Hotmaps-Wiki, Guidelines for using the Hotmaps toolbox for analyses at national level (October 2020)
+Marcus Hummel, Giulia Conforto, in Hotmaps-Wiki, Guidelines for using the Hotmaps toolbox for analyses at national level (October 2020)
 
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
 
 # Authors and reviewers
-This page is written by Marcus Hummel\*.
-- [x] This page was reviewed by Lukas Kranzl\**.
+This page is written by Marcus Hummel and Giulia Conforto\*.
+- This page was reviewed by Lukas Kranzl\**.
 
 \* [e-think](https://e-think.ac.at/),
 Zentrum f. Energiewirtschaft und Umwelt,
