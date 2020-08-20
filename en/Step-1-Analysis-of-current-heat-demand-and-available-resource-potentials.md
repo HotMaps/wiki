@@ -3,7 +3,7 @@
 [**`Local Scenario Toolchain Steps`**](guide-local-and-municipal-levels#the-hotmaps-scenario-toolchain-different-steps)
 [**`Next step`**](step-2-Calculation-of-future-heat-demand-and-gross-floor-area-density-maps)
 
-# Table of Contents
+## Table of Contents
 * [Introduction](#introduction)
 * [Analysis of potentials for excess heat and renewable energy in the identified regions with potential interest for district heating](#Analysis-of-potentials-for-excess-heat-and-renewable-energy-in-the-identified-regions-with-potential-interest-for-district-heating)
 * [How to cite](#how-to-cite)
