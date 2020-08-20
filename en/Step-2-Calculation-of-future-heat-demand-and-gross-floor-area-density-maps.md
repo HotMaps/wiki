@@ -35,13 +35,13 @@ The second step in the analysis is to generate future heat demand and floor area
 
 The developed heat demand and floor area density maps are further used in the subsequent steps in other Calculation Modules (CMs).
 
-# How to cite
+## How to cite
 Marcus Hummel, Giulia Conforto, in Hotmaps-Wiki, Guidelines for using the Hotmaps toolbox for analyses at local level (August 2020)
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
 
 
-# Authors and reviewers
+## Authors and reviewers
 This page is written by Marcus Hummel and Giulia Conforto\*.
 - This page was reviewed by ...\.
 
@@ -53,7 +53,7 @@ Argentinierstrasse 18/10,
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
 
 
-# License
+## License
 Copyright © 2016-2019: Marcus Hummel
 
 Creative Commons Attribution 4.0 International License
@@ -66,7 +66,7 @@ License-Text: https://spdx.org/licenses/CC-BY-4.0.html
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
 
 
-# Acknowledgement
+## Acknowledgement
 We would like to convey our deepest appreciation to the Horizon 2020 [Hotmaps Project](https://www.hotmaps-project.eu) (Grant Agreement number 723677), which provided the funding to carry out the present investigation.
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
