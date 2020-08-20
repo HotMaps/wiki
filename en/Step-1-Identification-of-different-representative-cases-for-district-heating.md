@@ -7,10 +7,10 @@
 ## Table of Contents
 * [Introduction](#introduction)
 * [Identification of different representative cases for district heating](#identification-of-different-representative-cases-for-district-heating)
-  * [Calculation of future heat demand and building floor area density maps](#step-1-identification-of-different-representative-cases-for-district-heating_calculation-of-future-heat-demand-and-building-floor-area-density-maps)
-  * [Identification of areas potentially interesting for district heating](#step-1-identification-of-different-representative-cases-for-district-heating_identification-of-areas-potentially-interesting-for-district-heating)
-  * [Identification of representative, typical district heating areas for further analysis](#step-1-identification-of-different-representative-cases-for-district-heating_identification-of-representative-typical-district-heating-areas-for-further-analysis)
-  * [Calculation of RES potential](#calculation-of-RES-potential)
+  * [Calculation of future heat demand and building floor area density maps](#identification-of-different-representative-cases-for-district-heating_calculation-of-future-heat-demand-and-building-floor-area-density-maps)
+  * [Identification of regions potentially interesting for district heating](#identification-of-different-representative-cases-for-district-heating_identification-of-regions-potentially-interesting-for-district-heating)
+  * [Analysis of potentials for excess heat and renewable energy in the identified regions with potential interest for district heating](#analysis-of-potentials-for-excess-heat-and-renewable-energy-in-the-identified-regions-with-potential-interest-for-district-heating)
+  * [Identification of representative, typical district heating areas for further analysis](#identification-of-different-representative-cases-for-district-heating_identification-of-representative-typical-district-heating-areas-for-further-analysis)
 * [How to cite](#how-to-cite)
 * [Authors and reviewers](#authors-and-reviewers)
 * [License](#license)
@@ -64,6 +64,33 @@ After developing possible future scenarios of heat demand and floor area density
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
 
+### Analysis of potentials for excess heat and renewable energy in the identified regions with potential interest for district heating
+In this step, the potentials for excess heat and renewable energy in the regions that have been identified as potentially interesting for district heating can be analysed. These data together with the data on heat demand and heat demand density in the regions collected in the previous step can then be used to characterise representative district heating areas for further analysis steps. The following list gives an overview of the heat sources that should be taken into account and links to the default data for the respective energy source, which is available in the Hotmaps database:
+
+* Renewable energy sources:
+  * [Waste water treatment plants:](https://gitlab.com/hotmaps/potential/WWTP)
+    * DB - Wastewater treatment plants power
+    * DB - Wastewater treatment plants capacity
+  * [Agricultural biomass:](https://gitlab.com/hotmaps/potential/potential_biomass)
+    * DB - Agricultural residues
+    * DB - Livestock effluents
+  * Forestal biomass:
+    * [DB - Forest residues](https://gitlab.com/hotmaps/potential/potential_forest)
+  * Waste:
+    * [DB - Municipal solid waste](https://gitlab.com/hotmaps/potential/potential_municipal_solid_waste)
+  * Geothermal energy:
+    * [DB - Geothermal potential heat conductivity](https://gitlab.com/hotmaps/potential/potential_geothermal_raster)
+  * Solar thermal energy:
+    * [DB - Potential solar thermal collectors - rooftop](https://gitlab.com/hotmaps/potential/potential_solarthermal_collectors_rooftop)
+    * [DB - Potential solar thermal collectors open - field](https://gitlab.com/hotmaps/potential/potential_solarthermal_collectors_open_field)
+* Excess heat:
+  * Large industrial sites:
+    * [DB - Industrial sites excess heat](https://gitlab.com/hotmaps/industrial_sites/industrial_sites_industryBenchmarks)
+  * Other excess heat sources:
+    * Information on other excess heat sources like power plants, further industrial plants, low-temperature heat sources like river water, data centers, etc. can be uploaded into the toolbox. A guide on how to do this can be found [here](https://wiki.hotmaps.hevs.ch/en/CM-Add-industry-plant).
+
+
+<code><ins>**[To Top](#table-of-contents)**</ins></code>
 
 ### Identification of representative, typical district heating areas for further analysis
 
@@ -86,10 +113,6 @@ Possible indicators for grouping of typical district heating areas:
     * other
 
 For each of the developed groups of typical DH areas, then one or several representative cities/regions can be selected and further analysed. These can serve as representative case studies.
-
-### Calculation of RES potential
-
-FILL
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
 
