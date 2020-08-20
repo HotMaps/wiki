@@ -5,7 +5,7 @@
 [**`Next step`**](step-6-assessment-of-scenarios-for-entire-heat-demand-and-supply-for-the-selected-area)
 <br\>  
 
-# Table of Contents
+## Table of Contents
 * [Introduction](#introduction)
 * [Estimation of costs for the transport of excess heat to district heating areas](#estimation-of-costs-for-the-transport-of-excess-heat-to-district-heating-areas)
 * [Development of future heat load profiles](#development-of-future-heat-load-profiles)
@@ -55,13 +55,13 @@ The following figure shows the overall approach.
 *Figure: Overall approach to the calculation of heat supply to district heating costs*
 <br\>  
 
-# How to cite
+## How to cite
 Marcus Hummel, Giulia Conforto, in Hotmaps-Wiki, Guidelines for using the Hotmaps toolbox for analyses at local level (August 2020)
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
 
 
-# Authors and reviewers
+## Authors and reviewers
 This page is written by Marcus Hummel and Giulia Conforto\*.
 - This page was reviewed by ...\.
 
@@ -73,7 +73,7 @@ Argentinierstrasse 18/10,
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
 
 
-# License
+## License
 Copyright © 2016-2019: Marcus Hummel
 
 Creative Commons Attribution 4.0 International License
@@ -86,7 +86,7 @@ License-Text: https://spdx.org/licenses/CC-BY-4.0.html
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
 
 
-# Acknowledgement
+## Acknowledgement
 We would like to convey our deepest appreciation to the Horizon 2020 [Hotmaps Project](https://www.hotmaps-project.eu) (Grant Agreement number 723677), which provided the funding to carry out the present investigation.
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
