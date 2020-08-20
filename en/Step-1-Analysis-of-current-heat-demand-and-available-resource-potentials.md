@@ -1,7 +1,15 @@
-[**`Scenario Toolchain Steps`**](guide-local-and-municipal-levels#the-hotmaps-scenario-toolchain-different-steps)
+<h1>Local Level Analysis - Step 1: Analysis of current heat demand and available resource potentials</h1>
+
+[**`Local Scenario Toolchain Steps`**](guide-local-and-municipal-levels#the-hotmaps-scenario-toolchain-different-steps)
 [**`Next step`**](step-2-Calculation-of-future-heat-demand-and-gross-floor-area-density-maps)
-<br/>  
-<h1>Step 1: Analysis of current heat demand and available resource potentials</h1>
+
+# Table of Contents
+* [Introduction](#introduction)
+* [Analysis of potentials for excess heat and renewable energy in the identified regions with potential interest for district heating](#Analysis-of-potentials-for-excess-heat-and-renewable-energy-in-the-identified-regions-with-potential-interest-for-district-heating)
+* [How to cite](#how-to-cite)
+* [Authors and reviewers](#authors-and-reviewers)
+* [License](#license)
+* [Acknowledgement](#acknowledgement)
 
 [[/en/Step-1-Analysis-of-current-heat-demand-and-available-resource-potentials/Hotmaps_Local_Toolchain_Step_1final.png]]
 *Figure: The steps to analyse the potentials for excess heat and renewable energy are highlighted in the Toolchain above.*
@@ -37,6 +45,54 @@ The following figure shows this procedure graphically and shows the various data
 [[/en/Step-1-Analysis-of-current-heat-demand-and-available-resource-potentials/Wiki-local-detailed-Step-1final.png]]
 *Figure: Identification of different representative, typical cases for district heating (Step 1).*
 <br/>  
+
+# How to cite
+Marcus Hummel, Giulia Conforto, in Hotmaps-Wiki, Guidelines for using the Hotmaps toolbox for analyses at local level (August 2020)
+
+<code><ins>**[To Top](#table-of-contents)**</ins></code>
+
+
+# Authors and reviewers
+This page is written by Marcus Hummel and Giulia Conforto\*.
+- This page was reviewed by ...\**.
+
+\* [e-think](https://e-think.ac.at/),
+Zentrum f. Energiewirtschaft und Umwelt,
+Argentinierstrasse 18/10,
+1040 Wien
+
+<code><ins>**[To Top](#table-of-contents)**</ins></code>
+
+
+# License
+Copyright © 2016-2019: Marcus Hummel
+
+Creative Commons Attribution 4.0 International License
+This work is licensed under a Creative Commons CC BY 4.0 International License.
+
+SPDX-License-Identifier: CC-BY-4.0
+
+License-Text: https://spdx.org/licenses/CC-BY-4.0.html
+
+<code><ins>**[To Top](#table-of-contents)**</ins></code>
+
+
+# Acknowledgement
+We would like to convey our deepest appreciation to the Horizon 2020 [Hotmaps Project](https://www.hotmaps-project.eu) (Grant Agreement number 723677), which provided the funding to carry out the present investigation.
+
+<code><ins>**[To Top](#table-of-contents)**</ins></code>
+
+
+
+
+<!--- THIS IS A SUPER UNIQUE IDENTIFIER -->
+
+View in another language:
+
+ [German](../de/GL-national)<sup>\*</sup> 
+
+<sup>\*</sup> machine translated
+
 <br/>  
 [**`Scenario Toolchain Steps`**](guide-local-and-municipal-levels#the-hotmaps-scenario-toolchain-different-steps)
 [**`Next step`**](step-2-Calculation-of-future-heat-demand-and-gross-floor-area-density-maps)
