@@ -99,12 +99,49 @@ For additional supports on heating and cooling planning, please refer to the Hot
 ## References
 [1] EU H2020 Project: Mapping and analyses of the current and future (2020 - 2030) heating/cooling fuel deployment (fossil/renewables). WP1 Report. 2016. accessed via https://ec.europa.eu/energy/sites/ener/files/documents/Report%20WP1.pdf
 
+<code><ins>**[To Top](#table-of-contents)**</ins></code>
 
 
+## How to cite
+???, in Hotmaps-Wiki, Welcome page (October 2020)
+
+<code><ins>**[To Top](#table-of-contents)**</ins></code>
 
 
+## Authors and reviewers
+This page is written by ... and ...\*.
+- This page was reviewed by ...\**.
+
+\* [e-think](https://e-think.ac.at/),
+Zentrum f. Energiewirtschaft und Umwelt,
+Argentinierstrasse 18/10,
+1040 Wien
+
+\** [Energy Economics Group - TU Wien](https://eeg.tuwien.ac.at/),
+Institute of Energy Systems and Electrical Drives,
+Gusshausstrasse 27-29/370,
+1040 Wien
+
+<code><ins>**[To Top](#table-of-contents)**</ins></code>
 
 
+## License
+Copyright © 2016-2019: ...
+
+Creative Commons Attribution 4.0 International License
+This work is licensed under a Creative Commons CC BY 4.0 International License.
+
+SPDX-License-Identifier: CC-BY-4.0
+
+License-Text: https://spdx.org/licenses/CC-BY-4.0.html
+
+<code><ins>**[To Top](#table-of-contents)**</ins></code>
+
+
+## Acknowledgement
+We would like to convey our deepest appreciation to the Horizon 2020 [Hotmaps Project](https://www.hotmaps-project.eu) (Grant Agreement number 723677), which provided the funding to carry out the present investigation.
+
+<code><ins>**[To Top](#table-of-contents)**</ins></code>
 
 
 
@@ -113,6 +150,6 @@ For additional supports on heating and cooling planning, please refer to the Hot
 
 View in another language:
 
- [German](../de/Home)<sup>\*</sup> 
+ [German](../de/GL-national)<sup>\*</sup> 
 
 <sup>\*</sup> machine translated
