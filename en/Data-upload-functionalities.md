@@ -7,7 +7,6 @@
 - [How to display an uploaded layer](#how-to-display-an-uploaded-layer)
 - [Offline mode](#offline-mode)
 - [Data security and privacy](#data-security-and-privacy)
-- [References](#references)
 - [How to cite](#how-to-cite)
 - [Authors and reviewers](#authors-and-reviewers)
 - [Acknowledgement](#acknowledgement)
@@ -19,6 +18,7 @@ The platform allows you to upload some custom data from your computer to Hotmaps
 This operation **requires a user account**. The registration and login processes are explained on the following page: [User account](Introduction-to-user-interface#Connect).
 
 In order to upload a dataset without any issue. Please use the [export](Data-export-functionalities) function first, for the area you want to import (see [Data export](Data-export-functionalities) page).
+
 
 [**`To Top`**](#table-of-contents)
 
@@ -46,6 +46,7 @@ Before being able to display the layer on the map, the server will need some tim
 
 The layer can now be displayed on the map by activating it on the layers panel. 
 
+
 [**`To Top`**](#table-of-contents)
 
 ## How to display an uploaded layer
@@ -58,11 +59,13 @@ A layer can be displayed by activating it on the left panel.
 
 ![upload display layer](../images/upload-layers.png)
 
+
 [**`To Top`**](#table-of-contents)
 
 ## Offline mode
 
 If you are logged out, you won't be able to access any of your personal layers, but they are still available once you log back in.
+
 
 [**`To Top`**](#table-of-contents)
 
@@ -70,13 +73,11 @@ If you are logged out, you won't be able to access any of your personal layers, 
 
 Hotmaps toolbox offers security to users creating an account on the platform. Usual security measures have been implemented: HTTPS protocol, password hashing/salting and so on. However please note that for the moment the uploaded datasets are not encrypted when stored on the server, so please avoid uploading sensitive data. 
 
-[**`To Top`**](#table-of-contents)
-
-## References
 
 [**`To Top`**](#table-of-contents)
 
 ## How to cite
+
 
 [**`To Top`**](#table-of-contents)
 
@@ -89,11 +90,13 @@ Authors:
 
 Reviewers:
 
+
 [**`To Top`**](#table-of-contents)
 
 ## Acknowledgement
 
 We would like to convey our deepest appreciation to the Horizon 2020 [Hotmaps Project](https://www.hotmaps-project.eu) (Grant Agreement number 723677), which provided the funding to carry out the present investigation
+
 
 [**`To Top`**](#table-of-contents)
 
