@@ -141,7 +141,7 @@ Handbooks:
 * Webinar: Wrap-up of exercise 5, feedback questionnaire, certificates and final remarks [English](https://www.youtube.com/watch?v=NAcdCrsQZuI) / [German](https://www.youtube.com/watch?v=CPCDR-iBTZA)
 * Exercise 5 complete [English]() / [German]() **(UPLOAD FILES)**
 * Feedback questionnaire [English](https://docs.google.com/forms/d/e/1FAIpQLScZ-ZWohPtDjVUtfrVKRWDaLmzH0LWiL2m2RLpXKKn_8l0ddw/viewform?authuser=1) / [German](https://docs.google.com/forms/d/e/1FAIpQLSdoYCGCWnkPkFawSBLCokFaBIikdvisyAhngdt7NJ3_60F5uw/viewform?authuser=1)
-* Template for certificates **Please contact conforto@e-think.ac.at**
+* Template for certificates: please contact conforto@e-think.ac.at
 * Presentation used for the webinar [English]() / [German]() **(UPLOAD FILES)**
 * Exercise 1-2 complete [English]() / [German]() **(UPLOAD FILES)** 
 * Exercise 3-4 complete [English]() / [German]() **(UPLOAD FILES)**
