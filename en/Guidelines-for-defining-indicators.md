@@ -6,7 +6,6 @@
   * [Simple indicator](#simple-indicator)
   * [Cross indicator](#cross-indicator)
 * [Indicator result](#indicator-result)
-* [References](#references)
 * [How to cite](#how-to-cite)
 * [Authors and reviewers](#authors-and-reviewers)
 * [License](#license)
@@ -119,7 +118,6 @@ This is the unit of the indicator. (Example: 'cells', 'MWh')
 This is the indicator identifier of the indicator (Like an ID). This name **must be unique** in the array of indicators.
 
 
-
 ### Cross indicator
 
 A cross indicator is an object with 7 parameters. The goal of this indicator is to make a calculation among simple indicators. 
@@ -168,6 +166,9 @@ This is the name of the indicator (Like an ID). This name **must be unique** in 
 
     reference_indicator_id_1.reference_indicator_id_1 / reference_indicator_id_1.reference_indicator_id_1 = heat_tot_curr_density_tif.consumption / pop_tot_curr_density_tif.count_cell
 
+
+[**`To Top`**](#table-of-contents)
+
 ## Indicator result
 
 The result of the indicators are as follows:
@@ -193,14 +194,15 @@ The result of the indicators are as follows:
       "name": "heat_tot_curr_density_tif"
     }
 
-## References
 
-
+[**`To Top`**](#table-of-contents)
 
 ## How to cite
 
 Mostafa Fallahnejad, in Hotmaps-Wiki, Guidelines-for-defining-indicators (April 2019)
 
+
+[**`To Top`**](#table-of-contents)
 
 ## Authors and reviewers
 
@@ -217,6 +219,8 @@ Gusshausstrasse 27-29/370
 1040 Wien
 
 
+[**`To Top`**](#table-of-contents)
+
 ## License
 
 Copyright © 2016-2019: Mostafa Fallahnejad
@@ -230,6 +234,8 @@ SPDX-License-Identifier: CC-BY-4.0
 License-Text: https://spdx.org/licenses/CC-BY-4.0.html
 
 
+[**`To Top`**](#table-of-contents)
+
 ## Acknowledgement
 
 We would like to convey our deepest appreciation to the Horizon 2020 [Hotmaps Project](https://www.hotmaps-project.eu) (Grant Agreement number 723677), which provided the funding to carry out the present investigation.
@@ -237,7 +243,6 @@ We would like to convey our deepest appreciation to the Horizon 2020 [Hotmaps Pr
 
 
 [**`To Top`**](#table-of-contents)
-
 
 <!--- THIS IS A SUPER UNIQUE IDENTIFIER -->
 
