@@ -107,7 +107,7 @@ Handbooks:
 
 ##### Preparatory Webinar
 * Preparatory webinar: introduction to the Hotmaps project, toolbox, database, and online training [English](https://www.youtube.com/watch?v=nGJ8BJNB4z8) / [German](https://www.youtube.com/watch?v=4FLplnzbtg0)
-* Presentation used for the webinar [English]() / [German]() (ADD LINKS WHEN FILES HAVE BEEN UPLOADED)
+* Presentation used for the webinar [English]() / [German]() **(ADD LINKS WHEN FILES HAVE BEEN UPLOADED)**
 * [Sample Google Classroom](https://classroom.google.com/) English access code: **ealdt6b** / German access code: **tzfxr5w**  
 * Tutorial: How to use Hotmaps [English](https://youtu.be/dUDACmC_LO8) (This tutorial can be seen in any language, by using the youtube translation)
 * Introductory video: How can the toolbox support energy planning? [English](https://www.youtube.com/watch?v=7IPcVlWsarc)
@@ -117,10 +117,10 @@ Handbooks:
 
 ##### Exercises 1-2
 * Webinar: introduction to exercises 1-2 [English](https://www.youtube.com/watch?v=DOnJArGz_3E) / [German](https://www.youtube.com/watch?v=qvgpgkp7WEE)
-* Presentation used for the webinar  [English]() / [German]() (ADD LINKS WHEN FILES HAVE BEEN UPLOADED) **(SHOULD WE POST THIS?)**
-* Exercises 1-2 word [English]() / [German]() (ADD LINKS WHEN FILES HAVE BEEN UPLOADED)
-* Exercises 1-2 excel [English]() / [German]() (ADD LINKS WHEN FILES HAVE BEEN UPLOADED)
-* How to open a CSV [English]() / [German]() (ADD LINKS WHEN FILES HAVE BEEN UPLOADED)
+* Presentation used for the webinar  [English]() / [German]() **(ADD LINKS WHEN FILES HAVE BEEN UPLOADED)**
+* Exercises 1-2 word [English]() / [German]() **(ADD LINKS WHEN FILES HAVE BEEN UPLOADED)**
+* Exercises 1-2 excel [English]([[/en/training-material/Exercises 1 and 2.xlsx]]) / [German]([[/en/training-material/Übungen 1 und 2.xlsx]])
+* How to open a CSV [English]() / [German]() **(ADD LINKS WHEN FILES HAVE BEEN UPLOADED)**
 
 
 ##### Exercises 3-4
