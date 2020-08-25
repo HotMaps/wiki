@@ -3,7 +3,9 @@
 ## Table of Contents
 
 - [Introduction](#introduction)
-- [How to export a dataset](#how-to-export-a-dataset)
+- [Query](#query)
+- [Indicators](#indicators)
+- [Technologies](#technologies)
 - [References](#references)
 - [How to cite](#how-to-cite)
 - [Authors and reviewers](#authors-and-reviewers)
