@@ -23,7 +23,7 @@
 
 ## At a glance
 
-In the course of the Hotmaps project, a number of free and open access training workshops and courses have been held, both on-site and online. This section gathers all the training materials developed in the context of these workshops and courses, with the aim of helping users to learn about the Hompats toolbox and database through self-paced and self-taught training, and future trainers/workshop hosts to organize future Hotmaps training.
+In the course of the Hotmaps project, a number of free and open access training workshops and courses have been held, both on-site and online. This section gathers all the training materials developed in the context of these workshops and courses, with the aim of helping both potential users learn about the Hompats toolbox and database through a self-paced self-taught training, and future trainers/workshop hosts organize their Hotmaps training.
 
 
 [**`To Top`**](#table-of-contents)
@@ -37,7 +37,6 @@ The training combines:
   - A virtual tour of the Hotmaps tool.
   - Practical and written exercises, to be performed by the participants based on spreadsheets and explanatory documents.
   - Support, Discussion and Feedback sessions.
-
 
 The Hotmaps learning material is currently available in **English** and **German**. The training is modular and it covers the following functionalities:
   - Mapping of heat demand and resource potentials (exercise 1).
@@ -54,8 +53,8 @@ The Hotmaps learning material is currently available in **English** and **German
 There have been two training workshops held in person:
   - Bolzano (IT), December 9 th -10 th 2019 > Done
   - Brussels (BE), February 19 th -20 th 2020 > Done
-  - Milton Keynes (UK), April 1st – 2nd 2020 > Cancelled
-  - Frankfurt-am-Main (DE), May 5th – 6th 2020 > Cancelled
+  - _Milton Keynes (UK), April 1st – 2nd 2020_ > Cancelled
+  - _Frankfurt-am-Main (DE), May 5th – 6th 2020_ > Cancelled
 
 After the COVID-19 outbreak, three online courses have been eventually held virtually as countermeasure:
   - First online training in English, April 27th - May 12th 2020
