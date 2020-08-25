@@ -13,7 +13,6 @@
     - [Infrastructure](#infrastructure)
     - [Performance](#performance)
 - [How to define indicators](#how-to-define-indicators)
-- [References](#references)
 - [How to cite](#how-to-cite)
 - [Authors and reviewers](#authors-and-reviewers)
 - [Acknowledgement](#acknowledgement)
@@ -164,11 +163,8 @@ As an example, below are the results of the first beta release versus future rel
 
 [**`To Top`**](#table-of-contents)
 
-## References
-
-[**`To Top`**](#table-of-contents)
-
 ## How to cite
+
 
 [**`To Top`**](#table-of-contents)
 
@@ -182,15 +178,15 @@ Authors:
 
 Reviewers:
 
+
 [**`To Top`**](#table-of-contents)
 
 ## Acknowledgement
 
 We would like to convey our deepest appreciation to the Horizon 2020 [Hotmaps Project](https://www.hotmaps-project.eu) (Grant Agreement number 723677), which provided the funding to carry out the present investigation
 
-[**`To Top`**](#table-of-contents)
 
-## 
+[**`To Top`**](#table-of-contents)
 
 
 <!--- THIS IS A SUPER UNIQUE IDENTIFIER -->
