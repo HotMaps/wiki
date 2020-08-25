@@ -85,7 +85,7 @@ Finally, it presents the feedback collected, providing both an overview of how t
 
 ### Online Training
 
-The training material is presented below following the order in which it has been used or distributed. To see the agenda used during the training, please refer to the [Training Material Guideline](#guidelines-to-host-a-hotmaps-training)
+The training material is presented below following the order in which it has been used or distributed. To see the agenda used during the training, please refer to the [Training Material Guideline](#guidelines-to-host-a-hotmaps-training) linked to the previous section.
   - [Before the training](#training-material_online-training_before-the-training)
   - [Preparatory webinar](#training-material_online-training_preparatory-webinar)
   - [Exercises 1-2](#training-material_online-training_exercises-1-2)
