@@ -15,11 +15,11 @@
     * [Exercise 5](#training-material_online-training_exercise-5)
     * [Closing Webinar](#training-material_online-training_closing-webinar)
 * [Feedback](#feedback)
-* [References](#references)
 * [How to cite](#how-to-cite)
 * [Authors and reviewers](#authors-and-reviewers)
 * [License](#license)
 * [Acknowledgement](#acknowledgement)
+
 
 ## At a glance
 
@@ -53,8 +53,8 @@ The Hotmaps learning material is currently available in **English** and **German
 There have been two training workshops held in person:
   - Bolzano (IT), December 9 th -10 th 2019 > Done
   - Brussels (BE), February 19 th -20 th 2020 > Done
-  - _Milton Keynes (UK), April 1st – 2nd 2020_ > Cancelled
-  - _Frankfurt-am-Main (DE), May 5th – 6th 2020_ > Cancelled
+  - _Milton Keynes (UK), April 1st – 2nd 2020 > Cancelled_
+  - _Frankfurt-am-Main (DE), May 5th – 6th 2020 > Cancelled_
 
 After the COVID-19 outbreak, three online courses have been eventually held virtually as countermeasure:
   - First online training in English, April 27th - May 12th 2020
@@ -141,7 +141,7 @@ Handbooks:
 * Webinar: Wrap-up of exercise 5, feedback questionnaire, certificates and final remarks [English](https://www.youtube.com/watch?v=NAcdCrsQZuI) / [German](https://www.youtube.com/watch?v=CPCDR-iBTZA)
 * Exercise 5 complete [English]() / [German]() **(UPLOAD FILES)**
 * Feedback questionnaire [English](https://docs.google.com/forms/d/e/1FAIpQLScZ-ZWohPtDjVUtfrVKRWDaLmzH0LWiL2m2RLpXKKn_8l0ddw/viewform?authuser=1) / [German](https://docs.google.com/forms/d/e/1FAIpQLSdoYCGCWnkPkFawSBLCokFaBIikdvisyAhngdt7NJ3_60F5uw/viewform?authuser=1)
-* Template for certificates [English]() / [German]() **(UPLOAD FILES)**
+* Template for certificates **Please contact conforto@e-think.ac.at**
 * Presentation used for the webinar [English]() / [German]() **(UPLOAD FILES)**
 * Exercise 1-2 complete [English]() / [German]() **(UPLOAD FILES)** 
 * Exercise 3-4 complete [English]() / [German]() **(UPLOAD FILES)**
@@ -152,14 +152,8 @@ Handbooks:
 
 Collecting feedback was an essential part of all the Hotmaps training courses because it gave the training team information about how the training had been received and perceived, as well as where there was room for improvements. A feedback questionnaire has been used both for the on-site and for the online training, with some differences. Please access them below:
 
-* Feedback questionnaire (on-site) [English]() (LINK TO BE ADDED WHEN FILE HAS BEEN UPLOADED)
+* Feedback questionnaire (on-site) [English]() **(UPLOAD FILE)**
 * Feedback questionnaire (online) [English](https://docs.google.com/forms/d/e/1FAIpQLScZ-ZWohPtDjVUtfrVKRWDaLmzH0LWiL2m2RLpXKKn_8l0ddw/viewform?authuser=1) / [German](https://docs.google.com/forms/d/e/1FAIpQLSdoYCGCWnkPkFawSBLCokFaBIikdvisyAhngdt7NJ3_60F5uw/viewform?authuser=1)
-
-
-
-[**`To Top`**](#table-of-contents)
-
-## References
 
 
 [**`To Top`**](#table-of-contents)
@@ -167,6 +161,7 @@ Collecting feedback was an essential part of all the Hotmaps training courses be
 ## How to cite
 
 Giulia Conforto, in Hotmaps-Wiki, Training-Material (July 2020)
+
 
 [**`To Top`**](#table-of-contents)
 
