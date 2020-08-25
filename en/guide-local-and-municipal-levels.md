@@ -1,23 +1,23 @@
 <h1>Guidelines for using the Hotmaps toolbox for analyses at local level</h1>
 
-# Table of Contents
+## Table of Contents
 * [Introduction](#introduction)
 * [The Hotmaps Scenario Toolchain: Overview](#the-hotmaps-scenario-toolchain-overview)
 * [The Hotmaps Scenario Toolchain: Different Steps](#the-hotmaps-scenario-toolchain-different-steps)
-* [References](#references)
 * [How to cite](#how-to-cite)
 * [Authors and reviewers](#authors-and-reviewers)
 * [License](#license)
 * [Acknowledgement](#acknowledgement)
 
 
-# Introduction
+## Introduction
 
 These guidelines describe how the Hotmaps database and toolbox can be used to analyse potentials, costs, and emissions for efficient and renewable heating and cooling at the local level. The steps listed below will be recalled also as part of the process described in the [Guidelines for using the Hotmaps toolbox for analyses at the national level](https://wiki.hotmaps.hevs.ch/en/guide-national-level-comprehensive-assessment-eed#introduction).
 
+
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
 
-# The Hotmaps Scenario Toolchain: Overview
+## The Hotmaps Scenario Toolchain: Overview
 
 For calculating scenarios of potential future heating demand and supply in the city and the related costs and emissions we use the Hotmaps toolbox. In the toolbox, various calculation modules (CMs) are contained for analysing different parts of the heating and cooling systems. The following figure shows the different CMs (in light blue) that were used and the information that was created from or feeding into the CMs.
 <br/>  
@@ -35,10 +35,10 @@ The costs of DH supply from different technologies were calculated with the [CM 
 
 The results for selected scenarios from the heat savings calculations [(CM - Customised heat and floor area density maps)](https://wiki.hotmaps.hevs.ch/en/CM-Customized-heat-and-floor-area-density-maps), the decentral heating costs module [(CM - Decentral heating supply)](https://wiki.hotmaps.hevs.ch/en/CM-Decentral-heating-supply), the DH supply dispatch module [(CM - DH supply dispatch)](https://wiki.hotmaps.hevs.ch/en/CM-District-heating-supply-dispatch), as well as the DH potential: economic assessment module [(CM - District heating potential: economic assessment)](https://wiki.hotmaps.hevs.ch/en/CM-District-heating-potential-economic-assessment) were then compiled in the [CM - Scenario assessment](https://wiki.hotmaps.hevs.ch/en/CM-Scenario-assessment). The outcome is a comparison of the costs, the share of renewable energy, and the related CO2 emissions of different scenarios of future heating systems.
 
+
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
 
-
-# The Hotmaps Scenario Toolchain: Different Steps
+## The Hotmaps Scenario Toolchain: Different Steps
 
 In the following separate pages, the different steps in generating scenarios for a selected city or region are explained singularly.
 
@@ -49,21 +49,18 @@ In the following separate pages, the different steps in generating scenarios for
 * [Step 5: Calculation of costs of heat supply to district heating](https://wiki.hotmaps.hevs.ch/en/Step-5-Calculation-of-costs-of-heat-supply-to-district-heating)
 * [Step 6: Assessment of scenarios for entire heat demand and supply for the selected area](https://wiki.hotmaps.hevs.ch/en/Step-6-Assessment-of-scenarios-for-entire-heat-demand-and-supply-for-the-selected-area)
 
-<code><ins>**[To Top](#table-of-contents)**</ins></code>
-
-
-# References
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
 
+## How to cite
 
-# How to cite
 Marcus Hummel, Giulia Conforto, in Hotmaps-Wiki, Guidelines for using the Hotmaps toolbox for analyses at national level (October 2020)
 
+
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
 
+## Authors and reviewers
 
-# Authors and reviewers
 This page is written by Marcus Hummel and Giulia Conforto\*.
 - This page was reviewed by Lukas Kranzl\**.
 
@@ -77,10 +74,11 @@ Institute of Energy Systems and Electrical Drives,
 Gusshausstrasse 27-29/370,
 1040 Wien
 
+
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
 
+## License
 
-# License
 Copyright © 2016-2019: Marcus Hummel
 
 Creative Commons Attribution 4.0 International License
@@ -90,16 +88,15 @@ SPDX-License-Identifier: CC-BY-4.0
 
 License-Text: https://spdx.org/licenses/CC-BY-4.0.html
 
+
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
 
+## Acknowledgement
 
-# Acknowledgement
 We would like to convey our deepest appreciation to the Horizon 2020 [Hotmaps Project](https://www.hotmaps-project.eu) (Grant Agreement number 723677), which provided the funding to carry out the present investigation.
 
+
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
-
-
-
 
 <!--- THIS IS A SUPER UNIQUE IDENTIFIER -->
 
