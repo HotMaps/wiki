@@ -85,7 +85,7 @@ Finally, it presents the feedback collected, providing both an overview of how t
 
 ### Online Training
 
-The training material is presented below following the order in which it has been used or distributed. To see the agenda used during the training, please refer to the [Training Material Guideline]() (LINK TO BE ADDED WHEN FILE HAS BEEN UPLOADED)
+The training material is presented below following the order in which it has been used or distributed. To see the agenda used during the training, please refer to the [Training Material Guideline](#guidelines-to-host-a-hotmaps-training)
   - [Before the training](#training-material_online-training_before-the-training)
   - [Preparatory webinar](#training-material_online-training_preparatory-webinar)
   - [Exercises 1-2](#training-material_online-training_exercises-1-2)
@@ -95,8 +95,8 @@ The training material is presented below following the order in which it has bee
 
 
 ##### Before the training
-* Email sent to participants before the first webinar [English](/en/training-material/Hotmaps---Final-email-before-training.docx) / [German](/en/training-material/Hotmaps - Final email before training (DE).docx) (LINKS TO BE ADDED WHEN FILE HAS BEEN UPLOADED) **(SHOULD WE POST THIS?)**
-* Tutorial: How to use Hotmaps [English](https://youtu.be/dUDACmC_LO8) (This tutorial can be seen in any language, by using the youtube translation)
+* Email sent to participants before the first webinar [English](/en/training-material/Hotmaps---Final-email-before-training.docx) / [German](/en/training-material/Hotmaps - Final email before training (DE).docx)
+* Tutorial: How to use Hotmaps [English](https://youtu.be/dUDACmC_LO8) (This tutorial can be seen in any language, by using the youtube automatic translation options)
 
 Handbooks:
  * [Summary of the Hotmaps Handbooks for strategic heat planning](https://www.hotmaps-project.eu/wp-content/uploads/2019/04/Summary-Hotmaps-Handbook.pdf)
@@ -107,8 +107,8 @@ Handbooks:
 
 ##### Preparatory Webinar
 * Preparatory webinar: introduction to the Hotmaps project, toolbox, database, and online training [English](https://www.youtube.com/watch?v=nGJ8BJNB4z8) / [German](https://www.youtube.com/watch?v=4FLplnzbtg0)
-* Presentation used for the webinar [English]() / [German]() (ADD LINKS WHEN FILES HAVE BEEN UPLOADED) **(SHOULD WE POST THIS?)**
-* Archived/active Google Classroom  [English]() / [German]() (ADD LINKS) **(SHOULD WE CREATE A CLASS AND LEAVE IT OPEN AND ACCESSIBLE FOR THIS WIKI PAGE?)** 
+* Presentation used for the webinar [English]() / [German]() (ADD LINKS WHEN FILES HAVE BEEN UPLOADED)
+* Sample Google Classroom  [English]() / [German]() (ADD LINKS) 
 * Tutorial: How to use Hotmaps [English](https://youtu.be/dUDACmC_LO8) (This tutorial can be seen in any language, by using the youtube translation)
 * Introductory video: How can the toolbox support energy planning? [English](https://www.youtube.com/watch?v=7IPcVlWsarc)
 * Introductory video: The EU wide database [English](https://www.youtube.com/watch?v=dyJ5zySYBkM)
