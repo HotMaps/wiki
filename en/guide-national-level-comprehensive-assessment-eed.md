@@ -1,6 +1,6 @@
 <h1>Guidelines for using the Hotmaps toolbox for analyses at national level</h1>
 
-# Table of Contents
+## Table of Contents
 * [Introduction](#introduction)
 * [Part I: Overview of heating and cooling](#part-i-overview-of-heating-and-cooling)
 * [Part III: Analysis of the economic potential for efficiency in heating and cooling](#part-iii-analysis-of-the-economic-potential-for-efficiency-in-heating-and-cooling)
@@ -12,14 +12,14 @@
 * [Acknowledgement](#acknowledgement)
 
 
-# Introduction
+## Introduction
 
 These guidelines describe how the Hotmaps toolbox can be used to analyse costs and potentials for efficient and renewable heating and cooling at the national level. _**The guide is especially oriented towards the development of results according to the comprehensive assessment of national heating and cooling potentials referred to in Article 14(1) of the Energy Efficiency Directive (EED) in its current version.**_
 
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
 
-# Part I: Overview of heating and cooling
+## Part I: Overview of heating and cooling
 
 The Hotmaps database and toolbox provides two different inputs to this part: first, the Hotmaps database provides default data for several of the data needed to include in this part I of the comprehensive assessment. Second, the Hotmaps toolbox is basically a mapping tool that allows a geographical representation of default data in the toolbox but also of other data uploaded to the toolbox. In the following we describe the different default data form Hotmaps that might be of use and we link to the descriptions of how to use the upload function of the Hotmaps toolbox.
 
@@ -50,12 +50,12 @@ The following data relevant for Part I of Annex VIII is available in the Hotmaps
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
 
-# Part III: Analysis of the economic potential for efficiency in heating and cooling
+## Part III: Analysis of the economic potential for efficiency in heating and cooling
 
 The Hotmaps toolbox contains a number of calculation modules (CMs) that can be used to analyse the economic potential for efficiency in heating and cooling. In the following, a possible approach for generating results for the comprehensive assessment with the Hotmaps toolbox is described also linking to the respective default data and calculation modules.
 
 
-## Overview of the Hotmaps approach
+### Overview of the Hotmaps approach
 
 To assess the economic potential for efficiency in heating and cooling it is important to distinguish between areas potentially supplied by district heating and areas where decentral supply will most probably be more economically efficient. Thus, **the Hotmaps approach strongly builds on the following four steps**:
 
@@ -99,7 +99,7 @@ The following resulting **indicators can be retrieved from the Hotmaps Calculati
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
 
-## Different Steps
+### Different Steps
 
 * [Step 1: Identification of different representative cases for district heating](https://wiki.hotmaps.hevs.ch/en/Step-1-Identification-of-different-representative-cases-for-district-heating)
    * [Calculation of future heat demand and building floor area density maps](Step-1-Identification-of-different-representative-cases-for-district-heating#step-1-identification-of-different-representative-cases-for-district-heating_calculation-of-future-heat-demand-and-building-floor-area-density-maps)
@@ -116,14 +116,14 @@ The following resulting **indicators can be retrieved from the Hotmaps Calculati
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
 
-# How to cite
+## How to cite
 
 Marcus Hummel, Giulia Conforto, in Hotmaps-Wiki, Guidelines for using the Hotmaps toolbox for analyses at national level (October 2020)
 
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
 
-# Authors and reviewers
+## Authors and reviewers
 
 This page is written by Marcus Hummel and Giulia Conforto\*.
 - This page was reviewed by Lukas Kranzl\**.
@@ -141,7 +141,7 @@ Gusshausstrasse 27-29/370,
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
 
-# License
+## License
 
 Copyright © 2016-2019: Marcus Hummel
 
@@ -154,7 +154,7 @@ License-Text: https://spdx.org/licenses/CC-BY-4.0.html
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
 
-# Acknowledgement
+## Acknowledgement
 We would like to convey our deepest appreciation to the Horizon 2020 [Hotmaps Project](https://www.hotmaps-project.eu) (Grant Agreement number 723677), which provided the funding to carry out the present investigation.
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
