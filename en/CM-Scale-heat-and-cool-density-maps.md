@@ -9,7 +9,6 @@
 * [Method](#method)
 * [Application](#application)
 * [GitHub repository of this calculation module](#github-repository-of-this-calculation-module)
-* [References](#references)
 * [How to cite](#how-to-cite)
 * [Authors and reviewers](#authors-and-reviewers)
 * [License](#license)
@@ -18,15 +17,15 @@
 ## In a glance
 This module scales the default layer with a given factor. The aim is to provide a distribution of heat and cold demand if only the total amount of heat and cold demand is available.
 
-[**`To Top`**](#table-of-contents)
 
+[**`To Top`**](#table-of-contents)
 
 ## Introduction
 
 The aim of the calculation module is to quickly obtain a new raster by scaling a raster density map by a user-chosen factor. It generates a new raster by multiplying each cell of the input raster by the given factor.
 
-[**`To Top`**](#table-of-contents)
 
+[**`To Top`**](#table-of-contents)
 
 ## Inputs and outputs
 
@@ -44,8 +43,8 @@ The input parameters and layers, as well as output layers and parameters, are as
 
 * An output raster (\*.tif), corresponding to the input scaled by the multiplication factor.
 
-[**`To Top`**](#table-of-contents)
 
+[**`To Top`**](#table-of-contents)
 
 ## Method
 Each cell's value of the input raster is multiplied by the multiplication factor.
@@ -59,21 +58,19 @@ The following figure gives the example of a multiplication factor value of 0.5.
 
 ![Fig. 1-0](images/Wiki_CM_scale.png "Name the run session")
 
-## GitHub repository of this calculation module
-
-[Here](https://github.com/HotMaps/base_calculation_module) you get the bleeding-edge development for this calculation module.
 
 [**`To Top`**](#table-of-contents)
 
-## References
+## GitHub repository of this calculation module
 
+[Here](https://github.com/HotMaps/base_calculation_module) you get the bleeding-edge development for this calculation module.
 
 
 [**`To Top`**](#table-of-contents)
 
 ## How to cite
 
-Thiery Bernhard, in Hotmaps-Wiki, en-CM-Scale-heat-and-cool-density-maps (April 2019)
+Thiery Bernhard, in Hotmaps-Wiki, CM Scale heat and cool density maps (April 2019)
 
 
 [**`To Top`**](#table-of-contents)
@@ -113,7 +110,6 @@ License-Text: https://spdx.org/licenses/CC-BY-4.0.html
 ## Acknowledgement
 
 We would like to convey our deepest appreciation to the Horizon 2020 [Hotmaps Project](https://www.hotmaps-project.eu) (Grant Agreement number 723677), which provided the funding to carry out the present investigation.
-
 
 
 [**`To Top`**](#table-of-contents)
