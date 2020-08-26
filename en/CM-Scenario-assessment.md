@@ -7,7 +7,6 @@
 * [Interpretation of input parameters](#intepretation-of-input-parameters)
 * [Interpretation of output results](#interpretation-of-results)
 * [Sample run](#sample-run)
-* [References](#references)
 * [How to cite](#how-to-cite)
 * [Authors and reviewers](#authors-and-reviewers)
 * [License](#license)
@@ -133,14 +132,10 @@ The input used to run several scenarios of the *CM DH Supply Dispatch* are to be
 
 [**`To Top`**](#table-of-contents)
 
-## References
-
-
-[**`To Top`**](#table-of-contents)
-
 ## How to cite
 
-Mostafa Fallahnejad, in Hotmaps-Wiki, CM-Scenario-assessment (June 2019)
+Giulia Conforto and David Schmidinger, in Hotmaps-Wiki, CM-Scenario-assessment (September 2020)
+
 
 [**`To Top`**](#table-of-contents)
 
@@ -181,10 +176,11 @@ SPDX-License-Identifier: CC-BY-4.0
 License-Text: https://spdx.org/licenses/CC-BY-4.0.html
 
 
+[**`To Top`**](#table-of-contents)
+
 ## Acknowledgement
 
 We would like to convey our deepest appreciation to the Horizon 2020 [Hotmaps Project](https://www.hotmaps-project.eu) (Grant Agreement number 723677), which provided the funding to carry out the present investigation.
-
 
 
 [**`To Top`**](#table-of-contents)
