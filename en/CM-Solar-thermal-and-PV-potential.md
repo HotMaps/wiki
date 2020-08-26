@@ -9,7 +9,6 @@
 * [Sample run](#sample-run)
   * [Test Run 1: default input values](#test-run-1-default-input-values)
   * [Test Run 2: modified input values](#test-run-2-modified-input-values)
-* [References](#references)
 * [How to cite](#how-to-cite)
 * [Authors and reviewers](#authors-and-reviewers)
 * [License](#license)
@@ -199,17 +198,13 @@ Depending on your experience and local knowledge, you may increase or decrease t
   * Levelized Cost of Energy
 
 
-
 [**`To Top`**](#table-of-contents)
-
-
-## References
-
-
 
 ## How to cite
 Giulia Garegnani, in Hotmaps-Wiki, CM-Solar-PV-potential (April 2019)
 
+
+[**`To Top`**](#table-of-contents)
 
 ## Authors and reviewers
 
@@ -224,6 +219,8 @@ I-39100 Bozen/Bolzano
 Italy
 
 
+[**`To Top`**](#table-of-contents)
+
 ## License
 
 Copyright © 2016-2019: Giulia Garegnani
@@ -237,10 +234,11 @@ SPDX-License-Identifier: CC-BY-4.0
 License-Text: https://spdx.org/licenses/CC-BY-4.0.html
 
 
+[**`To Top`**](#table-of-contents)
+
 ## Acknowledgement
 
 We would like to convey our deepest appreciation to the Horizon 2020 [Hotmaps Project](https://www.hotmaps-project.eu) (Grant Agreement number 723677), which provided the funding to carry out the present investigation.
-
 
 
 [**`To Top`**](#table-of-contents)
@@ -249,4 +247,10 @@ We would like to convey our deepest appreciation to the Horizon 2020 [Hotmaps Pr
 
 
 
+<!--- THIS IS A SUPER UNIQUE IDENTIFIER -->
 
+View in another language:
+
+ [German](../de/Database-behind-the-Hotmaps-toolbox)<sup>\*</sup> 
+
+<sup>\*</sup> machine translated
