@@ -8,26 +8,24 @@
 * [Sample run](#sample-run)
   * [Test Run 1: default input values](#test-run-1-default-input-values)
   * [Test Run 2: modified input values](#test-run-2-modified-input-values)
-* [References](#references)
 * [How to cite](#how-to-cite)
 * [Authors and reviewers](#authors-and-reviewers)
 * [License](#license)
 * [Acknowledgement](#acknowledgement)
 
 
-
 ## In a glance
 This module generates both a heat demand density and a floor area density map in the form of raster files. The input to the module are different development scenarios of the heat demand and gross floor areas at national levels and broken down to each raster element as well as user-defined parameters to describe the relative deviation to the developments in the scenarios.
 
-[**`To Top`**](#table-of-contents)
 
+[**`To Top`**](#table-of-contents)
 
 ## Introduction
 For the analysis of the future potentials for the supply of heat and cold from renewable and excess heat sources, it is essential to take into account potential developments in the building stock of the analysed region. Part of the buildings are renovated in order to decrease energy demand for space heating, part of the buildings are demolished and new buildings are constructed. This leads to changes in the heat demand of the buildings in a region. Furthermore, the evolution of the population and the Gross Domestic Product (GDP) in a region influences the development of the demand for building floor area and thus the demand for space heating and hot water generation.
 The aim of the Calculation Module (CM) - Demand Projection is to provide scenarios of the future development of gross floor areas and heat demand in buildings for a selected area based on calculations for the EU-28 at the national level. Different scenarios calculated with the Invert/EE-Lab Module are broken down to the hectare level according to the methodology developed for the default heat demand density layer (**REFERENCE**). The CM also provides the opportunity to change two basic drivers in the scenarios and generate adapted results. These two basic drivers are a) the reduction of the floor area of existing buildings, and b) the reduction of the specific energy needs in the buildings.
 
-[**`To Top`**](#table-of-contents)
 
+[**`To Top`**](#table-of-contents)
 
 ## Inputs and outputs
 
@@ -74,8 +72,8 @@ The aim of the Calculation Module (CM) - Demand Projection is to provide scenari
   * Heat demand density map reflecting the calculated developments
   * Gross floor area density map reflecting the calculated developments
 
-[**`To Top`**](#table-of-contents)
 
+[**`To Top`**](#table-of-contents)
 
 ## Method
 
@@ -126,16 +124,13 @@ _Qualitative overview of policy assumptions:_
 _Results:_
 Total final energy demand for space heating, hot water and cooling in EU-28 decreases from 3650 TWh (2012) to 2550 TWh (2050). 
 
-[**`To Top`**](#table-of-contents)
 
+[**`To Top`**](#table-of-contents)
 
 ## GitHub repository of this calculation module
 
 
 [**`To Top`**](#table-of-contents)
-
-
-
 
 ## Sample run
 
@@ -145,17 +140,15 @@ to be filled
 
 * Test Run 2: modified input values
 
-[**`To Top`**](#table-of-contents)
-
-
-## References
-
 
 [**`To Top`**](#table-of-contents)
-
 
 ## How to cite
+
 Andreas Müller and Marcus Hummel, in Hotmaps-Wiki, CM-Demand-projection (October 2019)
+
+
+[**`To Top`**](#table-of-contents)
 
 ## Authors and reviewers
 
@@ -183,6 +176,8 @@ A-1040 Vienna
 Austria
 
 
+[**`To Top`**](#table-of-contents)
+
 ## License
 
 Copyright © 2016-2020: Andreas Müller, Marcus Hummel
@@ -196,10 +191,11 @@ SPDX-License-Identifier: CC-BY-4.0
 License-Text: https://spdx.org/licenses/CC-BY-4.0.html
 
 
+[**`To Top`**](#table-of-contents)
+
 ## Acknowledgement
 
 We would like to convey our deepest appreciation to the Horizon 2020 [Hotmaps Project](https://www.hotmaps-project.eu) (Grant Agreement number 723677), which provided the funding to carry out the present investigation.
-
 
 
 [**`To Top`**](#table-of-contents)
