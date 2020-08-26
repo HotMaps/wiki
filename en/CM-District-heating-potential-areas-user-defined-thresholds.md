@@ -9,7 +9,6 @@
 * [Sample run](#sample-run)
   * [Test Run 1: default input values](#test-run-1-default-input-values)
   * [Test Run 2: modified input values](#test-run-2-modified-input-values)
-* [References](#references)
 * [How to cite](#how-to-cite)
 * [Authors and reviewers](#authors-and-reviewers)
 * [License](#license)
@@ -152,13 +151,6 @@ Additionally, also two diagrams are generated. The first one shows the DH potent
 * Also a new layer is added to the canvas showing DH areas. This layer is added to the list of layers under the "Calculation module" category. The run session name distinguishes the outputs of this run from other ones.
 
 ![Fig. 5-3](../images/cm_dh_potential/5-3.png "Calculation module layers")
-
-
-[**`To Top`**](#table-of-contents)
-
-
-## References
-
 
 
 [**`To Top`**](#table-of-contents)
