@@ -9,7 +9,6 @@
 * [Sample run](#sample-run)
   * [Test Run 1](#test-run-1)
   * [Test Run 2](#test-run-2)
-* [References](#references)
 * [How to cite](#how-to-cite)
 * [Authors and reviewers](#authors-and-reviewers)
 * [License](#license)
@@ -201,8 +200,6 @@ formula:
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
 
-## References
-
 ## How to cite
  Hotmaps-Wiki, https://github.com/HotMaps/hotmaps_wiki/wiki/CM-Decentral-heating-costs (November 2019)
 
@@ -233,6 +230,8 @@ SPDX-License-Identifier: CC-BY-4.0
 
 License-Text: https://spdx.org/licenses/CC-BY-4.0.html
 
+
+<code><ins>**[To Top](#table-of-contents)**</ins></code>
 
 ## Acknowledgement
 We would like to convey our deepest appreciation to the Horizon 2020 [Hotmaps Project](https://www.hotmaps-project.eu) (Grant Agreement number 723677), which provided the funding to carry out the present investigation.
