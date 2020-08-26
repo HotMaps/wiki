@@ -8,7 +8,6 @@
 * [Sample run](#sample-run)
   * [Test Run 1: default input values](#test-run-1-default-input-values)
   * [Test Run 2: modified input values](#test-run-2-modified-input-values)
-* [References](#references)
 * [How to cite](#how-to-cite)
 * [Authors and reviewers](#authors-and-reviewers)
 * [License](#license)
@@ -18,8 +17,8 @@
 ## In a glance
 This module calculates the potential of shallow geothermal energy to be used in ground source heat pumps for selected regions in the form of a raster file. The inputs are raster files with initial ground temperatures, depth-averaged ground thermal conductivity and depth-averaged ground thermal capacity.
 
-[**`To Top`**](#table-of-contents)
 
+[**`To Top`**](#table-of-contents)
 
 ## Introduction
 
@@ -28,7 +27,6 @@ In this module, the output is the theoretical maximum energy that can be convert
 
 
 [**`To Top`**](#table-of-contents)
-
 
 ## Inputs and outputs
 
@@ -60,11 +58,12 @@ The advanced input is:
 
 A deeper explanation of the default input raster is available in the [Hotmaps repository](https://gitlab.com/hotmaps/potential/potential_geothermal_raster)
 
-[**`To Top`**](#table-of-contents)
 
+[**`To Top`**](#table-of-contents)
 
 ## Method
 The method to define the energy potential is based on the [G.pot](https://www.sciencedirect.com/science/article/pii/S0360544216303358). The potential of shallow geothermal energy is computed by means of and empirical relationship proposed by [Casasso et al. (2016)](https://www.sciencedirect.com/science/article/pii/S0360544216303358).
+
 
 [**`To Top`**](#table-of-contents)
 
@@ -77,18 +76,14 @@ The method to define the energy potential is based on the [G.pot](https://www.sc
 
 [**`To Top`**](#table-of-contents)
 
-
-
 ### Test Run 2: modified input values
+
 
 [**`To Top`**](#table-of-contents)
 
-
-## References
-
-
-
 ## How to cite
+
+Pietro Zambelli and Giulia Garegnani, in Hotmaps Wiki, CM Shallow geothermal potential (September 2020)
 
 
 ## Authors and reviewers
@@ -104,6 +99,8 @@ I-39100 Bozen/Bolzano
 Italy
 
 
+[**`To Top`**](#table-of-contents)
+
 ## License
 
 Copyright © 2016-2019: Giulia Garegnani
@@ -117,10 +114,11 @@ SPDX-License-Identifier: CC-BY-4.0
 License-Text: https://spdx.org/licenses/CC-BY-4.0.html
 
 
+[**`To Top`**](#table-of-contents)
+
 ## Acknowledgement
 
 We would like to convey our deepest appreciation to the Horizon 2020 [Hotmaps Project](https://www.hotmaps-project.eu) (Grant Agreement number 723677), which provided the funding to carry out the present investigation.
-
 
 
 [**`To Top`**](#table-of-contents)
