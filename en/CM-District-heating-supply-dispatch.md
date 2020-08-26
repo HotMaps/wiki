@@ -8,7 +8,6 @@
 * [Sample run](#sample-run)
   * [Test Run 1: default input values](#test-run-1-default-input-values)
   * [Test Run 2: modified input values](#test-run-2-modified-input-values)
-* [References](#references)
 * [How to cite](#how-to-cite)
 * [Authors and reviewers](#authors-and-reviewers)
 * [License](#license)
@@ -112,12 +111,9 @@ The objective function tries to find the minimum of the difference from the cost
 
 [**`To Top`**](#table-of-contents)
 
-## References
-
-
-
 ## How to cite
 
+Jeton Hasani, in Hotmaps Wiki, CM District heating supply dispatch (September 2020)
 
 ## Authors and reviewers
 This page is written by Jeton Hasani\*.
