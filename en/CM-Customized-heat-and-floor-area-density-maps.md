@@ -7,7 +7,6 @@
   * [Outputs](#inputs-and-outputs_outputs)
 * [Method](#method)
 * [GitHub repository of this calculation module](#github-repository-of-this-calculation-module)
-* [References](#references)
 * [How to cite](#how-to-cite)
 * [Authors and reviewers](#authors-and-reviewers)
 * [License](#license)
@@ -56,12 +55,6 @@ As output, two raster files are generated:
 
 ## GitHub repository of this calculation module
 **[Here](https://github.com/HotMaps/customized_h_fa_dm)** you get the bleeding-edge development for this calculation module.
-
-
-[**`To Top`**](#table-of-contents)
-
-## References
-
 
 
 [**`To Top`**](#table-of-contents)
