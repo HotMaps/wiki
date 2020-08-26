@@ -20,12 +20,12 @@ This module calculates the flow and the costs of heat transmission from potentia
 
 ## Introduction
 
-This CM - EXCESS HEAT TRANSPORT POTENTIAL will help the user to identify integration potentials for excess heat in district heating networks. The potentials are based on the CM - DISTRICT HEATING POTENTIAL. This CM identifies areas with favourable conditions for district heating networks. The CM - EXCESS HEAT TRANSPORT POTENTIAL shows how much heat could be covered by industrial excess heat in these areas. However, this does not mean that a district heating network already exists in this region.
+The Calculation Module "Excess Heat Transport potential" will help the user to identify integration potentials for excess heat in district heating networks. The potentials are based on the [CM - District Heating Potential](en-CM-District-heating-potential-areas-user-defined-thresholds)L. This CM identifies areas with favourable conditions for district heating networks and it shows how much heat could be covered by industrial excess heat in these areas. However, this does not mean that a district heating network already exists in this region.
 
 The following data and methods are combined for the previous task.
 
 Data:
-* Heating requirements for nearby areas with favourable conditions for district heating networks, which are dissolved hourly (from the CM - DISTRICT HEATING POTENTIAL).
+* Heating requirements for nearby areas with favourable conditions for district heating networks, which are dissolved hourly (from the [CM - District Heating Potential](en-CM-District-heating-potential-areas-user-defined-thresholds)).
 
 * Data on excess heat quantities of industrial companies in the area, which are also resolved hourly (from the data set industrial database).
 
@@ -39,7 +39,7 @@ The aim of the method is to represent the largest possible excess heat flow with
 The basic background of the approach is as follows: if there are only a few sources of excess heat, a single pipeline per source could always be taken into account for transporting the heat to a nearby area with favourable conditions for district heating. However, if there are several excess heat sources that are to flow into the same area, it would make sense to collect the heat and transport it to the area in a larger common pipeline. The approach with one pipe per source tends to overestimate the effort for the pipelines.
 
 To counteract the above, the problem of pipeline planning was approximated by assuming a network flow problem. A heuristic is used to solve the problem, in which excess heat can be bundled and transported to the possible users. The concrete methodical design of the solution with the approach of the minimum span tree is described in the corresponding methodical part.
-The pipeline design determined in the previous context does not, therefore, represent a detailed planning or real route guidance, but is only used for the approximation of costs for the distribution of the excess heat quantities in the nearby areas with favourable conditions for district heating networks (see CM - DISTRICT HEATING POTENTIAL, keyword coherent areas). This approximation of costs thus refers to the entire network.
+The pipeline design determined in the previous context does not, therefore, represent a detailed planning or real route guidance, but is only used for the approximation of costs for the distribution of the excess heat quantities in the nearby areas with favourable conditions for district heating networks (see [CM - District Heating Potential](en-CM-District-heating-potential-areas-user-defined-thresholds), keyword coherent areas). This approximation of costs thus refers to the entire network.
 
 The results should then first be interpreted as follows: if the recorded excess heat quantities were to be transported together to the indicated nearby areas, then the costs for heat distribution could be in the order of magnitude as indicated by the tool (cf. Levelized cost of heat supply). As a rule, the values for the entire network are also a good starting indicator for individual pipelines. The purpose of the results is, therefore, to provide a project developer or planner with an order of magnitude for possible distribution costs.
 
@@ -64,11 +64,11 @@ The results should then first be interpreted as follows: if the recorded excess 
 
 * Min. heat demand per hectare
 
-  See [DH Potential CM](en-CM-District-heating-potential-areas-user-defined-thresholds).
+  See [CM - District Heating Potential](en-CM-District-heating-potential-areas-user-defined-thresholds).
 
 * Min. heat demand in a DH area
 
-  See [DH Potential CM](en-CM-District-heating-potential-areas-user-defined-thresholds).
+  See [CM - District Heating Potential](en-CM-District-heating-potential-areas-user-defined-thresholds).
 
 * Search radius in km
 
@@ -84,7 +84,7 @@ The results should then first be interpreted as follows: if the recorded excess 
 
 * Cost factor
 
-  Factor to adapt network costs in case the default values do not accurately represent the costs. The investments necessary for the network are multiplied with this factor. Default costs can be found [here](en-CM-Excess-heat-transport-potential#computation-of-costs).
+  Factor to adapt network costs in case the default values do not accurately represent the costs. The investments necessary for the network are multiplied with this factor. Default costs can be found in the section [Computation of costs](en-CM-Excess-heat-transport-potential#computation-of-costs).
 
 * Operational costs in %
 
@@ -381,7 +381,7 @@ First, the heat sources and sinks are loaded with their load profiles. Then the 
 ## Quickstart
 
 The present CM - EXCESS HEAT TRANSPORT POTENTIAL is intended to help the user to identify integration potentials for excess heat in district heating networks. Although numerous analysis functions are given in order not to restrict the user, it must be explicitly pointed out that this is not detailed technical planning.
-The potentials are based on the CM - DISTRICT HEATING POTENTIAL. This CM identifies areas with favourable conditions for district heating networks. The CM - EXCESS HEAT TRANSPORT POTENTIAL thus shows how much heat could be covered by industrial excess heat in these areas. However, this does not mean that a district heating network already exists in this region. An application-oriented use of the tool for practitioners could, therefore, look as follows:
+The potentials are based on the [CM - District Heating Potential](en-CM-District-heating-potential-areas-user-defined-thresholds). This CM identifies areas with favourable conditions for district heating networks. Thus it shows how much heat could be covered by industrial excess heat in these areas. However, this does not mean that a district heating network already exists in this region. An application-oriented use of the tool for practitioners could, therefore, look as follows:
 
 * If necessary, add your own data on excess heat providing companies in the region with the [add industry plant](en-CM-Add-industry-plant) cm.
 
