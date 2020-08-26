@@ -66,7 +66,7 @@ After the COVID-19 outbreak, three online courses have been eventually held virt
 
 ## Guidelines to host a Hotmaps training 
 
-The document on the [Training Material Guideline]() **(LINK TO BE ADDED WHEN FILE HAS BEEN UPLOADED)** provides guidelines and examples to assist the performance of further training workshops on the use of the Hotmaps tool, as well as the self-taught training. In addition, it elaborates on practical aspects of designing, organizing and delivering a Hotmaps training, such as training structure, selection of trainers, locations and timing, promotion activities, registration and more. The process of subsequent adjustments due both to the experience and feedback gathered in the first two on-site training workshops and to the COVID-19 outbreak is explained by presenting both the original workshop draft and final agendas, as well as the online training courses agendas, together with the on-site training materials and those later used online.
+The document on the [Training Material Guideline]() **(UPLOAD FILE)** provides guidelines and examples to assist the performance of further training workshops on the use of the Hotmaps tool, as well as the self-taught training. In addition, it elaborates on practical aspects of designing, organizing and delivering a Hotmaps training, such as training structure, selection of trainers, locations and timing, promotion activities, registration and more. The process of subsequent adjustments due both to the experience and feedback gathered in the first two on-site training workshops and to the COVID-19 outbreak is explained by presenting both the original workshop draft and final agendas, as well as the online training courses agendas, together with the on-site training materials and those later used online.
 
 The document provides also guidelines for a live presentation of the tool, a list of all the available capacity building and educational materials produced, together with their respective use. All the sections of the training are explained in details and the training material used is illustrated, including the use of an e-learning platform, the exercises hand-outs and their relative solutions. 
 
@@ -107,7 +107,7 @@ Handbooks:
 
 ##### Preparatory Webinar
 * Preparatory webinar: introduction to the Hotmaps project, toolbox, database, and online training [English](https://www.youtube.com/watch?v=nGJ8BJNB4z8) / [German](https://www.youtube.com/watch?v=4FLplnzbtg0)
-* Presentation used for the webinar [English]() / [German]() **(ADD LINKS WHEN FILES HAVE BEEN UPLOADED)**
+* Presentation used for the webinar [English]() / [German]() **(UPLOAD FILES)**
 * [Sample Google Classroom](https://classroom.google.com/) English access code: **ealdt6b** / German access code: **tzfxr5w**  
 * Tutorial: How to use Hotmaps [English](https://youtu.be/dUDACmC_LO8) (This tutorial can be seen in any language, by using the youtube translation)
 * Introductory video: How can the toolbox support energy planning? [English](https://www.youtube.com/watch?v=7IPcVlWsarc)
@@ -117,7 +117,7 @@ Handbooks:
 
 ##### Exercises 1-2
 * Webinar: introduction to exercises 1-2 [English](https://www.youtube.com/watch?v=DOnJArGz_3E) / [German](https://www.youtube.com/watch?v=qvgpgkp7WEE)
-* Presentation used for the webinar  [English]() / [German]() **(UPLOAD FILES)**
+* Presentation used for the webinar  [English]() **(UPLOAD FILE)**
 * Exercises 1-2 word [English]() / [German]() **(UPLOAD FILES)**
 * Exercises 1-2 excel [English]([[/en/training-material/Exercises 1 and 2.xlsx]]) / [German]([[/en/training-material/Übungen 1 und 2.xlsx]])
 * How to open a CSV [English]() / [German]() **(UPLOAD FILES)**
@@ -125,26 +125,24 @@ Handbooks:
 
 ##### Exercises 3-4
 * Webinar: Wrap-up of exercises 1-2, introduction to exercises 3-4 [English](https://www.youtube.com/watch?v=YbfLLoREo6w) / [German](https://www.youtube.com/watch?v=8U_9bT3TZgg)
-* Presentation used for the webinar [English]() / [German]() **(UPLOAD FILES)**
 * Exercises 3-4 word [English]() / [German]() **(UPLOAD FILES)**
 * Exercises 3-4 excel [English]() / [German]() **(UPLOAD FILES)**
 
 
 ##### Exercise 5
 * Webinar: Wrap-up of exercises 3-4, introduction to exercise 5 [English](https://www.youtube.com/watch?v=NAcdCrsQZuI) / [German](https://www.youtube.com/watch?v=lnTw9aCR6Fw)
-* Presentation used for the webinar [English]() / [German]() **(UPLOAD FILES)**
 * Exercise 5 word [English]() / [German]() **(UPLOAD FILES)**
 * Exercise 5 excel [English]() / [German]() **(UPLOAD FILES)**
 
 
 ##### Closing Webinar
 * Webinar: Wrap-up of exercise 5, feedback questionnaire, certificates and final remarks [English](https://www.youtube.com/watch?v=NAcdCrsQZuI) / [German](https://www.youtube.com/watch?v=CPCDR-iBTZA)
-* Exercise 5 complete [English]() / [German]() **(UPLOAD FILES)**
+* Exercise 5 complete [English]() **(UPLOAD FILE)**
+* Exercise 1-2 complete [German]() **(UPLOAD FILE)**
+* Exercise 3-4 complete [German]() **(UPLOAD FILE)**
 * Feedback questionnaire [English](https://docs.google.com/forms/d/e/1FAIpQLScZ-ZWohPtDjVUtfrVKRWDaLmzH0LWiL2m2RLpXKKn_8l0ddw/viewform?authuser=1) / [German](https://docs.google.com/forms/d/e/1FAIpQLSdoYCGCWnkPkFawSBLCokFaBIikdvisyAhngdt7NJ3_60F5uw/viewform?authuser=1)
 * Template for certificates: please contact conforto@e-think.ac.at
-* Presentation used for the webinar [English]() / [German]() **(UPLOAD FILES)**
-* Exercise 1-2 complete [English]() / [German]() **(UPLOAD FILES)** 
-* Exercise 3-4 complete [English]() / [German]() **(UPLOAD FILES)**
+* Presentation used for the webinar [English]() **(UPLOAD FILE)**
 
 [**`To Top`**](#table-of-contents)
 
