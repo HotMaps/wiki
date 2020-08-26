@@ -49,7 +49,10 @@ The technologies used for the database are:
 [**`To Top`**](#table-of-contents)
 
 ## How to cite
+
 Daniel Hunacek and Lucien Zuber, in Hotmaps Wiki, Database behind the Hotmaps toolbox (September 2020)
+
+
 [**`To Top`**](#table-of-contents)
 
 ## Authors and reviewers
