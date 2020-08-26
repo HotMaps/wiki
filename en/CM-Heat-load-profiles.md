@@ -6,6 +6,7 @@
 * [Inputs and outputs](#inputs-and-outputs)
 * [Method](#method)
 * [Sample run](#sample-run)
+* [How to cite](#how-to-cite)
 * [Authors and reviewers](#authors-and-reviewers)
 * [License](#license)
 * [Acknowledgement](#acknowledgement)
@@ -219,6 +220,15 @@ Sample run in DK05.
 
 Data from this graphic can be exported by pressing the "EXPORT GRAPHS" button.
 
+
+[**`To Top`**](#table-of-contents)
+
+## How to cite
+
+Ali Aydemir and David Schilling, in Hotmaps Wiki, CM Heat load profiles (September 2020)
+
+
+[**`To Top`**](#table-of-contents)
 
 ## Authors and reviewers
 
