@@ -77,7 +77,7 @@ Hotmaps toolbox offers security to users creating an account on the platform. Us
 [**`To Top`**](#table-of-contents)
 
 ## How to cite
-
+Daniel Hunacek and Lucien Zuber, in Hotmaps Wiki, Data upload functionalities (September 2020)
 
 [**`To Top`**](#table-of-contents)
 
