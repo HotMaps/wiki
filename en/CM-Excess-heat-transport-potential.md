@@ -8,6 +8,7 @@
 * [Quickstart](#quickstart)
 * [Troubleshooting](#troubleshooting)
 * [Sample run](#sample-run)
+* [How to cite](#how-to-cite)
 * [Authors and reviewers](#authors-and-reviewers)
 * [License](#license)
 * [Acknowledgement](#acknowledgement)
@@ -42,6 +43,8 @@ The pipeline design determined in the previous context does not, therefore, repr
 
 The results should then first be interpreted as follows: if the recorded excess heat quantities were to be transported together to the indicated nearby areas, then the costs for heat distribution could be in the order of magnitude as indicated by the tool (cf. Levelized cost of heat supply). As a rule, the values for the entire network are also a good starting indicator for individual pipelines. The purpose of the results is, therefore, to provide a project developer or planner with an order of magnitude for possible distribution costs.
 
+
+[**`To Top`**](#table-of-contents)
 
 ## Inputs and outputs
 
@@ -213,6 +216,9 @@ Deviations from the [levelized costs of heat](en-CM-Excess-heat-transport-potent
 
 The x-axis represents time and the y-axis power. The blue curves represent the heat demand of the DH areas and the red the excess heat available. The intersection of both curves represents the actual total flow of heat. The upper graphic shows the flow over the year and the bottom one the flow of the average day. Note that [time resolution](en-CM-Excess-heat-transport-potential#performance-parameters) needs to be set at least to "month" for the upper and "hour" for the lower graphic to be representative.
 
+
+[**`To Top`**](#table-of-contents)
+
 ## Method
 
 ### Overview
@@ -370,6 +376,7 @@ With a cost to flow threshold for transmission lines, they can be removed if exc
 First, the heat sources and sinks are loaded with their load profiles. Then the fixed radius search is performed, and the Network initialized. Afterwards, the Network is reduced to its minimum spanning tree and the maximum flow is computed for every hour of the year. Based on the flow the costs for every heat exchanger, pump and transmission line is computed. If a threshold cost to flow ratio is defined, the removal of transmission line procedure is executed. In the end, the total cost and total flow of the network and the layout of the network is returned.
 
 
+[**`To Top`**](#table-of-contents)
 
 ## Quickstart
 
@@ -405,6 +412,9 @@ From the above, the following work hierarchy could be used:
 <figcaption><i>Transmission line and its flow</i></figcaption></figure>
 
 3. If the operator of the district heating network and the producer of the excess heat are interested in cooperating, more detailed feasibility studies could be commissioned. In the best case, the displayed data will help to initiate real projects.
+
+
+[**`To Top`**](#table-of-contents)
 
 ## Troubleshooting
 
@@ -448,6 +458,9 @@ Check country and subsector of uploaded industrial sites.
 #### Warning: "No residential heating profile available for ..."
 
 CM does not have access to residential heating profile data to be executed in this area.
+
+
+[**`To Top`**](#table-of-contents)
 
 ## Sample run
 
@@ -566,6 +579,14 @@ We can see that we just hit the local minimum. The difference in the cost of app
 </figure>
 
 
+[**`To Top`**](#table-of-contents)
+
+## How to cite
+
+Ali Aydemir and David Schilling, in Hotmaps Wiki, CM Excess heat transport potential (September 2020)
+
+
+[**`To Top`**](#table-of-contents)
 
 ## Authors and reviewers
 
@@ -575,6 +596,9 @@ This page is written by Ali Aydemir \* and David Schilling \*
 \* [Fraunhofer ISI](https://isi.fraunhofer.de/)
 Fraunhofer ISI, Breslauer Str. 48,
 76139 Karlsruhe
+
+
+[**`To Top`**](#table-of-contents)
 
 ## License
 Copyright © 2016-2018: Ali Aydemir, David Schilling
@@ -587,8 +611,11 @@ SPDX-License-Identifier: CC-BY-4.0
 License-Text: https://spdx.org/licenses/CC-BY-4.0.html
 
 
+[**`To Top`**](#table-of-contents)
+
 ## Acknowledgement
 We would like to convey our deepest appreciation to the Horizon 2020 [Hotmaps Project](https://www.hotmaps-project.eu) (Grant Agreement number 723677), which provided the funding to carry out the present investigation.
+
 
 [**`To Top`**](#table-of-contents)
 
