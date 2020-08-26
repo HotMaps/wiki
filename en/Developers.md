@@ -164,7 +164,7 @@ As an example, below are the results of the first beta release versus future rel
 [**`To Top`**](#table-of-contents)
 
 ## How to cite
-
+Daniel Hunacek, Lucien Zuber, Matthieu Dayer, in Hotmaps Wiki, Developers Section (September 2020)
 
 [**`To Top`**](#table-of-contents)
 
