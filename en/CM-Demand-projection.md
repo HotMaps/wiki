@@ -117,13 +117,22 @@ Total final energy demand for space heating, hot water and cooling in EU-28 decr
 
 Here, the calculation module is run for the case study of Vienna, Austria. First, use the "Go To Place" bar to navigate to Vienna and select the city. Click on the "Layers" button to open the "Layers" window and then click on the "CALCULATION MODULE" tab. In the list of calculation modules, select "CM - Demand projection".
 
-* Test Run 1: default input values
+### Test Run 1: default input values
 
-""Picture1""
+The default input values generate a heat demand density map for 2017. These values should be regarded as starting point only. You may need to set values below or above default values considering additional local considerations. The scenario used also has a strong effect on the output. Therefore, the user should adapt these values to find the best combination of inputs for her or his case study.
 
-* Test Run 2: modified input values
+To run the calculation module, follow the next steps:
 
-""Picture2""
+    Assign a name to the run session (optional) and set the input parameters (here, default values were used) and then press “RUN CM” at the end of the CM input.
+    Wait until the process is finished.
+    You can immediately see that the Heat density map has been added to the map. As output, indicators and diagrams are shown in the "RESULTS" window.
+XXXXX BILD1
+
+    Additionally, also two diagrams are generated. The first one shows the Heated gross floor area for different building periods. The second diagram illustrates the energy consumption for Heating and domnestic hot water for also divided fort he different building periods.
+XXXXXXXXXXXXX BILD2
+
+    After running the calculation and closing the calculation module two new layers can be found at the very bottom under the Layers list. The first one is the 
+XXXXXXXX BILD3
 
 [**`To Top`**](#table-of-contents)
 
