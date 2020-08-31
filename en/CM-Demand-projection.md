@@ -65,9 +65,11 @@ They differ in their thermal renovation rate, in other words how much of the gro
 **Outputs**
 
 * _Indicators:_
-  * Heated (gross floor) area total and per construction period in the start year and at the end year of the calculation
-  * Estimated final energy consumption total and per construction period in the start year and at the end year of the calculation
-  * Estimated specific energy consumption per construction period in the start year and at the end year of the calculation
+  * Underlaying population growth assumptions from start to target year in a 5 year increment
+  * Heated (gross floor) area total and per capita in the start year and at the end year of the calculation (Due to the data situation of the heating density maps, the area for 2014 is shown here at the start value.)
+  * Estimated (final) energy consumption total and per Area in the start year and at the end year of the calculation
+  * Estimated area, total energy consumption and specific energy consumption per construction period in the start year and at the end year of the calculation
+  * Share of newly constructed buildings shown in map in 2017
 
 * _Graphics:_
   * Bar charts on heated gross floor area and final energy consumption per construction period
