@@ -126,7 +126,7 @@ To run the calculation module, follow the next steps:
     Assign a name to the run session (optional) and set the input parameters (here, default values were used) and then press “RUN CM” at the end of the CM input.
     Wait until the process is finished.
     You can immediately see that the Heat density map has been added to the map. As output, indicators and diagrams are shown in the "RESULTS" window.
-XXXXX BILD1
+XXXX
 
     Additionally, also two diagrams are generated. The first one shows the Heated gross floor area for different building periods. The second diagram illustrates the energy consumption for Heating and domnestic hot water for also divided fort he different building periods.
 XXXXXXXXXXXXX BILD2
