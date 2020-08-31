@@ -50,7 +50,7 @@ They differ in their thermal renovation rate, in other words how much of the gro
   * the values to be introduced have the unit [%]
   * a value of 25 means that the reduction of specific energy needs in a defined construction period, e.g. before 1977, between the starting year of the calculation and the end of the selected scenario time, is multiplied by 0.25. E.g. in the selected Invert/EE-Lab scenario the specific energy need for space heating and hot water generation of buildings constructed before 1977 decreases from 200 kWh/m²yr to 120 kWh/m²yr between now and the end of the selected scenario time period. This equals a decrease of 80 kWh/m²yr. When choosing a value of 25 the effect of the Invert/EE-Lab scenario is changed in order to not reflect a decrease of 80 kWh/m²yr over this time period but of only 20 kWh/m²yr (80 * 0.25). Thus, the remaining specific energy need for space heating and hot water generation of buildings constructed before 1977 at the end of the scenario time period would be 180 kWh/m²yr.
 
-* _Annual population growth in addition to default growth
+* _Annual population growth in addition to default growth:_
  * The underlying scenario provides population growth estimates at NUTS3 level. By comparing the population growth at NUTS0 and NUTS3 level using historical data, proportional population growth can be calculated. The parameter "Annual population growth in addition to default growth" can be used to influence these growth rates.In our model, population growth is directly proportional to area growth, which in turn results in a direct increase in heated area.
 
 * _Method to add newly constructed buildings to the map:_
