@@ -134,12 +134,15 @@ Total final energy demand for space heating, hot water and cooling in EU-28 decr
 
 ## Sample run
 
-to be filled 
+Here, the calculation module is run for the case study of Vienna, Austria. First, use the "Go To Place" bar to navigate to Vienna and select the city. Click on the "Layers" button to open the "Layers" window and then click on the "CALCULATION MODULE" tab. In the list of calculation modules, select "CM - Demand projection".
 
 * Test Run 1: default input values
 
+""Picture1""
+
 * Test Run 2: modified input values
 
+""Picture2""
 
 [**`To Top`**](#table-of-contents)
 
