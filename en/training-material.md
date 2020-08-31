@@ -150,7 +150,7 @@ Handbooks:
 
 Collecting feedback was an essential part of all the Hotmaps training courses because it gave the training team information about how the training had been received and perceived, as well as where there was room for improvements. A feedback questionnaire has been used both for the on-site and for the online training, with some differences. Please access them below:
 
-* Feedback questionnaire (on-site) [English]() **(UPLOAD FILE)**
+* Feedback questionnaire (on-site) [English](https://github.com/HotMaps/training_materials/raw/master/data/25_E1_Hotmaps_Trial_Error_Feedback.docx)
 * Feedback questionnaire (online) [English](https://docs.google.com/forms/d/e/1FAIpQLScZ-ZWohPtDjVUtfrVKRWDaLmzH0LWiL2m2RLpXKKn_8l0ddw/viewform?authuser=1) / [German](https://docs.google.com/forms/d/e/1FAIpQLSdoYCGCWnkPkFawSBLCokFaBIikdvisyAhngdt7NJ3_60F5uw/viewform?authuser=1)
 
 
