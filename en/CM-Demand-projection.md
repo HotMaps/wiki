@@ -78,8 +78,9 @@ They differ in their thermal renovation rate, in other words how much of the gro
   * Heat demand density map reflecting the calculated developments
   * Gross floor area density map reflecting the calculated developments
 
-
 [**`To Top`**](#table-of-contents)
+
+## Method
 
 As written before this module is based on calculations performed with the Invert/EE-Lab module for all countries of the EU 28 (see **www.invert.at** for a description of the method of the Invert/EE-Lab module). The calculated scenarios are analysed regarding the development of the following types of buildings: residential and non-residential buildings, 3 construction periods and newly constructed buildings. Then the population growth per NUTS3 region and the initial building stock (in terms of heated gross floor area & energy needs per construction period and building type) per NUTS 3 region are assessed. Based on this assessment the results of the calculated scenarios are transferred to the respective NUTS3 region. The NUTS3 results are then distributed to the different hectare elements according to the method developed in Müller et al 2019 (**REFERENCE**).
 
