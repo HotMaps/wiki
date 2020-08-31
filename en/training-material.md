@@ -79,9 +79,9 @@ Finally, it presents the feedback collected, providing both an overview of how t
 
 ### On-site Training
 
-**TO BE COMPLETED**
+The online training materials are revised versions of the on-sites training by incorporating feedback from participants. This means that they can be used in the same way for local training.
 
-[**`To Top`**](#table-of-contents)
+
 
 ### Online Training
 
