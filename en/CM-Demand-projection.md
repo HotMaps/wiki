@@ -123,15 +123,15 @@ The default input values generate a heat demand density map for 2017. These valu
 
 To run the calculation module, follow the next steps:
 
-    Assign a name to the run session (optional) and set the input parameters (here, default values were used) and then press “RUN CM” at the end of the CM input.
-    Wait until the process is finished.
-    You can immediately see that the Heat density map has been added to the map. As output, indicators and diagrams are shown in the "RESULTS" window.
+* Assign a name to the run session (optional) and set the input parameters (here, default values were used) and then press “RUN CM” at the end of the CM input.
+* Wait until the process is finished.
+* You can immediately see that the Heat density map has been added to the map. As output, indicators and diagrams are shown in the "RESULTS" window.
 [[/en/CM-Demand-projection/default-sample-run_graphs_jpeg.jpg]]
 
-    Additionally, also two diagrams are generated. The first one shows the Heated gross floor area for different building periods. The second diagram illustrates the energy consumption for Heating and domnestic hot water for also divided fort he different building periods.
+* Additionally, also two diagrams are generated. The first one shows the Heated gross floor area for different building periods. The second diagram illustrates the energy consumption for Heating and domnestic hot water for also divided fort he different building periods.
 XXXXXXXXXXXXX BILD2
 
-    After running the calculation and closing the calculation module two new layers can be found at the very bottom under the Layers list. The first one is the 
+* After running the calculation and closing the calculation module two new layers can be found at the very bottom under the Layers list. The first one is the 
 XXXXXXXX BILD3
 
 [**`To Top`**](#table-of-contents)
