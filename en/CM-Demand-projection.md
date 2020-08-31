@@ -81,15 +81,12 @@ They differ in their thermal renovation rate, in other words how much of the gro
 
 [**`To Top`**](#table-of-contents)
 
-## Method
-
 As written before this module is based on calculations performed with the Invert/EE-Lab module for all countries of the EU 28 (see **www.invert.at** for a description of the method of the Invert/EE-Lab module). The calculated scenarios are analysed regarding the development of the following types of buildings: residential and non-residential buildings, 3 construction periods and newly constructed buildings. Then the population growth per NUTS3 region and the initial building stock (in terms of heated gross floor area & energy needs per construction period and building type) per NUTS 3 region are assessed. Based on this assessment the results of the calculated scenarios are transferred to the respective NUTS3 region. The NUTS3 results are then distributed to the different hectare elements according to the method developed in Müller et al 2019 (**REFERENCE**).
 
-In the current state of the Toolbox (Release V3.0.0) the following two Invert/EE-Lab scenarios are available in the module:
+The module provides 4 different scenarios which vary in their renovation rates. Through a selection, either 0.5%, 1%, 2% or 3% of the total gross floor area is renovated. It is to be noted that the saved heating requirement is not directly proportional to an increase of the renovation rate, since differently effective renovations are permitted. With a small renovation rate, mainly buildings are renovated, where favourable measures can achieve large savings. With a high renovation rate, thermally better buildings are also increasingly being renovated and their saved heating energy is lower in comparison. The base scenario behind the different scenarios is the reference scenario which is described in the following part. 
 
 **_"reference":_**
-
-In this scenario, it is assumed that current efficiency policies remain in place and are effectively implemented. In particular, we assume that in general building owners and professionals comply with regulatory instruments like building codes. National differences in the policy intensity continue to exist. Therefore, the policy intensity indicates qualitatively the range of policy ambition in different countries. The energy efficiency policy mix corresponds to the current packages in place, which in most countries is a mix of regulatory approaches (building codes, nearly zero energy buildings (nZEB) definitions, RES-H obligation), economic support (subsidies for building refurbishment) and energy taxation. Main sources for implemented policies are the Mure database (www.measures-odyssee-mure.eu/) and the projects ENTRANZE (www.entranze.eu/) and Zebra2020 (www.zebra2020.eu/). 
+Current efficiency policies remain in place and are effectively implemented. We assume that in general, building owners and professionals comply with regulatory instruments like building codes. National differences in the policy intensity continue to exist. Therefore, the policy intensity indicates qualitatively the range of policy ambition in different countries. The energy efficiency policy mix corresponds to the current packages in place, which in most countries is a mix of regulatory approaches (building codes, nearly zero energy buildings (nZEB) definitions, RES-H obligation), economic support (subsidies for building refurbishment) and energy taxation. Main sources for implemented policies are the Mure database (www.measures-odyssee-mure.eu/) and the projects ENTRANZE (www.entranze.eu/) and Zebra2020 (www.zebra2020.eu/). 
 While the scenario considers neither a strong technology improvement nor binding energy efficiency obligations, ambitious policies to foster renewable energy are in place. This has been implemented based on mandatory renewable energy quotas on the level of individual buildings.
 
 _Energy prices:_
@@ -107,29 +104,6 @@ _Qualitative overview of policy assumptions:_
 
 _Results:_
 Total final energy demand for space heating, hot water and cooling in EU-28 decreases from 3650 TWh (2012) to 2800 TWh (2050).
-
-
-**_"ambitious":_**
-
-The ambitious scenario assumes that current energy efficiency policies are fostered and are effectively implemented. This is implemented by increased energy performance standards of refurbished buildings, along with the assumption of moderate energy efficiency technology improvements. The scenario does not consider mandatory obligations to refurbish buildings. The additional drivers to increase the energy performance of buildings are increased investment subsidy budgets for thermal building renovation as well as the introduction of a CO2-tax. It is considered that the CO2-tax starts in 2025 at a level of 5 €/tCO2 and increases along a linear trajectory to 150 €/t CO2 (incl. VAT) until 2050.
-Main sources for implemented policies are again the Mure database (www.measures-odyssee-mure.eu/) and the projects ENTRANZE (www.entranze.eu/) and Zebra2020 (www.zebra2020.eu/). The mandatory renewable energy quotas on the level of individual buildings are identical to the reference scenario. 
-
-_Energy prices:_
-Energy prices increase moderately according to the EU Reference Scenario 2016 (https://ec.europa.eu/energy/en/data-analysis/energy-modelling). In addition, a CO2-tax on onsite-emissions is introduced starting with 2025. Starting with 5 €/t CO2 in 2025, it increases to 150 €/tCO2 until 2050. The price increase leads to additional incentives for building renovation and renewable heating systems.
-
-_Technology development:_
-The assumed technological learning is moderate and costs for efficient and renewable heating/cooling technologies decrease remarkably until 2050.
-
-_Qualitative overview of policy assumptions:_
-* Policy intensity for RES-H: high
-* Policy intensity for buildings’ efficiency: medium
-* Policy intensity for district heating: medium
-* Energy prices: medium
-* Technology development: medium
-
-_Results:_
-Total final energy demand for space heating, hot water and cooling in EU-28 decreases from 3650 TWh (2012) to 2550 TWh (2050). 
-
 
 [**`To Top`**](#table-of-contents)
 
