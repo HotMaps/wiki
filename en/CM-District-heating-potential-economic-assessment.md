@@ -8,7 +8,7 @@
   * [Solver options](#method_solver-options)
 * [GitHub repository of this calculation module](#github-repository-of-this-calculation-module)
 * [Sample run](#sample-run)
-  * [Test Run: default input values](#sample-run_test-run-default-input-values)
+  * [Test Run: default input values for the case study of Vienna](#sample-run_test-run-default-input-values-for-the-case-study-of-vienna)
 * [References](#references)
 * [How to cite](#how-to-cite)
 * [Authors and reviewers](#authors-and-reviewers)
