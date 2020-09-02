@@ -5,7 +5,7 @@
 
 ## Table of Contents
 * [Introduction](#introduction)
-* [Comparison of results for different scenarios](#Comparison-of-results-for-different-scenarios)
+* [Comparison of results for different scenarios](#comparison-of-results-for-different-scenarios)
 * [How to cite](#how-to-cite)
 * [Authors and reviewers](#authors-and-reviewers)
 * [License](#license)
