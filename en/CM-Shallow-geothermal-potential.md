@@ -67,9 +67,10 @@ The method to define the energy potential is based on the [G.pot](https://www.sc
 
 [**`To Top`**](#table-of-contents)
 
-## Test Run 1
-[**`To Top`**](#table-of-contents)
+## Sample Run
 
+
+[**`To Top`**](#table-of-contents)
 
 ### Test Run 1: default input values
 
