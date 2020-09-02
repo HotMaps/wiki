@@ -5,7 +5,7 @@
 <br\>  
 ## Table of Contents
 * [Introduction](#introduction)
-* [Comparison of results for different scenarios](#Comparison-of-results-for-different-scenarios)
+* [Comparison of results for different scenarios](#comparison-of-results-for-different-scenarios)
 * [How to cite](#how-to-cite)
 * [Authors and reviewers](#authors-and-reviewers)
 * [License](#license)
@@ -17,12 +17,16 @@ This is the last step of the analysis at local and municipal level.
 [[/en/Step-6-Assessment-of-scenarios-for-entire-heat-demand-and-supply-for-the-selected-area/Hotmaps_Local_Toolchain_Step_6final.png]]
 *Figure: The steps to assess different scenarios for the entire heat demand and supply are highlighted in the Toolchain above.*
 
+<code><ins>**[To Top](#table-of-contents)**</ins></code>
+
 ## Comparison of results for different scenarios
 The final step in the analysis is the comparison of the results for the different scenarios and sensitivities. For this, all results calculated in the previous steps are collected both from the calculations of district heating as well as from the calculations of decentral supply and compared against each other for main indicators. The [CM - Scenario Assessment](https://wiki.hotmaps.hevs.ch/en/CM-Scenario-assessment) allows to easily combine and compare all relevant data, its approach is illustrated in the following figure.
 
 [[/en/Step-6-Assessment-of-scenarios-for-entire-heat-demand-and-supply-for-the-selected-area/Wiki-local-detailed-Step-6.png]]
 *Figure: Comparison of results for different scenarios*
 <br\>  
+
+<code><ins>**[To Top](#table-of-contents)**</ins></code>
 
 ## How to cite
 Marcus Hummel, Giulia Conforto, in Hotmaps-Wiki, Guidelines for using the Hotmaps toolbox for analyses at local level (August 2020)
