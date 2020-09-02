@@ -26,8 +26,14 @@ With the [radio buttons](#fig1) at the right of your screen, you can choose the 
 
 Fig.1.: Radio buttons for the territorial scale
 
+
+[**`To Top`**](#table-of-contents)
+
 ## Selection by NUTS boundaries:
 After selecting a region and pressing the _LOAD RESULTS Button_ the result sidebar at the right is shown and depending on what layer you selected some indicators for them are shown. You can see that by selecting another region the results will be aggregated on the fly.
+
+
+[**`To Top`**](#table-of-contents)
 
 ### NUTS 0 Selection
 ![ selecting_nuts0_gif](https://wiki.hotmaps.hevs.ch/images/general_tool_functionalities_and_structure/selecting_nuts0.gif)
@@ -67,6 +73,8 @@ If you need a more flexible way and want to analyze a region that is not covered
 Jeton Hasani, in Hotmaps-Wiki, Select-a-region-in-the-Hotmaps-toolbox (April 2019)
 
 
+[**`To Top`**](#table-of-contents)
+
 ## Authors and reviewers
 This page is written by Jeton Hasani\*.
 
@@ -78,6 +86,9 @@ Institute of Energy Systems and Electrical Drives
 Gusshausstrasse 27-29/370
 1040 Wien
 
+
+[**`To Top`**](#table-of-contents)
+
 ## License
 Copyright © Hotmaps
 Creative Commons Attribution 4.0 International License
@@ -85,6 +96,8 @@ This work is licensed under a Creative Commons CC BY 4.0 International License.
 SPDX-License-Identifier: CC-BY-4.0
 License-Text: https://spdx.org/licenses/CC-BY-4.0.html
 
+
+[**`To Top`**](#table-of-contents)
 
 ## Acknowledgement
 We would like to convey our deepest appreciation to the Horizon 2020 [Hotmaps Project](https://www.hotmaps-project.eu) (Grant Agreement number 723677), which provided the funding to carry out the present investigation.
