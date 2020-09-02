@@ -112,6 +112,8 @@ The results should then first be interpreted as follows: if the recorded excess 
 
   Sets the entry point distance in longitude and latitude direction in DH areas.
 
+[**`To Top`**](#table-of-contents)
+
 ### Output
 
 #### Layers
@@ -233,6 +235,8 @@ The x-axis represents time and the y-axis power. The blue curves represent the h
 The key element of the excess heat module is the source-sink model used.
 It constructs a transmission network of minimum length and computes the flow for every hour of the year based on residential heating load profiles with Nuts2 resolution and industry load profiles with Nuts0 resolution. Based on averaged peak flows throughout the year costs for every transmission line and heat exchanger on the source and sink side can be computed.
 
+[**`To Top`**](#table-of-contents)
+
 ### Details
 #### Modeling of sources
 Based on the Nuts0 ID and the industrial sector a yearlong hourly resolved load profile is assigned to every source.
@@ -254,6 +258,8 @@ The peak flow of the year averaged over 3 hours determines the required capacity
 
 #### Variation of network
 Since the cost and flow of every transmission line are known the lines with the highest cost to flow ratio can be removed and the flow recomputed until the desired cost per flow is achieved.
+
+[**`To Top`**](#table-of-contents)
 
 ### Implementation
 #### Fixed radius search
@@ -508,6 +514,8 @@ In this case, we can see that there is much more excess heat available than used
 <figcaption><i>This graphic shows the total flow through the network throughout the year. The lower graphic represents the average day. Since the default time resolution is set to "week" it is constant in this case.</i></figcaption>
 </figure>
 
+[**`To Top`**](#table-of-contents)
+
 ### Sample run 2
 
 Sample run in PL22 with maximum search radius set to 40 km.
@@ -547,6 +555,8 @@ We can see a local minimum of levelized cost of heat supply at 4900 GWh per year
 <img alt="" src="../images/cm_excess_heat/profiles2.PNG"/>
 <figcaption><i>This graphic shows the total flow through the network throughout the year. The lower graphic represents the average day. Since the default time resolution is set to "week" it is constant in this case.</i></figcaption>
 </figure>
+
+[**`To Top`**](#table-of-contents)
 
 ### Sample run 3
 
