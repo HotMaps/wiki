@@ -125,14 +125,14 @@ To run the calculation module, follow the next steps:
 
 * Assign a name to the run session (optional) and set the input parameters (here, default values were used) and then press “RUN CM” at the end of the CM input.
 * Wait until the process is finished.
-* You can immediately see that the Heat density map has been added to the map. As output, indicators and diagrams are shown in the "RESULTS" window.
+* You can immediately see that the Heat density map has been added to the map. As output, indicators are shown in the "RESULTS" window and on the map the new heat density map and großfloorarea are shown.
 [[/en/CM-Demand-projection/default-sample-run_jpg-min.jpg]]
 
 * Additionally, also two diagrams are generated. The first one shows the Heated gross floor area for different building periods. The second diagram illustrates the energy consumption for Heating and domnestic hot water for also divided fort he different building periods.
 [[/en/CM-Demand-projection/default-sample-run_graphs_jpeg.jpg]]
 
 * After running the calculation and closing the calculation module two new layers can be found at the very bottom under the Layers list. The first one is the 
-XXXXXXXX BILD3
+[[/en/CM-Demand-projection/default-sample-run_layers_jpg-min.jpg]]
 
 [**`To Top`**](#table-of-contents)
 
