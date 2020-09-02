@@ -119,7 +119,7 @@ When one of the building layers and the population layer is selected at the same
 <code><ins>**[To Chapter](#indicators-for-raster-layers)**</ins></code>
 [**`To Top`**](#table-of-contents)
 
-### Renewable Eenergy Source Potentials
+### Renewable Energy Source Potentials
 
 **Solar Radiation On Building Footprint**
 
