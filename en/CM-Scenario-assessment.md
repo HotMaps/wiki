@@ -5,7 +5,7 @@
 * [Introduction](#introduction)
 * [Scenario assessment inputs and outputs](#scenario-assessment-inputs-and-outputs)
 * [Interpretation of input parameters](#interpretation-of-input-parameters)
-* [Interpretation of output results](#interpretation-of-output-results)
+* [Interpretation of results](#interpretation-of-results)
 * [Sample run](#sample-run)
 * [How to cite](#how-to-cite)
 * [Authors and reviewers](#authors-and-reviewers)
