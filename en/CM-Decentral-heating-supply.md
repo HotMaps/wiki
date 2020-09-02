@@ -3,8 +3,10 @@
 ## Table of Contents
 * [In a glance](#in-a-glance)
 * [Introduction](#introduction)
-* [Inputs and outputs](#inputs-and-outputs)
-* [Method](#method)
+* [Data Sources](#data-sources)
+* [Inputs](#inputs)
+* [Outputs](#outputs)
+* [Methodolog](#methodology)
 * [GitHub repository of this calculation module](#GitHub-Repository-of-this-calculation-module)
 * [Sample run](#sample-run)
   * [Test Run 1](#test-run-1)
@@ -39,8 +41,7 @@ The technologies are for example as follows:
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
 
-Data Sources:
-=============
+##Data Sources:
 
 -   NUTS Raster
 -   Building stock (NUTS0 Level): useful energy demand by building class and
@@ -51,8 +52,7 @@ Data Sources:
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
 
-Inputs: 
-========
+##Inputs: 
 
 -   Selection of an interested area
 -   Savings in space heating,
@@ -65,11 +65,9 @@ Inputs:
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
 
-Outputs:
-========
+## Outputs:
 
-Indicators:
------------
+### Indicators:
 
 -   Corresponding NUTS Code: NUTS3 Code of the selected region (when using
     hectare level or LAU level)
@@ -86,8 +84,7 @@ Indicators:
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
 
-Graphs:
--------
+### Graphs:
 
 -   LCOH
 -   OPEX
@@ -102,8 +99,7 @@ Graphs:
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
 
-Methodology:
-============
+## Methodology:
 
 Based on the selected region the corresponding NUTS0 and NUTS2 Region is
 determined.
