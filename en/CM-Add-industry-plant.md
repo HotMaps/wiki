@@ -15,7 +15,7 @@ This module provides the possibility to add additional industry sites with their
 
 [**`To Top`**](#table-of-contents)
 
-## Inputs and outputs (How-to-use)
+## Inputs and outputs
 
 ### Data input in Excel-tool by user
 
