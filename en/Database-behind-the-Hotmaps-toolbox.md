@@ -25,13 +25,22 @@ The datasets can be accessed via a geospatial server (GeoServer) which provides 
 
 The datasets can be found on the [Gitlab repository](https://gitlab.com/hotmaps)
 
+
+[**`To Top`**](#table-of-contents)
+
 ## Query
 
 Please note that aggregations when selecting NUTS or LAU regions are pre-computed and therefore faster than aggregations of hectare selections which are computed on-the-fly.
 
+
+[**`To Top`**](#table-of-contents)
+
 ## Indicators
 
 TBD (CREM)
+
+
+[**`To Top`**](#table-of-contents)
 
 ## Technologies
 
@@ -40,6 +49,9 @@ The technologies used for the database are:
 - PostgreSQL version 9.6
 - PostGIS version 2.3
 - GeoServer version 2.11.2
+
+
+[**`To Top`**](#table-of-contents)
 
 ## References
 
