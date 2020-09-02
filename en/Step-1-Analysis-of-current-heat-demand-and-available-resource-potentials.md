@@ -5,7 +5,7 @@
 
 ## Table of Contents
 * [Introduction](#introduction)
-* [Analysis of potentials for excess heat and renewable energy in the identified regions with potential interest for district heating](#Analysis-of-potentials-for-excess-heat-and-renewable-energy-in-the-identified-regions-with-potential-interest-for-district-heating)
+* [Analysis of potentials for excess heat and renewable energy in the identified regions with potential interest for district heating](#analysis-of-potentials-for-excess-heat-and-renewable-energy-in-the-identified-regions-with-potential-interest-for-district-heating)
 * [How to cite](#how-to-cite)
 * [Authors and reviewers](#authors-and-reviewers)
 * [License](#license)
