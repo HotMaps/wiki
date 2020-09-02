@@ -3,13 +3,13 @@
 ## Table of Contents
 * [Introduction](#introduction)
 * [Indicators for raster layers](#indicators-for-raster-layers)
-   * [Buildings](#buildings)
-   * [Population](#population)
-   * [Renewable Energy Source Potentials](#res-potentials)
+   * [Buildings](#indicators-for-raster-layers_buildings)
+   * [Population](#indicators-for-raster-layers_population)
+   * [Renewable Energy Source Potentials](#indicators-for-raster-layers_renewable-energy-source-potentials)
 * [Indicators for vector layers](#indicators-for-vector-layers)
-   * [Industry](#industry)
-   * [Renewable Energy Source Potentials](#res--potentials)
-   * [Electricity](#electricity)
+   * [Industry](#indicators-for-vector-layers_industry)
+   * [Renewable Energy Source Potentials](#indicators-for-vector-layers_renewable-energy-source-potentials)
+   * [Electricity](#indicators-for-vector-layers_electricity)
 * [Example](#example)
 * [How to cite](#how-to-cite)
 * [Authors and reviewers](#authors-and-reviewers)
@@ -39,6 +39,9 @@ On the other hand, raster layers are aggregated and disaggregated "arbitrarily"*
 
 *by the containing cells within the region you selected (naturally within the limit of the raster resolution itself)
 
+
+[**`To Top`**](#table-of-contents)
+
 ### Buildings
 
 **Heat Density Map**
@@ -50,6 +53,8 @@ On the other hand, raster layers are aggregated and disaggregated "arbitrarily"*
 When you select the heat density layer and the Population Layer at the same time an extra indicator is shown (see picture below)
 
 ![hdm2.png][hdm2]
+
+[**`To Top`**](#table-of-contents)
 
 ### In General:
 When one of the building layers and the population layer is selected at the same time, an extra indicator will be shown as described before
@@ -73,12 +78,14 @@ When one of the building layers and the population layer is selected at the same
 ![gfa.png][gfa]
 
 <code><ins>**[To Chapter](#indicators-for-raster-layers)**</ins></code>
+[**`To Top`**](#table-of-contents)
 
 ### Population
 
 ![pop.png][pop]
 
 <code><ins>**[To Chapter](#indicators-for-raster-layers)**</ins></code>
+[**`To Top`**](#table-of-contents)
 
 ### Climate
 **Temperature**
@@ -110,8 +117,9 @@ When one of the building layers and the population layer is selected at the same
 ![wind.png][wind]
 
 <code><ins>**[To Chapter](#indicators-for-raster-layers)**</ins></code>
+[**`To Top`**](#table-of-contents)
 
-### RES Potentials
+### Renewable Eenergy Source Potentials
 
 **Solar Radiation On Building Footprint**
 
@@ -154,8 +162,9 @@ When one of the building layers and the population layer is selected at the same
 ![ises.png][ises]
 
 <code><ins>**[To Chapter](#indicators-for-vector-layers)**</ins></code>
+[**`To Top`**](#table-of-contents)
 
-### RES- Potentials
+### Renewable Energy Source Potentials
 
 **Waste Water Treatment Plants Power**
 
@@ -192,6 +201,7 @@ When one of the building layers and the population layer is selected at the same
 ![geothermal.png][geothermal]
 
 <code><ins>**[To Chapter](#indicators-for-vector-layers)**</ins></code>
+[**`To Top`**](#table-of-contents)
 
 ### Electricity
 
@@ -217,6 +227,7 @@ Although this map can look a bit confusing at first sight, its indicators are st
 
 Jeton Hasani, in Hotmaps-Wiki, Retrieve-indicators-of-a-selected-area (April 2019)
 
+[**`To Top`**](#table-of-contents)
 
 ## Authors and reviewers
 <code>[Review this page !](CM-Access/_edit)</code>
@@ -230,6 +241,9 @@ Institute of Energy Systems and Electrical Drives
 Gusshausstrasse 27-29/370
 1040 Wien
 
+
+[**`To Top`**](#table-of-contents)
+
 ## License
 Copyright © Hotmaps
 Creative Commons Attribution 4.0 International License
@@ -237,6 +251,8 @@ This work is licensed under a Creative Commons CC BY 4.0 International License.
 SPDX-License-Identifier: CC-BY-4.0
 License-Text: https://spdx.org/licenses/CC-BY-4.0.html
 
+
+[**`To Top`**](#table-of-contents)
 
 ## Acknowledgement
 We would like to convey our deepest appreciation to the Horizon 2020 [Hotmaps Project](https://www.hotmaps-project.eu) (Grant Agreement number 723677), which provided the funding to carry out the present investigation.
