@@ -3,6 +3,8 @@
 * [In a glance](#in-a-glance)
 * [Introduction](#introduction)
 * [Inputs and outputs](#inputs-and-outputs)
+  * [Inputs](#inputs-and-outputs_inputs)
+  * [Outputs](#inputs-and-outputs_outputs)
 * [Method](#method)
 * [GitHub repository of this calculation module](#github-repository-of-this-calculation-module)
 * [Sample run](#sample-run)
