@@ -52,7 +52,7 @@ The developed heat demand and floor area density maps are further used in the su
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
 
-### Identification of city/area potentially interesting for district heating
+### Identification of regions potentially interesting for district heating
 
 After developing possible future scenarios of heat demand and floor area density maps for the city/area of interest, potential district heating cities/areas can be identified. This can be done using the [CM - District heating potential areas: user-defined thresholds](https://wiki.hotmaps.hevs.ch/en/CM-District-heating-potential-areas-user-defined-thresholds) according to the following steps:
 
