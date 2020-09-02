@@ -6,6 +6,7 @@
   * [Inputs](#inputs-and-outputs_inputs)
   * [Outputs](#inputs-and-outputs_outputs)
 * [Method](#method)
+* [GitHub repository of this calculation module](#github-repository-of-this-calculation-module)
 * [Sample run](#sample-run)
   * [Test Run: default input values](#sample-run_test-run-default-input-values)
 * [How to cite](#how-to-cite)
@@ -107,6 +108,9 @@ _Results:_
 Total final energy demand for space heating, hot water and cooling in EU-28 decreases from 3650 TWh (2012) to 2800 TWh (2050).
 
 [**`To Top`**](#table-of-contents)
+
+## GitHub repository of this calculation module
+**[Here](https://github.com/HotMaps/renovation_effect)** you get the bleeding-edge development for this calculation module.
 
 ## Sample run
 
