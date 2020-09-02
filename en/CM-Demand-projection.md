@@ -29,7 +29,7 @@ They differ in their thermal renovation rate, in other words how much of the gro
 
 ## Inputs and outputs
 
-**Inputs**
+### Inputs
 
 * _Select scenario:_
   * here you can select between different scenarios calculated with the Invert/EE-Lab module to be used as reference development for the calculation with the module
@@ -61,7 +61,7 @@ They differ in their thermal renovation rate, in other words how much of the gro
   * the choice of this method has no effect on the indicators shown in the results section of the calculation. I.e. this is only relevant for the creation of the maps, not for the overall results of the scenarios.
 
 
-**Outputs**
+### Outputs
 
 * _Indicators:_
   * Underlaying population growth assumptions from start to target year in a 5 year increment
