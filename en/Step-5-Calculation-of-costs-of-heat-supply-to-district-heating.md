@@ -21,7 +21,8 @@ This is the fifth step of the analysis at local and municipal level.
 [[/en/Step-5-Calculation-of-costs-of-heat-supply-to-district-heating/Hotmaps_Local_Toolchain_Step_5final.png]]
 *Figure: The steps to calculate the costs of heat supply to district heating are highlighted in the Toolchain above*
 <br\>  
-<br\>  
+<code><ins>**[To Top](#table-of-contents)**</ins></code>
+
 ## Estimation of costs for the transport of excess heat to district heating areas
 In order to estimate the costs of transporting excess heat from potential sources outside of district heating areas to potential district heating areas the [CM - Excess heat transport potential](https://wiki.hotmaps.hevs.ch/en/CM-Excess-heat-transport-potential) can be used. The module yields levelised costs of excess heat transported to the district heating grid [EUR/MWh]. This can further be used in the next step of calculating heat supply costs in district heating.
 
