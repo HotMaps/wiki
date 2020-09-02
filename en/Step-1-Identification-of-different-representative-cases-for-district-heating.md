@@ -9,7 +9,7 @@
 * [Identification of different representative cases for district heating](#identification-of-different-representative-cases-for-district-heating)
   * [Calculation of future heat demand and building floor area density maps](#identification-of-different-representative-cases-for-district-heating_calculation-of-future-heat-demand-and-building-floor-area-density-maps)
   * [Identification of regions potentially interesting for district heating](#identification-of-different-representative-cases-for-district-heating_identification-of-regions-potentially-interesting-for-district-heating)
-  * [Analysis of potentials for excess heat and renewable energy in the identified regions with potential interest for district heating](#analysis-of-potentials-for-excess-heat-and-renewable-energy-in-the-identified-regions-with-potential-interest-for-district-heating)
+  * [Analysis of potentials for excess heat and renewable energy in the identified regions with potential interest for district heating](#identification-of-different-representative-cases-for-district-heating_analysis-of-potentials-for-excess-heat-and-renewable-energy-in-the-identified-regions-with-potential-interest-for-district-heating)
   * [Identification of representative, typical district heating areas for further analysis](#identification-of-different-representative-cases-for-district-heating_identification-of-representative-typical-district-heating-areas-for-further-analysis)
 * [How to cite](#how-to-cite)
 * [Authors and reviewers](#authors-and-reviewers)
