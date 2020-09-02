@@ -127,7 +127,9 @@ The input used to run several scenarios of the *CM DH Supply Dispatch* are to be
 [**`To Top`**](#table-of-contents)
 
 
-## Sample run: Tomaszów Mazowiecki
+## Sample run
+
+(Tomaszów Mazowiecki)
 
 
 [**`To Top`**](#table-of-contents)
