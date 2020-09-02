@@ -5,10 +5,10 @@
 * [Introduction](#introduction)
 * [Inputs and outputs](#inputs-and-outputs)
 * [Method](#method)
-  * [Example](#example)
+  * [Example](#method_example)
 * [Sample run](#sample-run)
-  * [Test Run 1: default input values](#test-run-1-default-input-values)
-  * [Test Run 2: modified input values](#test-run-2-modified-input-values)
+  * [Test Run 1: default input values](#sample-run_test-run-1-default-input-values)
+  * [Test Run 2: modified input values](#sample-run_test-run-2-modified-input-values)
 * [How to cite](#how-to-cite)
 * [Authors and reviewers](#authors-and-reviewers)
 * [License](#license)
@@ -152,6 +152,7 @@ Here, the calculation module is run for the Lombardy region in Italy (NUTS2).
 
 [**`To Top`**](#table-of-contents)
 
+## Sample Run
 
 ### Test Run 1: default input values
 
@@ -181,8 +182,6 @@ If you deselected the default layers and select TEST RUN 1 you can visualize the
 
 
 [**`To Top`**](#table-of-contents)
-
-
 
 ### Test Run 2: modified input values
 
