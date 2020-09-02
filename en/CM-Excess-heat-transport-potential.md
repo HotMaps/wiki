@@ -4,10 +4,18 @@
 * [In a glance](#in-a-glance)
 * [Introduction](#introduction)
 * [Inputs and outputs](#inputs-and-outputs)
+  * [Input layers and parameters](#inputs-and-outputs_input-layers-and-parameters)
+  * [Output](#inputs-and-outputs_output)
 * [Method](#method)
+  * [Overview](#method_overview)
+  * [Details](#method_details)
+  * [Implementation](#method_implementation)
 * [Quickstart](#quickstart)
 * [Troubleshooting](#troubleshooting)
 * [Sample run](#sample-run)
+  * [Sample run 1](#sample-run_sample-run-1)
+  * [Sample run 2](#sample-run_sample-run-2)
+  * [Sample run 3](#sample-run_sample-run-3)
 * [How to cite](#how-to-cite)
 * [Authors and reviewers](#authors-and-reviewers)
 * [License](#license)
@@ -418,7 +426,7 @@ From the above, the following work hierarchy could be used:
 
 ## Troubleshooting
 
-#### CM does not finish
+### CM does not finish
 
 * Reduce [spatial resolution](en-CM-Excess-heat-transport-potential#performance-parameters) (increase kms)
 * Reduce [time resolution](en-CM-Excess-heat-transport-potential#performance-parameters)
@@ -426,36 +434,36 @@ From the above, the following work hierarchy could be used:
 * Decrease [search radius](en-CM-Excess-heat-transport-potential#provided-by-user)
 * Rerun at a later point
 
-#### CM crashes without a message
+### CM crashes without a message
 
 * Rerun at a later point
 * Contact CM developer
 
-#### Error: "No DH area in selection."
+### Error: "No DH area in selection."
 
 Check [DH Potential CM](en-CM-District-heating-potential-areas-user-defined-thresholds) to adapt inputs so that a dh area is created.
 
-#### Error: "No industrial sites in the selected area."
+### Error: "No industrial sites in the selected area."
 
 Check the "industrial sites" layer in the user selection.
 
-#### Error: "No entry points in selected area."
+### Error: "No entry points in selected area."
 
 Check [warning](en-CM-Excess-heat-transport-potential#warning-no-residential-heating-profile-available-for-).
 
-#### Error: "No industrial sites in range."
+### Error: "No industrial sites in range."
 
 Increase [search radius](en-CM-Excess-heat-transport-potential#provided-by-user)
 
-#### Error: "No excess heat used."
+### Error: "No excess heat used."
 
 Increase [transmission line threshold](en-CM-Excess-heat-transport-potential#provided-by-user)
 
-#### Warning: "No industry profiles available for ..."
+### Warning: "No industry profiles available for ..."
 
 Check country and subsector of uploaded industrial sites.
 
-#### Warning: "No residential heating profile available for ..."
+### Warning: "No residential heating profile available for ..."
 
 CM does not have access to residential heating profile data to be executed in this area.
 
