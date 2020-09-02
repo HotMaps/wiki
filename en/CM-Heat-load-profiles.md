@@ -55,6 +55,9 @@ Calculation of heat demand load profiles for selected regions.
 
   The tertiary hot water demand is multiplied with this factor.
 
+
+[**`To Top`**](#table-of-contents)
+
 ### Output
 
 #### Indicators
@@ -100,11 +103,18 @@ Calculation of heat demand load profiles for selected regions.
 
 The x-axis represents time and the y-axis power. It can be helpful to hide certain sectors to better see others.
 
+
+[**`To Top`**](#table-of-contents)
+
 ## Method
+
 ### Overview
 Corresponding load profiles are assigned to industrial sites, residential and tertiary buildings in the user selection.
 
+[**`To Top`**](#table-of-contents)
+
 ### Details
+
 #### Residential warm water supply
 Based on the gross floor area of residential buildings and their Nuts0 ID the energy used for warm water supply is computed with the following list. With the Nuts2 ID of a specific area, a load profile is assigned.  The residential hot water supply is multiplied with the residential hot water supply factor in case the user wants to adjust the value.
 
@@ -189,6 +199,9 @@ The heat demand by industry is looked up the industrial database and based on th
 #### Summation
 The five resulting profiles are added together in an absolute way.
 
+
+[**`To Top`**](#table-of-contents)
+
 ### Implementation
 
 #### Load profiles
@@ -208,6 +221,7 @@ The heat density residential sector and heat density non-residential sector are 
 
 The gross floor area residential and gross floor area non-residential are raster files which can be found **[here]( https://gitlab.com/hotmaps/gfa_res_curr_density)** and **[here.]( https://gitlab.com/hotmaps/gfa_nonres_curr_density)**
 
+[**`To Top`**](#table-of-contents)
 
 ## Sample run
 
