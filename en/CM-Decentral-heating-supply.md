@@ -6,8 +6,8 @@
 * [Data Sources](#data-sources)
 * [Inputs](#inputs)
 * [Outputs](#outputs)
-* [Methodolog](#methodology)
-* [GitHub repository of this calculation module](#GitHub-Repository-of-this-calculation-module)
+* [Methodology](#methodology)
+* [GitHub repository of this calculation module](#github-repository-of-this-calculation-module)
 * [Sample run](#sample-run)
   * [Test Run 1](#test-run-1)
   * [Test Run 2](#test-run-2)
@@ -110,14 +110,10 @@ by multiplying it by the gross floor area.
 
 ![](https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/cm_decentral_heating/new/2.png)
 
-<code><ins>**[To Top](#table-of-contents)**</ins></code>
-
 Based on the annual heat demand of the building and the entered savings in space
 heating the heat load is calculated with the use the heat load profiles.
 
 ![](https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/cm_decentral_heating/new/3.png)
-
-<code><ins>**[To Top](#table-of-contents)**</ins></code>
 
 With the heat load, the annual heat demand and the selected year the investment
 costs and operational costs and fuel costs **for each heating technology** are
@@ -128,26 +124,18 @@ behaviour:
 
 ![](https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/cm_decentral_heating/new/4.png)
 
-<code><ins>**[To Top](#table-of-contents)**</ins></code>
-
 Therefore based on the country, year and building type of the entered inputs the
 factors for each technology are figured out:
 
 ![](https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/cm_decentral_heating/new/5.png)
 
-<code><ins>**[To Top](#table-of-contents)**</ins></code>
-
 With the factors determined the absolute costs can be calculated as follows:
 
 ![](https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/cm_decentral_heating/new/6.png)
 
-<code><ins>**[To Top](#table-of-contents)**</ins></code>
-
 For the fuel costs, the price data of the energy carriers are needed.
 
 ![](https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/cm_decentral_heating/new/7.png)
-
-<code><ins>**[To Top](#table-of-contents)**</ins></code>
 
 Now we have all the needed data and can calculate the levelized cost of heat.
 
@@ -158,8 +146,6 @@ The levelized cost of heat is given by:
 
 ![](https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/cm_decentral_heating/new/8.png)
 
-<code><ins>**[To Top](#table-of-contents)**</ins></code>
-
 In this calculation the yearly costs and the yearly heat production (useful
 energy demand) is assumed to be constant over the lifetime and thus the
 summations transform into a geometric series and the transforming factor is called
@@ -169,8 +155,6 @@ shown in the figures below
 ![](https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/cm_decentral_heating/new/9.png)
 
 ![](https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/cm_decentral_heating/new/10.png)
-
-<code><ins>**[To Top](#table-of-contents)**</ins></code>
 
 This assumption simplifies the calculation and the LCOH is given by the following
 formula:
