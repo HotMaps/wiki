@@ -16,6 +16,8 @@
 ## Introduction
 This is the second step of the analysis at national level.
 
+<code><ins>**[To Top](#table-of-contents)**</ins></code>
+
 ## Calculation of decentral heat supply
 
 In the third step, the costs and emissions of heat supply via decentral technologies are calculated. This calculation should be performed for different representative buildings in the country/region of interest. While for district heating representative cities/areas have been developed in step 1 of the approach, typical buildings in each EU Member State data can be found in the Hotmaps default database. Also, for many EU countries detailed building typologies (building archetypes) with data on heat demand before and after renovation can be found in statistics and literature.
