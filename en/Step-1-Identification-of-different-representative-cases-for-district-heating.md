@@ -19,6 +19,8 @@
 ## Introduction
 This is the first step of the analysis at national level.
 
+<code><ins>**[To Top](#table-of-contents)**</ins></code>
+
 ## Identification of different representative cases for district heating
 In order to identify different, representative, typical cases for further analysis of the costs and potentials for district heating in the country/region of interest Hotmaps provides various default data layers in the Hotmaps database as well as different Calculation Modules (CMs). Also, own data can be uploaded and used. This identification procedure can consist of the following steps:
 * Calculate scenarios of future heat demand and building floor area density maps for the entire country/region of interest
