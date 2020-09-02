@@ -98,6 +98,9 @@ Three networks exist :
 
 Each calculation module has its own Docker container. 
 
+
+[**`To Top`**](#table-of-contents)
+
 ### Run with Docker
 
 Hotmaps uses [Docker](https://www.docker.com/) software and [Docker-Compose](https://docs.docker.com/compose/) tool to manage containers. A docker-compose.yml file contains the whole configuration of the Docker architecture (config. of containers, networks, links, ...). This allows containers to be run with one simple command : 
@@ -109,6 +112,9 @@ docker-compose up
 *There is more about docker-compose on the webiste of Docker: [Compose command-line reference](https://docs.docker.com/compose/reference/) and [Compose file reference](https://docs.docker.com/compose/compose-file/).*
 
 There is only one container that is run separately from others: it's the database because it needs to stay up all the time. That's why it's not in the docker-compose configuration file.
+
+
+[**`To Top`**](#table-of-contents)
 
 ### Server infrastructure
 
