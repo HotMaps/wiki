@@ -6,8 +6,7 @@
 * [Method](#method)
 * [GitHub repository of this calculation module](#github-repository-of-this-calculation-module)
 * [Sample run](#sample-run)
-  * [Test Run 1: default input values](#test-run-1-default-input-values)
-  * [Test Run 2: modified input values](#test-run-2-modified-input-values)
+  * [Test Run: default input values](#test-run-default-input-values)
 * [How to cite](#how-to-cite)
 * [Authors and reviewers](#authors-and-reviewers)
 * [License](#license)
@@ -117,7 +116,7 @@ Total final energy demand for space heating, hot water and cooling in EU-28 decr
 
 Here, the calculation module is run for the case study of Vienna, Austria. First, use the "Go To Place" bar to navigate to Vienna and select the city. Click on the "Layers" button to open the "Layers" window and then click on the "CALCULATION MODULE" tab. In the list of calculation modules, select "CM - Demand projection".
 
-### Test Run 1: default input values
+### Test Run: default input values
 
 The default input values generate a heat demand density map for 2017. These values should be regarded as starting point only. You may need to set values below or above default values considering additional local considerations. The scenario used also has a strong effect on the output. Therefore, the user should adapt these values to find the best combination of inputs for her or his case study.
 
@@ -140,7 +139,7 @@ To run the calculation module, follow the next steps:
 [[/en/CM-Demand-projection/default-sample-run_layers_jpg-min.jpg]]
 *Figure: Demand projection after running with default parameter, switching to result layers*
 
-### Test Run 2: default input values
+As mentioned before, it may be necessary to adjust the input parameters to the own data situation or to check sensitivities.
 
 [**`To Top`**](#table-of-contents)
 
