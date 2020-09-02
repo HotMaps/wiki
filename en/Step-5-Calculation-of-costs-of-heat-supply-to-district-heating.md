@@ -25,8 +25,12 @@ This is the fifth step of the analysis at local and municipal level.
 ## Estimation of costs for the transport of excess heat to district heating areas
 In order to estimate the costs of transporting excess heat from potential sources outside of district heating areas to potential district heating areas the [CM - Excess heat transport potential](https://wiki.hotmaps.hevs.ch/en/CM-Excess-heat-transport-potential) can be used. The module yields levelised costs of excess heat transported to the district heating grid [EUR/MWh]. This can further be used in the next step of calculating heat supply costs in district heating.
 
+<code><ins>**[To Top](#table-of-contents)**</ins></code>
+
 ## Development of future heat load profiles
 Renovation of buildings leads to reductions in energy demand for space heating. This also affects the load profiles of heat demand in the district heating systems: the peak demands in winter decrease and the full load hours increase due to higher shares of hot water generation on the overall heat demand. With the [CM - Heat load profiles](https://wiki.hotmaps.hevs.ch/en/CM-Heat-load-profiles) future heat load profiles can be developed according to different heat-saving levels. This can be done based on load profiles provided in the Hotmaps database (default profiles for all NUTS2 regions in Europe) or based on own profiles uploaded into the toolbox. The resulting load profiles are then used in the next step, the calculation of costs and emission of heat supply in district heating with the dispatch module.
+
+<code><ins>**[To Top](#table-of-contents)**</ins></code>
 
 ## Calculation of costs and emissions of heat supply in district heating
 The costs and emissions of heat supply in district heating system depend on the interaction of the different installed supply capacities. Hereby the least-cost combination of capacities and their operation over time is of interest. In order to analyse the so-called hourly dispatch of different supply technology combinations and the effect on the overall costs and emissions of heat supply in district heating the [CM - District heating supply dispatch](https://wiki.hotmaps.hevs.ch/en/CM-District-heating-supply-dispatch) can be used. With the module several scenarios with the following input data combinations can be calculated in order to derive costs and benefits:
@@ -54,6 +58,8 @@ The following figure shows the overall approach.
 [[/en/Step-5-Calculation-of-costs-of-heat-supply-to-district-heating/Wiki-local-detailed-Step-5final.png]]
 *Figure: Overall approach to the calculation of heat supply to district heating costs*
 <br\>  
+
+<code><ins>**[To Top](#table-of-contents)**</ins></code>
 
 ## How to cite
 Marcus Hummel, Giulia Conforto, in Hotmaps-Wiki, Guidelines for using the Hotmaps toolbox for analyses at local level (August 2020)
