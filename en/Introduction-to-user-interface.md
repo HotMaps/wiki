@@ -52,11 +52,17 @@ With this toolbar you can:
 5. [_Show Result:_](#show-result) show the result sidebar of your selected regions
 6. [_Feedback:_](#feedback) give us feedback regarding the tool
 
+
+[**`To Top`**](#table-of-contents)
+
 ### Connect
 Here you can: 
 * Create an account 
 * Log-in into your account to save your progress
 * Or reset your password if you forget it 
+
+
+[**`To Top`**](#table-of-contents)
 
 #### Login
 
@@ -187,6 +193,8 @@ There are following configurations possible
 Jeton Hasani, in Hotmaps-Wiki, Introduction-to-user-interface (April 2019)
 
 
+[**`To Top`**](#table-of-contents)
+
 ## Authors and reviewers
 This page is written by Jeton Hasani\*.
 
@@ -198,6 +206,9 @@ Institute of Energy Systems and Electrical Drives
 Gusshausstrasse 27-29/370
 1040 Wien
 
+
+[**`To Top`**](#table-of-contents)
+
 ## License
 Copyright © Hotmaps
 Creative Commons Attribution 4.0 International License
@@ -205,6 +216,8 @@ This work is licensed under a Creative Commons CC BY 4.0 International License.
 SPDX-License-Identifier: CC-BY-4.0
 License-Text: https://spdx.org/licenses/CC-BY-4.0.html
 
+
+[**`To Top`**](#table-of-contents)
 
 ## Acknowledgement
 We would like to convey our deepest appreciation to the Horizon 2020 [Hotmaps Project](https://www.hotmaps-project.eu) (Grant Agreement number 723677), which provided the funding to carry out the present investigation.
