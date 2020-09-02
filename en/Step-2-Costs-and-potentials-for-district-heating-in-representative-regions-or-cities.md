@@ -21,6 +21,8 @@
 ## Introduction
 This is the second step of the analysis at national level.
 
+<code><ins>**[To Top](#table-of-contents)**</ins></code>
+
 ## Costs and potentials for district heating in representative regions or cities
 
 For the identified representative cities/areas analyses on the costs and potentials for the heat supply with district heating can be performed. For these analyses, Hotmaps provides various default data layers in the Hotmaps database as well as different Calculation Modules (CMs). Also, own data can be uploaded and used. These analyses can consist of the following steps:
