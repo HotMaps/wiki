@@ -3,8 +3,8 @@
 ## Table of Contents
 
 * [Indicators](#indicators)
-  * [Simple indicator](#simple-indicator)
-  * [Cross indicator](#cross-indicator)
+  * [Simple indicator](#indicators_simple-indicator)
+  * [Cross indicator](#indicators_cross-indicator)
 * [Indicator result](#indicator-result)
 * [How to cite](#how-to-cite)
 * [Authors and reviewers](#authors-and-reviewers)
@@ -90,6 +90,7 @@ Type of the layer in the database (Values: 'vector' or 'raster').
 
 There are 2 types of indicators (Simple indicators &amp; Cross indicators).
 
+[**`To Top`**](#table-of-contents)
 
 ### Simple indicator
 
@@ -117,6 +118,7 @@ This is the unit of the indicator. (Example: 'cells', 'MWh')
 
 This is the indicator identifier of the indicator (Like an ID). This name **must be unique** in the array of indicators.
 
+[**`To Top`**](#table-of-contents)
 
 ### Cross indicator
 
