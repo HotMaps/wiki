@@ -8,12 +8,6 @@
 * [Training Material](#training-material)
   * [On-site Training](#training-material_on-site-training)
   * [Online Training](#training-material_online-training)
-    * [Before the training](#training-material_online-training_before-the-training)
-    * [Preparatory webinar](#training-material_online-training_preparatory-webinar)
-    * [Exercises 1-2](#training-material_online-training_exercises-1-2)
-    * [Exercises 3-4](#training-material_online-training_exercises-3-4)
-    * [Exercise 5](#training-material_online-training_exercise-5)
-    * [Closing Webinar](#training-material_online-training_closing-webinar)
 * [Feedback](#feedback)
 * [How to cite](#how-to-cite)
 * [Authors and reviewers](#authors-and-reviewers)
@@ -79,9 +73,10 @@ Finally, it presents the feedback collected, providing both an overview of how t
 
 ### On-site Training
 
-The online training materials are revised versions of the on-sites training by incorporating feedback from participants. This means that they can be used in the same way for local training.
+The on-site training material has evolved building on the experience and feedback collected in subsequent workshops, landing to the most up to date version, which was used for the online training and is listed in the following section.
 
 
+[**`To Top`**](#table-of-contents)
 
 ### Online Training
 
@@ -94,7 +89,7 @@ The training material is presented below following the order in which it has bee
   - [Closing Webinar](#training-material_online-training_closing-webinar)
 
 
-##### Before the training
+#### Before the training
 * Email sent to participants before the first webinar [English](/en/training-material/Hotmaps---Final-email-before-training.docx) / [German](/en/training-material/Hotmaps - Final email before training (DE).docx)
 * Tutorial: How to use Hotmaps [English](https://youtu.be/dUDACmC_LO8) (This tutorial can be seen in any language, by using the youtube automatic translation options)
 
@@ -105,7 +100,7 @@ Handbooks:
  * [Appendix report to the Handbook for strategic heat planning: Case descriptions](https://vbn.aau.dk/da/publications/appendix-report-to-the-hotmaps-handbook-for-strategic-heat-planni)
 
 
-##### Preparatory Webinar
+#### Preparatory Webinar
 * Preparatory webinar: introduction to the Hotmaps project, toolbox, database, and online training [English](https://www.youtube.com/watch?v=nGJ8BJNB4z8) / [German](https://www.youtube.com/watch?v=4FLplnzbtg0)
 * Presentation used for the webinar [English]() / [German]() **(UPLOAD FILES)**
 * [Sample Google Classroom](https://classroom.google.com/) English access code: **ealdt6b** / German access code: **tzfxr5w**  
@@ -115,7 +110,7 @@ Handbooks:
 * Test: introduction videos [English](https://docs.google.com/forms/d/e/1FAIpQLSf4lO8jXH77CRRjzwL4OT4ZoEO5AeSpRZhKnzWbKvZLRUwW_Q/viewform?authuser=1) / [German](https://docs.google.com/forms/d/e/1FAIpQLSfpqw2j-Dfc8YmOHRDGCw3J3RE8-0oDtN0ekbeh3rnCHRwIHg/viewform?authuser=1)
 
 
-##### Exercises 1-2
+#### Exercises 1-2
 * Webinar: introduction to exercises 1-2 [English](https://www.youtube.com/watch?v=DOnJArGz_3E) / [German](https://www.youtube.com/watch?v=qvgpgkp7WEE)
 * Presentation used for the webinar  [English]() **(UPLOAD FILE)**
 * Exercises 1-2 word [English]() / [German]() **(UPLOAD FILES)**
@@ -123,19 +118,19 @@ Handbooks:
 * How to open a CSV [English]() / [German]() **(UPLOAD FILES)**
 
 
-##### Exercises 3-4
+#### Exercises 3-4
 * Webinar: Wrap-up of exercises 1-2, introduction to exercises 3-4 [English](https://www.youtube.com/watch?v=YbfLLoREo6w) / [German](https://www.youtube.com/watch?v=8U_9bT3TZgg)
 * Exercises 3-4 word [English]() / [German]() **(UPLOAD FILES)**
 * Exercises 3-4 excel [English]() / [German]() **(UPLOAD FILES)**
 
 
-##### Exercise 5
+#### Exercise 5
 * Webinar: Wrap-up of exercises 3-4, introduction to exercise 5 [English](https://www.youtube.com/watch?v=NAcdCrsQZuI) / [German](https://www.youtube.com/watch?v=lnTw9aCR6Fw)
 * Exercise 5 word [English]() / [German]() **(UPLOAD FILES)**
 * Exercise 5 excel [English]() / [German]() **(UPLOAD FILES)**
 
 
-##### Closing Webinar
+#### Closing Webinar
 * Webinar: Wrap-up of exercise 5, feedback questionnaire, certificates and final remarks [English](https://www.youtube.com/watch?v=NAcdCrsQZuI) / [German](https://www.youtube.com/watch?v=CPCDR-iBTZA)
 * Exercise 5 complete [English]() **(UPLOAD FILE)**
 * Exercise 1-2 complete [German]() **(UPLOAD FILE)**
