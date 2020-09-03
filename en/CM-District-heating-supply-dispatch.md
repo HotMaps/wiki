@@ -6,8 +6,6 @@
 * [Inputs and outputs](#inputs-and-outputs)
 * [Method](#method)
 * [Sample run](#sample-run)
-  * [Test Run 1: default input values](#sample-run_test-run-1-default-input-values)
-  * [Test Run 2: modified input values](#sample-run_test-run-2-modified-input-values)
 * [How to cite](#how-to-cite)
 * [Authors and reviewers](#authors-and-reviewers)
 * [License](#license)
@@ -97,22 +95,23 @@ The objective function tries to find the minimum of the difference from the cost
 
 ## Sample run
 
-### Test Run 1: default input values
 After you select a region and make no changes to the default parameters, the model will run in investment mode. This means that the installed capacities are also optimized for the optimal cost coverage of the heat demand . 
 
-[[/en/CM-District-heating-supply-dispatch/output_indicators_default.png]]
 
-[[/en/CM-District-heating-supply-dispatch/input_default.png]]
-
-[[/en/CM-District-heating-supply-dispatch/output_graphs_default.png]]
-
-
-[**`To Top`**](#table-of-contents)
-
-### Test Run 2: modified input values
 Below you can see all input paramters that can be changed
 
-[[/en/CM-District-heating-supply-dispatch/all_inputs.png]]
+
+
+
+
+#### Output Charts
+
+
+
+#### Output Indicators
+
+
+
 
 [**`To Top`**](#table-of-contents)
 
