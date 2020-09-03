@@ -176,6 +176,17 @@ formula:
 
 ### Test Run 1 
 
+#### Default Input Parameters
+[[/en/CM-Decentral-heating-supply/inputs.png]]
+
+#### Output Indicators With Default Input Parameters
+
+[[/en/CM-Decentral-heating-supply/output_indicators_default_decentral.png]]
+
+#### Output Charts With Default Input Parameters
+
+[[/en/CM-Decentral-heating-supply/output_graphs_default_decentral.png]]
+
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
 
 ### Test Run 2
