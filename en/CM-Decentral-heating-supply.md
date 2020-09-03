@@ -110,12 +110,12 @@ Then for the selected building type and building age and NUTS0 region the
 specific useful energy demand is selected and the annual heat demand calculated
 by multiplying it by the gross floor area.
 
-![](https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/cm_decentral_heating/new/2.png)
+![](https://raw.githubusercontent.com/HotMaps/hotmaps_wiki/master/Images/cm_decentral_heating/new/2.png)
 
 Based on the annual heat demand of the building and the entered savings in space
 heating the heat load is calculated with the use the heat load profiles.
 
-![](https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/cm_decentral_heating/new/3.png)
+![](https://raw.githubusercontent.com/HotMaps/hotmaps_wiki/master/Images/cm_decentral_heating/new/3.png)
 
 With the heat load, the annual heat demand and the selected year the investment
 costs and operational costs and fuel costs **for each heating technology** are
@@ -124,20 +124,20 @@ determined.
 The specific investment and operational costs are assumed to have an exponential
 behaviour:
 
-![](https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/cm_decentral_heating/new/4.png)
+![](https://raw.githubusercontent.com/HotMaps/hotmaps_wiki/master/Images/cm_decentral_heating/new/4.png)
 
 Therefore based on the country, year and building type of the entered inputs the
 factors for each technology are figured out:
 
-![](https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/cm_decentral_heating/new/5.png)
+![](https://raw.githubusercontent.com/HotMaps/hotmaps_wiki/master/Images/cm_decentral_heating/new/5.png)
 
 With the factors determined the absolute costs can be calculated as follows:
 
-![](https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/cm_decentral_heating/new/6.png)
+![](https://raw.githubusercontent.com/HotMaps/hotmaps_wiki/master/Images/cm_decentral_heating/new/6.png)
 
 For the fuel costs, the price data of the energy carriers are needed.
 
-![](https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/cm_decentral_heating/new/7.png)
+![](https://raw.githubusercontent.com/HotMaps/hotmaps_wiki/master/Images/cm_decentral_heating/new/7.png)
 
 Now we have all the needed data and can calculate the levelized cost of heat.
 
@@ -146,7 +146,7 @@ present value of the cash flow and the heat generation over the lifetime.
 
 The levelized cost of heat is given by:
 
-![](https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/cm_decentral_heating/new/8.png)
+![](https://raw.githubusercontent.com/HotMaps/hotmaps_wiki/master/Images/cm_decentral_heating/new/8.png)
 
 In this calculation the yearly costs and the yearly heat production (useful
 energy demand) is assumed to be constant over the lifetime and thus the
@@ -154,14 +154,14 @@ summations transform into a geometric series and the transforming factor is call
 the annuity factor α. A graphical representation of this transforming process is
 shown in the figures below
 
-![](https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/cm_decentral_heating/new/9.png)
+![](https://raw.githubusercontent.com/HotMaps/hotmaps_wiki/master/Images/cm_decentral_heating/new/9.png)
 
-![](https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/cm_decentral_heating/new/10.png)
+![](https://raw.githubusercontent.com/HotMaps/hotmaps_wiki/master/Images/cm_decentral_heating/new/10.png)
 
 This assumption simplifies the calculation and the LCOH is given by the following
 formula:
 
-![](https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/cm_decentral_heating/new/11.png)
+![](https://raw.githubusercontent.com/HotMaps/hotmaps_wiki/master/Images/cm_decentral_heating/new/11.png)
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
 
