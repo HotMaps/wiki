@@ -11,8 +11,7 @@
 * [Methodology](#methodology)
 * [GitHub repository of this calculation module](#github-repository-of-this-calculation-module)
 * [Sample run](#sample-run)
-  * [Test Run 1](#sample-run_test-run-1)
-  * [Test Run 2](#sample-run_test-run-2)
+  * [Test Run](#sample-run_test-run)
 * [How to cite](#how-to-cite)
 * [Authors and reviewers](#authors-and-reviewers)
 * [License](#license)
@@ -174,7 +173,7 @@ formula:
 
 ## Sample run
 
-### Test Run 1 
+### Test Run 
 
 #### Default Input Parameters
 [[/en/CM-Decentral-heating-supply/inputs.png]]
@@ -186,10 +185,6 @@ formula:
 #### Output Charts With Default Input Parameters
 
 [[/en/CM-Decentral-heating-supply/output_graphs_default_decentral.png]]
-
-<code><ins>**[To Top](#table-of-contents)**</ins></code>
-
-### Test Run 2
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
 
