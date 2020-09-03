@@ -1,5 +1,3 @@
-<h1>CM District heating supply dispatch</h1>
-
 ## Table of Contents
 * [In a glance](#in-a-glance)
 * [Introduction](#introduction)
@@ -100,18 +98,16 @@ After you select a region and make no changes to the default parameters, the mod
 
 Below you can see all input paramters that can be changed
 
-
-
-
-
-#### Output Charts
-
+[[/en/CM-District-heating-supply-dispatch/inpt.png]]
 
 
 #### Output Indicators
 
+[[/en/CM-District-heating-supply-dispatch/indicators.png]]
 
+#### Output Charts
 
+[[/en/CM-District-heating-supply-dispatch/charts.png]]
 
 [**`To Top`**](#table-of-contents)
 
