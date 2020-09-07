@@ -183,7 +183,7 @@ Route du Rawyl 47,
 
 
 ## License
-Copyright © 2016-2019: ...
+Copyright © 2016-2019: Lukas Kranzl, Mostafa Fallahnejad, Jeton Hasani, Thierry Bernhard, Lesly Houndole and Albain Dufils, Marcus Hummel, Giulia Conforto, David Schmidinger, Pietro Zambelli, Giulia Garegnani, Ali Aydemir, David Schilling, Lisa Neusel, Tobias Fleiter, Daniel Hunacek, Lucien Zuber, Matthieu Dayer.
 
 Creative Commons Attribution 4.0 International License
 This work is licensed under a Creative Commons CC BY 4.0 International License.
