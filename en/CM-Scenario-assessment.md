@@ -127,7 +127,7 @@ In general, all these results are individually calculated for the decentral as w
 ###Costs
 The scenario assessment file offers two different costs which can be further analysed. The CAPEX/OPEX represent the annual absolute costs of the system. They are further subdivided into the shares of the decentralized-, centralized generation of heat and the share of the grid, which represents the distribution costs of the central heat. Taken together they make up the total costs of the respective scenario. These costs are represented in the Costs in M EUR/yr plot to the right of the table.
 The second cost parameter which is provided are the LCOH (levelized costs of heat) which describes how much the supply costs per amount of energy. The division into decentralized, centralized, and total LCOH allows an interpretation of the two components and relation to the total system. This can also be done in the LCOH in EUR/MWh diagram on the right.
-[[/en/CM-Scenario-assessment/picture2.jpg]]
+[[/en/CM-Scenario-assessment/picture2_new.jpg]]
 ###Emissions
 To be able to compare the emissions of different scenarios, they are calculated under CO2 emissions. They are divided into centralized and decentralized scenarios, which in turn are divided into the technologies used. This allows a precise analysis on a technology level to evaluate them among each other or to identify large sources. Regarding central emissions, the additional emissions are also included here, which occur due to the distribution line losses. They can be adjusted in line 121, under Grid losses.
 [[/en/CM-Scenario-assessment/picture3.jpg]]
