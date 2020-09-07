@@ -120,9 +120,28 @@ The input used to run several scenarios of the *CM DH Supply Dispatch* are to be
 [**`To Top`**](#table-of-contents)
 
 ## Interpretation of results
-
-### Final Table
-
+After copying your results from the three modules: Decentral heating supply, district heating economic assessment and district heating supply dispatch to the corresponding sheets you will get whole scenario results in the final table sheet for your evaluated area.
+The large diagram under Output data in the Final table sheet shows the results of these overall scenarios collected. The presented results can be divided into various categories. Costs, emissions, absolute energy as well as shares in the overall system are among them.
+[[/en/CM-Scenario-assessment/picture1.jpg]]
+In general, all these results are individually calculated for the decentral as well as the area supplied with central heat and are applied to the overall scenario using their respective shares. They are therefore listed separately as individual components of the respective parameter.
+###Costs
+The scenario assessment file offers two different costs which can be further analysed. The CAPEX/OPEX represent the annual absolute costs of the system. They are further subdivided into the shares of the decentralized-, centralized generation of heat and the share of the grid, which represents the distribution costs of the central heat. Taken together they make up the total costs of the respective scenario. These costs are represented in the Costs in M EUR/yr plot to the right of the table.
+The second cost parameter which is provided are the LCOH (levelized costs of heat) which describes how much the supply costs per amount of energy. The division into decentralized, centralized, and total LCOH allows an interpretation of the two components and relation to the total system. This can also be done in the LCOH in EUR/MWh diagram on the right.
+[[/en/CM-Scenario-assessment/picture2.jpg]]
+###Emissions
+To be able to compare the emissions of different scenarios, they are calculated under CO2 emissions. They are divided into centralized and decentralized scenarios, which in turn are divided into the technologies used. This allows a precise analysis on a technology level to evaluate them among each other or to identify large sources. Regarding central emissions, the additional emissions are also included here, which occur due to the distribution line losses. They can be adjusted in line 121, under Grid losses.
+[[/en/CM-Scenario-assessment/picture3.jpg]]
+Also, there is again a diagram which shows the emissions of the different scenarios. (Emissions in t CO2/yr)
+###Absolute energy
+To compare the energy shares of the individual scenarios, the entries Final Energy and Useful Energy are suitable.
+Final Energy refers to the necessary use of energy sources to achieve useful energy with the technologies used and their efficiency. In relation to centralized, the line losses are also included here. A comparison of the final energy of the individual scenarios is again right beside the table in the diagram final energy in GWh/yr.
+The portion of final energy which is available after final conversion to the consumer for the respective use is called useful energy. The parts from the different technologies are shown under in the table under useful energy or in the diagram useful energy in GWh/yr on the right side.
+###Shares
+Finally, the document offers a comparison of four different shares. 
+Three of them are renewable shares. In the table renewable factor below, you can indicate factors for different technologies. We have provided default values here, but these can be changed as desired.
+The fourth share describes the portion from final energy supplied by district heating the whole system final energy. 
+All the shares can be found in the graphic Shares in % to the right of the table.
+[[/en/CM-Scenario-assessment/picture4.jpg]]
 
 [**`To Top`**](#table-of-contents)
 
