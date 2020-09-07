@@ -147,8 +147,29 @@ All the shares can be found in the graphic Shares in % to the right of the table
 
 
 ## Sample run
-
 (Tomaszów Mazowiecki)
+
+With the download of the Excel file, you will receive a ready-to-fill version of the scenario assessment. 
+After a successful calculation of individual scenarios using the modules decentral heating supply, district heating economic assessment and district heating supply dispatch, the respective results of the modules can be copied into the corresponding sheets of the document.
+Here three scenarios for the polish city Tomaszów Mazowiecki are evaluated.
+
+###Filling in Dec. heating supply data
+As the CM Dec. Heating supply only calculates individual building classes, these must first be combined to an entire building stock of the area under investigation. This can be achieved by using the provided template. TODO 
+Then the desired scenarios can be entered (copy data into the corresponding columns)
+[[/en/CM-Scenario-assessment/sample_run_picture1.jpg]]
+
+ ###Filling in DH economic assessment data
+The next step in building the whole area scenarios is to choose the scenarios of the district heating grids. This is done by pasting the output data from the CM DH economic assessment in the corresponding sheet. Here once again, paste the data for your scenarios to the corresponding columns.
+[[/en/CM-Scenario-assessment/sample_run_picture2.jpg]]
+
+###Filling in DH supply dispatch data
+The last bit of data needed are the scenarios for the supply of the district heating network. These data are obtained through calculating it with the DH supply dispatch module. Also, copy your results from that module to the corresponding scenario in the sheet DH supply dispatch. Please note hear, that you must copy in two parts of the results. After running the DH supply dispatch module, the first one is provided through export indicators and the second one through switching to the tab graphic and clicking on export graphs at the very bottom. 
+[[/en/CM-Scenario-assessment/sample_run_picture3.jpg]]
+
+###Final table 
+After copying the individual data, the compiled scenarios can be examined in the Sheet final table. On the one hand there is a table showing the exact results and on the other hand you can find some graphs on the right side.
+[[/en/CM-Scenario-assessment/sample_run_picture4.jpg]]
+
 
 
 [**`To Top`**](#table-of-contents)
