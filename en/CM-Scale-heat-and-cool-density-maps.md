@@ -70,6 +70,17 @@ The following figure gives the example of a multiplication factor value of 0.5.
 
 [**`To Top`**](#table-of-contents)
 
+## Sample run
+
+Here, the calculation module is run for the case study of Vienna, Austria. First, use the "Go To Place" bar to navigate to Vienna and select the city. Click on the "Layers" button to open the "Layers" window and then click on the "CALCULATION MODULE" tab. In the list of calculation modules, select "CM - Scale heat and cool density maps". 
+
+### Test Run: default input values
+After pressing run a new density map is calculated on the basis of the selected map. The default value here is the heat density total map. 
+After the calculation, the total new heat demand is shown on the right side, under indicators. (Here the default value is 1 and therefore no changes occur).
+
+
+[**`To Top`**](#table-of-contents)
+
 ## How to cite
 
 Thiery Bernhard, in Hotmaps-Wiki, CM Scale heat and cool density maps (April 2019)
