@@ -9,6 +9,8 @@
 * [Method](#method)
 * [Application](#application)
 * [GitHub repository of this calculation module](#github-repository-of-this-calculation-module)
+* [Sample run](#sample-run)
+  * [Test Run: default input values](#sample-run_test-run-default-input-values)
 * [How to cite](#how-to-cite)
 * [Authors and reviewers](#authors-and-reviewers)
 * [License](#license)
