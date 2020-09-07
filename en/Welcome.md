@@ -109,46 +109,75 @@ The Hotmaps Team, in Hotmaps-Wiki, Welcome page (September 2020)
 
 
 ## Authors and reviewers
+
 This page is written by the Hotmaps Team and namely by: 
 
 Lukas Kranzl, Mostafa Fallahnejad, Jeton Hasani,\*
-Marcus Hummel, Giulia Conforto, David Schmidinger,\**
-Daniel Hunacek, Lucien Zuber, Matthieu Dayer,\***
-Thierry Bernhard, Lesly Houndole and Albain Dufils,\****
-Pietro Zambelli, Giulia Garegnani,\*****
-Ali Aydemir, David Schilling, Lisa Neusel, Tobias Fleiter.\******
+
+Thierry Bernhard, Lesly Houndole and Albain Dufils,\**
+
+Marcus Hummel, Giulia Conforto, David Schmidinger,\***
+
+Pietro Zambelli, Giulia Garegnani,\****
+
+Ali Aydemir, David Schilling, Lisa Neusel, Tobias Fleiter.\*****
+
+Daniel Hunacek, Lucien Zuber, Matthieu Dayer,\******
 
 
-\*.
-- This page was reviewed by Giulia Conforto\**.
+This page was reviewed by Giulia Conforto\***.
+
 
 \* [Energy Economics Group - TU Wien](https://eeg.tuwien.ac.at/),
+
 Institute of Energy Systems and Electrical Drives,
+
 Gusshausstrasse 27-29/370,
+
 1040 Wien, Austria
 
-\** [e-think](https://e-think.ac.at/),
-Zentrum f. Energiewirtschaft und Umwelt,
-Argentinierstrasse 18/10,
-1040 Wien, Austria
 
-\*** [HES-SO Valais-Wallis - Institute of Sustainable Energy](https://www.hevs.ch/de/afe-institute/institut-energie-und-umwelt/)
-Route du Rawyl 47, 
-1950 Sion, Switzerland
+\** [CREM](https://www.crem.ch/)
 
-\**** [CREM](https://www.crem.ch/)
 Centre de Recherches Energétiques et Municipales
+
 Rue Marconi 19 - CP 256,
+
 CH-1920 Martigny, Switzerland
 
-\***** [Urban and Regional Energy System Group - EURAC Bozen](http://www.eurac.edu/en/research/technologies/renewableenergy/researchfields/Pages/Energy-strategies-and-planning.aspx)
+
+\*** [e-think](https://e-think.ac.at/),
+
+Zentrum f. Energiewirtschaft und Umwelt,
+
+Argentinierstrasse 18/10,
+
+1040 Wien, Austria
+
+
+\**** [EURAC Bozen - Urban and Regional Energy System Group]
+(http://www.eurac.edu/en/research/technologies/renewableenergy/researchfields/Pages/Energy-strategies-and-planning.aspx)
+
 Institute of Renewable Energy Drususallee,
+
 Viale Druso 1,
+
 I-39100 Bozen/Bolzano, Italy
 
-\****** [Fraunhofer ISI](https://isi.fraunhofer.de/)
+
+\***** [Fraunhofer ISI](https://isi.fraunhofer.de/)
+
 Breslauer Str. 48, 
+
 76139 Karlsruhe, Germany
+
+
+\****** [HES-SO Valais-Wallis - Institute of Sustainable Energy](https://www.hevs.ch/de/afe-institute/institut-energie-und-umwelt/)
+
+Route du Rawyl 47, 
+
+1950 Sion, Switzerland
+
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
 
