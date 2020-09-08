@@ -21,8 +21,8 @@ Neugebauer, Georg, Florian Kretschmer, René Kollmann, Michael Narodoslawsky, Th
 
 Input layers and parameters are:
 
-- Maximum distance to consider the heat source within the urban areas - (default value: 150m)
-- Maximum distance to consider the heat source near the urban areas, all the areas above this threshold will be classified 
+- Maximum distance to consider the heat source within the urban areas (`within_dist`) - (default value: 150m)
+- Maximum distance to consider the heat source near the urban areas (`near_dist`), all the areas above this threshold will be classified as far;
 - Heatsource capacity, default layer is the Waste Water Treatment Plants (WWTP) layer.
 
 Output layers and parameters are:
@@ -30,6 +30,26 @@ Output layers and parameters are:
 
 
 # Method
+
+To define the urban areas, the module start from the Corine Land Cover (CLC) dataset and select the following categories:
+- Continuous_urban_fabric
+- Discontinuous_urban_fabric
+- Industrial_or_commercial_units
+
+Then to assess and classify the potential, the module:
+- Compute buffer around the heat sources considering the distances selected by the user to consider the heatsource within the urban areas, or near the urban areas;
+- extract the number of pixel that are contained in each buffer for each heat source
+- Classify the heat source based on the following matrix, if within a certain distance there are at least 25 ha of urban areas.
+
+|                                                     | Within (`dist <= within_dist`) | Near (`dist <= near_dist`) | Far (`dist > near_dist`) |
+|:----------------------------------------------------|:-------------------------------|:---------------------------|:-------------------------|
+| Small        (`2000 PE <= plant_size <= 5000 PE`)   | Conditionally                  | Conditionally              | Not suitable             |
+| Medium-small (`5001 PE <= plant_size <= 50000 PE`)  | Suitable                       | Conditionally              | Conditionally            |
+| Medium-high  (`50001 PE <= plant_size < 150000 PE`) | Suitable                       | Suitable                   | Conditionally            |
+| High         (`plant_size > 150001 PE`)             | Suitable                       | Suitable                   | Suitable                 |
+
+
+
 
 # GitHub repository of this calculation module
 
