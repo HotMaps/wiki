@@ -104,9 +104,9 @@ Handbooks:
 * Preparatory webinar: introduction to the Hotmaps project, toolbox, database, and online training [English](https://www.youtube.com/watch?v=nGJ8BJNB4z8) / [German](https://www.youtube.com/watch?v=4FLplnzbtg0)
 * Presentation used for the webinar [English](https://github.com/HotMaps/training_materials/blob/master/data/01_Hotmaps_eLearning_PreparatoryWebinar_2020-06-15.pdf) / [German](https://github.com/HotMaps/training_materials/blob/master/data/02_Hotmaps_eLearning_PreparatoryWebinar_2020-05-04_DE.pdf)
 * [Sample Google Classroom](https://classroom.google.com/) English access code: **ealdt6b** / German access code: **tzfxr5w**  
-* Tutorial: How to use Hotmaps [English](https://youtu.be/dUDACmC_LO8) (This tutorial can be seen in any language, by using the youtube automatic translation options)
-* Introductory video: How can the toolbox support energy planning? [English](https://www.youtube.com/watch?v=7IPcVlWsarc)
-* Introductory video: The EU wide database [English](https://www.youtube.com/watch?v=dyJ5zySYBkM)
+* [Tutorial: How to use Hotmaps](https://youtu.be/dUDACmC_LO8) (This tutorial is played by default in English, but can be seen in any language, by using the youtube automatic translation options)
+* Introductory video: "How can the toolbox support energy planning?" [English](https://www.youtube.com/watch?v=7IPcVlWsarc)
+* Introductory video: "The EU wide database" [English](https://www.youtube.com/watch?v=dyJ5zySYBkM)
 * Test: introduction videos [English](https://docs.google.com/forms/d/e/1FAIpQLSf4lO8jXH77CRRjzwL4OT4ZoEO5AeSpRZhKnzWbKvZLRUwW_Q/viewform?authuser=1) / [German](https://docs.google.com/forms/d/e/1FAIpQLSfpqw2j-Dfc8YmOHRDGCw3J3RE8-0oDtN0ekbeh3rnCHRwIHg/viewform?authuser=1)
 
 
