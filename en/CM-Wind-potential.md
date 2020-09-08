@@ -49,6 +49,11 @@ Output layers and parameters are:
 
 ## Method
 
+The methodology used by the CM is to used the area selected by the user. The default areas are the areas identified in the wind potential layers that considered only areas with low or sparse vegetation, and bare and burnt areas (classes from 3.2.1. to 3.2.4. and 3.3.3., 3.3.4. of Corine Land Cover - CLC), these areas has been further filtered based on the following excluding criteria:
+- Areas above 2500 m.a.s.l.;
+- A 1 km buffer from urban areas (classes from 1.1.1. to 1.4.2. of the CLC);
+- Corridors for bird connectivity (Common Database on Designated Areas [148]);
+- Exclusion of protected areas of the Nature 2000 network [149].
 
 [**`To Top`**](#table-of-contents)
 
