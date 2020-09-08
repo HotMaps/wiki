@@ -116,7 +116,7 @@ Lukas Kranzl, Mostafa Fallahnejad, Jeton Hasani,\*
 
 Thierry Bernhard, Lesly Houndole and Albain Dufils,\**
 
-Marcus Hummel, Giulia Conforto, David Schmidinger,\***
+Marcus Hummel, Andreas Müller, Giulia Conforto, David Schmidinger,\***
 
 Pietro Zambelli, Giulia Garegnani,\****
 
