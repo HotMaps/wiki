@@ -34,7 +34,7 @@ The [How to apply the Hotmaps toolbox?](#how-to-apply-the-hotmaps-toolbox) secti
 
 The [Developers](#for-developers) section contains all information required for developers to contribute to the Hotmaps toolbox or to understand how it works. It explains the IT infrastructure of the Hotmaps toolbox, data set integration, contribution in calculation module development etc.
 
-**The Hotmaps Wiki is a living document**, i.e. it grows as the Hotmaps toolbox grows. The Hotmaps developers continue updating Hotmaps Wiki pages by the introduction of new updates, improvements, functionalities, and calculation modules. Please use [this guideline](Guidelines-for-writing-a-Hotmaps-Wiki-page) for writing a Hotmaps Wiki page.
+**The Hotmaps Wiki is a living document**, i.e. it grows as the Hotmaps toolbox grows. The Hotmaps developers continue updating Hotmaps Wiki pages by the introduction of new updates, improvements, functionalities, and calculation modules. Please use these [Guidelines for writing a Hotmaps Wiki page](Guidelines-for-writing-a-Hotmaps-Wiki-page).
 
 We hope you enjoy exploring the toolbox and find it helpful for your heating and cooling planning!
 
