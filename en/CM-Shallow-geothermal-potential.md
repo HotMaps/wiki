@@ -69,15 +69,8 @@ The method to define the energy potential is based on the [G.pot](https://www.sc
 
 ## Sample Run
 
-
-[**`To Top`**](#table-of-contents)
-
-### Test Run 1: default input values
-
-
-[**`To Top`**](#table-of-contents)
-
-### Test Run 2: modified input values
+Users can give different ground characteristics (e.g. ground temperature, ground conductivity and capacity), if available.
+Users can also define the different characteristics of the geothermal system like the Borehole geometry.
 
 
 [**`To Top`**](#table-of-contents)
