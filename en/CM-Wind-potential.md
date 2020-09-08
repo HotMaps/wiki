@@ -71,7 +71,7 @@ The module obtain the monthly and hourly profile, computing the baricenter of th
 
 ## Sample run
 
-![Fig. 1-0](https://wiki.hotmaps.hevs.ch/en/CM-Heatsource-potential/cm-heat.png "Execute the Wind CM")
+![Fig. 1-0](https://wiki.hotmaps.hevs.ch/en/CM-Wind-potential/cm-wind.png "Execute the Wind CM")
 
 
 [**`To Top`**](#table-of-contents)
