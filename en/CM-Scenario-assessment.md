@@ -207,7 +207,7 @@ Gusshausstrasse 27-29/370
 
 ## License
 
-Copyright © 2016-2019: Mostafa Fallahnejad
+Copyright © 2016-2019: Giulia Conforto and David Schmidinger
 
 Creative Commons Attribution 4.0 International License
 
