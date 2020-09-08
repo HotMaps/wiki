@@ -60,9 +60,9 @@ After the COVID-19 outbreak, three online courses have been eventually held virt
 
 ## Guidelines to host a Hotmaps training 
 
-The document on the [Training Material Guideline]() **(UPLOAD FILE)** provides guidelines and examples to assist the performance of further training workshops on the use of the Hotmaps tool, as well as the self-taught training. In addition, it elaborates on practical aspects of designing, organizing and delivering a Hotmaps training, such as training structure, selection of trainers, locations and timing, promotion activities, registration and more. The process of subsequent adjustments due both to the experience and feedback gathered in the first two on-site training workshops and to the COVID-19 outbreak is explained by presenting both the original workshop draft and final agendas, as well as the online training courses agendas, together with the on-site training materials and those later used online.
+The document on the [Training Material Guideline](https://github.com/HotMaps/training_materials/blob/master/data/22_Hotmaps_D6.8_Training_Materials_2020_08_25_GC.docx) provides guidelines and examples to assist the performance of further training workshops on the use of the Hotmaps tool, as well as the self-taught training. In addition, it elaborates on practical aspects of designing, organizing and delivering a Hotmaps training, such as training structure, selection of trainers, locations and timing, promotion activities, registration and more. The process of subsequent adjustments due both to the experience and feedback gathered in the first two on-site training workshops and to the COVID-19 outbreak is explained by presenting both the original workshop draft and final agendas, as well as the online training courses agendas, together with the on-site training materials and those later used online.
 
-The document provides also guidelines for a live presentation of the tool, a list of all the available capacity building and educational materials produced, together with their respective use. All the sections of the training are explained in details and the training material used is illustrated, including the use of an e-learning platform, the exercises hand-outs and their relative solutions. 
+The document provides also guidelines for a live presentation of the tool, a list of all the available capacity building and educational materials produced, together with their respective use. All the sections of the training are explained in detail and the training material used is illustrated, including the use of an e-learning platform, the exercises hand-outs, and their relative solutions. 
 
 Finally, it presents the feedback collected, providing both an overview of how the training courses were received, and how future training could build on this experience. To see the feedback questionnaire used in the on-site and online training workshops, please check the following sections on the respective Training Material. 
 
@@ -80,7 +80,7 @@ The on-site training material has evolved building on the experience and feedbac
 
 ### Online Training
 
-The training material is presented below following the order in which it has been used or distributed. To see the agenda used during the training, please refer to the [Training Material Guideline](#guidelines-to-host-a-hotmaps-training) linked to the previous section.
+The training material is presented below following the order in which it has been used or distributed. To see the agenda used during the training, please refer to the [Training Material Guideline](https://github.com/HotMaps/training_materials/blob/master/data/22_Hotmaps_D6.8_Training_Materials_2020_08_25_GC.docx).
   - [Before the training](#training-material_online-training_before-the-training)
   - [Preparatory webinar](#training-material_online-training_preparatory-webinar)
   - [Exercises 1-2](#training-material_online-training_exercises-1-2)
