@@ -55,6 +55,11 @@ The methodology used by the CM is to used the area selected by the user. The def
 - Corridors for bird connectivity (Common Database on Designated Areas [148]);
 - Exclusion of protected areas of the Nature 2000 network [149].
 
+The CM use the user defined distance among the hubs to create a grid of potential hubs in the selected areas.
+Based on the number of wind turbine that might be potentially installed, based on the main characteristics of the wind system, height and technical specifications the module compute the energy that can be produced by the system. 
+
+The module obtain the monthly and hourly profile, computing the baricenter of the selected areas and query the [RenewableNinja API](https://www.renewables.ninja/), that provide the data from the MERRAv2 dataset.
+
 [**`To Top`**](#table-of-contents)
 
 
