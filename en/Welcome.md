@@ -69,6 +69,7 @@ We hope you enjoy exploring the toolbox and find it helpful for your heating and
 * [CM - Excess heat transport potential](CM-Excess-heat-transport-potential)
 * [CM - Add industry plant](CM-add-industry-plant)
 * [CM - Scenario assessment](CM-Scenario-assessment)
+* [CM - Vehicle stock at NUTS 2 level](CM-Vehicle-stock-at-NUTS-2-level)
 
 ## How to apply the Hotmaps toolbox
 Each calculation module can be used to analyse different parts of the heating and cooling system and different research questions. The calculation modules can also be used as a chain of tools to derive scenarios for heating and cooling of defined regions/areas. For the demonstration of the Hotmaps toolbox the calculation modules are used according to the following toolchain:
