@@ -30,9 +30,19 @@ The module estimated the number of turbines that might be installed in a predefi
 ## Inputs and outputs
 
 Input layers and parameters are:
-
+- Wind hub setup costs (all inclusive) price [€/kWp] (default value: 2000 €/kWp)
+- Distance among wind hubs [m] (default value: 1000 m)
+- Maintenance and operation costs as a percentage of the total installation costs (default value: 2%)
+- Wind turbine - peak power (default value: 800kW)
+- Wind hub height (default value: 80m)
+- Financing years (default value: 20year)
+- Discount rate (default value: 4.0%)
 
 Output layers and parameters are:
+- the yearly wind total energy produced
+- the wind total setup cost
+- the number of wind systems installed
+- Levelized cost of energy [€/kWh]
 
 
 [**`To Top`**](#table-of-contents)
