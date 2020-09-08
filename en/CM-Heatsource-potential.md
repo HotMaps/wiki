@@ -80,9 +80,24 @@ Then to assess and classify the potential, the module:
 
 ## How to cite
 
+Pietro Zambelli, in Hotmaps-Wiki, CM-Heatsource-potential (September 2020)
+
 [**`To Top`**](#table-of-contents)
 
 ## Authors and reviewers
+
+This page is written by Pietro Zambelli\*.
+
+&#9744; This page was reviewed by Simon Pezzutto\*.
+
+\* [Urban and Regional Energy System Group - Eurac research](https://www.eurac.edu/)
+
+Institute of Renewable Energy
+
+viale Druso 1
+
+39100 Bolzano
+
 
 [**`To Top`**](#table-of-contents)
 
