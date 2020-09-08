@@ -90,7 +90,7 @@ The training material is presented below following the order in which it has bee
 
 
 #### Before the training
-* Email sent to participants before the first webinar [English](/en/training-material/Hotmaps---Final-email-before-training.docx) / [German](/en/training-material/Hotmaps - Final email before training (DE).docx)
+* Email sent to participants before the first webinar [English](https://github.com/HotMaps/training_materials/blob/master/data/23_Hotmaps_Final_email_before_training.docx) / [German](https://github.com/HotMaps/training_materials/blob/master/data/24_Hotmaps_Final_email_before_training_DE.docx)
 * Tutorial: How to use Hotmaps [English](https://youtu.be/dUDACmC_LO8) (This tutorial can be seen in any language, by using the youtube automatic translation options)
 
 Handbooks:
@@ -102,9 +102,9 @@ Handbooks:
 
 #### Preparatory Webinar
 * Preparatory webinar: introduction to the Hotmaps project, toolbox, database, and online training [English](https://www.youtube.com/watch?v=nGJ8BJNB4z8) / [German](https://www.youtube.com/watch?v=4FLplnzbtg0)
-* Presentation used for the webinar [English]() / [German]() **(UPLOAD FILES)**
+* Presentation used for the webinar [English](https://github.com/HotMaps/training_materials/blob/master/data/01_Hotmaps_eLearning_PreparatoryWebinar_2020-06-15.pdf) / [German](https://github.com/HotMaps/training_materials/blob/master/data/02_Hotmaps_eLearning_PreparatoryWebinar_2020-05-04_DE.pdf)
 * [Sample Google Classroom](https://classroom.google.com/) English access code: **ealdt6b** / German access code: **tzfxr5w**  
-* Tutorial: How to use Hotmaps [English](https://youtu.be/dUDACmC_LO8) (This tutorial can be seen in any language, by using the youtube translation)
+* Tutorial: How to use Hotmaps [English](https://youtu.be/dUDACmC_LO8) (This tutorial can be seen in any language, by using the youtube automatic translation options)
 * Introductory video: How can the toolbox support energy planning? [English](https://www.youtube.com/watch?v=7IPcVlWsarc)
 * Introductory video: The EU wide database [English](https://www.youtube.com/watch?v=dyJ5zySYBkM)
 * Test: introduction videos [English](https://docs.google.com/forms/d/e/1FAIpQLSf4lO8jXH77CRRjzwL4OT4ZoEO5AeSpRZhKnzWbKvZLRUwW_Q/viewform?authuser=1) / [German](https://docs.google.com/forms/d/e/1FAIpQLSfpqw2j-Dfc8YmOHRDGCw3J3RE8-0oDtN0ekbeh3rnCHRwIHg/viewform?authuser=1)
@@ -112,7 +112,7 @@ Handbooks:
 
 #### Exercises 1-2
 * Webinar: introduction to exercises 1-2 [English](https://www.youtube.com/watch?v=DOnJArGz_3E) / [German](https://www.youtube.com/watch?v=qvgpgkp7WEE)
-* Presentation used for the webinar  [English]() **(UPLOAD FILE)**
+* Presentation used for the webinar  [English](https://github.com/HotMaps/training_materials/blob/master/data/03_Hotmaps%20Webinar_Exrcise-1-and-2.pdf)
 * Exercises 1-2 word [English]() / [German]() **(UPLOAD FILES)**
 * Exercises 1-2 excel [English]([[/en/training-material/Exercises 1 and 2.xlsx]]) / [German]([[/en/training-material/Übungen 1 und 2.xlsx]])
 * How to open a CSV [English]() / [German]() **(UPLOAD FILES)**
