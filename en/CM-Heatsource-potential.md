@@ -1,10 +1,25 @@
-# In a glance
+# CM Heatsource potential
+
+## Table of Contents
+* [In a glance](#in-a-glance)
+* [Introduction](#introduction)
+* [Inputs and outputs](#inputs-and-outputs)
+* [Method](#method)
+* [GitHub repository of this calculation module](#github-repository-of-this-calculation-module)
+* [Sample run](#sample-run)
+* [How to cite](#how-to-cite)
+* [Authors and reviewers](#authors-and-reviewers)
+* [License](#license)
+* [Acknowledgement](#acknowledgement)
+
+## In a glance
 
 
 This module aims to highlight the heatsource that can be classify as: suitable, conditionally suitable and not suitable for an energy exploitation at urban level.
 
+[**`To Top`**](#table-of-contents)
 
-# Introduction
+## Introduction
 
 This module generates a shapefile classifying the heat source potential based on the distance of the heat source from the demand, and based on the capacity of the heatsource. Each heat source is classified in three main classes:
 - suitable
@@ -16,8 +31,9 @@ The module automatize the methodology as defined by:
 
 Neugebauer, Georg, Florian Kretschmer, René Kollmann, Michael Narodoslawsky, Thomas Ertl, and Gernot Stoeglehner. ‘Mapping Thermal Energy Resource Potentials from Wastewater Treatment Plants’. Sustainability 7, no. 10 (September 2015): 12988–13010. [https://doi.org/10.3390/su71012988](https://doi.org/10.3390/su71012988).
 
+[**`To Top`**](#table-of-contents)
 
-# Inputs and outputs
+## Inputs and outputs
 
 Input layers and parameters are:
 
@@ -28,8 +44,9 @@ Input layers and parameters are:
 Output layers and parameters are:
 - heatsource potential classification 
 
+[**`To Top`**](#table-of-contents)
 
-# Method
+## Method
 
 To define the urban areas, the module start from the Corine Land Cover (CLC) dataset and select the following categories:
 - Continuous_urban_fabric
@@ -48,14 +65,28 @@ Then to assess and classify the potential, the module:
 | Medium-high  (`50001 PE <= plant_size < 150000 PE`) | Suitable                       | Suitable                   | Conditionally            |
 | High         (`plant_size > 150001 PE`)             | Suitable                       | Suitable                   | Suitable                 |
 
+[**`To Top`**](#table-of-contents)
 
 
-
-# GitHub repository of this calculation module
+## GitHub repository of this calculation module
 
 [Here](https://github.com/HotMaps/heatsource_potential) you get the bleeding-edge development for this calculation module.
 
-# License
+[**`To Top`**](#table-of-contents)
+
+## Sample run
+
+[**`To Top`**](#table-of-contents)
+
+## How to cite
+
+[**`To Top`**](#table-of-contents)
+
+## Authors and reviewers
+
+[**`To Top`**](#table-of-contents)
+
+## License
 
 Copyright © 2016-2020: Pietro Zambelli
 
@@ -67,6 +98,10 @@ SPDX-License-Identifier: CC-BY-4.0
 
 License-Text: https://spdx.org/licenses/CC-BY-4.0.html
 
-# Acknowledgement
+[**`To Top`**](#table-of-contents)
+
+## Acknowledgement
 
 We would like to convey our deepest appreciation to the Horizon 2020 Hotmaps Project (Grant Agreement number 723677), which provided the funding to carry out the present investigation.
+
+[**`To Top`**](#table-of-contents)
