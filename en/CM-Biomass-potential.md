@@ -61,13 +61,13 @@ While for each source the user can select the efficiency in transforming the bio
 
 ## GitHub repository of this calculation module
 
-[Here](https://github.com/HotMaps/wind_potential) you get the bleeding-edge development for this calculation module.
+[Here](https://github.com/HotMaps/biomass_potential) you get the bleeding-edge development for this calculation module.
 
 [**`To Top`**](#table-of-contents)
 
 ## Sample run
 
-![Fig. 1-0](https://wiki.hotmaps.hevs.ch/en/CM-Heatsource-potential/cm-heat.png "Execute the Wind CM")
+![Fig. 1-0](https://wiki.hotmaps.hevs.ch/en/CM-Biomass-potential/cm-biomass.png "Execute the Wind CM")
 
 
 [**`To Top`**](#table-of-contents)
