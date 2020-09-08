@@ -76,6 +76,9 @@ Then to assess and classify the potential, the module:
 
 ## Sample run
 
+![Fig. 1-0](../images/cm_heatsource_potential/cm-heat.png "Execute the Heatsource CM")
+
+
 [**`To Top`**](#table-of-contents)
 
 ## How to cite
