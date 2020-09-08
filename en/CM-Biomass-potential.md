@@ -30,14 +30,30 @@ The module estimated the number of turbines that might be installed in a predefi
 ## Inputs and outputs
 
 Input layers and parameters are:
-
+- Percentage of solid waste collected (default value: 90%)
+- Efficiency in transforming solid waste in thermal energy (default value: 50%)
+- Efficiency in transforming solid waste in electrical energy (default value: 20%)
+- Percentage of agriculture residues collected (default value: 60%)
+- Efficiency in transforming agriculture residues in thermal energy (default value: 50%)
+- Efficiency in transforming agriculture residues in electrical energy (default value: 20%)
+- Percentage of livestock effluents collected (default value: 50%)
+- Efficiency in transforming livestock effluents in thermal energy (default value: 50%)
+- Efficiency in transforming livestock effluents in electrical energy  (default value: 20%)
+- Percentage of forest residues collected (default value: 50%)
+- Efficiency in transforming forest residues in thermal energy (default value: 50%)
+- Efficiency in transforming forest residues in electrical energy (default value: 20%)
 
 Output layers and parameters are:
-
+- Total biomass heat energy potential
+- Total biomass electric energy potential
+- Graph with the energy produced per biomass source
 
 [**`To Top`**](#table-of-contents)
 
 ## Method
+
+The module for each biomass resource available apply a first percentage to reduce the total amount of biomass that can be effectively and realistically collected. For instance for the forestry biomass can have different percentage of biomass collection rate depending on the forestry ground conditions (e.g. slope, terrain roughness) and the mechanization of the process (e.g. use of cable crane, harvester and forwarder, etc.).
+While for each source the user can select the efficiency in transforming the biomass energy into thermal and electricity energy. The user can select different efficiency per biomass sources, because different source might require different treatment and process.
 
 
 [**`To Top`**](#table-of-contents)
