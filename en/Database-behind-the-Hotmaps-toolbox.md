@@ -27,10 +27,6 @@ The datasets can be found on the [Gitlab repository](https://gitlab.com/hotmaps)
 
 Please note that aggregations when selecting NUTS or LAU regions are pre-computed and therefore faster than aggregations of hectare selections which are computed on-the-fly.
 
-## Indicators
-
-TBD (CREM)
-
 ## Technologies
 
 The technologies used for the database are:

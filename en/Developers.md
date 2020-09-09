@@ -12,6 +12,7 @@
   - [Server infrastructure](#server-infrastructure)
     - [Infrastructure](#infrastructure)
     - [Performance](#performance)
+- [Read.ME](#Read.ME)
 - [How to define indicators](#how-to-define-indicators)
 - [References](#references)
 - [How to cite](#how-to-cite)
@@ -33,7 +34,7 @@ Integration of new public datasets is handled as follow:
 3. if everything worked well, the dataset is now available on the DEV platform and developers can integrate it in their code
 4. Once coding is finished the new features are added to the production platform through a new release
 
-![data integration](images/data-integration-workflow.png)
+**Data integration**
 
 If a dataset fails during integration, an issue is created on Taiga (project management platform). The issue shows the error raised and the developer should fix it and push again his work to Git so that the script can try to integrate it again the next evening.
 
@@ -69,7 +70,7 @@ If you want to add some code to Hotmaps you have two possibilities: if you want 
 
 If you want to perform some work on the Git repository, please do not work directly with the master branch. Create a new branch from the develop branch, do your work on this branch and when your feature is tested, you can merge your work with the develop branch as show in the following graph. 
 
-![git_workflow](images/git_workflow.png)
+**Git_workflow**
 
 In order to push something to some Hotmaps repository you have to be a member of the Hotmaps team, if you are not you are still able to perform a fork of our tool to develop your own tool.
 
@@ -83,7 +84,7 @@ You can find more information on how to work in these documents:
 
 ## Description of IT infrastructure
 
-![ReverseProxy_architecture_latest](images/ReverseProxy_architecture_latest.png)
+**ReverseProxy_architecture_latest**
 
 All services and components are used through their own Docker container. All these containers are defined in a single docker-compose file. The image above represents the IT architecture of Hotmaps.
 
@@ -138,23 +139,29 @@ As an example, below are the results of the first beta release versus the future
 
 | Nb of simulated users | Average time | Median | Max time | Min time | Percentage of errors |
 | --------------------- | ------------ | ------ | -------- | -------- | -------------------- |
-| 1                     | 2936         | 2936   | 2936     | 2936     | 0                    |
-| 20                    | 9329         | 9503   | 11778    | 6901     | 0                    |
-| 50                    | 22922        | 22713  | 33401    | 8661     | 0                    |
-| **100**               | 33302        | 32875  | 58257    | 4929     | **16**               |
-| 200                   | na           | na     | na       | na       | na                   |
-| 300                   | na           | na     | na       | na       | na                   |
+| 1                     | 1042         | 1042   | 1042     | 1042     | 0                    |
+| 20                    | 3608         | 3858   | 4475     | 2156     | 0                    |
+| 50                    | 7337         | 7595   | 11791    | 1568     | 0                    |
+| 100                   | 13897        | 13644  | 24492    | 1875     | 0                    |
+| 200                   | 27135        | 26380  | 51967    | 3045     | na                   |
+| **300**               | 41237        | 43083  | 73245    | 3223     | **10.67**            |
 
-**Future release on the DEV (march 2019)**
+**Final release (August 2020)**
 
 | Nb of simulated users | Average time | Median | Max time | Min time | Percentage of errors |
 | --------------------- | ------------ | ------ | -------- | -------- | -------------------- |
-| 1                     | 1802         | 1802   | 1802     | 1802     | 0                    |
-| 20                    | 5289         | 2677   | 6873     | 2149     | 0                    |
-| 50                    | 10775        | 11274  | 17081    | 2577     | 0                    |
-| 100                   | 19807        | 20280  | 35142    | 3156     | 0                    |
-| 200                   | 37302        | 37575  | 69930    | 3381     | 0                    |
-| **300**               | 49091        | 57536  | 83578    | 2447     | **26**               |
+| 1                     | 1025         | 970    | 1151     | 956      | 0                    |
+| 20                    | 1671         | 1732   | 2085     | 1113     | 0                    |
+| 50                    | 3527         | 3622   | 5593     | 982      | 0                    |
+| 100                   | 6648         | 6764   | 11854    | 1118     | 0                    |
+| 200                   | 12904        | 12801  | 24163    | 1192     | 0                    |
+| 300                   | 19521        | 19382  | 38116    | 1060     | 0                    |
+
+[**`To Top`**](#table-of-contents)
+
+## READ.ME
+
+[Read.ME](Read.ME)
 
 [**`To Top`**](#table-of-contents)
 
