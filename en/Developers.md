@@ -8,8 +8,8 @@
 - [List of main repositories](#list-of-main-repositories)
 - [How to contribute code](#how-to-contribute-code)
 - [Description of IT infrastructure](#description-of-it-infrastructure)
-  - [Run with Docker](#run-with-docker)
-  - [Server infrastructure](#server-infrastructure)
+  - [Run with Docker](#description-of-it-infrastructure_run-with-docker)
+  - [Server infrastructure](#description-of-it-infrastructure_server-infrastructure)
     - [Infrastructure](#infrastructure)
     - [Performance](#performance)
 - [Read.ME](#Read.ME)
@@ -31,7 +31,7 @@ Integration of new public datasets is handled as follow:
 
 1. datasets must be pushed to a git repository ([Add your datasets on GitLab](#add-your-datasets-on-gitlab))
 2. every night a script integrates the new/updated datasets to the DEV platform
-3. if everything worked well, the dataset is now available on the DEV platform and developers can integrate it in their code
+3. if everything worked well, the dataset is now available on the DEV platform and developers can integrate it into their code
 4. Once coding is finished the new features are added to the production platform through a new release
 
 **Data integration**
@@ -68,7 +68,7 @@ The code of the application is located on GitHub under the [Hotmaps organization
 
 If you want to add some code to Hotmaps you have two possibilities: if you want to update the interface or the backend directly, you have to modify the client or service repository of the toolbox. If you want to add your own calculation module, you can create your own repository by following [the readme of the base_calculation_module repository](https://github.com/HotMaps/base_calculation_module)
 
-If you want to perform some work on the Git repository, please do not work directly with the master branch. Create a new branch from the develop branch, do your work on this branch and when your feature is tested, you can merge your work with the develop branch as show in the following graph. 
+If you want to perform some work on the Git repository, please do not work directly with the master branch. Create a new branch from the develop branch, do your work on this branch and when your feature is tested, you can merge your work with the develop branch as shown in the following graph. 
 
 **Git_workflow**
 
