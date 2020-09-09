@@ -106,8 +106,6 @@ For additional supports on heating and cooling planning, please refer to the Hot
 
 
 
-<!-- this is a test -->
-
 <!--- THIS IS A SUPER UNIQUE IDENTIFIER -->
 
 View in another language:
