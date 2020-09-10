@@ -4,11 +4,11 @@
 
 * [Introduction](#introduction)
 * [Building stock](#building-stock)
-  * [EU building stock](#eu-building-stock)
-  * [Heating and cooling demand density map](#heating-and-cooling-demand-density-map)
-  * [Gross floor area density map](#gross-floor-area-density-map)
-  * [Gross volume density map](#gross-volume-density-map)
-  * [Construction periods](#construction-periods)
+  * [EU building stock](#building-stock_eu-building-stock)
+  * [Heating and cooling demand density map](#building-stock_heating-and-cooling-demand-density-map)
+  * [Gross floor area density map](#building-stock_gross-floor-area-density-map)
+  * [Gross volume density map](#building-stock_gross-volume-density-map)
+  * [Construction periods](#building-stock_construction-periods)
 * [Population](#population)
 * [Industry](#industry)
 * [Climate](#climate)
@@ -16,16 +16,16 @@
 * [Scenario data](#scenario-data)
 * [Technology data](#technology-data)
 * [Profiles](#profiles)
-  * [Hourly heat load profiles - Generic profiles](#hourly-heat-load-profiles---generic-profiles)
-    * [Residential profiles - Generic](#residential-profiles---generic)
-    * [Tertiary profiles - Generic](#tertiary-profiles---generic)
-    * [Industry profiles - Generic](#industry-profiles---generic)
-  * [Hourly heat load profiles - Year specific profiles](#hourly-heat-load-profiles---year-specific-profiles)
-    * [Residential profiles - Year specific](#residential-profiles---year-specific)
-    * [Tertiary profiles - Year specific](#tertiary-profiles---year-specific)
-    * [Industry profiles - Year specific](#industry-profiles---year-specific)
-  * [Electricity load profiles](#electricity-load-profiles)
-  * [Temperature profiles](#temperature-profiles)
+  * [Hourly heat load profiles - Generic profiles](#profiles_hourly-heat-load-profiles-generic-profiles)
+    * [Residential profiles - Generic](#profiles_hourly-heat-load-profiles-generic-profiles_residential-profiles-generic)
+    * [Tertiary profiles - Generic](#profiles_hourly-heat-load-profiles-generic-profiles_tertiary-profiles-generic)
+    * [Industry profiles - Generic](#profiles_hourly-heat-load-profiles-generic-profiles_industry-profiles-generic)
+  * [Hourly heat load profiles - Year specific profiles](#profiles_hourly-heat-load-profiles-year-specific-profiles)
+    * [Residential profiles - Year specific](#profiles_hourly-heat-load-profiles-year-specific-profiles_residential-profiles-year-specific)
+    * [Tertiary profiles - Year specific](#profiles_hourly-heat-load-profiles-year-specific-profiles_tertiary-profiles-year-specific)
+    * [Industry profiles - Year specific](#profiles_hourly-heat-load-profiles-year-specific-profiles_industry-profiles-year-specific)
+  * [Electricity load profiles](#profiles_electricity-load-profiles)
+  * [Temperature profiles](#profiles_temperature-profiles)
 * [Transport](#transport)
 * [Data sets for the operation of the Hotmaps toolbox](#data-sets-for-the-operation-of-the-hotmaps-toolbox)
 * [References](#references)
@@ -33,9 +33,6 @@
 * [Authors and reviewers](#authors-and-reviewers)
 * [License](#license)
 * [Acknowledgement](#acknowledgement)
-
-
-
 
 
 
@@ -84,9 +81,11 @@ All the above-mentioned data sets are stored in Hotmaps data repositories on Git
 [**`To Top`**](#table-of-contents)
 
 ## Construction periods
-* [Share of gross floor area in construction periods](https://gitlab.com/hotmaps/construction_periods/share_gfa_per_construction_period/tree/master)
-
-    🔺 `The README file of this repository is incomplete.`
+**Share of gross floor area in construction periods:**
+* [until 1975](https://gitlab.com/hotmaps/construction_periods/ghs_built_1975_100_share)
+* [from 1975 - to 1990](https://gitlab.com/hotmaps/construction_periods/ghs_built_1990_100_share)
+* [from 1990 - to 2000](https://gitlab.com/hotmaps/construction_periods/ghs_built_2000_100_share)
+* [from 2000 - to 2014](https://gitlab.com/hotmaps/construction_periods/ghs_built_2014_100_share)
 
 [**`To Top`**](#table-of-contents)
 
@@ -176,22 +175,124 @@ All the above-mentioned data sets are stored in Hotmaps data repositories on Git
 
 ## Hourly heat load profiles - Generic profiles
 
+**Create your own profile:**
+
+Generic files are supposed to enable the user to produce load profiles of his own using own data and a structure year of her/his own choice. 
+For the industrial load profiles, we provided a yearlong profile for the year 2018 (in which the typedays are set in the order of this year). For tertiary and residential load profiles, we provided a yearlong profile for the year 2010.
+However, we want to give the user the opportunity to use a structure year of his/her choice (Structure year in this context means the order of days in the course of the year). 
+
+The profiles provided here are unitless, since they must be scaled during the generation of yearlong profiles. 
+
+Please refer to the individual profiles in this wiki or to the respective dataset repositories for more information on the generation of profiles from the generic profiles. 
+
+[**`To Top`**](#table-of-contents)
+
 ### Residential profiles - Generic
+
+For heating, cooling and hot water, we provided a yearlong profile for the year 2010. 
+However, if users have access to location-specific hourly temperature profiles or to temperature profiles for years other than 2010, we want to give the user the opportunity to use this data in order to generation load profiles with a different structure year or higher precision.
+Therefore, the generic profiles are supposed to enable the user to produce load profiles of his/her own using own data and a structure year of her/his own choice. 
+
+
 * [Generic hourly profiles on NUTS 2 level in residential sector - **sanitary hot water**](https://gitlab.com/hotmaps/load_profile/load_profile_residential_shw_generic)
+
+For **hot water provision**, we assume that demand and thus the corresponding load profile depends on seasonal, weekly and daily influences. 
+
+The columns “day type” refers to the type of a day in the week:
+- weekdays = typeday 0;
+- saturday or day before a holiday = typeday 1;
+- sunday or holiday = typeday 2
+
+To integrate a seasonal influence into the demand profile, the column “season” is used.
+- 0 = Summer (15/05 - 14/09)
+- 1 = Winter (1/11 - 20/3)
+- 2 = Transition (21/3 - 14/5 & 15/9 - 31/10)
+
+Yearlong profiles  for hot water can be generated from the generic profiles provided here following the following steps:
+
+1. determining the structure year for which the profiles are generated
+2. ordering the typeday/season tuples according to the selected year 
+3. allocating the respective load value for the typeday/season tuple to each hour - scaling the total sum of the annual yearlong profile (i.e. the integral of the profile) according to the annual total demand
+
+
+
 * [Generic hourly profiles on NUTS 2 level in residential sector - **space heating demand**](https://gitlab.com/hotmaps/load_profile/load_profile_residential_heating_generic)
 
     🔺 `The title of the repository does not match with the title of the readme file and is misleading!`
 
 * [Generic hourly profiles on NUTS 2 level in residential sector - **space cooling**](https://gitlab.com/hotmaps/load_profile/load_profile_residential_cooling_generic)
 
+For **heating and cooling**, we assume that demand does not depend on the typeday but only on the hour of the day itself and the outside temperature in the respective hour (for this reason, the columns “type day” and “season” are not relevant for heating and cooling profiles).
+
+Yearlong profiles can be generated from the generic profiles provided in this repository following the following steps:
+
+1. determining the structure year for which the profiles are generated
+2. choosing the correct combination of hour of the day, temperature and demand from the generic profile for each hour of the year in order to get a yearlong, unitless profile 
+3. scaling the total sum of the annual yearlong profile (i.e. the integral of the profile) according to the annual total demand
+
+
+[**`To Top`**](#table-of-contents)
+
 
 ### Tertiary profiles - Generic
+
+The tertiary sector profile consists of demand from multiple subsectors. The configuration is different for each country. For the respective subsectoral shares per country we refer to the hotmaps WP2 report, section 2.7.3 (https://www.hotmaps-project.eu/wp-content/uploads/2018/03/D2.3-Hotmaps_for-upload_revised-final_.pdf).
+
 * [Generic hourly profiles on NUTS 2 level in tertiary sector - **sanitary hot water demand**](https://gitlab.com/hotmaps/load_profile/load_profile_tertiary_shw_generic)
+
+For **hot water demand** we assume that demand is independent from outside temperature, but depends on the type of day in a week and the hour of the day. 
+The column “day type” refers to the type of a day in the week:
+* weekdays = typeday 0;
+* saturday or day before a holiday = typeday 1;
+* sunday or holiday = typeday 2
+Hour of the day ranges from 1 (first hour) to 24 (last hour)
+
+Yearlong profiles can be generated from the generic profiles provided here following the following steps:
+1. determining the structure year for which the profiles are generated
+2. ordering the typedays according to the selected year 
+3. allocating the respective load value for the type days to each hour
+4. scaling the total sum of the annual yearlong profile (i.e. the integral of the profile) according to the annual total demand
+
+
 * [Generic hourly profiles on NUTS 2 level in tertiary sector - **space heating demand**](https://gitlab.com/hotmaps/load_profile/load_profile_tertiary_heating_generic)
 * [Generic hourly profiles on NUTS 2 level in tertiary sector - **space cooling demand**](https://gitlab.com/hotmaps/load_profile/load_profile_tertiary_cooling_generic)
 
+For **heating and cooling in the tertiary sector**, we provided a yearlong profile for the year 2010. However, we want to give the user the opportunity to use a year of his/her choice. Additionally, if users have access to location-specific hourly temperature profiles, we want to give the user the opportunity to use this data in order to generation load profiles with a higher precision.
+Therefore, the generic profiles are supposed to enable the user to produce load profiles of his/her own using own data and a structure year of her/his own choice. 
+
+We assume that demand for heating and cooling in the tertiary sector depends on the typeday, the hour of the day itself and the outside temperature in the respective hour.
+
+The profiles provided here are unitless, since they must be scaled during the generation of yearlong profiles. For the generic profiles for heating and cooling, they are driven by the differences between hours and temperature levels. Additionally, since the tertiary sector is driven by a weekly rhythm, the profiles for heating and cooling in the tertiary sector depend also on the day type. The column “day type” refers to the type of a day in the week:
+
+- weekdays = typeday 0;
+- saturday or day before a holiday = typeday 1;
+- sunday or holiday = typeday 2
+
+Yearlong profiles can be generated from the generic profiles for tertiary heating and cooling provided in this repository following the following steps:
+
+1. determining the structure year for which the profiles are generated
+2. choosing the correct combination of day type, hour of the day, temperature and demand from the generic profile for each hour of the year in order to get a yearlong, unitless profile
+3. scaling the total sum of the annual yearlong profile (i.e. the integral of the profile) according to the annual total demand
+
+[**`To Top`**](#table-of-contents)
+
 
 ### Industry profiles - Generic
+
+For the **industrial load profiles**, we provided a yearlong profile for the year 2018 (in which the typedays are set in the order of this year). However, we want to give the user the opportunity to use a structure year of his/her choice.
+Structure year in this context means the order of days in the course of the year. The columns “day type” refers to the type of a day in the week:
+- weekdays = typeday 0;
+- saturday or day before a holiday = typeday 1;
+- sunday or holiday = typeday 2
+
+The column “month” refers to the month of the year. 1 = January, 2 = February etc.
+Yearlong profiles can be generated from the generic profiles provided here following the following steps:
+
+1. determining the structure year for which the profiles are generated
+2. ordering the typedays for each month according to the selected year
+3. allocating the respective load value for the typeday/month tuple to each hour
+4. scaling the total sum of the annual yearlong profile (i.e. the integral of the profile) according to the annual total demand
+
 * [Generic hourly profiles for heat demand on NUTS 0 level in the **paper** industry](https://gitlab.com/hotmaps/load_profile/load_profile_industry_paper_generic)
 * [Generic hourly profiles for heat demand on NUTS 0 level in the **iron and steel** industry](https://gitlab.com/hotmaps/load_profile/load_profile_industry_iron_and_steel_generic)
 * [Generic hourly profiles for heat demand on NUTS 0 level in the **food and tobacco** industry](https://gitlab.com/hotmaps/load_profile/load_profile_industry_food_and_tobacco_generic)
@@ -205,6 +306,19 @@ All the above-mentioned data sets are stored in Hotmaps data repositories on Git
 
 ## Hourly heat load profiles - Year specific profiles
 
+The year specific (yearlong) profiles provided here are generated on the basis of synthetic hourly profiles for typical days. In this context we emphasize, that profiles are not measured but modelled taking into consideration different factors depending on the profile type: 
+* For industrial profiles, amongst others shift work patterns, historical output per month/weekday were considered.  
+* For tertiary and residential profiles, profiles are dependent on the type of day in the week (i.e. weekday, Saturday, Sunday/Holiday), the hour of the day and in the case of heating and cooling on outside temperature. 
+
+Using the structure of the days in a year, the profiles are assembled to a yearlong demand profile.  
+All profiles  provided here are unitless and normalised to 1 000 000. 
+In order to a profile, it is to be scaled according to the annual demand of the respective region (i.e. so that the profiles integral equals the annual demand per region).
+
+For detailed explanations and a graphical illustration of the dataset please see the [Hotmaps WP2 report](https://www.hotmaps-project.eu/wp-content/uploads/2018/03/D2.3-Hotmaps_for-upload_revised-final_.pdf) (section 2.7).
+
+
+[**`To Top`**](#table-of-contents)
+
 ### Residential profiles - Year specific
 * [Hourly profile on NUTS 2 level in residential sector in year 2010 for **sanitary hot water**](https://gitlab.com/hotmaps/load_profile/load_profile_residential_shw_yearlong_2010)
 * [Hourly profile on NUTS 2 level in residential sector in year 2010 for **space heating**](https://gitlab.com/hotmaps/load_profile/load_profile_residential_heating_yearlong_2010)
@@ -212,6 +326,7 @@ All the above-mentioned data sets are stored in Hotmaps data repositories on Git
 * [Hourly profile on NUTS 2 level in residential sector in year 2010 for **space cooling **](https://gitlab.com/hotmaps/load_profile/load_profile_residential_cooling_yearlong_2010)
 
 
+[**`To Top`**](#table-of-contents)
 
 ### Tertiary profiles - Year specific
 * [Hourly profile on NUTS 2 level in tertiary sector in year 2010 for **sanitary hot water**](https://gitlab.com/hotmaps/load_profile/load_profile_tertiary_shw_yearlong_2010)
@@ -225,6 +340,7 @@ All the above-mentioned data sets are stored in Hotmaps data repositories on Git
 
 * [Hourly profile on NUTS 2 level in tertiary sector in year 2010 for **space cooling**](https://gitlab.com/hotmaps/load_profile/load_profile_tertiary_cooling_yearlong_2010)
 
+[**`To Top`**](#table-of-contents)
 
 ### Industry profiles - Year specific
 * [Hourly profiles for heat demand on NUTS 0 level in year 2018 in the **paper** industry](https://gitlab.com/hotmaps/load_profile/load_profile_industry_paper_yearlong_2018)
