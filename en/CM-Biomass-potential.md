@@ -1,0 +1,117 @@
+# CM Biomass potential
+
+## Table of Contents
+* [In a glance](#in-a-glance)
+* [Introduction](#introduction)
+* [Inputs and outputs](#inputs-and-outputs)
+* [Method](#method)
+* [GitHub repository of this calculation module](#github-repository-of-this-calculation-module)
+* [Sample run](#sample-run)
+* [How to cite](#how-to-cite)
+* [Authors and reviewers](#authors-and-reviewers)
+* [License](#license)
+* [Acknowledgement](#acknowledgement)
+
+## In a glance
+
+This module calculates the energy potential from different biomass sources (forest and agricultural residues) within a NUTS3 region.
+
+[**`To Top`**](#table-of-contents)
+
+## Introduction
+
+This module assess the biomass energy that might be generated from a biomass source.
+The CM use the default dataset for the whole EU that are at NUTS3 level. 
+The CM do not consider which is the biomass that can be sustainable used for the energy production.
+
+
+
+[**`To Top`**](#table-of-contents)
+
+## Inputs and outputs
+
+Input layers and parameters are:
+- Percentage of solid waste collected (default value: 90%)
+- Efficiency in transforming solid waste in thermal energy (default value: 50%)
+- Efficiency in transforming solid waste in electrical energy (default value: 20%)
+- Percentage of agriculture residues collected (default value: 60%)
+- Efficiency in transforming agriculture residues in thermal energy (default value: 50%)
+- Efficiency in transforming agriculture residues in electrical energy (default value: 20%)
+- Percentage of livestock effluents collected (default value: 50%)
+- Efficiency in transforming livestock effluents in thermal energy (default value: 50%)
+- Efficiency in transforming livestock effluents in electrical energy  (default value: 20%)
+- Percentage of forest residues collected (default value: 50%)
+- Efficiency in transforming forest residues in thermal energy (default value: 50%)
+- Efficiency in transforming forest residues in electrical energy (default value: 20%)
+
+Output layers and parameters are:
+- Total biomass heat energy potential
+- Total biomass electric energy potential
+- Graph with the energy produced per biomass source
+
+[**`To Top`**](#table-of-contents)
+
+## Method
+
+The module for each biomass resource available apply a first percentage to reduce the total amount of biomass that can be effectively and realistically collected. For instance for the forestry biomass can have different percentage of biomass collection rate depending on the forestry ground conditions (e.g. slope, terrain roughness) and the mechanization of the process (e.g. use of cable crane, harvester and forwarder, etc.).
+While for each source the user can select the efficiency in transforming the biomass energy into thermal and electricity energy. The user can select different efficiency per biomass sources, because different source might require different treatment and process.
+
+
+[**`To Top`**](#table-of-contents)
+
+
+## GitHub repository of this calculation module
+
+[Here](https://github.com/HotMaps/biomass_potential) you get the bleeding-edge development for this calculation module.
+
+[**`To Top`**](#table-of-contents)
+
+## Sample run
+
+![Fig. 1-0](https://wiki.hotmaps.hevs.ch/en/CM-Biomass-potential/cm-biomass.png "Execute the Wind CM")
+
+
+[**`To Top`**](#table-of-contents)
+
+## How to cite
+
+Pietro Zambelli, in Hotmaps-Wiki, CM-Heatsource-potential (September 2020)
+
+[**`To Top`**](#table-of-contents)
+
+## Authors and reviewers
+
+This page is written by Pietro Zambelli\*.
+
+&#9744; This page was reviewed by Simon Pezzutto\*.
+
+\* [Urban and Regional Energy System Group - Eurac research](https://www.eurac.edu/)
+
+Institute of Renewable Energy
+
+viale Druso 1
+
+39100 Bolzano
+
+
+[**`To Top`**](#table-of-contents)
+
+## License
+
+Copyright © 2016-2020: Pietro Zambelli
+
+Creative Commons Attribution 4.0 International License
+
+This work is licensed under a Creative Commons CC BY 4.0 International License.
+
+SPDX-License-Identifier: CC-BY-4.0
+
+License-Text: https://spdx.org/licenses/CC-BY-4.0.html
+
+[**`To Top`**](#table-of-contents)
+
+## Acknowledgement
+
+We would like to convey our deepest appreciation to the Horizon 2020 Hotmaps Project (Grant Agreement number 723677), which provided the funding to carry out the present investigation.
+
+[**`To Top`**](#table-of-contents)

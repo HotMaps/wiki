@@ -2,6 +2,9 @@
 
 ## Table of Contents
 * [Introduction](#introduction)
+* [Wiki toolbar and sidebar](#wiki-toolbar-and-sidebar)
+* [Add figures and images](#add-figures-and-images)
+* [Classification of Wiki pages](#classification-of-wiki-pages)
 * [Hotmaps data set repository structure](#hotmaps-data-set-repository-structure)
 * [General functionalities of the toolbox](#general-functionalities-of-the-toolbox)
 * [Calculation modules](#calculation-modules)
@@ -12,6 +15,46 @@
 * [Acknowledgement](#acknowledgement)
 
 ## Introduction
+
+The Hotmaps Wiki platform, provides flexible functionalities for creating and editing the Wiki pages. In order to be able to create or modify any Wiki page, you must be logged in to the Wiki platform. This is only possible if you have a GitHub account and you are assigned a Wiki provider permission. To get a permission, send an Email to "support(at)hotmaps.eu" including your GitHub ID. We will then evaluate your request and accordingly respond to it. In order to log in, use the top-right corner login button. Once you are logged in, you can create and modify the pages.
+
+[**`To Top`**](#table-of-contents)
+
+## Wiki toolbar and sidebar
+On top of each page you see the edit toolbar. The figure below shows this toolbar and briefly explains the function of each button.
+
+
+![](/en/Guidelines-for-writing-a-Hotmaps-Wiki-page/toolbar_new.png)
+
+
+The sidebar is visible in all wiki pages. Note that **any modification in the sidebar is applied to all Wiki pages**. In other words, the sidebar is not specific to the page that you are editing. In order to modify the sidebar, press "edit" button on the Wiki toolbar. The sidebar modification can be done via the section shown in the following figure.
+
+![](/en/Guidelines-for-writing-a-Hotmaps-Wiki-page/sidebar.png)
+
+In order to enlarge the edit window, drag it toward the bottom-right corner as shown in the following figure.
+
+![](/en/Guidelines-for-writing-a-Hotmaps-Wiki-page/enlarge_edit_window_new.png)
+[**`To Top`**](#table-of-contents)
+
+
+## Add figures and images
+In order to add an image to your Wiki page, you have two options:
+
+**Method I:**
+* First, upload the image into your desired Wiki page using the "upload" button in the toolbar.
+* Jot down the provided link for the uploaded image.
+* Start editing that Wiki page and use the link to the image.
+
+
+**Method II:**
+* Start editing your desired Wiki page.
+* Drag and drop the image to the place in text that you would like to show the figure.
+
+[**`To Top`**](#table-of-contents)
+
+
+## Classification of Wiki pages
+
 The Hotmaps Wiki pages are categorized in four classes:
 * Hotmaps data set repository structure
 * General Functionalities of the toolbox
@@ -19,8 +62,8 @@ The Hotmaps Wiki pages are categorized in four classes:
 * How to apply the Hotmaps toolbox
 * Developers area
 
-For each section, a structure with several sections is suggested. The sections in **BOLD** must be part of the WIKI page. The rest, on the other hand, should be added if applicable.
-As a sample page, please have a look into [this Wiki page](CM-District-heating-potential-user-defined-thresholds).
+For each section, a structure with several sections is suggested. The sections in **BOLD** must be part of the Wiki page. The rest, on the other hand, should be added if applicable.
+As a sample page, please have a look into [this Wiki page](/en/CM-District-heating-potential-areas-user-defined-thresholds).
 
 Wiki pages can become very long due to embedded figures. In order to help the readers to navigate in a page easily and easily find what they are looking for, please add a “**Table of contents**” on top of each page that you are writing. Additionally, use a “[**`To Top`**](#table-of-contents)” button at the end of each section with a hyperlink to the “Table of content” at the top of the Wiki page.
 
@@ -68,14 +111,27 @@ Here, the most important point is to keep track of all Hotmaps repositories on G
 [**`To Top`**](#table-of-contents)
 
 ## Calculation modules
+**NOTE I:** for the input layers please mention category of the layers as "default layer" or "personal layer" or "default/personal layer"
+
+
+**NOTE II:** If a data or data set is being used by CM while it is not part of the default data set, it should be explained and the link to the data set should be provided. Also if you retrieve data from another website, please make sure to provide the link to that website in the input section and reference section.
+
+
 * __Table of content__
+* __In a glance__
 * __Introduction__
 * __Inputs and outputs__
+  * Input layers
+  * Input parameters
+  * Output layers
+  * Output graphics and indicators
 * __Method__
+* __Interpretation of input parameters__
 * __GitHub repository of this calculation module__
 * __Sample run__
   * Test Run 1: XXXXX
   * Test Run 2: YYYYY
+* __Interpretation of results__
 * __References__
 * __How to cite__
 * __Authors and reviewers__
@@ -118,7 +174,8 @@ Here, the most important point is to keep track of all Hotmaps repositories on G
 
 ## Authors and reviewers
 This page is written by Mostafa Fallahnejad\*.
-- [x] This page was reviewed by Lukas Kranzl\*.
+
+&#9745; This page was reviewed by Lukas Kranzl\*.
 
 \* [Energy Economics Group - TU Wien](https://eeg.tuwien.ac.at/)
 Institute of Energy Systems and Electrical Drives

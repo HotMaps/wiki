@@ -1,4 +1,4 @@
-<h1>CM Add industry plant</h1>
+<h1>CM Add industry plant (User-defined excess heat potentials)</h1>
 
 ## Table of Contents
 * [Introduction](#introduction)
@@ -15,7 +15,7 @@ This module provides the possibility to add additional industry sites with their
 
 [**`To Top`**](#table-of-contents)
 
-## Inputs and outputs (How-to-use)
+## Inputs and outputs
 
 ### Data input in Excel-tool by user
 

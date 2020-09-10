@@ -1,11 +1,16 @@
-# Wiki Introduction
+## Wiki Introduction
+* [Welcome page](Welcome)
 
-[Home](Home)
+## How to apply Hotmaps toolbox
+* [Guideline: Hotmaps toolbox on local level](guide-local-and-municipal-levels)
+* [Guideline: Hotmaps toolbox on national level](guide-national-level-comprehensive-assessment-eed)
+* [Training material](training-material)
+
 ## Data sets
 * [Hotmaps data set: Method of data collection](Hotmaps-data-set-method-of-data-collection)
 * [Hotmaps open data repositories](Hotmaps-open-data-repositories)
 
-## General tool functionalities and structure
+## General tool functionalities & structure
 * [Introduction to user interface](Introduction-to-user-interface)
 * [Layers section in the Hotmaps toolbox](Layers-section-in-the-Hotmaps-toolbox)
 * [Select a region in the Hotmaps toolbox](Select-a-region-in-the-Hotmaps-toolbox)
@@ -17,7 +22,7 @@
 
 
 ## Calculation modules (CM)
-* [CM - Customized heat and floor area density maps](CM-Customized-heat-and-floor-area-density-maps)
+* [CM - Customized heat and gross floor area density maps](CM-Customized-heat-and-floor-area-density-maps)
 * [CM - Scale heat and cool density maps](CM-Scale-heat-and-cool-density-maps)
 * [CM - Demand projection](CM-Demand-projection)
 * [CM - Heat load profiles](CM-Heat-load-profiles)
@@ -27,15 +32,16 @@
 * [CM - Decentral heating supply](CM-Decentral-heating-supply)  
 * [CM - Solar thermal and PV potential](CM-Solar-thermal-and-PV-potential)
 * [CM - Shallow geothermal potential](CM-Shallow-geothermal-potential)
-* [CM - Heat sources potential](CM-Heat-source-potential)
+* [CM - Heat sources potential](CM-Heatsource-potential)
 * [CM - Biomass potential](CM-Biomass-potential)
 * [CM - Wind potential](CM-Wind-potential)
 * [CM - Excess heat transport potential](CM-Excess-heat-transport-potential)
 * [CM - Scenario assessment](CM-Scenario-assessment)
-* [CM - Add industry plant](CM-Add-industry-plant)
+* [CM - User-defined excess heat potentials](CM-Add-industry-plant)
+* [CM - Vehicle stock at NUTS 2 level](CM-Vehicle-stock-at-NUTS-2-level)
 
 
-# For Developers
+## For Developers
 * [Developers section](Developers)
 * [Guidelines for defining indicators](Guidelines-for-defining-indicators)
 

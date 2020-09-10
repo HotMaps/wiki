@@ -1,35 +1,39 @@
 <h1>CM District heating potential economic assessment</h1>
 
 ## Table of Contents
-
+* [In a glance](#in-a-glance)
 * [Introduction](#introduction)
 * [Inputs and outputs](#inputs-and-outputs)
 * [Method](#method)
-  * [Solver options](#solver-options)
+  * [Solver options](#method_solver-options)
 * [GitHub repository of this calculation module](#github-repository-of-this-calculation-module)
 * [Sample run](#sample-run)
-  * [Test Run: default input values](#test-run-1-default-input-values-for-the-case-study-of-vienna)
+  * [Test Run: default input values for the case study of Vienna](#sample-run_test-run-default-input-values-for-the-case-study-of-vienna)
 * [References](#references)
 * [How to cite](#how-to-cite)
 * [Authors and reviewers](#authors-and-reviewers)
 * [License](#license)
 * [Acknowledgement](#acknowledgement)
 
+
+## In a glance
+This module generates a shapefile of potential district heating areas based on an assessment of the heat distribution costs. Inputs to the module are heat demand and gross floor area density maps, costs of network expansion, development of heat demand and connection rates, depreciation time, interest rate and a threshold for the accepted heat distribution costs. Furthermore, it calculates the costs of transmission lines between identified district heating areas.
+
+[**`To Top`**](#table-of-contents)
+
+
+
 ## Introduction
 
-This calculation module uses the [European heat density map (EHDM)](https://gitlab.com/hotmaps/heat/heat_tot_curr_density) and a [European gross floor area map (EGFAM)](https://gitlab.com/hotmaps/gfa_tot_curr_density), both of which were developed in course of the [Hotmaps project](https://www.hotmaps-project.eu/), to propose a GIS-based method for determining potential DH areas with specific focus on district heating (DH) grid costs. The DH areas are determined via performing sensitivity analyses on the EHDM under consideration of predefined upper bound of the average distribution costs. The approach additionally allows for estimation of length and diameter of transmission lines and their associated costs. The outputs are GIS layers that illustrate areas that are economically viable for construction of DH as well as the cost-minimal transmission lines connecting these regions to each other. The calculation module can be used to study the impact of parameters like grid costs ceiling and market share on potential and on expansion and extension of the DH systems.
+This calculation module uses the [European heat density map (EHDM)](https://gitlab.com/hotmaps/heat/heat_tot_curr_density) and a [European gross floor area map (EGFAM)](https://gitlab.com/hotmaps/gfa_tot_curr_density), both of which were developed in course of the [Hotmaps project](https://www.hotmaps-project.eu/), to propose a GIS-based method for determining potential DH areas with specific focus on district heating (DH) grid costs. The DH areas are determined via performing sensitivity analyses on the EHDM under consideration of predefined upper bound of the average distribution costs. The approach additionally allows for the estimation of length and diameter of transmission lines and their associated costs. The outputs are GIS layers that illustrate areas that are economically viable for construction of DH as well as the cost-minimal transmission lines connecting these regions to each other. The calculation module can be used to study the impact of parameters like grid costs ceiling and market share on potential and on expansion and extension of the DH systems.
 
 [**`To Top`**](#table-of-contents)
 
 ## Inputs and outputs
-The input parameters and layers as well as output layers and parameters are as follows.
+The input parameters and layers, as well as output layers and parameters, are as follows.
 
 **Input layers and parameters are:**
 
-* Heat density map and gross floor area density map (by default is provided by the toolbox)
-  * in raster format (\*.tif)
-  * with 1 hectare resolution
-  * demand densities in _**MWh/ha**_ and gross floor area densities in _**m<sup>2</sup>/ha**_
 * First year of investment
 * Last year of investment
 * Depreciation time in _**years**_
@@ -43,11 +47,15 @@ The input parameters and layers as well as output layers and parameters are as f
   * Outer city
   * Park
 * Full load hours 
+* Heat density map and gross floor area density map (by default is provided by the toolbox)
+  * in raster format (\*.tif)
+  * with 1 hectare resolution
+  * demand densities in _**MWh/ha**_ and gross floor area densities in _**m<sup>2</sup>/ha**_
 
 **Output layers and parameters are:**
 
-* Total demand in selected region in the first year of investment in _**MWh**_
-* Total demand in selected region in the last year of investment in _**MWh**_
+* Total demand in the selected region in the first year of investment in _**MWh**_
+* Total demand in the selected region in the last year of investment in _**MWh**_
 * Maximum potential of DH system through the investment period in _**MWh**_
 * Energetic specific DH grid costs in _**EUR/MWh**_
 * Energetic specific DH distribution grid costs in _**EUR/MWh**_
@@ -69,16 +77,16 @@ The input parameters and layers as well as output layers and parameters are as f
 [**`To Top`**](#table-of-contents)
 
 ## Method
-Here, a brief explanation of methodology is provided. For a more complete explanation of the methodology and formulations, please to the [paper](https://www.sciencedirect.com/science/article/pii/S1876610218304740) published about this calculation module [[1](#references)].
+Here, a brief explanation of the methodology is provided. For a more complete explanation of the methodology and formulations, please to the [paper](https://www.sciencedirect.com/science/article/pii/S1876610218304740) published about this calculation module [[1](#references)].
 
-The aim of the calculation module is to find regions in which DH system can be built without exceeding a user-defined average specific cost ceiling in _*EUR/MWh*_. This is done under following assumptions:
+The aim of the calculation module is to find regions in which DH system can be built without exceeding a user-defined average specific cost ceiling in _*EUR/MWh*_. This is done under the following assumptions:
 
 * The economic DH area with highest heat demand is considered as the only available heat source. It produces the heat for itself and all other economic coherent areas.
 * between two DH areas, heat can flow in one direction,
 * the annual DH demand is considered to remain constant after the last year of investment period
-* market share or energy saving has the same percentages within cells of a DH area and also within different DH areas.
+* market share or energy-saving has the same percentages within cells of a DH area and also within different DH areas.
 * The model creates only one connected DH system. It is not possible to have two networks.
-* The input parameter grid cost ceiling is multiplied by ~95% to get distribution grid cost ceiling. This value is used for determination of potential DH areas.
+* The input parameter grid cost ceiling is multiplied by ~95% to get distribution grid cost ceiling. This value is used for the determination of potential DH areas.
 
 The determination of economic DH areas is done in three steps. For more details refer to the provided test runs.
 
@@ -90,12 +98,12 @@ The determination of economic DH areas is done in three steps. For more details 
 **STEP 3:  Determination of economic DH areas and transmission line capacities and configuration required to connect these areas to each other.**
 
 ### Solver Options
-This calculation module, uses Gurobi solver for solving the optimization problem. In order to guarantee a stable functionality of the calculation module we have introduced several options for solving the optimization problem. These options are as follows:
+This calculation module uses Gurobi solver for solving the optimization problem. In order to guarantee a stable functionality of the calculation module, we have introduced several options for solving the optimization problem. These options are as follows:
 
 * The gap between the lower and upper objective bound is set to 0.01 (MIPGap = 1e-2).
 * The relative difference between the primal and dual objective value was set to 0.0001 (BarConvTol = 1e-4).
 * The solver focus is set to 1 to find the feasible solutions. Here, the focus is neither optimality nor objective bound (MIPFocus = 1).
-* We have limited the amount of the used RAM to 500 mb in order not to enter to critical situations in case of concurrent runs by users (NodefileStart = 0.5).
+* We have limited the amount of the used RAM to 500 MB in order not to enter to critical situations in case of concurrent runs by users (NodefileStart = 0.5).
 
 [**`To Top`**](#table-of-contents)
 
@@ -115,21 +123,21 @@ Here, the calculation module is run for the case study of Vienna, Austria. First
 ### Test Run: default input values for the case study of Vienna
 The provided default values in the toolbox are basically suitable for Vienna, i.e. it may not suit for other regions and should be adapted depending on your case study.
 The calculation is done for the period from 2018 to 2030 (2018 is the year 0 and 2030 is the year 12 and the investment period will be 12 years). The expected accumulated energy saving ratio shows the reduction of heat demand compared to the beginning of the investment period (year 2018).
-The DH market share refers to the market share within the DH areas. Its value in the beginning of the investment period (year 2018), shows the actual market share (usually known). The expected market share at the investment period, is what you expect to reach. This value comes from road maps, scenarios, policies and etc.
-For the default case, we consider the interest rate of 5 percent. The DH grid cost ceiling is multiplied by ~95% to get a cost ceiling for the distribution grid. Using this value, the potential DH areas are obtained. Within the potential areas, the average distribution grid cost may not exceed the distribution grid cost ceiling.
-The value of full load hours is used to estimate the peak load and find the suitable dimension for the transmission grid.
+The DH market share refers to the market share within the DH areas. Its value at the beginning of the investment period (year 2018), shows the actual market share (usually known). The expected market share at the investment period is what you expect to reach. This value comes from road maps, scenarios, policies and etc.
+For the default case, we consider the interest rate of 5 per cent. The DH grid cost ceiling is multiplied by ~95% to get a cost ceiling for the distribution grid. Using this value, the potential DH areas are obtained. Within the potential areas, the average distribution grid cost may not exceed the distribution grid cost ceiling.
+The value of full load hours is used to estimate the peak load and find a suitable dimension for the transmission grid.
 
 The construction cost constant and the construction cost coefficient originate from reference [[2](#references)]. The obtained regions are very sensitive to these values. Therefore, as a general comment, we suggest to calculate with these values first and only if you think these values lead to an over- or underestimation of your results, then modify them.
 
 By default, the heat density map and the gross floor area density map that are provided by the toolbox are used for the calculation. You can use your own uploaded layers for running the calculation. Here, we use default layers.
 
-Now, press run button and wait until the calculation is finished.
+Now, press the run button and wait until the calculation is finished.
 
 
-**IMPORTANT NOTE**: Please note that this calculation module may take several minutes to find the final solution. If you calculation takes very long (more than 10 minutes), select a smaller region for your calculation. Also, using arbitrary values can lead to long calculation time. Therefore, make sure that your provided values are suitable for the selected region.
+**IMPORTANT NOTE**: Please note that this calculation module may take several minutes to find the final solution. If your calculation takes very long (more than 10 minutes), select a smaller region for your calculation. Also, using arbitrary values can lead to a long calculation time. Therefore, make sure that your provided values are suitable for the selected region.
 
 
-The following figure shows the obtained results for the given input parameters in Vienna. The most important indicators are demonstrated in the RESULTS window. Additionally, you can get some indicators by pressing on the each single potential areas on the map
+The following figure shows the obtained results for the given input parameters in Vienna. The most important indicators are demonstrated in the RESULTS window. Additionally, you can get some indicators by pressing on each single potential areas on the map
 
 
 ![Figure 1](../images/cm_econ_assessment/1.png "Figure 1: potential areas and indicators")

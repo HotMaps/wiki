@@ -1,13 +1,14 @@
 <h1>Layers section in the Hotmaps toolbox</h1>
 
 ## Table of Contents
-1. [Introduction](#introduction)
-1. [Layers](#layers)
-1. [Raster Layers](#raster-layers)
-1. [Vector Layers](#vector-layers)
-1. [How to cite](#how-to-cite)
-1. [Authors and reviewers](#authors-and-reviewers)
-1. [License](#license)
+* [Introduction](#introduction)
+* [Layers](#layers)
+* [Raster Layers](#raster-layers)
+* [Vector Layers](#vector-layers)
+* [How to cite](#how-to-cite)
+* [Authors and reviewers](#authors-and-reviewers)
+* [License](#license)
+* [Acknowledgement](#acknowledgement)
 
 ## Introduction
 By pressing the ![layers_button][layers_button] Button a sidebar with different kind of layers is shown at the left of your screen.
@@ -21,7 +22,7 @@ By pressing the ![layers_button][layers_button] Button a sidebar with different 
 1. Shows the symbology section of the layer (legend)
 2. Shows the information section (primary a link to the GitLab repository, it is highly recommended to look for more information about the data in the [GitLab Repository](https://gitlab.com/hotmaps) )
 3. Download the layer for the selected region(en-s)
-4. Redircets you to the GitLab repository to download the whole layer
+4. Redirects you to the GitLab repository to download the whole layer
 
 [**`To Top`**](#table-of-contents)
 
@@ -78,8 +79,8 @@ Following vector layers are visualized:
 1. **6 x Renewable Energy Sources Potential layers:**
    * Waste Water Treatment Plants Power
    * Waste Water Treatment Plants Capacity
-   * Argicultural Residues
-   * Lifestock Effluents
+   * Agricultural Residues
+   * Livestock Effluents
    * Geothermal Potential Heat Conductivity
    * Municipal Solid Waste
 
@@ -94,17 +95,21 @@ Following vector layers are visualized:
 Jeton Hasani, in Hotmaps-Wiki, Layers-section-in-the-Hotmaps-toolbox (April 2019)
 
 
-## Authors and reviewers
-<code>[Review this page !](Layer-Section/_edit)</code>
+[**`To Top`**](#table-of-contents)
 
+## Authors and reviewers
 This page is written by Jeton Hasani\*.
-- [ ] This page was reviewed by <code>....</code>\.
+
+&#9744; This page was reviewed by Lukas Kranzl.
 
 
 \* [Energy Economics Group - TU Wien](https://eeg.tuwien.ac.at/)
 Institute of Energy Systems and Electrical Drives
 Gusshausstrasse 27-29/370
 1040 Wien
+
+
+[**`To Top`**](#table-of-contents)
 
 ## License
 Copyright © Hotmaps
@@ -114,11 +119,13 @@ SPDX-License-Identifier: CC-BY-4.0
 License-Text: https://spdx.org/licenses/CC-BY-4.0.html
 
 
+[**`To Top`**](#table-of-contents)
+
 ## Acknowledgement
 We would like to convey our deepest appreciation to the Horizon 2020 [Hotmaps Project](https://www.hotmaps-project.eu) (Grant Agreement number 723677), which provided the funding to carry out the present investigation.
 
 [**`To Top`**](#table-of-contents)
-<code>[Review this page](Layer-Section/_edit)</code>
+
 
 [//]: # (Here are all the files to the links)
 
