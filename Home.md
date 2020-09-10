@@ -2,7 +2,7 @@
 Please select your language:
 
 
-*    [English](../en/Home)
+*    [English](../en/Welcome)
 *    [Bulgarian](../bg/Home)<sup>\*</sup>
 *    [German](../de/Home)<sup>\*</sup>
 *    [Spanish](../es/Home)<sup>\*</sup>

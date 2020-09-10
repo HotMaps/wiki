@@ -1,20 +1,23 @@
 <h1>Retrieve indicators of a selected area</h1>
 
 ## Table of Contents
-1. [Introduction](#introduction)
-1. [Indicators for raster layers](#indicators-for-raster-layers)
-   * [Buildings](#buildings)
-   * [Population](#population)
-   * [Renewable Energy Source Potentials](#res-potentials)
-1. [Indicators for vector layers](#indicators-for-vector-layers)
-   * [Industry](#industry)
-   * [Renewable Energy Source Potentials](#res--potentials)
-   * [Electricity](#electricity)
-1. [Example](#example)
-1. [How to cite](#how-to-cite)
-1. [Authors and reviewers](#authors-and-reviewers)
-1. [License](#license)
-## Indroduction 
+* [Introduction](#introduction)
+* [Indicators for raster layers](#indicators-for-raster-layers)
+   * [Buildings](#indicators-for-raster-layers_buildings)
+   * [Population](#indicators-for-raster-layers_population)
+   * [Renewable Energy Source Potentials](#indicators-for-raster-layers_renewable-energy-source-potentials)
+* [Indicators for vector layers](#indicators-for-vector-layers)
+   * [Industry](#indicators-for-vector-layers_industry)
+   * [Renewable Energy Source Potentials](#indicators-for-vector-layers_renewable-energy-source-potentials)
+   * [Electricity](#indicators-for-vector-layers_electricity)
+* [Example](#example)
+* [How to cite](#how-to-cite)
+* [Authors and reviewers](#authors-and-reviewers)
+* [License](#license)
+* [Acknowledgement](#acknowledgement)
+
+
+## Introduction 
 
 Depending on the layers and region you selected indicators for your configuration are shown in a sidebar at the right of your screen 
 
@@ -22,19 +25,22 @@ Depending on the layers and region you selected indicators for your configuratio
 
 [**`To Top`**](#table-of-contents)
 
-In the following we look at the indicators that are displayed for raster and vector layers.
+In the following, we look at the indicators that are displayed for raster and vector layers.
 
 ## Indicators for raster layers 
 
-The indicators on raster layers are different from vector layers. With different we mean in terms of aggregation and disaggregation. This different behaviour comes from the territorial resolutions. 
+The indicators on raster layers are different from vector layers. With different, we mean in terms of aggregation and disaggregation. This different behaviour comes from territorial resolutions. 
 
 Raster Layers have generally a much higher resolution whereas vector layers have only attributes at points or polygons. 
 
-That mean on the one hand for example that if you select a vector layer which is defined by NUTS3 polygons and you want for example to select a LAU region then the NUTS3 value will not be disaggregated to LAU level, instead the NUTS3 indicator where this LAU region is located will be shown in the results side bar. 
+That means on the one hand for example that if you select a vector layer which is defined by NUTS3 polygons and you want for example to select an LAU region then the NUTS3 value will not be disaggregated to LAU level, instead, the NUTS3 indicator where this LAU region is located will be shown in the results sidebar. 
 
 On the other hand, raster layers are aggregated and disaggregated "arbitrarily"* 
 
 *by the containing cells within the region you selected (naturally within the limit of the raster resolution itself)
+
+
+[**`To Top`**](#table-of-contents)
 
 ### Buildings
 
@@ -44,12 +50,14 @@ On the other hand, raster layers are aggregated and disaggregated "arbitrarily"*
 
 **Extra Feature**
 
-When you select the heat denisity layer and the Population Layer at the same time an extra indicator is shown (see picture below)
+When you select the heat density layer and the Population Layer at the same time an extra indicator is shown (see picture below)
 
 ![hdm2.png][hdm2]
 
+[**`To Top`**](#table-of-contents)
+
 ### In General:
-When one of the bulding layers and the population layer is selected at the same time, an extra indicator will be shown as described before
+When one of the building layers and the population layer is selected at the same time, an extra indicator will be shown as described before
 
 <code><ins>**[To Chapter](#indicators-for-raster-layers)**</ins></code>
 
@@ -70,12 +78,14 @@ When one of the bulding layers and the population layer is selected at the same 
 ![gfa.png][gfa]
 
 <code><ins>**[To Chapter](#indicators-for-raster-layers)**</ins></code>
+[**`To Top`**](#table-of-contents)
 
 ### Population
 
 ![pop.png][pop]
 
 <code><ins>**[To Chapter](#indicators-for-raster-layers)**</ins></code>
+[**`To Top`**](#table-of-contents)
 
 ### Climate
 **Temperature**
@@ -107,8 +117,9 @@ When one of the bulding layers and the population layer is selected at the same 
 ![wind.png][wind]
 
 <code><ins>**[To Chapter](#indicators-for-raster-layers)**</ins></code>
+[**`To Top`**](#table-of-contents)
 
-### RES Potentials
+### Renewable Energy Source Potentials
 
 **Solar Radiation On Building Footprint**
 
@@ -151,8 +162,9 @@ When one of the bulding layers and the population layer is selected at the same 
 ![ises.png][ises]
 
 <code><ins>**[To Chapter](#indicators-for-vector-layers)**</ins></code>
+[**`To Top`**](#table-of-contents)
 
-### RES- Potentials
+### Renewable Energy Source Potentials
 
 **Waste Water Treatment Plants Power**
 
@@ -166,13 +178,13 @@ When one of the bulding layers and the population layer is selected at the same 
 
 <code><ins>**[To Chapter](#indicators-for-vector-layers)**</ins></code>
 
-**Argicultural Residues**
+**Agricultural Residues**
 
 ![ar.png][ar]
 
 <code><ins>**[To Chapter](#indicators-for-vector-layers)**</ins></code>
 
-**Lifestock Effluents**
+**Livestock Effluents**
 
 ![le.png][le]
 
@@ -189,6 +201,7 @@ When one of the bulding layers and the population layer is selected at the same 
 ![geothermal.png][geothermal]
 
 <code><ins>**[To Chapter](#indicators-for-vector-layers)**</ins></code>
+[**`To Top`**](#table-of-contents)
 
 ### Electricity
 
@@ -204,7 +217,7 @@ In the picture below you can see how it looks when all layers are visualized (he
 
 ![all_map.png][all_map]
 
-Although this maps looks pretty messy, the indicators are straight forward illustrated. See below all indicators that are described in the result sidebar when you select all layers for Austria (NUTS0)
+Although this map can look a bit confusing at first sight, its indicators are straight forward illustrated. See below all indicators that are described in the result sidebar when you select all layers for Austria (NUTS0)
 
 ![all_results.png][all_results]
 
@@ -214,6 +227,7 @@ Although this maps looks pretty messy, the indicators are straight forward illus
 
 Jeton Hasani, in Hotmaps-Wiki, Retrieve-indicators-of-a-selected-area (April 2019)
 
+[**`To Top`**](#table-of-contents)
 
 ## Authors and reviewers
 <code>[Review this page !](CM-Access/_edit)</code>
@@ -227,6 +241,9 @@ Institute of Energy Systems and Electrical Drives
 Gusshausstrasse 27-29/370
 1040 Wien
 
+
+[**`To Top`**](#table-of-contents)
+
 ## License
 Copyright © Hotmaps
 Creative Commons Attribution 4.0 International License
@@ -234,6 +251,8 @@ This work is licensed under a Creative Commons CC BY 4.0 International License.
 SPDX-License-Identifier: CC-BY-4.0
 License-Text: https://spdx.org/licenses/CC-BY-4.0.html
 
+
+[**`To Top`**](#table-of-contents)
 
 ## Acknowledgement
 We would like to convey our deepest appreciation to the Horizon 2020 [Hotmaps Project](https://www.hotmaps-project.eu) (Grant Agreement number 723677), which provided the funding to carry out the present investigation.
