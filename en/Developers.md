@@ -14,7 +14,6 @@
     - [Performance](#performance)
 - [Read.ME](#Read.ME)
 - [How to define indicators](#how-to-define-indicators)
-- [References](#references)
 - [How to cite](#how-to-cite)
 - [Authors and reviewers](#authors-and-reviewers)
 - [Acknowledgement](#acknowledgement)
@@ -88,19 +87,22 @@ You can find more information on how to work in these documents:
 
 All services and components are used through their own Docker container. All these containers are defined in a single docker-compose file. The image above represents the IT architecture of Hotmaps.
 
-Some partner organizations limited communication to port 80 only. To avoid the problems caused by this limitation, the creation of a reverse proxy was made. This reverse proxy offers a single entrypoint and then distributes the request sent by the customer to the service concerned. The reverse proxy is composed by three components :
+Some partner organizations limited communication to port 80 only. To avoid the problems caused by this limitation, the creation of a reverse proxy was made. This reverse proxy offers a single entry point and then distributes the request sent by the customer to the service concerned. The reverse proxy is composed of three components :
 
-1. Reverse proxy server : it serves as a unique entrypoint and distributes requests to the right services.
-2. Proxy-gen : it is a service that automatically maps all services in the reverse proxy. Thus, it is not necessary to manually add a new service to the proxy configuration
-3. lets-encrypt : it is a service that allows the use of the SSL protocol. It is necessary in order to activate the https protocol. The SSL certificates are signed by an email address configured in this service. 
+1. Reverse proxy server: it serves as a unique entry point and distributes requests to the right services.
+2. Proxy-gen: it is a service that automatically maps all services in the reverse proxy. Thus, it is not necessary to manually add a new service to the proxy configuration
+3. lets-encrypt: it is a service that allows the use of the SSL protocol. It is necessary in order to activate the https protocol. The SSL certificates are signed by an email address configured in this service. 
 
 Three networks exist :
 
-- hotmaps_nginx allows the reverse proxy to communicate with the api, the frontend and the geoserver. It mainly allows to distribute a request to the correct service among the three.
-- hotmaps_backend allows the communication between all the components of the backend : api, frontend, geoserver and the PostgreSQL database. 
-- hotmaps_cm-net allows the communication between each calculation modules and the api.
+- hotmaps_nginx allows the reverse proxy to communicate with the API, the frontend and the GeoServer. It mainly allows distributing a request to the correct service among the three.
+- hotmaps_backend allows the communication between all the components of the backend: API, frontend, GeoServer and the PostgreSQL database. 
+- hotmaps_cm-net allows the communication between each calculation modules and the API.
 
 Each calculation module has its own Docker container. 
+
+
+[**`To Top`**](#table-of-contents)
 
 ### Run with Docker
 
@@ -113,6 +115,9 @@ docker-compose up
 *There is more about docker-compose on the webiste of Docker: [Compose command-line reference](https://docs.docker.com/compose/reference/) and [Compose file reference](https://docs.docker.com/compose/compose-file/).*
 
 There is only one container that is run separately from others: it's the database because it needs to stay up all the time. That's why it's not in the docker-compose configuration file.
+
+
+[**`To Top`**](#table-of-contents)
 
 ### Server infrastructure
 
@@ -131,7 +136,7 @@ Both machines have the same specification:
 
 We frequently run performance tests on the development server in order to guarantee a certain amount of concurrent users. 
 
-As an example, below are the results of the first beta release versus the future release tests. The new release includes some performance improvements.
+As an example, below are the results of the first beta release versus future release tests. The new release includes some performance improvements.
 
 *This example shows the performance tests of concurrent users using the same function: "duration curve for hectare selection". The bold line shows the limit where the server starts to raise errors. Hectare selection is a good example as it shows the queries that require the most resources.*
 
@@ -171,11 +176,8 @@ As an example, below are the results of the first beta release versus the future
 
 [**`To Top`**](#table-of-contents)
 
-## References
-
-[**`To Top`**](#table-of-contents)
-
 ## How to cite
+Daniel Hunacek, Lucien Zuber, Matthieu Dayer, in Hotmaps Wiki, Developers Section (September 2020)
 
 [**`To Top`**](#table-of-contents)
 
@@ -189,15 +191,15 @@ Authors:
 
 Reviewers:
 
+
 [**`To Top`**](#table-of-contents)
 
 ## Acknowledgement
 
 We would like to convey our deepest appreciation to the Horizon 2020 [Hotmaps Project](https://www.hotmaps-project.eu) (Grant Agreement number 723677), which provided the funding to carry out the present investigation
 
-[**`To Top`**](#table-of-contents)
 
-## 
+[**`To Top`**](#table-of-contents)
 
 
 <!--- THIS IS A SUPER UNIQUE IDENTIFIER -->

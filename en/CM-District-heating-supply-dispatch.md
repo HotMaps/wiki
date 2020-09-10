@@ -1,18 +1,22 @@
-<h1>CM District heating supply dispatch</h1>
-
 ## Table of Contents
-
+* [In a glance](#in-a-glance)
 * [Introduction](#introduction)
 * [Inputs and outputs](#inputs-and-outputs)
 * [Method](#method)
 * [Sample run](#sample-run)
-  * [Test Run 1: default input values](#test-run-1-default-input-values)
-  * [Test Run 2: modified input values](#test-run-2-modified-input-values)
-* [References](#references)
 * [How to cite](#how-to-cite)
 * [Authors and reviewers](#authors-and-reviewers)
 * [License](#license)
 * [Acknowledgement](#acknowledgement)
+
+
+
+## In a glance
+This module calculates the cost-minimal operation of a portfolio of heat supply technologies in a defined district heating system for each hour of the year. The inputs to the module are hourly profiles for the heat demand in the network, for the potential heat supply from different sources and for energy carrier prices. Furthermore, cost and efficiency parameters for each technology are required. The module yields the costs of heat supply, the share of energy carriers used and the implied CO2 emissions. The module can also be used to optimise the capacities of installed heat supply technologies.
+
+[**`To Top`**](#table-of-contents)
+
+
 
 ## Introduction
 The district heating supply module is a dispatch model which tries to find a cost optimum solution for covering the heat demand at every hour of the year.
@@ -88,27 +92,31 @@ The objective function tries to find the minimum of the difference from the cost
 [**`To Top`**](#table-of-contents)
 
 ## Sample run
-<code> NOT IMPLEMENTED&gt; </code>
+
+After you select a region and make no changes to the default parameters, the model will run in investment mode. This means that the installed capacities are also optimized for the optimal cost coverage of the heat demand . 
+
+
+Below you can see all input paramters that can be changed
+
+[[/en/CM-District-heating-supply-dispatch/inpt.png]]
+
+
+#### Output Indicators
+
+[[/en/CM-District-heating-supply-dispatch/indicators.png]]
+
+#### Output Charts
+
+[[/en/CM-District-heating-supply-dispatch/charts.png]]
+
 [**`To Top`**](#table-of-contents)
-
-### Test Run 1: default input values
-
-
-
-[**`To Top`**](#table-of-contents)
-
-### Test Run 2: modified input values
-
-
-
-[**`To Top`**](#table-of-contents)
-
-## References
-
-
 
 ## How to cite
 
+Jeton Hasani, in Hotmaps Wiki, CM District heating supply dispatch (September 2020)
+
+
+[**`To Top`**](#table-of-contents)
 
 ## Authors and reviewers
 This page is written by Jeton Hasani\*.
@@ -120,6 +128,7 @@ Gusshausstrasse 27-29/370
 1040 Wien
 
 
+[**`To Top`**](#table-of-contents)
 
 ## License
 Copyright © 2016-2018: Jeton Hasani
@@ -128,6 +137,8 @@ This work is licensed under a Creative Commons CC BY 4.0 International License.
 SPDX-License-Identifier: CC-BY-4.0
 License-Text: https://spdx.org/licenses/CC-BY-4.0.html
 
+
+[**`To Top`**](#table-of-contents)
 
 ## Acknowledgement
 We would like to convey our deepest appreciation to the Horizon 2020 [Hotmaps Project](https://www.hotmaps-project.eu) (Grant Agreement number 723677), which provided the funding to carry out the present investigation.

@@ -3,7 +3,9 @@
 ## Table of Contents
 
 - [Introduction](#introduction)
-- [How to export a dataset](#how-to-export-a-dataset)
+- [Query](#query)
+- [Indicators](#indicators)
+- [Technologies](#technologies)
 - [References](#references)
 - [How to cite](#how-to-cite)
 - [Authors and reviewers](#authors-and-reviewers)
@@ -23,10 +25,24 @@ The datasets can be accessed via a geospatial server (GeoServer) which provides 
 
 The datasets can be found on the [Gitlab repository](https://gitlab.com/hotmaps)
 
+
+[**`To Top`**](#table-of-contents)
+
 ## Query
 
 Please note that aggregations when selecting NUTS or LAU regions are pre-computed and therefore faster than aggregations of hectare selections which are computed on-the-fly.
 
+
+[**`To Top`**](#table-of-contents)
+
+## Indicators
+
+TBD (CREM)
+
+
+[**`To Top`**](#table-of-contents)
+
+>>>>>>> prod-test-revert
 ## Technologies
 
 The technologies used for the database are:
@@ -45,6 +61,9 @@ The technologies used for the database are:
 [**`To Top`**](#table-of-contents)
 
 ## How to cite
+
+Daniel Hunacek and Lucien Zuber, in Hotmaps Wiki, Database behind the Hotmaps toolbox (September 2020)
+
 
 [**`To Top`**](#table-of-contents)
 

@@ -4,7 +4,6 @@
 
 - [Introduction](#introduction)
 - [How to export a dataset](#how-to-export-a-dataset)
-- [References](#references)
 - [How to cite](#how-to-cite)
 - [Authors and reviewers](#authors-and-reviewers)
 - [Acknowledgement](#acknowledgement)
@@ -42,11 +41,8 @@ You can then use it with your own tools and even edit it to import it back to th
 
 [**`To Top`**](#table-of-contents)
 
-## References
-
-[**`To Top`**](#table-of-contents)
-
 ## How to cite
+Daniel Hunacek and Lucien Zuber, in Hotmaps Wiki, Data export functionalities (September 2020)
 
 [**`To Top`**](#table-of-contents)
 

@@ -1,23 +1,33 @@
-## Table of Contents
+<h1>CM Decentral heating supply</h1>
 
+## Table of Contents
+* [In a glance](#in-a-glance)
 * [Introduction](#introduction)
-* [Inputs and outputs](#inputs-and-outputs)
-* [Method](#method)
-* [GitHub repository of this calculation module](#GitHub-Repository-of-this-calculation-module)
+* [Data Sources](#data-sources)
+* [Inputs](#inputs)
+* [Outputs](#outputs)
+  * [Indicators](#outputs_indicators)
+  * [Graphs](#outputs_graphs)
+* [Methodology](#methodology)
+* [GitHub repository of this calculation module](#github-repository-of-this-calculation-module)
 * [Sample run](#sample-run)
-  * [Test Run 1](#test-run-1)
-  * [Test Run 2](#test-run-2)
-* [References](#references)
+  * [Test Run](#sample-run_test-run)
 * [How to cite](#how-to-cite)
 * [Authors and reviewers](#authors-and-reviewers)
 * [License](#license)
 * [Acknowledgement](#acknowledgement)
 
+
+## In a glance
+This module calculates the costs of heat supply in buildings via decentral heating technologies. Inputs to the module are investment costs, O&M costs, energy prices, the hourly load profile of heat demand as well as depreciation time and interest rate. Furthermore, the composition of buildings and renovation states of the buildings in the analysed area are required. The outputs are heat supply costs of various decentral heat supply technologies for the defined buildings and price assumptions as well as reference decentral supply costs for the analysed area and related CO2 emissions.
+
+[**`To Top`**](#table-of-contents)
+
 ## Introduction
 
-This calclulation module calculates the levelized cost of heat (LCOH) for various technologies to supply a user definded building
+This calculation module calculates the levelized cost of heat (LCOH) for various technologies to supply a user-defined building.
 
-![](https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/cm_decentral_heating/new/1.png)
+![](https://raw.githubusercontent.com/HotMaps/hotmaps_wiki/master/Images/cm_decentral_heating/new/1.png)
 
 The technologies are for example as follows:
 
@@ -26,14 +36,13 @@ The technologies are for example as follows:
 * Bio-oil boiler,
 * Oil boiler,
 * Biomass automatic and manual,
-* Wood stove,
+* Woodstove,
 * Natural gas,
 * Solar thermal
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
 
-Data Sources:
-=============
+##Data Sources:
 
 -   NUTS Raster
 -   Building stock (NUTS0 Level): useful energy demand by building class and
@@ -44,8 +53,7 @@ Data Sources:
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
 
-Inputs: 
-========
+##Inputs: 
 
 -   Selection of an interested area
 -   Savings in space heating,
@@ -58,11 +66,9 @@ Inputs:
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
 
-Outputs:
-========
+## Outputs:
 
-Indicators:
------------
+### Indicators:
 
 -   Corresponding NUTS Code: NUTS3 Code of the selected region (when using
     hectare level or LAU level)
@@ -79,8 +85,7 @@ Indicators:
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
 
-Graphs:
--------
+### Graphs:
 
 -   LCOH
 -   OPEX
@@ -95,8 +100,7 @@ Graphs:
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
 
-Methodology:
-============
+## Methodology:
 
 Based on the selected region the corresponding NUTS0 and NUTS2 Region is
 determined.
@@ -105,74 +109,58 @@ Then for the selected building type and building age and NUTS0 region the
 specific useful energy demand is selected and the annual heat demand calculated
 by multiplying it by the gross floor area.
 
-![](https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/cm_decentral_heating/new/2.png)
-
-<code><ins>**[To Top](#table-of-contents)**</ins></code>
+![](https://raw.githubusercontent.com/HotMaps/hotmaps_wiki/master/Images/cm_decentral_heating/new/2.png)
 
 Based on the annual heat demand of the building and the entered savings in space
 heating the heat load is calculated with the use the heat load profiles.
 
-![](https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/cm_decentral_heating/new/3.png)
-
-<code><ins>**[To Top](#table-of-contents)**</ins></code>
+![](https://raw.githubusercontent.com/HotMaps/hotmaps_wiki/master/Images/cm_decentral_heating/new/3.png)
 
 With the heat load, the annual heat demand and the selected year the investment
 costs and operational costs and fuel costs **for each heating technology** are
 determined.
 
 The specific investment and operational costs are assumed to have an exponential
-behavior:
+behaviour:
 
-![](https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/cm_decentral_heating/new/4.png)
+![](https://raw.githubusercontent.com/HotMaps/hotmaps_wiki/master/Images/cm_decentral_heating/new/4.png)
 
-<code><ins>**[To Top](#table-of-contents)**</ins></code>
-
-Therefor based on the country, year and building type of the entered inputs the
+Therefore based on the country, year and building type of the entered inputs the
 factors for each technology are figured out:
 
-![](https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/cm_decentral_heating/new/5.png)
-
-<code><ins>**[To Top](#table-of-contents)**</ins></code>
+![](https://raw.githubusercontent.com/HotMaps/hotmaps_wiki/master/Images/cm_decentral_heating/new/5.png)
 
 With the factors determined the absolute costs can be calculated as follows:
 
-![](https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/cm_decentral_heating/new/6.png)
+![](https://raw.githubusercontent.com/HotMaps/hotmaps_wiki/master/Images/cm_decentral_heating/new/6.png)
 
-<code><ins>**[To Top](#table-of-contents)**</ins></code>
+For the fuel costs, the price data of the energy carriers are needed.
 
-For the fuel costs the price data of the energy carriers are needed.
+![](https://raw.githubusercontent.com/HotMaps/hotmaps_wiki/master/Images/cm_decentral_heating/new/7.png)
 
-![](https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/cm_decentral_heating/new/7.png)
-
-<code><ins>**[To Top](#table-of-contents)**</ins></code>
-
-Now we have all needed data and can calculate the levelized cost of heat.
+Now we have all the needed data and can calculate the levelized cost of heat.
 
 The levelized cost of heat for each heating system is calculated as the net
-present value of the cashflow and the heat generation over the lifetime.
+present value of the cash flow and the heat generation over the lifetime.
 
 The levelized cost of heat is given by:
 
-![](https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/cm_decentral_heating/new/8.png)
-
-<code><ins>**[To Top](#table-of-contents)**</ins></code>
+![](https://raw.githubusercontent.com/HotMaps/hotmaps_wiki/master/Images/cm_decentral_heating/new/8.png)
 
 In this calculation the yearly costs and the yearly heat production (useful
-energy demand) is assumed to be constant over the life time and thus the
-summations transform to a geometric series and the transforming factor is called
+energy demand) is assumed to be constant over the lifetime and thus the
+summations transform into a geometric series and the transforming factor is called
 the annuity factor α. A graphical representation of this transforming process is
 shown in the figures below
 
-![](https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/cm_decentral_heating/new/9.png)
+![](https://raw.githubusercontent.com/HotMaps/hotmaps_wiki/master/Images/cm_decentral_heating/new/9.png)
 
-![](https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/cm_decentral_heating/new/10.png)
+![](https://raw.githubusercontent.com/HotMaps/hotmaps_wiki/master/Images/cm_decentral_heating/new/10.png)
 
-<code><ins>**[To Top](#table-of-contents)**</ins></code>
-
-This assumption simplifies the calculation and the LCOH is given by following
+This assumption simplifies the calculation and the LCOH is given by the following
 formula:
 
-![](https://github.com/HotMaps/hotmaps_wiki/blob/master/Images/cm_decentral_heating/new/11.png)
+![](https://raw.githubusercontent.com/HotMaps/hotmaps_wiki/master/Images/cm_decentral_heating/new/11.png)
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
 
@@ -185,15 +173,20 @@ formula:
 
 ## Sample run
 
-### Test Run 1 
+### Test Run 
+
+#### Default Input Parameters
+[[/en/CM-Decentral-heating-supply/inputs.png]]
+
+#### Output Indicators With Default Input Parameters
+
+[[/en/CM-Decentral-heating-supply/output_indicators_default_decentral.png]]
+
+#### Output Charts With Default Input Parameters
+
+[[/en/CM-Decentral-heating-supply/output_graphs_default_decentral.png]]
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
-
-### Test Run 2
-
-<code><ins>**[To Top](#table-of-contents)**</ins></code>
-
-## References
 
 ## How to cite
  Hotmaps-Wiki, https://github.com/HotMaps/hotmaps_wiki/wiki/CM-Decentral-heating-costs (November 2019)
@@ -226,8 +219,9 @@ SPDX-License-Identifier: CC-BY-4.0
 License-Text: https://spdx.org/licenses/CC-BY-4.0.html
 
 
+<code><ins>**[To Top](#table-of-contents)**</ins></code>
+
 ## Acknowledgement
 We would like to convey our deepest appreciation to the Horizon 2020 [Hotmaps Project](https://www.hotmaps-project.eu) (Grant Agreement number 723677), which provided the funding to carry out the present investigation.
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
-
