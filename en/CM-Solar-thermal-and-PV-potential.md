@@ -1,4 +1,4 @@
-<h1>CM Solar thermal and PV potential</h1>
+# CM Solar thermal and PV potential</h1>
 
 ## Table of Contents
 * [In a glance](#in-a-glance)
