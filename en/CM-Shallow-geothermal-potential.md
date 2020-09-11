@@ -28,6 +28,7 @@ In this module, the output is the theoretical maximum energy that can be convert
 
 [**`To Top`**](#table-of-contents)
 
+
 ## Inputs and outputs
 
 The input parameters and layers, as well as output layers and parameters, are as follows.
@@ -58,12 +59,13 @@ The advanced input is:
 
 A deeper explanation of the default input raster is available in the [Hotmaps repository](https://gitlab.com/hotmaps/potential/potential_geothermal_raster)
 
-
 [**`To Top`**](#table-of-contents)
+
 
 ## Method
 The method to define the energy potential is based on the [G.pot](https://www.sciencedirect.com/science/article/pii/S0360544216303358). The potential of shallow geothermal energy is computed by means of and empirical relationship proposed by [Casasso et al. (2016)](https://www.sciencedirect.com/science/article/pii/S0360544216303358).
 
+The methodology produce a map with the power and the energy that can be extracted considering the main characteristics of the terrain (e.g. ground temperature/capacity/conductivity) and of the Borehole (e.g. lenght, diameter, etc).
 
 [**`To Top`**](#table-of-contents)
 
@@ -82,7 +84,8 @@ Pietro Zambelli and Giulia Garegnani, in Hotmaps Wiki, CM Shallow geothermal pot
 
 ## Authors and reviewers
 
-This page is written by Pietro Zambelli\* and Giulia Garegnani\*.
+This page is written by Pietro Zambelli\*.
+- [ ] This page was reviewed by Simon Pezzutto\*.
 
 
 \* [Urban and Regional Energy System Group - EURAC Bozen](http://www.eurac.edu/en/research/technologies/renewableenergy/researchfields/Pages/Energy-strategies-and-planning.aspx)
@@ -97,7 +100,7 @@ Italy
 
 ## License
 
-Copyright © 2016-2019: Giulia Garegnani
+Copyright © 2016-2019: Giulia Garegnani, Pietro Zambelli
 
 Creative Commons Attribution 4.0 International License
 
