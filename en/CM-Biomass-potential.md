@@ -21,6 +21,7 @@ This module calculates the energy potential from different biomass sources (fore
 ## Introduction
 
 This module assess the biomass energy that might be generated from a biomass source.
+The aims of this CM is to assess the electric and thermal energy that can be used from the biomass potential of NUTS3 regions. The module consider different typology of biomass that can be exploit to produce energy.
 The CM use the default dataset for the whole EU that are at NUTS3 level. 
 The CM do not consider which is the biomass that can be sustainable used for the energy production.
 
@@ -28,28 +29,36 @@ The CM do not consider which is the biomass that can be sustainable used for the
 
 [**`To Top`**](#table-of-contents)
 
+
 ## Inputs and outputs
 
-Input layers and parameters are:
-- Percentage of solid waste collected (default value: 90%)
-- Efficiency in transforming solid waste in thermal energy (default value: 50%)
-- Efficiency in transforming solid waste in electrical energy (default value: 20%)
-- Percentage of agriculture residues collected (default value: 60%)
-- Efficiency in transforming agriculture residues in thermal energy (default value: 50%)
-- Efficiency in transforming agriculture residues in electrical energy (default value: 20%)
-- Percentage of livestock effluents collected (default value: 50%)
-- Efficiency in transforming livestock effluents in thermal energy (default value: 50%)
-- Efficiency in transforming livestock effluents in electrical energy  (default value: 20%)
-- Percentage of forest residues collected (default value: 50%)
-- Efficiency in transforming forest residues in thermal energy (default value: 50%)
-- Efficiency in transforming forest residues in electrical energy (default value: 20%)
+The input parameters and layers as well as output layers and parameters are as follows.
 
-Output layers and parameters are:
-- Total biomass heat energy potential
-- Total biomass electric energy potential
-- Graph with the energy produced per biomass source
+
+**Input layers and parameters are:**
+
+* vector layer with the mass of biological residues that it is available, per biomass typology;
+* Percentage of solid waste that can be effectively collected (default value: 90%)
+* Efficiency in transforming solid waste in thermal energy (default value: 50%)
+* Efficiency in transforming solid waste in eletrical energy (default value: 20%)
+* Percentage of agriculture residues that can be effectively collected (default value: 60%)
+* Efficiency in transforming agriculture residues in thermal energy (default value: 50%)
+* Efficiency in transforming agriculture residues in eletrical energy (default value: 20%)
+* Percentage of livestock effluents that can be effectively collected (default value: 50%)
+* Efficiency in transforming livestock effluents in thermal energy (default value: 50%)
+* Efficiency in transforming livestock effluents in eletrical energy (default value: 20%)
+* Percentage of forest residues that can be effectively collected (default value: 50%)
+* Efficiency in transforming forest residues in thermal energy (default value: 50%)
+* Efficiency in transforming forest residues in eletrical energy (default value: 20%)
+
+**Output layers and parameters are:**
+
+* the total biomas heat energy potential
+* the total biomas electric energy potential
+* graph with the electric/thermal energy per biomass type.
 
 [**`To Top`**](#table-of-contents)
+
 
 ## Method
 
@@ -66,12 +75,14 @@ While for each source the user can select the efficiency in transforming the bio
 
 [**`To Top`**](#table-of-contents)
 
+
 ## Sample run
 
 ![Fig. 1-0](https://wiki.hotmaps.hevs.ch/en/CM-Biomass-potential/cm-biomass.png "Execute the Wind CM")
 
 
 [**`To Top`**](#table-of-contents)
+
 
 ## How to cite
 
@@ -82,23 +93,21 @@ Pietro Zambelli, in Hotmaps-Wiki, CM-Heatsource-potential (September 2020)
 ## Authors and reviewers
 
 This page is written by Pietro Zambelli\*.
+- [ ] This page was reviewed by Simon Pezzutto\*.
 
-&#9744; This page was reviewed by Simon Pezzutto\*.
 
-\* [Urban and Regional Energy System Group - Eurac research](https://www.eurac.edu/)
+\* [Urban and Regional Energy System Group - EURAC Bozen](http://www.eurac.edu/en/research/technologies/renewableenergy/researchfields/Pages/Energy-strategies-and-planning.aspx)
 
 Institute of Renewable Energy
-
-viale Druso 1
-
-39100 Bolzano
-
+Drususallee/Viale Druso 1
+I-39100 Bozen/Bolzano
+Italy
 
 [**`To Top`**](#table-of-contents)
 
 ## License
 
-Copyright © 2016-2020: Pietro Zambelli
+Copyright © 2016-2019: Giulia Garegnani, Pietro Zambelli
 
 Creative Commons Attribution 4.0 International License
 
