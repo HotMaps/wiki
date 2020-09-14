@@ -4,6 +4,7 @@
 * [Introduction](#introduction)
 * [The Hotmaps Scenario Toolchain: Overview](#the-hotmaps-scenario-toolchain-overview)
 * [The Hotmaps Scenario Toolchain: Different Steps](#the-hotmaps-scenario-toolchain-different-steps)
+* [Practical application: city level heating and cooling stategies](#practical-application-city-level-heating-and-cooling-stategies)
 * [How to cite](#how-to-cite)
 * [Authors and reviewers](#authors-and-reviewers)
 * [License](#license)
@@ -48,6 +49,16 @@ In the following separate pages, the different steps in generating scenarios for
 * [Step 4: Calculation of district heating distribution costs](https://wiki.hotmaps.hevs.ch/en/Step-4-Calculation-of-district-heating-distribution-costs)
 * [Step 5: Calculation of costs of heat supply to district heating](https://wiki.hotmaps.hevs.ch/en/Step-5-Calculation-of-costs-of-heat-supply-to-district-heating)
 * [Step 6: Assessment of scenarios for entire heat demand and supply for the selected area](https://wiki.hotmaps.hevs.ch/en/Step-6-Assessment-of-scenarios-for-entire-heat-demand-and-supply-for-the-selected-area)
+
+
+<code><ins>**[To Top](#table-of-contents)**</ins></code>
+
+## Practical application: city level heating and cooling stategies]
+
+The Hotmaps toolbox was developed together with cities, to make sure Hotmaps is useful for local authorities and city planners. Seven European pilot areas have been successfully testing it, to develop their heating and cooling strategies: Aalborg (Denmark), Bistrita (Romania), Frankfurt (Germany), Geneva (Switzerland), Kerry County (Ireland), Milton Keynes (UK) and San Sebastián (Spain). Each city has deveoped a heating and cooling strategy. These strategy documents show how the Hotmaps toolbox supported the pilot cities in their urban energy planning, by testing and evaluating different energy scenarios, providing an integral analysis of their energy resources.
+
+
+The strategy documents of the pilot cities are published on the [Library of the Hotmpas Project website](https://www.hotmaps-project.eu/library/) as soon as they are completed. 
 
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
