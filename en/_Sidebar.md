@@ -46,6 +46,7 @@
 ## For Developers
 * [Developers section](Developers)
 * [Guidelines for defining indicators](Guidelines-for-defining-indicators)
+* [Guidelines for writing a Hotmaps Wiki page](Guidelines-for-writing-a-Hotmaps-Wiki-page)
 
 
 
