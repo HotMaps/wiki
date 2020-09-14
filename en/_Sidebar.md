@@ -4,7 +4,7 @@
 ## How to apply Hotmaps toolbox
 * [Guideline: Hotmaps toolbox on local level](guide-local-and-municipal-levels)
 * [Guideline: Hotmaps toolbox on national level](guide-national-level-comprehensive-assessment-eed)
-* [Concept for using Hotmaps for district cooling](Concept-for-using-hotmaps-for-district-cooling)
+* [Concept for using Hotmaps for district cooling](District-Cooling)
 * [Training material](training-material)
 
 
