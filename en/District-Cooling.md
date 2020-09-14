@@ -5,33 +5,28 @@
 * [Introduction](#introduction)
 * [Input and Output](#input-and-output)
   * [Input](#input-and-output_input)
-  * [User account, Download & Upload cooling density map](#inputs-and-outputs_User account, Download & Upload cooling density map)
-* [Pilot areas heating and cooling strategy documents](#pilot-areas-heating-and-cooling-strategy-documents)
+    * [User account, Download & Upload cooling density map](#input-and-output_input_user-account-download-&-upload-cooling-density-map)
+    * [Creating a bottom-up cooling density map](#input-and-output_input_creating-a-bottom-up-cooling-density-map)
+  * [Output](#input-and-output_output)
+    * [CM - District heating potential areas: user-defined thresholds](#input-and-output_output_cm-district-heating-potential-areas-user-defined-thresholds)
+    * [CM - Scale heat and cool density maps](#input-and-output_output_cm-scale-heat-and-cool-density-maps)
+* [Method](#method)
+* [Application](#application)
+* [References](#references)
 * [How to cite](#how-to-cite)
 * [Authors and reviewers](#authors-and-reviewers)
 * [License](#license)
 * [Acknowledgement](#acknowledgement)
 
 
-3.1 Inputs	6
-3.1.1 User account, Download & Upload cooling density map	6
-3.1.1 Creating a bottom-up cooling density map	8
-3.4 Outputs	8
-3.4.1 CM - District heating potential areas: user-defined thresholds	8
-3.4.2 CM - Scale heat and cool density maps	11
-4 METHOD	12
-5 APPLICATION	12
-6 REFERENCES	12
-7 HOW TO CITE	12
-8 AUTHORS AND REVIEWERS	13
-
-
-
 ## In a glance
 
 This description aims to show how to apply the Hotmaps toolbox to carrying out cooling planning with the pilot area Aalborg Municipality as a case. This is done to explore the application of the Hotmaps Toolbox as the city works towards district cooling planning (Task 6.3). In this description this will be demonstrated by using the functionalities of the calculation modules investigating the cooling demands in Aalborg and the potential for district cooling.
 
-2 Introduction
+
+<code><ins>**[To Top](#table-of-contents)**</ins></code>
+
+## Introduction
 
 The cooling demand in Aalborg Municipality is centred in and around of the dense city centre.
 
@@ -47,11 +42,14 @@ First the cooling layer is used in the calculation module “CM - District Heati
 
 As a next step it is described how to develop your own customized bottom-up cooling density map by using data and functionalities from the Hotmaps database and GitHub-repository. These Hotmaps data should be coupled with more detailed local data on building stock.
 
-3 Inputs and outputs
 
-3.1 Inputs
+<code><ins>**[To Top](#table-of-contents)**</ins></code>
 
-3.1.1 User account & Download & Upload cooling density map
+## Inputs and outputs
+
+### Inputs
+
+#### User account & Download & Upload cooling density map
 
 1. To do: Create a user account (register) in order to be able to upload the cooling demand data.
 
@@ -103,7 +101,10 @@ When uploading the raster file, from the drop down list, you have to select that
 
 The uploaded layer will emerge on at the top of the left layer panel and can be used in analogical way as the embedded layers.
 
-3.1.1 Creating a bottom-up cooling density map
+
+<code><ins>**[To Top](#table-of-contents)**</ins></code>
+
+#### Creating a bottom-up cooling density map
 
 To do: Develop a customized bottom-up cooling density map based on local data.
 
@@ -123,9 +124,12 @@ To do: Develop a customized bottom-up cooling density map based on local data.
 
 8. Using the customized bottom-up cooling density map for district cooling planning by using the CM - District heating potential areas: user-defined thresholds as described below under ‘Outputs’.
 
-3.4 Outputs
 
-3.4.1 CM - District heating potential areas: user-defined thresholds
+<code><ins>**[To Top](#table-of-contents)**</ins></code>
+
+### Outputs
+
+#### CM - District heating potential areas: user-defined thresholds
 
 This module generates a shapefile of potential district cooling areas based on the following input data: a cooling density map with 1 hectare (ha) resolution, a cooling demand threshold
 
@@ -181,7 +185,10 @@ IMPORTANT NOT
 
 o see these output layers, you might need to unselect the other layers. In case you still don’t see them, try to zoom-out, as there is sometimes a visualisation bug. You can also download them and reupload them using your personal account (you need to log in before), it always solves the problem. Or you can load them into your GIS-program of choice.
 
-3.4.2 CM - Scale heat and cool density maps
+
+<code><ins>**[To Top](#table-of-contents)**</ins></code>
+
+#### CM - Scale heat and cool density maps
 
 This module scales the default layer with a given factor. The aim is to provide the possibility to generate a heat or cold demand density layer with any overall value. E.g. if you like to increase the cooling demand by 20 %.
 
@@ -215,17 +222,26 @@ Download the resulting layer (and rename it if necessary).
 
 Upload the scaled cooling demand data to the Hotmaps toolbox, as described above.
 
-4 Method
+
+<code><ins>**[To Top](#table-of-contents)**</ins></code>
+
+## Method
 
 Using existing CMs (calculation modules) for district cooling planning: See section on Inputs.
 
 Create your own bottom-up cooling density map, based on local building stock data and the Hotmaps database for cooling demand depending on usage and construction period: See section on Inputs.
 
-5 Application
+
+<code><ins>**[To Top](#table-of-contents)**</ins></code>
+
+## Application
 
 In all countries covered by Hotmaps, where you need a quick estimation of district cooling demand.
 
-6 References
+
+<code><ins>**[To Top](#table-of-contents)**</ins></code>
+
+## References
 
 Pezzutto et. al., 2019: ‘D2.3 WP2 Report –Open Data Set for the EU28’. Retrieved from: https://www.hotmaps-project.eu/wp-content/uploads/2018/03/D2.3-Hotmaps_for-upload_revised-final_.pdf
 
@@ -235,11 +251,17 @@ Mostafa Fallahnejad, 2020. ‘Stand-alone CM: Customized heat and floor area den
 
 Mostafa Fallahnejad, in Hotmaps-Wiki, CM-Customized heat and gross floor area density maps (April 2019).
 
-7 How to cite
+
+<code><ins>**[To Top](#table-of-contents)**</ins></code
+
+## How to cite
 
 Fallahnejad et. al., in Hotmaps-Wiki, Hotmaps - District Cooling Concept (August 2020)
 
-8 Authors and reviewers
+
+<code><ins>**[To Top](#table-of-contents)**</ins></code>
+
+## Authors and reviewers
 
 This page is written by Anders M. Odgaard*.
 
@@ -266,3 +288,35 @@ Zentrum f. Energiewirtschaft und Umwelt
 Argentinierstrasse 18/10
 
 AT-1040 Wien
+
+
+<code><ins>**[To Top](#table-of-contents)**</ins></code>
+
+## License
+
+Copyright © 2016-2019: Anders M. Odgaard
+
+Creative Commons Attribution 4.0 International License
+This work is licensed under a Creative Commons CC BY 4.0 International License.
+
+SPDX-License-Identifier: CC-BY-4.0
+
+License-Text: https://spdx.org/licenses/CC-BY-4.0.html
+
+
+<code><ins>**[To Top](#table-of-contents)**</ins></code>
+
+## Acknowledgement
+
+We would like to convey our deepest appreciation to the Horizon 2020 [Hotmaps Project](https://www.hotmaps-project.eu) (Grant Agreement number 723677), which provided the funding to carry out the present investigation.
+
+
+<code><ins>**[To Top](#table-of-contents)**</ins></code>
+
+<!--- THIS IS A SUPER UNIQUE IDENTIFIER -->
+
+View in another language:
+
+ [German](../de/GL-national)<sup>\*</sup> 
+
+<sup>\*</sup> machine translated
