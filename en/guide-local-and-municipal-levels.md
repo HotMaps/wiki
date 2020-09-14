@@ -4,7 +4,7 @@
 * [Introduction](#introduction)
 * [The Hotmaps Scenario Toolchain: Overview](#the-hotmaps-scenario-toolchain-overview)
 * [The Hotmaps Scenario Toolchain: Different Steps](#the-hotmaps-scenario-toolchain-different-steps)
-* [Practical application: city level heating and cooling stategies](#practical-application-city-level-heating-and-cooling-stategies)
+* [Pilot areas heating and cooling strategy documents](#pilot-areas-heating-and-cooling-strategy-documents)
 * [How to cite](#how-to-cite)
 * [Authors and reviewers](#authors-and-reviewers)
 * [License](#license)
@@ -53,7 +53,7 @@ In the following separate pages, the different steps in generating scenarios for
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
 
-## Practical application: city level heating and cooling stategies]
+## Pilot areas heating and cooling strategy documents
 
 The Hotmaps toolbox was developed together with cities, to make sure Hotmaps is useful for local authorities and city planners. Seven European pilot areas have been successfully testing it, to develop their heating and cooling strategies: Aalborg (Denmark), Bistrita (Romania), Frankfurt (Germany), Geneva (Switzerland), Kerry County (Ireland), Milton Keynes (UK) and San Sebastián (Spain). Each city has deveoped a heating and cooling strategy. These strategy documents show how the Hotmaps toolbox supported the pilot cities in their urban energy planning, by testing and evaluating different energy scenarios, providing an integral analysis of their energy resources.
 
