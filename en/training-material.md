@@ -24,7 +24,9 @@ In the course of the Hotmaps project, a number of free and open access training 
 
 ## Introduction
 
-All Hotmaps training workshops and courses have been conceived for heating and cooling planning professionals. The training addresses how the Hotmaps database and toolbox are structured and what are their functionalities, but the theory and procedures of heating and cooling planning are assumed as already familiar to participants and are not covered by the training. Those who wish to learn more also on the heating and cooling planning theory, are invited to read the [Hotmaps Handbooks](https://www.hotmaps-project.eu/hotmaps-handbook-and-wiki-released/), possibly before taking the training. No additional preparation is required to be able to complete this training.
+All Hotmaps training workshops and courses have been conceived for heating and cooling planning professionals. The training addresses how the Hotmaps database and toolbox are structured and what are their functionalities, but the theory and procedures of heating and cooling planning are assumed as already familiar to participants and are not covered by the training. 
+
+Those who wish to learn more on the heating and cooling planning theory, are invited to read the [Hotmaps Handbooks](https://www.hotmaps-project.eu/hotmaps-handbook-and-wiki-released/), possibly before taking the training. No additional preparation is required to be able to complete this training.
 
 The training combines:
   - A presentation of the Hotmaps project. 
@@ -64,7 +66,7 @@ The document on the [Training Material Guideline](https://github.com/HotMaps/tra
 
 The document provides also guidelines for a live presentation of the tool, a list of all the available capacity building and educational materials produced, together with their respective use. All the sections of the training are explained in detail and the training material used is illustrated, including the use of an e-learning platform, the exercises hand-outs, and their relative solutions. 
 
-Finally, it presents the feedback collected, providing both an overview of how the training courses were received, and how future training could build on this experience. To see the feedback questionnaire used in the on-site and online training workshops, please check the following sections on the respective Training Material. 
+Finally, it presents the feedback collected, providing both an overview of how the training courses were received, and how future training could build on this experience. The two feedback questionnaire used in the on-site and online training workshops are linked below in the respective section. 
 
 
 [**`To Top`**](#table-of-contents)
