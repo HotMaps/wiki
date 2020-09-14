@@ -54,7 +54,7 @@ In order to create and use a cooling density map, you need first to create an ac
 #### Create a user account
 
 To be able to upload the cooling demand data, you need first to create a user account (register), performing the following steps: 
-* Go onto the Hotmaps toolbox at: https://www.hotmaps.eu
+* Go to the [Hotmaps Toolbox](https://www.hotmaps.eu)
 * Click on the ‘Connect’ button on the top left corner and follow the instructions. Use your email address as username. Once you have created an account, the button ‘Connect’ in the top left corner should have been replaced with an ‘Account’ button. 
 * The account window will pop up in the middle of the screen. From here, you can edit your user details, view the available storage space, and most importantly upload your own data.
 * The accepted file format are .tif and .csv. Press the ‘Select file’ button located at the bottom of the account window, localise the desired file on your computer, select the right category from the drop-down list to the left, and upload the file to the toolbox with the the ‘Upload Layer’ button.
