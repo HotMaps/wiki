@@ -74,12 +74,12 @@ For the generation of the (*.csv*) files in the correct format, it is necessary 
 <figure><img src="../images/cm_add_industry_plant/Delimiter2.png" alt=""/></figure>
 
 #### 1) File generation: Subsector
-Please go to tabsheet: <figure><img src="../images/cm_add_industry_plant/DataImportSubsector.png" alt=""/></figure>
+Please go to tabsheet: ![Fig. 1](https://github.com/HotMaps/hotmaps_wiki/raw/master/Images/cm_add_industry_plant/DataImportSubsector.png "data import subsector")
 
 Copy the whole sheet into a new Excel-File and save it in the format: (*.csv*)
 
 #### 2) File generation: Excess heat
-Please go to tabsheet: <figure><img src="../images/cm_add_industry_plant/Data_Import_Excess_Heat.PNG" alt=""/></figure>
+Please go to tabsheet: ![Fig. 2](https://github.com/HotMaps/hotmaps_wiki/raw/master/Images/cm_add_industry_plant/Data_Import_Excess_Heat.PNG "data import excess heat")
 
 
 Copy the whole sheet into a new Excel-File and save it in the format: (*.csv*)
@@ -87,15 +87,16 @@ Copy the whole sheet into a new Excel-File and save it in the format: (*.csv*)
 #### 3) Upload on HotMaps Toolbox
 To upload the two *.csv*-files open the upload platform by clicking on **Account**
 
-<figure><img src="../images/cm_add_industry_plant/account2.PNG" alt=""/></figure>
+![Fig. 3](https://github.com/HotMaps/hotmaps_wiki/raw/master/Images/cm_add_industry_plant/account2.PNG "account2")
 
 In a next step select the two *.csv*-files for uploading and choose the right upload category for each file.
 
-<figure><img src="../images/cm_add_industry_plant/Upload2.png" alt=""/></figure>
+![Fig. 4](https://github.com/HotMaps/hotmaps_wiki/raw/master/Images/cm_add_industry_plant/Upload2.png "upload2")
 
 You can now check out your uploaded files in the section **Layers - Personal layer**
 
-<figure><img src="../images/cm_add_industry_plant/Personal_Layers.PNG" alt=""/></figure>
+![Fig. 4](https://github.com/HotMaps/hotmaps_wiki/raw/master/Images/cm_add_industry_plant/Personal_Layers.PNG "Personal layers")
+
 
 [**`To Top`**](#table-of-contents)
 
@@ -172,7 +173,7 @@ The breakdown of the final energy demand for fuels into temperature ranges on se
 For the calculation of the heat demand it is assumed that almost all fuel purchases are used for heat. Consistent with option 2 a conversion efficiency from final energy to heat of 90% is assumed for steam-based heat generation.
 
 
-The whole database used for option 3 is available here: Repository_Link
+The whole database used for option 3 is available here: [Option3 Database](https://github.com/HotMaps/add_industry_plant_cm/blob/master/HotMaps_CM_Add_industry_plant_V7.xlsx).
 
 [**`To Top`**](#table-of-contents)
 
