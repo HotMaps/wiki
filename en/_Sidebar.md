@@ -4,7 +4,9 @@
 ## How to apply Hotmaps toolbox
 * [Guideline: Hotmaps toolbox on local level](guide-local-and-municipal-levels)
 * [Guideline: Hotmaps toolbox on national level](guide-national-level-comprehensive-assessment-eed)
+* [Concept for using Hotmaps for district cooling](Concept-for-using-hotmaps-for-district-cooling)
 * [Training material](training-material)
+
 
 ## Data sets
 * [Hotmaps data set: Method of data collection](Hotmaps-data-set-method-of-data-collection)
@@ -37,7 +39,7 @@
 * [CM - Wind potential](CM-Wind-potential)
 * [CM - Excess heat transport potential](CM-Excess-heat-transport-potential)
 * [CM - Scenario assessment](CM-Scenario-assessment)
-* [CM - User-defined excess heat potentials](CM-Add-industry-plant)
+* [CM - Add industry plant](CM-Add-industry-plant)
 * [CM - Vehicle stock at NUTS 2 level](CM-Vehicle-stock-at-NUTS-2-level)
 
 

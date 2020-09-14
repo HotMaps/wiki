@@ -1,4 +1,4 @@
-<h1>District Cooling</h1>
+<h1>Concept for using Hotmaps for district cooling</h1>
 
 ## Table of Contents
 * [In a glance](#in-a-glance)
