@@ -29,16 +29,15 @@ This page aims to show how to apply the Hotmaps toolbox to carry out cooling pla
 ## Introduction
 
 The cooling demand in Aalborg Municipality is centred in and around of the dense city centre.
-[[/en/District-Cooling/DCooling 1.jpg]]
+[[/en/District-Cooling/DCooling_1.jpg]]
 Figure 1: Gross Floor Area Density Map of the Municipality of Aalbog
 
 
 The application of the Hotmaps toolbox for carrying out cooling planning entails the following steps:
 * Using the existing Cooling Density Map, by selecting and downloading it.
-* Uploading the layer as a personal layer categorised as a “[Building] Heat density total”.
-* This way the cooling density can be used in the existing calculation modules for examining and assessing the district cooling potentials.
-* First the cooling layer is used in the calculation module “CM - District Heating Potential Areas: User-Defined Thresholds” for examining and accessing the district cooling potentials. The density threshold should of be lowered for district cooling compared to district heating given the nature of district cooling.
-* As a next step it is described how to develop your own customized bottom-up cooling density map by using data and functionalities from the Hotmaps database and GitHub-repository. These Hotmaps data should be coupled with more detailed local data on building stock.
+* Uploading the layer as a personal layer categorised as a “[Building] Heat density total”. This way the cooling density can be used in the existing calculation modules for examining and assessing the district cooling potentials.
+* Using the cooling layer in the calculation module “CM - District Heating Potential Areas: User-Defined Thresholds” to examine and access the district cooling potentials. The density threshold should be lowered for district cooling compared to district heating given the nature of district cooling.
+* Developing a customized bottom-up cooling density map by using data and functionalities from the Hotmaps database and GitHub-repository. These Hotmaps data should be coupled with more detailed local data on building stock.
 
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
@@ -47,21 +46,21 @@ The application of the Hotmaps toolbox for carrying out cooling planning entails
 
 ### Inputs
 
-#### User account & Download & Upload cooling density map
+#### Create a user account
 
-1. To do: Create a user account (register) in order to be able to upload the cooling demand data.
+You need to create a user account (register) in order to be able to upload the cooling demand data.
 
-Steps in more detail: Go onto the Hotmaps toolbox at: https://www.hotmaps.eu
+Steps: 
+* Go onto the Hotmaps toolbox at: https://www.hotmaps.eu
+* Click on the ‘Connect’ button on the top left corner and follow the instructions. Use your email address as username. Once you have created an account, the button ‘Connect’ in the top left corner should have been replaced with an ‘Account’ button. 
+* The account window will pop up in the middle of the screen. From here, you can edit your user details, view the available storage space, and most importantly upload your own data.
+* The accepted file format are .tif and .csv. Press the ‘Select file’ button located at the bottom of the account window, localise the desired file on your computer, select the right category from the drop-down list to the left, and upload the file to the toolbox with the the ‘Upload Layer’ button.
+* You can leave the account window by clicking in any point of the screen outside of the account window.
 
-Click at the ‘Connect’ button at the top left corner and follow the instructions. The username is your email address.
 
-Once you created an account, go again to the top left corner where button ‘Connect’ has been replaced now with ‘Account’. The account window will pop up in the middle of the screen.
+<code><ins>**[To Top](#table-of-contents)**</ins></code>
 
-From this place, it is possible to amend user details, preview available storage space and most importantly to upload own data from local drive.
-
-The acceptable files have the format of .tif and .csv. These can be localised on the computer and uploaded to the toolbox using the ‘Select file’ button located at the bottom of the account window. Simultaneously, the right category of data needs to be specified from the drop-down list, placed to the left from the ‘Select file’ button. The process finishes with the ‘Upload layer’.
-
-You can also leave the account window by clicking in the random place of the screen outside of the account window.
+#### Download cooling density map
 
 2. To do: Select the area (e.g. Aalborg Municipality) and download the cooling density map as a raster file and save it to your computer.
 
@@ -82,6 +81,11 @@ Select the following category in the left panel under ‘Layers’:
 ‘Cooling density total’
 
 Download the cooling density map as a raster file and save it to your computer for the currently selected area by clicking on the ‘Download layer selection’ symbol below the layer ‘Cooling density total’.
+
+
+<code><ins>**[To Top](#table-of-contents)**</ins></code>
+
+#### Upload cooling density map
 
 3. To do: Upload the cooling demand data to the Hotmaps toolbox.
 
