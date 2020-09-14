@@ -32,7 +32,7 @@ This page aims to show how to apply the Hotmaps toolbox to carry out cooling pla
 
 The cooling demand in Aalborg Municipality is centred in and around of the dense city centre.
 [[/en/District-Cooling/DCooling_1.jpg]]
-Figure 1: Gross Floor Area Density Map of the Municipality of Aalbog
+Figure 1: Gross Floor Area Density Map of the Municipality of Aalborg
 
 
 The application of the Hotmaps toolbox for carrying out cooling planning entails the following steps:
@@ -48,12 +48,12 @@ The application of the Hotmaps toolbox for carrying out cooling planning entails
 
 ### Inputs
 
-In order to be able to upload a cooling density map, you need to create an account, download the cooling density map, save it, scale it, and re-upload it as a new input.
+In order to create and use a cooling density map, you need first to create an account, then to download the cooling density map, save it, upload the cooling demand data, and then create a bottom-up cooling demand desnity map. All the steps are illustrated below.
 
 
 #### Create a user account
 
-In order to be able to upload the cooling demand data, you need first to create a user account (register) with the following steps: 
+To be able to upload the cooling demand data, you need first to create a user account (register), performing the following steps: 
 * Go onto the Hotmaps toolbox at: https://www.hotmaps.eu
 * Click on the ‘Connect’ button on the top left corner and follow the instructions. Use your email address as username. Once you have created an account, the button ‘Connect’ in the top left corner should have been replaced with an ‘Account’ button. 
 * The account window will pop up in the middle of the screen. From here, you can edit your user details, view the available storage space, and most importantly upload your own data.
@@ -65,7 +65,7 @@ In order to be able to upload the cooling demand data, you need first to create 
 
 #### Download a cooling density map
 
-In order to download the cooling density map as a raster file and save it to your computer, perform the following steps:
+To download the cooling density map as a raster file and save it to your computer, perform the following steps:
 * Zoom to the location that you want to analyse (e.g. Aalborg).
 * Click on the bounding box that contains the area of interest (make sure you remain at the scale ‘LAU2’), or select a customised area by drawing the location boundaries (make sure you remain at the scale ‘Hectare’). In this case, draw the boundaries around the area of interest using drawing tool: you can choose among rectangular, circle shape or a polygone. Then, click on the drawn bounding box to select the area.
 * Select the category ‘Cooling density total’ in the left panel under ‘Layers’. 
@@ -76,7 +76,7 @@ In order to download the cooling density map as a raster file and save it to you
 
 #### Upload the cooling demand data
 
-In order to upload the cooling demand data to the Hotmaps toolbox, perform the following steps:
+To upload the cooling demand data to the Hotmaps toolbox, perform the following steps:
 * Unselect all the layers in the left panel.
 * Log-in to your user account and then click on the ‘account’ button.
 * Click on ‘Select files’ in the right bottom corner of the account window and proceed to your storage folder to upload your files.
@@ -88,37 +88,36 @@ In order to upload the cooling demand data to the Hotmaps toolbox, perform the f
 
 #### Create a bottom-up cooling density map
 
-In order to develop a customized bottom-up cooling density map based on local data, perform the following steps:
-* Obtain local data on building stock (including location [coordinates], building area, building type, construction year or period).
+To develop a customized bottom-up cooling density map based on local data, perform the following steps:
+* Obtain local data on building stock (including location/coordinates, building area, building type, construction year or period).
 * Download the Hotmaps Building Stock data on final energy demand for space heating (SH), space cooling (SC), and domestic hot water (DHW) for each EU28 from here (look under the folder data): https://gitlab.com/hotmaps/building-stock
 * Find the country that you are working with or use the EU28-average in the Hotmaps Building Stock data.
 * Classify your local building stock data to the sub sectors and building age class of the Hotmaps Building Stock data.
-* Connect the final energy demand for cooling for each subsector and building age class with your local building stock data for each building and calculate the final energy demand for cooling.
+* Connect the cooling final energy demand for each subsector and building age class with your local building stock data for each building and calculate the cooling final energy demand.
 * Convert your spreadsheet to .csv or .xls in order to create a shapefile .shp based on the coordination of each building and the final energy demand for cooling.
-* Creating a bottom-up cooling density map .tif using the Hotmaps CM Customized heat and gross floor area density maps. Description can be found in the Wiki here: https://wiki.hotmaps.eu/en/CM-Customized-heat-and-floor-area-density-maps, which also contains the link the code found here: https://github.com/HotMaps/customized_h_fa_dm
-* Using the customized bottom-up cooling density map for district cooling planning by using the CM - District heating potential areas: user-defined thresholds as described below under ‘Outputs’.
+* Creating a bottom-up cooling density map .tif using the Hotmaps CM Customized heat and gross floor area density maps. Description can be found in the Wiki page [CM - Customized heat and floor area density maps](#CM-Customized-heat-and-floor-area-density-maps), which also contains the [link the code](https://github.com/HotMaps/customized_h_fa_dm).
+* Using the customized bottom-up cooling density map for district cooling planning by using the [CM - District heating potential areas: user-defined thresholds](#CM-District-heating-potential-areas-user-defined-thresholds) as described below under ‘Output’.
 
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
 
-### Outputs
+### Output
 
 #### CM - District heating potential areas: user-defined thresholds
 
 This module generates a shapefile of potential district cooling areas based on the following input data: a cooling density map with 1 hectare (ha) resolution, a cooling demand threshold for the cooling demand in each cell of the cooling density map and a cooling demand threshold for groups of connected cells with cooling demand above the previous threshold (=coherent area).
 
 In order to calculate and compare different scenarios of potential district heating areas based on the two threshold values used in the module, perform the following steps:
-* Zoom to the location that you want to calculate (e.g. Aalborg).
+* Zoom to the location that you want to examine (e.g. Aalborg).
 * Draw and select a bounding box that contains the area of interest.
-* NB Make sure you are at the scale ‘Hectare’. In order to used you uploaded layers.
-* Draw the boundaries around the the area of interest using drawing tool You can choose among rectangular, circle shape or a polyline.
+* NB Make sure you are at the scale ‘Hectare’ to be able to use you uploaded layers.
+* Draw the boundaries around the the area of interest using drawing tool (rectangular, circle shape or a polygone).
 * Click on the drawn bounding box to select the area.
 * In the left panel in the toolbox under ‘Layers’, select the tab ‘Calculation Modules’
 * Select the ‘CM - District heating potential areas: user-defined thresholds’.
-* Set the input parameters according to the values of choice to examining and accessing the district cooling potentials. The density threshold should be lowered for district cooling compared to district heating given the nature of district cooling. The parameters could e.g. be set to:
-  - Min. heat demand in hectare (“Min. cooling demand in hectare”) to a range between 75 to 15 MWh/ha/yr.
-  - Min. heat demand in a DH area (“Min. cooling demand in a DC area”) to a range between 10 to 1 GWh/yr.
-
+* Set the input parameters according to the values of choice to examine and access the district cooling potentials. The density threshold should be lower for district cooling compared to district heating, given the nature of district cooling. The parameters could be set for instance at:
+  - Min. heat demand in hectare (“Min. cooling demand in hectare”): in a range between 75 to 15 MWh/ha/yr.
+  - Min. heat demand in a DH area (“Min. cooling demand in a DC area”): in a range between 10 to 1 GWh/yr.
 * Type in a name for the calculation you are going to perform (you can use a random title).
 * Run the CM by clicking on the button “RUN CM”.
 * When the calculation is ready you can find the calculated indicators in the results section in the right panel of the toolbox. It yields 3 results:
@@ -141,7 +140,7 @@ To see these output layers, you might need to unselect the other layers. In case
 
 This module scales the default layer with a given factor. The aim is to provide the possibility to generate a heat or cold demand density layer with any overall value. E.g. if you like to increase the cooling demand by 20 %.
 
-In roder to scale and download a cooling density map layer to be used for the CM – District heating potential areas: user-defined thresholds, perform the following steps:
+To scale and download a cooling density map layer to be used for the CM – District heating potential areas: user-defined thresholds, perform the following steps:
 * Zoom to the location that you want to analyse (e.g. Aalborg).
 * Click on the bounding box that contains the area of interest. Make sure you remain at the scale ‘LAU2’.
 * Or select a customised area by drawing the location boundaries. Make sure you remain at the scale ‘Hectare’.
