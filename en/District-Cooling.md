@@ -66,9 +66,9 @@ To be able to upload the cooling demand data, you need first to create a user ac
 
 To download the cooling density map as a raster file and save it to your computer, perform the following steps:
 * Zoom to the location that you want to analyse (e.g. Aalborg).
-* Click on the bounding box that contains the area of interest (make sure you remain at the scale ‘LAU2’), or select a customised area by drawing the location boundaries (make sure you remain at the scale ‘Hectare’). In this case, draw the boundaries around the area of interest using drawing tool[[/en/District-Cooling/square_selection_icon.jpg]]: you can choose among rectangular, circle shape or a polygon. Then, click on the drawn bounding box to select the area.
+* Click on the bounding box that contains the area of interest (make sure you remain at the scale ‘LAU2’), or select a customised area by drawing the location boundaries (make sure you remain at the scale ‘Hectare’). In this case, draw the boundaries around the area of interest using drawing tool[[/en/District-Cooling/square_selection_icon.jpg]]<!-- .element height="10%" width="10%" -->: you can choose among rectangular, circle shape or a polygon. Then, click on the drawn bounding box to select the area.
 * Select the category ‘Cooling density total’ in the left panel under ‘Layers’. 
-* Download the cooling density map as a raster file and save it to your computer for the currently selected area by clicking on the ‘Download layer selection’ symbol [[/en/District-Cooling/logo_download_selection_1.jpg]] below the layer ‘Cooling density total’.
+* Download the cooling density map as a raster file and save it to your computer for the currently selected area by clicking on the ‘Download layer selection’ symbol [[/en/District-Cooling/logo_download_selection_1.jpg]]<!-- .element height="10%" width="10%" --> below the layer ‘Cooling density total’.
 
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
