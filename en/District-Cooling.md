@@ -47,7 +47,7 @@ The application of the Hotmaps toolbox for carrying out cooling planning entails
 
 ### Inputs
 
-In order to create and use a cooling density map, you need first to create an account, then to download the cooling density map, save it, upload the cooling demand data, and then create a bottom-up cooling demand density map. All the steps are illustrated below.
+In order to create and use a cooling density map, you need first to create an account, then download the cooling density map, save it, upload the cooling demand data, and then create a bottom-up cooling demand density map. All the steps are illustrated below.
 
 
 #### Create a user account
@@ -57,7 +57,7 @@ To be able to upload the cooling demand data, you need first to create a user ac
 * Click on the ‘Connect’ button on the top left corner and follow the instructions. Use your email address as username. Once you have created an account, the button ‘Connect’ in the top left corner should have been replaced with an ‘Account’ button. 
 * The account window will pop up in the middle of the screen. From here, you can edit your user details, view the available storage space, and most importantly upload your own data.
 * The accepted file format are .tif and .csv. Press the ‘Select file’ button located at the bottom of the account window, localise the desired file on your computer, select the right category from the drop-down list to the left, and upload the file to the toolbox with the the ‘Upload Layer’ button.
-* You can leave the account window by clicking in any point of the screen outside of the account window.
+* You can leave the account window by clicking at any point of the screen outside of the account window.
 
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
@@ -66,7 +66,7 @@ To be able to upload the cooling demand data, you need first to create a user ac
 
 To download the cooling density map as a raster file and save it to your computer, perform the following steps:
 * Zoom to the location that you want to analyse (e.g. Aalborg).
-* Click on the bounding box that contains the area of interest (make sure you remain at the scale ‘LAU2’), or select a customised area by drawing the location boundaries (make sure you remain at the scale ‘Hectare’). In this case, draw the boundaries around the area of interest using drawing tool: you can choose among rectangular, circle shape or a polygon. Then, click on the drawn bounding box to select the area.
+* Click on the bounding box that contains the area of interest (make sure you remain at the scale ‘LAU2’), or select a customised area by drawing the location boundaries (make sure you remain at the scale ‘Hectare’). In this case, draw the boundaries around the area of interest using the drawing tool: <img height=10 width=10 src="https://wiki.hotmaps.hevs.ch/en/District-Cooling/square_selection_icon.jpg"/> you can choose among rectangular, circle shape, or a polygon. Then, click on the drawn bounding box to select the area.
 * Select the category ‘Cooling density total’ in the left panel under ‘Layers’. 
 * Download the cooling density map as a raster file and save it to your computer for the currently selected area by clicking on the ‘Download layer selection’ symbol below the layer ‘Cooling density total’.
 
