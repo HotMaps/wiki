@@ -13,7 +13,7 @@ Thanks to this software, you will be able to make practical decisions in your ar
 
 Here are some gears in HTML: <img height=20 width=20 src="https://wiki.hotmapsdev.hevs.ch/en/Welcome/gears.png"/>
 
-Here are some gears using MD: ![gears](https://wiki.hotmapsdev.hevs.ch/edit/en/Welcome/gears.png)
+Here are some gears using MD: ![gears](https://wiki.hotmapsdev.hevs.ch/en/Welcome/gears.png)
 
 ## How to use the Hotmaps toolbox for heating and cooling planning 
 **Welcome to the Hotmaps Wiki!**
