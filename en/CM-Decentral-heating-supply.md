@@ -55,7 +55,7 @@ The technologies are for example as follows:
 
 ##Inputs: 
 
--   Selection of an interested area
+-   Selection of an interesting area
 -   Savings in space heating,
 -   Gross floor area
 -   Year (for finance data)
@@ -140,8 +140,7 @@ For the fuel costs, the price data of the energy carriers are needed.
 
 Now we have all the needed data and can calculate the levelized cost of heat.
 
-The levelized cost of heat for each heating system is calculated as the net
-present value of the cash flow and the heat generation over the lifetime.
+The levelized cost of heat for each heating system is calculated as the net present value of the cash flow and the heat generation over the lifetime.
 
 The levelized cost of heat is given by:
 
@@ -189,12 +188,12 @@ formula:
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
 
 ## How to cite
- Hotmaps-Wiki, https://github.com/HotMaps/hotmaps_wiki/wiki/CM-Decentral-heating-costs (November 2019)
+Jeton Hasani in Hotmaps-Wiki, CM Decentral heating supply (November 2019)
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
 
 ## Authors and reviewers
-This page is written by \*.
+This page is written by Jeton Hasani\*.
 - [ ] This page was reviewed by Lukas Kranzl\*.
 
 \* [Energy Economics Group - TU Wien](https://eeg.tuwien.ac.at/)
