@@ -132,7 +132,7 @@ In order to calculate and compare different scenarios of potential district heat
 [[/en/District-Cooling/DCooling_2-min.png]]
 Figure 2: Zoom on the city center of the Municipality of Aalborg
 
-*IMPORTANT NOTE*
+**IMPORTANT NOTE** 
 To see these output layers, you might need to unselect the other layers. In case you still don’t see them, try to zoom-out, as there is sometimes a visualisation bug. You can also download them and reupload them using your personal account (you need to log in before), it always solves the problem. Or you can load them into your GIS-program of choice.
 
 
