@@ -22,7 +22,7 @@ In the following chapter, we will describe how to access a calculation module
 2. Enable the Layer Section
 3. Go to the <code>Calculation Modules</code> Tab
 4. Access your desired module
-5. Define the parameters and run
+5. Define the parameters, give a name to the run and run the module
 6. results are shown in the results bar and in the map
 
 ![cm_access.png][cm_access_png]
