@@ -11,7 +11,7 @@ What we offer is open-source online software that supports the planning processe
 
 Thanks to this software, you will be able to make practical decisions in your area of interest (village, town, city, region, etc.). The value of Hotmaps has been applied and demonstrated in seven pilot areas. The Hotmaps website was developed by leading research institutions across Europe together with city administrations. Go on the website by clicking [HERE](https://www.hotmaps.hevs.ch/map) and discover your city’s climate-neutral energy future. 
 
-Here are some gears ![alt text](gears.png)
+Here are some gears ![alt text](https://wiki.hotmapsdev.hevs.ch/en/Welcome/gears.png)
 
 ## How to use the Hotmaps toolbox for heating and cooling planning 
 **Welcome to the Hotmaps Wiki!**
