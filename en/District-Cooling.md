@@ -66,9 +66,9 @@ To be able to upload the cooling demand data, you need first to create a user ac
 
 To download the cooling density map as a raster file and save it to your computer, perform the following steps:
 * Zoom to the location that you want to analyse (e.g. Aalborg).
-* Click on the bounding box that contains the area of interest (make sure you remain at the scale ‘LAU2’), or select a customised area by drawing the location boundaries (make sure you remain at the scale ‘Hectare’). In this case, draw the boundaries around the area of interest using drawing tool[[/en/District-Cooling/square_selection_icon.jpg]]<!-- .element height="10%" width="10%" -->: you can choose among rectangular, circle shape or a polygon. Then, click on the drawn bounding box to select the area.
+* Click on the bounding box that contains the area of interest (make sure you remain at the scale ‘LAU2’), or select a customised area by drawing the location boundaries (make sure you remain at the scale ‘Hectare’). In this case, draw the boundaries around the area of interest using drawing tool: you can choose among rectangular, circle shape or a polygon. Then, click on the drawn bounding box to select the area.
 * Select the category ‘Cooling density total’ in the left panel under ‘Layers’. 
-* Download the cooling density map as a raster file and save it to your computer for the currently selected area by clicking on the ‘Download layer selection’ symbol [[/en/District-Cooling/logo_download_selection_1.jpg]]<!-- .element height="10%" width="10%" --> below the layer ‘Cooling density total’.
+* Download the cooling density map as a raster file and save it to your computer for the currently selected area by clicking on the ‘Download layer selection’ symbol below the layer ‘Cooling density total’.
 
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
@@ -110,7 +110,7 @@ In order to calculate and compare different scenarios of potential district heat
 * Zoom to the location that you want to examine (e.g. Aalborg).
 * Draw and select a bounding box that contains the area of interest.
 * NB Make sure you are at the scale ‘Hectare’ to be able to use you uploaded layers.
-* Draw the boundaries around the area of interest using drawing tool [[/en/District-Cooling/square_selection_icon.jpg]](rectangular, circle shape or a polygon).
+* Draw the boundaries around the area of interest using drawing tool (rectangular, circle shape or a polygon).
 * Click on the drawn bounding box to select the area.
 * In the left panel in the toolbox under ‘Layers’, select the tab ‘Calculation Modules’
 * Select the ‘CM - District heating potential areas: user-defined thresholds’.
@@ -129,6 +129,9 @@ In order to calculate and compare different scenarios of potential district heat
   - DC areas and their potentials – a shapefile, polygons of the potential DC areas.
 * These can be found in the layers section in the left panel (you have to close the calculation modules with ‘X’ and move to ‘Layers’) at the bottom of all available layers. Take a screenshot of these layers and insert it here.
 
+[[/en/District-Cooling/DCooling_2-min.png]]
+Figure 2: Zoom on the city center of the Municipality of Aalborg
+
 *IMPORTANT NOTE*
 To see these output layers, you might need to unselect the other layers. In case you still don’t see them, try to zoom-out, as there is sometimes a visualisation bug. You can also download them and reupload them using your personal account (you need to log in before), it always solves the problem. Or you can load them into your GIS-program of choice.
 
@@ -143,7 +146,7 @@ To scale and download a cooling density map layer to be used for the CM – Dist
 * Zoom to the location that you want to analyse (e.g. Aalborg).
 * Click on the bounding box that contains the area of interest. Make sure you remain at the scale ‘LAU2’.
 * Or select a customised area by drawing the location boundaries. Make sure you remain at the scale ‘Hectare’.
-* Draw the boundaries around the area of interest using drawing tool [[/en/District-Cooling/square_selection_icon.jpg]]. You can choose among rectangular, circle shape or a polyline.
+* Draw the boundaries around the area of interest using drawing tool. You can choose among rectangular, circle shape or a polyline.
 * Click on the drawn bounding box to select the area.
 * In the left panel in the toolbox under ‘Layers’, select the tab ‘Calculation Modules’
 * Select the ‘CM - Scale heat and cool density maps’.
