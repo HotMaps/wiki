@@ -32,8 +32,8 @@ The district heating supply module is a dispatch model which tries to find a cos
 ### Main inputs
 1. Heat demand of the grid (selected region)
 1. Installed capacities of heat generators/storage
-1. Technical(en-efficiencies) and fincancal paramters(opex,capex,lifetime) of heat generators/storages
-1. Profiles (time series of the heat demand,solar radiation, temperature, electricity prices, etc..)
+1. Technical(en-efficiencies) and financial parameters(opex,capex,lifetime) of heat generators/storages
+1. Profiles (time series of the heat demand, solar radiation, temperature, electricity prices, etc..)
 1. ...
 
 ### Main outputs
@@ -43,6 +43,8 @@ The district heating supply module is a dispatch model which tries to find a cos
 * CO2 Emissions
 * Full Load Hours, 
 * etc..
+
+**IMPORTANT NOTE** Biomass emissions are not assumed zero in this and other calculation modules. The storage of carbon dioxide in trees happens over decades, while its release in the atmosphere takes place all at once. Therefore, the net carbon balance of biomass is zero in the long run, but positive in the short run. Hotmaps is aimed at supporting the ongoing energy transition and considering biomass carbon neutral would be a potential step backwards for climate change mitigation efforts. 
 
 [**`To Top`**](#table-of-contents)
 
@@ -93,10 +95,10 @@ The objective function tries to find the minimum of the difference from the cost
 
 ## Sample run
 
-After you select a region and make no changes to the default parameters, the model will run in investment mode. This means that the installed capacities are also optimized for the optimal cost coverage of the heat demand . 
+After you select a region and make no changes to the default parameters, the model will run in investment mode. This means that the installed capacities are also optimized for the optimal cost coverage of the heat demand. 
 
 
-Below you can see all input paramters that can be changed
+Below you can see all input parameters that can be changed
 
 [[/en/CM-District-heating-supply-dispatch/inpt.png]]
 
