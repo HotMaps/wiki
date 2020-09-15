@@ -86,7 +86,7 @@ While for each source the user can select the efficiency in transforming the bio
 
 ## How to cite
 
-Pietro Zambelli, in Hotmaps-Wiki, CM-Heatsource-potential (September 2020)
+Pietro Zambelli, in Hotmaps-Wiki, CM - Biomass potential (September 2020)
 
 [**`To Top`**](#table-of-contents)
 
@@ -107,7 +107,7 @@ Italy
 
 ## License
 
-Copyright © 2016-2019: Giulia Garegnani, Pietro Zambelli
+Copyright © 2016-2019: Pietro Zambelli
 
 Creative Commons Attribution 4.0 International License
 
