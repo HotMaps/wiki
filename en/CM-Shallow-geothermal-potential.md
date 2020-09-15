@@ -82,7 +82,7 @@ Pietro Zambelli and Giulia Garegnani, in Hotmaps Wiki, CM Shallow geothermal pot
 
 ## Authors and reviewers
 
-This page is written by Pietro Zambelli\*.
+This page is written by Pietro Zambelli and Giulia Garegnani\*.
 - [ ] This page was reviewed by Simon Pezzutto\*.
 
 
@@ -98,7 +98,7 @@ Italy
 
 ## License
 
-Copyright © 2016-2019: Giulia Garegnani, Pietro Zambelli
+Copyright © 2016-2019: Pietro Zambelli, Giulia Garegnani
 
 Creative Commons Attribution 4.0 International License
 
