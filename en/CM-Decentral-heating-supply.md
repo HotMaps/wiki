@@ -64,6 +64,8 @@ The technologies are for example as follows:
 -   Building Type
 -   Emission factors per energy carrier
 
+**IMPORTANT NOTE** Biomass emissions are not zero in this and other calculation modules. The storage of carbon dioxide in trees happens over decades, while its release in the athmosphere takes place all at once. Therefore, the net-carbon balance of biomass is zero in the long run, but positive in the short run. Hotmaps is aimed at supporting the ongoing energy transition and considering biomass carbon neutral would be a potential step backward for climate change mitigation efforts. 
+
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
 
 ## Outputs:
@@ -146,11 +148,7 @@ The levelized cost of heat is given by:
 
 ![](https://raw.githubusercontent.com/HotMaps/hotmaps_wiki/master/Images/cm_decentral_heating/new/8.png)
 
-In this calculation the yearly costs and the yearly heat production (useful
-energy demand) is assumed to be constant over the lifetime and thus the
-summations transform into a geometric series and the transforming factor is called
-the annuity factor α. A graphical representation of this transforming process is
-shown in the figures below
+In this calculation the yearly costs and the yearly heat production (useful energy demand) is assumed to be constant over the lifetime and thus the summations transform into a geometric series and the transforming factor is called the annuity factor α. A graphical representation of this transforming process is shown in the figures below
 
 ![](https://raw.githubusercontent.com/HotMaps/hotmaps_wiki/master/Images/cm_decentral_heating/new/9.png)
 
