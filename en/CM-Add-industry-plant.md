@@ -118,7 +118,7 @@ For the calculation of heat and cooling demand it is necessary to assume convers
 | -30°C - 0°C  | 1.8   |
 | 0°C - 15°C & > 15°C  | 3.5   |
 
-The whole database used for option 2 is available here: Repository_Link
+The whole database used for option 2 is available here:  [Option2 Database](https://github.com/HotMaps/add_industry_plant_cm/blob/master/CM_add_industry_plant_databases.xlsx)
 
 ### Method - Option 3: Sector selection
 Option 3 provides a broad based assessment of heat demand and excess heat for the sectors of the manufacturing industry (according to NACE Rev. 2 [[1](#references)]). 
@@ -172,7 +172,7 @@ The breakdown of the final energy demand for fuels into temperature ranges on se
 For the calculation of the heat demand it is assumed that almost all fuel purchases are used for heat. Consistent with option 2 a conversion efficiency from final energy to heat of 90% is assumed for steam-based heat generation.
 
 
-The whole database used for option 3 is available here: [Option3 Database](https://github.com/HotMaps/add_industry_plant_cm/blob/master/HotMaps_CM_Add_industry_plant_V7.xlsx).
+The whole database used for option 3 is available here: [Option3 Database](https://github.com/HotMaps/add_industry_plant_cm/blob/master/CM_add_industry_plant_databases.xlsx)
 
 [**`To Top`**](#table-of-contents)
 
