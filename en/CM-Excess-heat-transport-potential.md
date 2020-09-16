@@ -609,7 +609,8 @@ Ali Aydemir and David Schilling, in Hotmaps Wiki, CM Excess heat transport poten
 ## Authors and reviewers
 
 This page is written by Ali Aydemir \* and David Schilling \*
-- [ ] This page was reviewed by Tobias Fleiter\*.
+
+&#9744; This page was reviewed by Tobias Fleiter\*.
 
 \* [Fraunhofer ISI](https://isi.fraunhofer.de/)
 Fraunhofer ISI, Breslauer Str. 48,
