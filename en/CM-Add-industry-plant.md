@@ -74,10 +74,10 @@ For the generation of the (*.csv*) files in the correct format, it is necessary 
 ![Fig. 6](https://github.com/HotMaps/hotmaps_wiki/raw/master/Images/cm_add_industry_plant/Delimiter2.PNG "Delimiter2")
 
 🔺 <mark>**Note:** 
-For proper use of the Excel-tool you must use point as decimal separator (english standard, f.ex. 40.50). This need to be configured from Excel (as described [here](https://support.microsoft.com/en-us/office/change-the-character-used-to-separate-thousands-or-decimals-c093b545-71cb-4903-b205-aebb9837bd1e).
+For proper use of the Excel-tool you must use **point** as decimal separator (english standard, f.ex. 40.50). This need to be configured from Excel (as described [here](https://support.microsoft.com/en-us/office/change-the-character-used-to-separate-thousands-or-decimals-c093b545-71cb-4903-b205-aebb9837bd1e)).
 The figure below shows the exemplary setting for German Excel.
 
-![Fig. 7](https://github.com/HotMaps/hotmaps_wiki/raw/master/Images/cm_add_industry_plant/Delimiter2.PNG "Decimal")
+![Fig. 7](https://github.com/HotMaps/hotmaps_wiki/raw/master/Images/cm_add_industry_plant/Decimal.png "Decimal")
 
 #### 1) File generation: Subsector
 Please go to tabsheet: ![Fig. 1](https://github.com/HotMaps/hotmaps_wiki/raw/master/Images/cm_add_industry_plant/DataImportSubsector.png "data import subsector")
