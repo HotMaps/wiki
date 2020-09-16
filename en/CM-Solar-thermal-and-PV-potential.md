@@ -209,7 +209,8 @@ Giulia Garegnani, in Hotmaps-Wiki, CM-Solar-PV-potential (April 2019)
 
 This page is written by Giulia Garegnani\*.
 
-and revised by ...
+
+&#9744; This page was reviewed by ...
 
 \* [Urban and Regional Energy System Group - EURAC Bozen](http://www.eurac.edu/en/research/technologies/renewableenergy/researchfields/Pages/Energy-strategies-and-planning.aspx)
 
