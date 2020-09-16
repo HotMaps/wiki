@@ -48,7 +48,6 @@ Daniel Hunacek and Lucien Zuber, in Hotmaps Wiki, Data export functionalities (S
 
 ## Authors and reviewers
 
-
 This page was reviewed by Daniel Hunacek, and Lucien Zuber\*.
 
 &#9744; This page was reviewed by ...
