@@ -232,6 +232,7 @@ Jeton Hasani, in Hotmaps-Wiki, Retrieve-indicators-of-a-selected-area (April 201
 ## Authors and reviewers
 
 This page is written by Jeton Hasani\*.
+
 &#9744;  This page was reviewed by <code>....</code>\.
 
 
