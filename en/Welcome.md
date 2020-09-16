@@ -128,7 +128,7 @@ Ali Aydemir, David Schilling, Lisa Neusel, Tobias Fleiter.\*****
 Daniel Hunacek, Lucien Zuber, Matthieu Dayer,\******
 
 
-- [x] This page was reviewed by Giulia Conforto\***.
+&#9745 This page was reviewed by Giulia Conforto\***.
 
 
 \* [Energy Economics Group - TU Wien](https://eeg.tuwien.ac.at/),
