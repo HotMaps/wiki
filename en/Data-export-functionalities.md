@@ -48,7 +48,7 @@ Daniel Hunacek and Lucien Zuber, in Hotmaps Wiki, Data export functionalities (S
 
 ## Authors and reviewers
 
-This page was reviewed by Daniel Hunacek, and Lucien Zuber\*.
+This page was witten by Daniel Hunacek, and Lucien Zuber\*.
 
 &#9744; This page was reviewed by ...
 
@@ -57,6 +57,7 @@ This page was reviewed by Daniel Hunacek, and Lucien Zuber\*.
 Route du Rawyl 47, 
 
 1950 Sion, Switzerland
+
 
 [**`To Top`**](#table-of-contents)
 
