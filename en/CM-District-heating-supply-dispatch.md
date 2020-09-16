@@ -124,7 +124,8 @@ Jeton Hasani, in Hotmaps Wiki, CM District heating supply dispatch (September 20
 
 ## Authors and reviewers
 This page is written by Jeton Hasani\*.
-[ ] This page was reviewed by Lukas Kranzl\*.
+
+&#9744; This page was reviewed by Lukas Kranzl\*.
 
 \* [Energy Economics Group - TU Wien](https://eeg.tuwien.ac.at/)
 Institute of Energy Systems and Electrical Drives
