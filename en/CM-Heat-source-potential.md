@@ -113,7 +113,7 @@ Pietro Zambelli, in Hotmaps-Wiki, CM-Heatsource-potential (September 2020)
 ## Authors and reviewers
 
 This page is written by Pietro Zambelli\*.
-- [ ] This page was reviewed by Simon Pezzutto\*.
+&#9744; This page was reviewed by Simon Pezzutto\*.
 
 
 \* [Urban and Regional Energy System Group - EURAC Bozen](http://www.eurac.edu/en/research/technologies/renewableenergy/researchfields/Pages/Energy-strategies-and-planning.aspx)
