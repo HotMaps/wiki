@@ -190,17 +190,17 @@ Anders M. Odgaard, in Hotmaps-Wiki, Concept for using Hotmaps for district cooli
 
 ## Authors and reviewers
 
-This page is written by Anders M. Odgaard*.
+This page is written by Anders M. Odgaard \*.
 
-This page was reviewed by Mostafa Fallahnejad** and Marcus Hummel ***.
+This page was reviewed by Mostafa Fallahnejad \** and Marcus Hummel \***.
 
-* PlanEnergi
+\* PlanEnergi
 
 Jyllandsgade 1
 
 DK-9520 Skørping
 
-** Energy Economics Group - TU Wien
+\** Energy Economics Group - TU Wien
 
 Institute of Energy Systems and Electrical Drives
 
@@ -208,7 +208,7 @@ Gusshausstrasse 27-29/370
 
 AT-1040 Wien
 
-*** e-think
+\*** e-think
 
 Zentrum f. Energiewirtschaft und Umwelt
 
