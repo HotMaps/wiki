@@ -416,7 +416,7 @@ Mostafa Fallahnejad, in Hotmaps-Wiki, Hotmaps-data-repository-structure (May 201
 
 This page is written by Mostafa Fallahnejad\*.
 
-- [x] This page was reviewed by Lukas Kranzl\*.
+&#9745;  This page was reviewed by Lukas Kranzl\*.
 
 \* [Energy Economics Group - TU Wien](https://eeg.tuwien.ac.at/)
 
