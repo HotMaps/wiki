@@ -44,7 +44,7 @@ Mostafa Fallahnejad, in Hotmaps-Wiki, Hotmaps-open-data-set-data-collection (May
 
 This page is written by Mostafa Fallahnejad\*.
 
-- [ ] This page was reviewed by Lukas Kranzl\*.
+&#9744;  This page was reviewed by Lukas Kranzl\*.
 
 \* [Energy Economics Group - TU Wien](https://eeg.tuwien.ac.at/)
 
