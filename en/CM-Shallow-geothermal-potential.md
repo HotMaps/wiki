@@ -83,7 +83,8 @@ Pietro Zambelli and Giulia Garegnani, in Hotmaps Wiki, CM Shallow geothermal pot
 ## Authors and reviewers
 
 This page is written by Pietro Zambelli and Giulia Garegnani\*.
-- [ ] This page was reviewed by Simon Pezzutto\*.
+
+&#9744; This page was reviewed by Simon Pezzutto\*.
 
 
 \* [Urban and Regional Energy System Group - EURAC Bozen](http://www.eurac.edu/en/research/technologies/renewableenergy/researchfields/Pages/Energy-strategies-and-planning.aspx)
