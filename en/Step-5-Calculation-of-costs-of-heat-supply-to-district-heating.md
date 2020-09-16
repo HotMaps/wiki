@@ -70,7 +70,8 @@ Marcus Hummel, Giulia Conforto, in Hotmaps-Wiki, Guidelines for using the Hotmap
 
 ## Authors and reviewers
 This page is written by Marcus Hummel and Giulia Conforto\*.
-- This page was reviewed by ...\.
+
+&#9744;  This page was reviewed by ...
 
 \* [e-think](https://e-think.ac.at/),
 Zentrum f. Energiewirtschaft und Umwelt,
@@ -81,7 +82,7 @@ Argentinierstrasse 18/10,
 
 
 ## License
-Copyright © 2016-2019: Marcus Hummel
+Copyright © 2016-2019: Marcus Hummel, Giulia Conforto
 
 Creative Commons Attribution 4.0 International License
 This work is licensed under a Creative Commons CC BY 4.0 International License.
