@@ -60,7 +60,7 @@ Argentinierstrasse 18/10,
 
 
 ## License
-Copyright © 2016-2019: Marcus Hummel
+Copyright © 2016-2019: Marcus Hummel, Giulia Conforto
 
 Creative Commons Attribution 4.0 International License
 This work is licensed under a Creative Commons CC BY 4.0 International License.
