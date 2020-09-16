@@ -117,7 +117,7 @@ This page is written by the Hotmaps Team and namely by:
 
 Lukas Kranzl, Mostafa Fallahnejad, Jeton Hasani,\*
 
-Thierry Bernhard, Lesly Houndole and Albain Dufils,\**
+Thierry Bernhard, Lesly Houndole, Albain Dufils,\**
 
 Marcus Hummel, Andreas Müller, Giulia Conforto, David Schmidinger,\***
 
@@ -128,7 +128,7 @@ Ali Aydemir, David Schilling, Lisa Neusel, Tobias Fleiter.\*****
 Daniel Hunacek, Lucien Zuber, Matthieu Dayer,\******
 
 
-This page was reviewed by Giulia Conforto\***.
+- [x] This page was reviewed by Giulia Conforto\***.
 
 
 \* [Energy Economics Group - TU Wien](https://eeg.tuwien.ac.at/),
