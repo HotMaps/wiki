@@ -82,10 +82,18 @@ The figure below shows the exemplary setting for German Excel.
 #### 1) File generation: Subsector
 Please go to tabsheet: ![Fig. 1](https://github.com/HotMaps/hotmaps_wiki/raw/master/Images/cm_add_industry_plant/DataImportSubsector.png "data import subsector")
 
+Export the table as *.csv* by clicking on: 
+
+![Fig. 8](https://github.com/HotMaps/hotmaps_wiki/raw/master/Images/cm_add_industry_plant/Export_subsector.PNG "export subsector")
+
 Copy the whole sheet into a new Excel-File and save it in the format: (*.csv*)
 
 #### 2) File generation: Excess heat
 Please go to tabsheet: ![Fig. 2](https://github.com/HotMaps/hotmaps_wiki/raw/master/Images/cm_add_industry_plant/Data_Import_Excess_Heat.PNG "data import excess heat")
+
+Export the table as *.csv* by clicking on: 
+
+![Fig. 9](https://github.com/HotMaps/hotmaps_wiki/raw/master/Images/cm_add_industry_plant/Export_EH.PNG "export EH")
 
 Copy the whole sheet into a new Excel-File and save it in the format: (*.csv*)
 
