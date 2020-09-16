@@ -183,7 +183,10 @@ Giulia Conforto and David Schmidinger, in Hotmaps-Wiki, CM-Scenario-assessment (
 
 ## Authors and reviewers
 
-- This page is written by Giulia Conforto and David Schmidinger\*.
+This page is written by Giulia Conforto and David Schmidinger\*.
+
+&#9744; This page was reviewed by Lukas Kranzl\*.
+
 
 \* [e-think - energy research](http://e-think.ac.at/)
 
@@ -191,8 +194,6 @@ Argentinierstrasse 18/10
 
 A-1040 Wien, Austria
 
-
-- This page was reviewed by Lukas Kranzl\*.
 
 \* [Energy Economics Group - TU Wien](https://eeg.tuwien.ac.at/)
 
