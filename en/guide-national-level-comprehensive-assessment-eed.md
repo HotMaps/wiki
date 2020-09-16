@@ -126,6 +126,7 @@ Marcus Hummel, Giulia Conforto, in Hotmaps-Wiki, Guidelines for using the Hotmap
 ## Authors and reviewers
 
 This page is written by Marcus Hummel and Giulia Conforto\*.
+
 &#9744; This page was reviewed by Lukas Kranzl\**.
 
 \* [e-think](https://e-think.ac.at/),
