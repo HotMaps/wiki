@@ -48,12 +48,16 @@ Daniel Hunacek and Lucien Zuber, in Hotmaps Wiki, Data export functionalities (S
 
 ## Authors and reviewers
 
-Authors:
 
-- Daniel Hunacek
-- Lucien Zuber
+This page was reviewed by Daniel Hunacek, and Lucien Zuber\*.
 
-Reviewers:
+&#9744; This page was reviewed by ...
+
+\* [HES-SO Valais-Wallis - Institute of Sustainable Energy](https://www.hevs.ch/de/afe-institute/institut-energie-und-umwelt/)
+
+Route du Rawyl 47, 
+
+1950 Sion, Switzerland
 
 [**`To Top`**](#table-of-contents)
 
