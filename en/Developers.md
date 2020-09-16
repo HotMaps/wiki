@@ -183,13 +183,15 @@ Daniel Hunacek, Lucien Zuber, Matthieu Dayer, in Hotmaps Wiki, Developers Sectio
 
 ## Authors and reviewers
 
-Authors:
+This page was witten by Daniel Hunacek, Lucien Zuber, and Matthieu Dayer\*.
 
-- Daniel Hunacek
-- Lucien Zuber
-- Matthieu Dayer
+&#9744; This page was reviewed by ...
 
-Reviewers:
+\* [HES-SO Valais-Wallis - Institute of Sustainable Energy](https://www.hevs.ch/de/afe-institute/institut-energie-und-umwelt/)
+
+Route du Rawyl 47, 
+
+1950 Sion, Switzerland
 
 
 [**`To Top`**](#table-of-contents)
