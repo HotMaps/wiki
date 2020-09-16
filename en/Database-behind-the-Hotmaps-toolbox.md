@@ -43,6 +43,8 @@ TBD (CREM)
 [**`To Top`**](#table-of-contents)
 
 >>>>>>> prod-test-revert
+
+
 ## Technologies
 
 The technologies used for the database are:
@@ -69,12 +71,16 @@ Daniel Hunacek and Lucien Zuber, in Hotmaps Wiki, Database behind the Hotmaps to
 
 ## Authors and reviewers
 
-Authors:
+This page was witten by Daniel Hunacek, and Lucien Zuber\*.
 
-- Daniel Hunacek
-- Lucien Zuber
+&#9744; This page was reviewed by ...
 
-Reviewers:
+\* [HES-SO Valais-Wallis - Institute of Sustainable Energy](https://www.hevs.ch/de/afe-institute/institut-energie-und-umwelt/)
+
+Route du Rawyl 47, 
+
+1950 Sion, Switzerland
+
 
 [**`To Top`**](#table-of-contents)
 
