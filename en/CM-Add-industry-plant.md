@@ -187,7 +187,7 @@ The whole database used for option 3 is available here: [Option3 Database](https
 [**`To Top`**](#table-of-contents)
 
 ## How to cite
-Lisa Neusel, in Hotmaps-Wiki, en-CM-Add-industry-plant
+Ali Aydemir and Lisa Neusel, in Hotmaps-Wiki, en-CM-Add-industry-plant
 (September 2019)
 
 [**`To Top`**](#table-of-contents)
