@@ -126,16 +126,22 @@ Marcus Hummel, Giulia Conforto, in Hotmaps-Wiki, Guidelines for using the Hotmap
 ## Authors and reviewers
 
 This page is written by Marcus Hummel and Giulia Conforto\*.
-- This page was reviewed by Lukas Kranzl\**.
+&#9744; This page was reviewed by Lukas Kranzl\**.
 
 \* [e-think](https://e-think.ac.at/),
+
 Zentrum f. Energiewirtschaft und Umwelt,
+
 Argentinierstrasse 18/10,
+
 1040 Wien
 
 \** [Energy Economics Group - TU Wien](https://eeg.tuwien.ac.at/),
+
 Institute of Energy Systems and Electrical Drives,
+
 Gusshausstrasse 27-29/370,
+
 1040 Wien
 
 
