@@ -113,6 +113,7 @@ Pietro Zambelli, in Hotmaps-Wiki, CM-Heatsource-potential (September 2020)
 ## Authors and reviewers
 
 This page is written by Pietro Zambelli\*.
+
 &#9744; This page was reviewed by Simon Pezzutto\*.
 
 
