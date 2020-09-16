@@ -42,19 +42,22 @@ The technologies are for example as follows:
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
 
-##Data Sources:
+##Inputs: 
 
+###Default input data 
+
+The default input data is taken from the following datasets: 
 -   NUTS Raster
 -   Building stock (NUTS0 Level): useful energy demand by building class and
     construction period
 -   Load profiles (NUTS2 Level)
 -   Financial Data - Heating Systems (NUTS0 Level)
--   Financial Data - Energy Carrier Prices (NUTS0 Level):
+-   Financial Data - Energy Carrier Prices (NUTS0 Level)
 
-<code><ins>**[To Top](#table-of-contents)**</ins></code>
 
-##Inputs: 
+###Manual input data 
 
+The following data is manually inputted: 
 -   Selection of an interesting area
 -   Savings in space heating,
 -   Gross floor area
@@ -64,7 +67,7 @@ The technologies are for example as follows:
 -   Building Type
 -   Emission factors per energy carrier
 
-**IMPORTANT NOTE** Biomass emissions are not assumed as zero. The storage of carbon dioxide in trees happens over decades, while its release in the atmosphere takes place all at once. Therefore, the net carbon balance of biomass can be considered zero in the long run, but not in the short run. Hotmaps aims at supporting the ongoing energy transition and considering biomass as a carbon neutral source of energy would be a potential step backward for climate change mitigation efforts. 
+**IMPORTANT NOTE** In Hotmaps biomass emissions are not assumed zero because Hotmaps is a tool aimed at supporting the ongoing energy transition. Considering biomass as a carbon-neutral source of energy implies that burning biomass reduces the current total emissions compared to burning fossil fuels, which is not true. The storage of carbon dioxide in trees happens over decades, while its release in the atmosphere takes place all at once. Therefore, the net carbon balance of biomass is zero in the long run, but not in the short run and climate change mitigation measures need to bring results in reducing carbon emissions in the short run.
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
 
