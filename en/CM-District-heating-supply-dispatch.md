@@ -1,3 +1,5 @@
+<h1>CM District heating supply dispatch</h1>
+
 ## Table of Contents
 * [In a glance](#in-a-glance)
 * [Introduction](#introduction)
@@ -122,7 +124,7 @@ Jeton Hasani, in Hotmaps Wiki, CM District heating supply dispatch (September 20
 
 ## Authors and reviewers
 This page is written by Jeton Hasani\*.
-- [ ] This page was reviewed by Lukas Kranzl\*.
+[ ] This page was reviewed by Lukas Kranzl\*.
 
 \* [Energy Economics Group - TU Wien](https://eeg.tuwien.ac.at/)
 Institute of Energy Systems and Electrical Drives
