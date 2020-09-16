@@ -230,15 +230,17 @@ Jeton Hasani, in Hotmaps-Wiki, Retrieve-indicators-of-a-selected-area (April 201
 [**`To Top`**](#table-of-contents)
 
 ## Authors and reviewers
-<code>[Review this page !](CM-Access/_edit)</code>
 
 This page is written by Jeton Hasani\*.
-- [ ] This page was reviewed by <code>....</code>\.
+&#9744;  This page was reviewed by <code>....</code>\.
 
 
 \* [Energy Economics Group - TU Wien](https://eeg.tuwien.ac.at/)
+
 Institute of Energy Systems and Electrical Drives
+
 Gusshausstrasse 27-29/370
+
 1040 Wien
 
 
