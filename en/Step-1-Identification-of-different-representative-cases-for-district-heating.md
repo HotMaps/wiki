@@ -127,7 +127,8 @@ Marcus Hummel, Giulia Conforto, in Hotmaps-Wiki, Guidelines for using the Hotmap
 
 ## Authors and reviewers
 This page is written by Marcus Hummel and Giulia Conforto\*.
-- This page was reviewed by ...\**.
+
+&#9744;  This page was reviewed by ...
 
 \* [e-think](https://e-think.ac.at/),
 Zentrum f. Energiewirtschaft und Umwelt,
