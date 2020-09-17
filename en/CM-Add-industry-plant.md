@@ -33,7 +33,7 @@ The figure below shows the exemplary setting for German Excel.
 
 ### Data input in Excel-tool by user
 
-Please download the provided Excel-tool [HERE](https://github.com/HotMaps/add_industry_plant_cm/blob/master/HotMaps_CM_Add_industry_plant_V7.xlsx).
+Please download the provided Excel-tool [HERE](https://github.com/HotMaps/add_industry_plant_cm/blob/master/HotMaps_CM_Add_industry_plant_V14.xlsm).
 
 The approach how to use the Excel-tool is illustrated in the figure below and described in more detail in the following sections.
 
