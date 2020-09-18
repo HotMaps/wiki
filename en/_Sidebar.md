@@ -1,5 +1,5 @@
 ## Wiki Introduction
-* [Welcome page](Welcome)
+* [Welcome page](Home)
 
 ## How to apply Hotmaps toolbox
 * [Guideline: Hotmaps toolbox on local level](guide-local-and-municipal-levels)
