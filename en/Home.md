@@ -3,7 +3,7 @@
 ## Hotmaps toolbox
 
 Heating and cooling in residential and industrial sectors account for half of the EU’s energy consumption. More than 80% of heating and cooling is still generated from fossil fuels [[1](#references)]. Meanwhile, heat losses are also significantly high. This sector needs to be transformed! 
-Hotmaps is a website that allows you to provide within 5 minutes a first estimation of the heating and cooling demand in any European region as well as the local renewable energy potential to meet this demand. Subsequently, by using more detailed data and applying Hotmpas calculation modules, much more comprehensive heating and cooling strategies can be elaborate.
+Hotmaps is a website that allows you to provide within 5 minutes a first estimation of the heating and cooling demand in any European region as well as the local renewable energy potential to meet this demand. Subsequently, by using more detailed data and applying Hotmaps calculation modules, much more comprehensive heating and cooling strategies can be elaborate.
 What we offer is open-source online software that supports the planning processes of the energy sector at local and national levels in a transparent manner. We provide:
 * A starting data set, 
 * Customisations of the software for your specific needs, 
@@ -26,7 +26,7 @@ The Hotmaps Wiki hosts the documentation, guidance and manual of the Hotmaps too
 
 The [Data sets](#data-sets) section provides information about Hotmaps data set repositories and also methodologies for gathering these data sets.
 
-The [General tool functionalities and strucure](#general-tool-functionalities-and-structure) section guides the user through the interface of the toolbox. The section covers all general aspects of the toolbox, which are related to the user experience, e.g. navigating through different parts of the toolbox, layer selection, retrieving indicators, data upload and export functionalities etc.
+The [General tool functionalities and structure](#general-tool-functionalities-and-structure) section guides the user through the interface of the toolbox. The section covers all general aspects of the toolbox, which are related to the user experience, e.g. navigating through different parts of the toolbox, layer selection, retrieving indicators, data upload and export functionalities etc.
 
 The [Calculation Modules](#calculation-modules-cm) section provides an in-depth explanation of concepts and methodologies behind the calculation modules. Besides the explanation of the methodology, the provided examples and test runs for each calculation module help the user to obtain an understanding of input parameters and output results. Some calculation modules are integrated into the toolbox, while others are stand-alone.
 
