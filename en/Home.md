@@ -2,18 +2,14 @@
 
 ## Hotmaps toolbox
 
-Heating and cooling in residential and industrial sectors account for half of the EU’s energy consumption. More than 80% of heating and cooling is still generated from fossil fuels [[1](#references)]. Meanwhile, heat losses are also significantly high. This sector needs to be transformed! 
-Hotmaps is a website that allows you to provide within 5 minutes a first estimation of the heating and cooling demand in any European region as well as the local renewable energy potential to meet this demand. Subsequently, by using more detailed data and applying Hotmaps calculation modules, much more comprehensive heating and cooling strategies can be elaborate.
-What we offer is open-source online software that supports the planning processes of the energy sector at local and national levels in a transparent manner. We provide:
-* A starting data set, 
-* Customisations of the software for your specific needs, 
-* Training and support services.
+Heating and cooling in residential and industrial sectors account for half of the EU’s energy consumption. More than 80% of heating and cooling is still generated from fossil fuels [[1](#references)]. Meanwhile, heat losses are also significantly high. This sector needs to be transformed!
 
-Thanks to this software, you will be able to make practical decisions in your area of interest (village, town, city, region, etc.). The value of Hotmaps has been applied and demonstrated in seven pilot areas. The Hotmaps website was developed by leading research institutions across Europe together with city administrations. Go on the website by clicking [HERE](https://www.hotmaps.hevs.ch/map) and discover your city’s climate-neutral energy future. 
+Hotmaps offers an open-source online software that supports the planning processes of the energy sector at local and national levels in a transparent manner. It is a website that allows you to provide within 5 minutes a first estimation of the heating and cooling demand in any European region as well as the local renewable energy potential to meet this demand. Subsequently, by using more detailed data and applying Hotmaps calculation modules, much more comprehensive heating and cooling strategies can be elaborated. Thanks to this software, you will be able to make practical decisions in your area of interest (village, town, city, region, etc.). The applicability of Hotmaps has been proven and demonstrated in seven pilot areas. 
+
+The Hotmaps toolbox was developed by leading research institutions across Europe together with city administrations. Go on the website by clicking [HERE](https://www.hotmaps.eu/map) and discover your city’s climate-neutral energy future. 
 
 
-## How to use the Hotmaps toolbox for heating and cooling planning 
-**Welcome to the Hotmaps Wiki!**
+## Hotmaps Wiki
 
 The Hotmaps Wiki hosts the documentation, guidance and manual of the Hotmaps toolbox. It consists of the following main parts:
 
@@ -23,14 +19,15 @@ The Hotmaps Wiki hosts the documentation, guidance and manual of the Hotmaps too
 1. **How to apply the Hotmaps toolbox?**
 1. **Developers**.
 
+These sections are accessible in all Wiki pages in the sidebar.
 
-The [Data sets](#data-sets) section provides information about Hotmaps data set repositories and also methodologies for gathering these data sets.
+The **Data sets** section provides information about Hotmaps data set repositories as well as methodologies for gathering these data sets.
 
-The [General tool functionalities and structure](#general-tool-functionalities-and-structure) section guides the user through the interface of the toolbox. The section covers all general aspects of the toolbox, which are related to the user experience, e.g. navigating through different parts of the toolbox, layer selection, retrieving indicators, data upload and export functionalities etc.
+The **General tool functionalities and structure** section guides the user through the interface of the toolbox. The section covers all general aspects of the toolbox, which are related to the user experience, e.g. navigating through different parts of the toolbox, layer selection, retrieving indicators, data upload and export functionalities etc.
 
-The [Calculation Modules](#calculation-modules-cm) section provides an in-depth explanation of concepts and methodologies behind the calculation modules. Besides the explanation of the methodology, the provided examples and test runs for each calculation module help the user to obtain an understanding of input parameters and output results. Some calculation modules are integrated into the toolbox, while others are stand-alone.
+The **Calculation Modules** section provides an in-depth explanation of concepts and methodologies behind the calculation modules. Besides the explanation of the methodology, the provided examples and test runs for each calculation module help the user to obtain an understanding of input parameters and output results. Some calculation modules are integrated into the toolbox, while others are stand-alone.
 
-The [How to apply the Hotmaps toolbox?](#how-to-apply-the-hotmaps-toolbox) is an important section of this wiki. It helps Hotmaps users to perform heating and cooling planning with the Hotmaps toolbox. It includes guidelines on the use of Hotmaps at the local and national levels, as well and training materials and handbooks. Each calculation module can be used to analyze different parts of the heating and cooling system and different research questions. The calculation modules can also be used as a chain of tools to derive scenarios for heating and cooling of defined regions/areas. For the demonstration of the Hotmaps toolbox the calculation modules are used according to the following toolchain:
+The section "**How to apply the Hotmaps toolbox?**" is one of the most important sections of this wiki. It helps Hotmaps users to perform heating and cooling planning with the Hotmaps toolbox and includes guidelines on using Hotmaps at the local and national levels, as well and training materials. This section illustrates how different calculation module can be used to analyze different aspects of the heating and cooling system and different research questions. Furthermore, it shows, how the calculation modules can also be used as a chain of tools to derive scenarios for heating and cooling of certain areas. This toolchain is depicted schematically below:
 
 ![](../images/Hotmaps_toolchain_2019-05-09.png =684x)
 <p align="center">
@@ -46,7 +43,7 @@ For additional supports on heating and cooling planning, please refer to the Hot
 * [Training Material](https://wiki.hotmaps.hevs.ch/Training-Material)
 
 
-The [Developers](#for-developers) section contains all information required for developers to contribute to the Hotmaps toolbox or to understand how it works. It explains the IT infrastructure of the Hotmaps toolbox, data set integration, contribution in calculation module development, etc.
+The **Developers** section contains all information required for developers to contribute to the Hotmaps toolbox or to understand how it works. It explains the IT infrastructure of the Hotmaps toolbox, data set integration, contribution in calculation module development, etc.
 
 **The Hotmaps Wiki is a living document**, i.e. it grows as the Hotmaps toolbox grows. The Hotmaps developers continue updating Hotmaps Wiki pages by the introduction of new updates, improvements, functionalities, and calculation modules. Please use these [Guidelines for writing a Hotmaps Wiki page](Guidelines-for-writing-a-Hotmaps-Wiki-page).
 
