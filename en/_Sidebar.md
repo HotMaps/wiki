@@ -1,13 +1,6 @@
 ## Wiki Introduction
 * [Welcome page](Home)
 
-## How to apply Hotmaps toolbox
-* [Guideline: Hotmaps toolbox on local level](guide-local-and-municipal-levels)
-* [Guideline: Hotmaps toolbox on national level](guide-national-level-comprehensive-assessment-eed)
-* [Concept for using Hotmaps for district cooling](District-Cooling)
-* [Training material](training-material)
-
-
 ## Data sets
 * [Hotmaps data set: Method of data collection](Hotmaps-data-set-method-of-data-collection)
 * [Hotmaps open data repositories](Hotmaps-open-data-repositories)
@@ -41,6 +34,14 @@
 * [CM - Scenario assessment](CM-Scenario-assessment)
 * [CM - Add industry plant](CM-Add-industry-plant)
 * [CM - Vehicle stock at NUTS 2 level](CM-Vehicle-stock-at-NUTS-2-level)
+
+
+
+## How to apply Hotmaps toolbox
+* [Guideline: Hotmaps toolbox on local level](guide-local-and-municipal-levels)
+* [Guideline: Hotmaps toolbox on national level](guide-national-level-comprehensive-assessment-eed)
+* [Concept for using Hotmaps for district cooling](District-Cooling)
+* [Training material](training-material)
 
 
 ## For Developers
