@@ -42,12 +42,9 @@ Mostafa Fallahnejad, in Hotmaps-Wiki, Hotmaps-open-data-set-data-collection (May
 
 ## Authors and reviewers
 
-This page is written by Mostafa Fallahnejad\*.
+This page is written by **Mostafa Fallahnejad** ([EEG - TU Wien](https://eeg.tuwien.ac.at/)).
 
-&#9745; This page was reviewed by Marcus Hummel\**.
-
-\* [Energy Economics Group - TU Wien](https://eeg.tuwien.ac.at/)
-\** [e-think](https://e-think.ac.at/)
+&#9745; This page was reviewed by **Marcus Hummel** ([e-think](https://e-think.ac.at/))
 
 
 [**`To Top`**](#table-of-contents)
