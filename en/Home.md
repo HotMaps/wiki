@@ -17,11 +17,11 @@ Thanks to this software, you will be able to make practical decisions in your ar
 
 The Hotmaps Wiki hosts the documentation, guidance and manual of the Hotmaps toolbox. It consists of the following main parts:
 
-1. [Data sets](#data-sets)
-1. [General toolbox functionalities](#general-tool-functionalities-and-structure),
-1. [Calculation modules](#calculation-modules-cm),
-1. [How to apply the Hotmaps toolbox?](#how-to-apply-the-hotmaps-toolbox)
-1. [Developers](#for-developers) section.
+1. **Data sets,**
+1. **General toolbox functionalities,**
+1. **Calculation modules,**
+1. **How to apply the Hotmaps toolbox?**
+1. **Developers**.
 
 
 The [Data sets](#data-sets) section provides information about Hotmaps data set repositories and also methodologies for gathering these data sets.
@@ -30,54 +30,12 @@ The [General tool functionalities and structure](#general-tool-functionalities-a
 
 The [Calculation Modules](#calculation-modules-cm) section provides an in-depth explanation of concepts and methodologies behind the calculation modules. Besides the explanation of the methodology, the provided examples and test runs for each calculation module help the user to obtain an understanding of input parameters and output results. Some calculation modules are integrated into the toolbox, while others are stand-alone.
 
-The [How to apply the Hotmaps toolbox?](#how-to-apply-the-hotmaps-toolbox) section is to guide the Hotmaps users to perform heating and cooling planning with the Hotmaps toolbox. It includes guidelines on the use of Hotmaps at the local and national levels, as well and training materials and handbooks.
+The [How to apply the Hotmaps toolbox?](#how-to-apply-the-hotmaps-toolbox) is an important section of this wiki. It helps Hotmaps users to perform heating and cooling planning with the Hotmaps toolbox. It includes guidelines on the use of Hotmaps at the local and national levels, as well and training materials and handbooks. Each calculation module can be used to analyze different parts of the heating and cooling system and different research questions. The calculation modules can also be used as a chain of tools to derive scenarios for heating and cooling of defined regions/areas. For the demonstration of the Hotmaps toolbox the calculation modules are used according to the following toolchain:
 
-The [Developers](#for-developers) section contains all information required for developers to contribute to the Hotmaps toolbox or to understand how it works. It explains the IT infrastructure of the Hotmaps toolbox, data set integration, contribution in calculation module development, etc.
-
-**The Hotmaps Wiki is a living document**, i.e. it grows as the Hotmaps toolbox grows. The Hotmaps developers continue updating Hotmaps Wiki pages by the introduction of new updates, improvements, functionalities, and calculation modules. Please use these [Guidelines for writing a Hotmaps Wiki page](Guidelines-for-writing-a-Hotmaps-Wiki-page).
-
-We hope you enjoy exploring the toolbox and find it helpful for your heating and cooling planning!
-
-## Data sets
-* [Hotmaps data set: Method of data collection](Hotmaps-data-set-method-of-data-collection)
-* [Hotmaps open data repositories](Hotmaps-open-data-repositories)
-
-## General tool functionalities and structure
-* [Introduction to user interface](Introduction-to-user-interface)
-* [Layers section in the Hotmaps toolbox](Layers-section-in-the-Hotmaps-toolbox)
-* [Select a region in the Hotmaps toolbox](Select-a-region-in-the-Hotmaps-toolbox)
-* [Retrieve indicators of a selected area](Retrieve-indicators-of-a-selected-area)
-* [Access to calculation modules](Access-to-calculation-modules)
-* [Database behind the Hotmaps toolbox](Database-behind-the-Hotmaps-toolbox)
-* [Data upload functionalities](Data-upload-functionalities)
-* [Data export functionalities](Data-export-functionalities)
-
-## Calculation modules (CM)
-* [CM - Customized heat and gross floor area density maps](CM-Customized-heat-and-floor-area-density-maps)
-* [CM - Scale heat and cool density maps](CM-Scale-heat-and-cool-density-maps)
-* [CM - Demand projection](CM-Demand-projection)
-* [CM - Heat load profiles](CM-Heat-load-profiles)
-* [CM - District heating potential areas: user-defined thresholds](CM-District-heating-potential-areas-user-defined-thresholds)
-* [CM - District heating potential: economic assessment](CM-District-heating-potential-economic-assessment)
-* [CM - District heating supply dispatch](CM-District-heating-supply-dispatch)
-* [CM - Decentral heating supply](CM-Decentral-heating-supply)  
-* [CM - Solar thermal and PV potential](CM-Solar-thermal-and-PV-potential)
-* [CM - Shallow geothermal potential](CM-Shallow-geothermal-potential)
-* [CM - Heat source potential](CM-Heat-source-potential)
-* [CM - Biomass potential](CM-Biomass-potential)
-* [CM - Wind potential](CM-Wind-potential)
-* [CM - Excess heat transport potential](CM-Excess-heat-transport-potential)
-* [CM - Add industry plant](CM-add-industry-plant)
-* [CM - Scenario assessment](CM-Scenario-assessment)
-* [CM - Vehicle stock at NUTS 2 level](CM-Vehicle-stock-at-NUTS-2-level)
-
-## How to apply the Hotmaps toolbox
-Each calculation module can be used to analyze different parts of the heating and cooling system and different research questions. The calculation modules can also be used as a chain of tools to derive scenarios for heating and cooling of defined regions/areas. For the demonstration of the Hotmaps toolbox the calculation modules are used according to the following toolchain:
-
-![](../images/Hotmaps_toolchain_2019-05-09.png)
-
-* [Guideline for using the Hotmaps toolbox on local level](guide-local-and-municipal-levels)
-* [Guideline for using the Hotmaps toolbox on national level](guide-national-level-comprehensive-assessment-eed)
+![](../images/Hotmaps_toolchain_2019-05-09.png =684x)
+<p align="center">
+  <img src="../images/Hotmaps_toolchain_2019-05-09.png" alt="drawing" width="550"/>
+</p>
 
 
 For additional supports on heating and cooling planning, please refer to the Hotmaps handbooks and to the Training Material page:
@@ -88,9 +46,12 @@ For additional supports on heating and cooling planning, please refer to the Hot
 * [Training Material](https://wiki.hotmaps.hevs.ch/Training-Material)
 
 
-## For developers
-* [Developers section](Developers)
-* [Guidelines for defining indicators](Guidelines-for-defining-indicators)
+The [Developers](#for-developers) section contains all information required for developers to contribute to the Hotmaps toolbox or to understand how it works. It explains the IT infrastructure of the Hotmaps toolbox, data set integration, contribution in calculation module development, etc.
+
+**The Hotmaps Wiki is a living document**, i.e. it grows as the Hotmaps toolbox grows. The Hotmaps developers continue updating Hotmaps Wiki pages by the introduction of new updates, improvements, functionalities, and calculation modules. Please use these [Guidelines for writing a Hotmaps Wiki page](Guidelines-for-writing-a-Hotmaps-Wiki-page).
+
+We hope you enjoy exploring the toolbox and find it helpful for your heating and cooling planning!
+
 
 
 **HAVE FUN EXPLORING THE HOTMAPS TOOLBOX!**
@@ -113,78 +74,26 @@ The Hotmaps Team, in Hotmaps-Wiki, Welcome page (September 2020)
 
 This page is written by the Hotmaps Team and namely by: 
 
-Lukas Kranzl, Mostafa Fallahnejad, Jeton Hasani,\*
 
-Thierry Bernhard, Lesly Houndole, Albain Dufils,\**
+**[EEG - TU Wien](https://eeg.tuwien.ac.at/)**: Lukas Kranzl, Mostafa Fallahnejad, Jeton Hasani
 
-Marcus Hummel, Andreas Müller, Giulia Conforto, David Schmidinger,\***
+**[CREM](https://www.crem.ch/)**: Thierry Bernhard, Lesly Houndole, Albain Dufils
 
-Pietro Zambelli, Giulia Garegnani,\****
+**[e-think](https://e-think.ac.at)**: Marcus Hummel, Andreas Müller, Giulia Conforto, David Schmidinger
 
-Ali Aydemir, David Schilling, Lisa Neusel, Tobias Fleiter.\*****
+**[EURAC](http://www.eurac.edu)**: Pietro Zambelli, Giulia Garegnani,
 
-Daniel Hunacek, Lucien Zuber, Matthieu Dayer,\******
+**[Fraunhofer ISI](https://isi.fraunhofer.de/)**: Ali Aydemir, David Schilling, Lisa Neusel, Tobias Fleiter
 
-
-&#9745; This page was reviewed by Giulia Conforto\***.
+**[HES-SO](https://www.hevs.ch)**: Daniel Hunacek, Lucien Zuber, Matthieu Dayer
 
 
-\* [Energy Economics Group - TU Wien](https://eeg.tuwien.ac.at/),
 
-Institute of Energy Systems and Electrical Drives,
-
-Gusshausstrasse 27-29/370,
-
-1040 Wien, Austria
-
-
-\** [CREM](https://www.crem.ch/)
-
-Centre de Recherches Energétiques et Municipales
-
-Rue Marconi 19 - CP 256,
-
-CH-1920 Martigny, Switzerland
-
-
-\*** [e-think](https://e-think.ac.at/),
-
-Zentrum f. Energiewirtschaft und Umwelt,
-
-Argentinierstrasse 18/10,
-
-1040 Wien, Austria
-
-
-\**** [EURAC Bozen - Urban and Regional Energy System Group]
-(http://www.eurac.edu/en/research/technologies/renewableenergy/researchfields/Pages/Energy-strategies-and-planning.aspx)
-
-Institute of Renewable Energy Drususallee,
-
-Viale Druso 1,
-
-I-39100 Bozen/Bolzano, Italy
-
-
-\***** [Fraunhofer ISI](https://isi.fraunhofer.de/)
-
-Breslauer Str. 48, 
-
-76139 Karlsruhe, Germany
-
-
-\****** [HES-SO Valais-Wallis - Institute of Sustainable Energy](https://www.hevs.ch/de/afe-institute/institut-energie-und-umwelt/)
-
-Route du Rawyl 47, 
-
-1950 Sion, Switzerland
-
-
-<code><ins>**[To Top](#table-of-contents)**</ins></code>
+&#9745; This page was reviewed by Giulia Conforto.
 
 
 ## License
-Copyright © 2016-2019: Lukas Kranzl, Mostafa Fallahnejad, Jeton Hasani, Thierry Bernhard, Lesly Houndole and Albain Dufils, Marcus Hummel, Giulia Conforto, David Schmidinger, Pietro Zambelli, Giulia Garegnani, Ali Aydemir, David Schilling, Lisa Neusel, Tobias Fleiter, Daniel Hunacek, Lucien Zuber, Matthieu Dayer.
+Copyright © 2016-2020: Lukas Kranzl, Mostafa Fallahnejad, Jeton Hasani, Thierry Bernhard, Lesly Houndole and Albain Dufils, Marcus Hummel, Giulia Conforto, David Schmidinger, Pietro Zambelli, Giulia Garegnani, Ali Aydemir, David Schilling, Lisa Neusel, Tobias Fleiter, Daniel Hunacek, Lucien Zuber, Matthieu Dayer.
 
 Creative Commons Attribution 4.0 International License
 This work is licensed under a Creative Commons CC BY 4.0 International License.
@@ -200,7 +109,6 @@ License-Text: https://spdx.org/licenses/CC-BY-4.0.html
 We would like to convey our deepest appreciation to the Horizon 2020 [Hotmaps Project](https://www.hotmaps-project.eu) (Grant Agreement number 723677), which provided the funding to carry out the present investigation.
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
-
 
 
 
