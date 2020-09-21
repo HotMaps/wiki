@@ -414,17 +414,9 @@ Mostafa Fallahnejad, in Hotmaps-Wiki, Hotmaps-data-repository-structure (May 201
 
 ## Authors and reviewers
 
-This page is written by Mostafa Fallahnejad\*.
+This page is written by **Mostafa Fallahnejad** ([EEG - TU Wien](https://eeg.tuwien.ac.at/)).
 
-&#9745;  This page was reviewed by Lukas Kranzl\*.
-
-\* [Energy Economics Group - TU Wien](https://eeg.tuwien.ac.at/)
-
-Institute of Energy Systems and Electrical Drives
-
-Gusshausstrasse 27-29/370
-
-1040 Wien
+&#9745; This page was reviewed by **Marcus Hummel** ([e-think](https://e-think.ac.at/))
 
 [**`To Top`**](#table-of-contents)
 
