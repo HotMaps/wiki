@@ -47,8 +47,8 @@ The Hotmaps learning material is currently available in **English** and **German
 ## Past training workshops and online courses 
 
 There have been two training workshops held in person:
-  - Bolzano (IT), December 9 th -10 th 2019 > Done
-  - Brussels (BE), February 19 th -20 th 2020 > Done
+  - Bolzano (IT), December 9 th - 10 th 2019 > Done
+  - Brussels (BE), February 19 th - 20 th 2020 > Done
   - _Milton Keynes (UK), April 1st – 2nd 2020 > Cancelled_
   - _Frankfurt-am-Main (DE), May 5th – 6th 2020 > Cancelled_
 
