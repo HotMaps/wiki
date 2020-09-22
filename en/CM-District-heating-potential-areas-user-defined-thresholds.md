@@ -137,8 +137,9 @@ Depending on your experience and local knowledge, you may increase or decrease t
 
 ![Fig. 5-0](../images/cm_dh_potential/5-0.png "Name the run session")
 
+* Press the button "RUN CM" on the bottom left.
 * Wait until the process is finished.
-* As output, indicators and diagrams are shown in the "RESULTS" window.  The indicators show:
+* As output, indicators and diagrams are shown in the "RESULTS" section on the right side of the toolbox. The indicators show:
   * the total heat demand in _*GWh*_ within the selected zone,
   * total DH potential in _*GWh*_ within the selected zone,
   * the share of DH potential from total demand, which is obtained by division of DH potential by total heat demand in the region.
