@@ -58,7 +58,7 @@ We hope you enjoy exploring the toolbox and find it helpful for your heating and
 ## References
 [1] EU H2020 Project: Mapping and analyses of the current and future (2020 - 2030) heating/cooling fuel deployment (fossil/renewables). WP1 Report. 2016. accessed via https://ec.europa.eu/energy/sites/ener/files/documents/Report%20WP1.pdf
 
-<code><ins>**[To Top](#Hotmaps-toolbox)**</ins></code>
+<code><ins>**[To Top](#hotmaps-toolbox)**</ins></code>
 
 
 ## How to cite
