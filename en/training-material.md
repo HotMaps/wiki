@@ -66,7 +66,7 @@ The document on the [Training Material Guideline](https://github.com/HotMaps/tra
 
 The document provides also guidelines for a live presentation of the tool, a list of all the available capacity building and educational materials produced, together with their respective use. All the sections of the training are explained in detail and the training material used is illustrated, including the use of an e-learning platform, the exercises hand-outs, and their relative solutions. 
 
-Finally, it presents the feedback collected, providing both an overview of how the training courses were received, and how future training could build on this experience. The two feedback questionnaire used in the on-site and online training workshops are linked below in the respective section. 
+Finally, it presents the feedback collected, providing both an overview of how the training courses were received, and how future training could build on this experience. The two feedback questionnaires used in the on-site and online training workshops are linked below in the respective section. 
 
 
 [**`To Top`**](#table-of-contents)
