@@ -156,19 +156,35 @@ The output layers will appear in the LAYERS window under the Calculation module 
 
 [**`To Top`**](#table-of-contents)
 
+
 ## How to cite
+
 Mostafa Fallahnejad, in Hotmaps-Wiki, CM-District-heating-grid-costs (April 2019)
 
 [**`To Top`**](#table-of-contents)
 
+
 ## Authors and reviewers
+
 This page is written by Mostafa Fallahnejad\*.
-- [ ] This page was reviewed by Lukas Kranzl\*.
+
+&#9745; This page was reviewed by Marcus Hummel\**.
 
 \* [Energy Economics Group - TU Wien](https://eeg.tuwien.ac.at/)
+
 Institute of Energy Systems and Electrical Drives
+
 Gusshausstrasse 27-29/370
+
 1040 Wien
+
+\** [e-think - energy research](http://e-think.ac.at/)
+
+Argentinierstrasse 18/10
+
+A-1040 Vienna
+
+Austria
 
 
 [**`To Top`**](#table-of-contents)
