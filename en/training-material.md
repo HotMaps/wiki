@@ -164,7 +164,7 @@ Giulia Conforto, in Hotmaps-Wiki, Training-Material (July 2020)
 
 This page is written by Giulia Conforto\*.
 
-&#9744;  This page was reviewed by Marcus Hummel
+&#9745;  This page was reviewed by Marcus Hummel
 
 
 \* [e-think - energy research](http://e-think.ac.at/)
