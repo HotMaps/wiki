@@ -82,12 +82,12 @@ Here, the calculation module is run for the case study of Aalborg in Denmark.
 
 * Follow the steps as shown in the figure below:
   * Click on the "Layers" button to open the "Layers" window:
-  * Click on the "CALCULATION MODULE" tab.
-  * Click on the "DISTRICT HEATING POTENTIAL" button.
+  * Click on the "CALCULATION MODULES" tab.
+  * Click on the "CM-DISTRICT HEATING POTENTIAL AREAS: USER-DEFINED THRESHOLDS" button.
 
 ![Fig. 2](../images/cm_dh_potential/2.png "Calculation module tab")
 
-* Now, the "DISTRICT HEATING POTENTIAL" opens and is ready to run.
+* Now, the calculation module "CM-DISTRICT HEATING POTENTIAL AREAS: USER-DEFINED THRESHOLDS" opens and is ready to run.
 
 ![Fig. 3](../images/cm_dh_potential/3.png "NDISTRICT HEATING POTENTIAL")
 
