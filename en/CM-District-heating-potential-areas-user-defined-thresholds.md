@@ -59,7 +59,7 @@ The potential for DH in a specific region can be defined by the overall heat dem
 
 The determination of DH areas is done in two steps:
 
-In the first step, all the cells with heat demand below the input parameter "Minimum heati demand in hectare" are filtered. By eliminating these cells from the map, we obtain groups of cells that are attached to each other. Each set of these attached cells constitute small zones that here, are referred to as “coherent areas”. In the second steps, the total heat demand in each coherent area is calculated. For each coherent area, if the total heat demand is higher than the input parameter "Minimum heat demand in a DH area", it is considered as a potential DH area.
+In the first step, all the cells with heat demand below the input parameter "Minimum heat demand in hectare" are filtered. By eliminating these cells from the map, we obtain groups of cells that are attached to each other. Each set of these attached cells constitute small zones that here, are referred to as “coherent areas”. In the second steps, the total heat demand in each coherent area is calculated. For each coherent area, if the total heat demand is higher than the input parameter "Minimum heat demand in a DH area", it is considered as a potential DH area.
 
 Finally, for the DH areas, the potential is calculated and presented in the form of a GIS layer, which can be seen in the toolbox.
 
