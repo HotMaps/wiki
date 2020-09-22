@@ -33,6 +33,7 @@ The DH areas are determined via performing sensitivity analyses on the HDM under
 ## Inputs and outputs
 The input layers and parameters as well as output layers and parameters for the CM are as follows.
 
+
 **Input layers and parameters are:**
 
 * First year of investment
@@ -47,8 +48,9 @@ The input layers and parameters as well as output layers and parameters for the 
 * Full load hours 
 * Heat density map and gross floor area density map: default maps are provided in the toolbox; own uploaded maps can also be used in the CM
   * in raster format (\*.tif)
-  * with 1 hectare resolution
+    * with 1 hectare resolution
   * demand densities in _**MWh/ha**_ and gross floor area densities in _**m<sup>2</sup>/ha**_
+
 
 **Output layers and parameters are:**
 
@@ -60,9 +62,9 @@ The input layers and parameters as well as output layers and parameters for the 
 * Energetic specific DH transmission grid costs in _**EUR/MWh**_
 * Specific DH distribution grid costs per meter in _**EUR/m**_
 * Specific DH transmission grid costs per meter in _**EUR/m**_
-* Total grid costs - annuity in _**EUR**_
-* Total distribution grid costs - annuity in _**EUR**_
-* Total transmission grid costs - annuity in _**EUR**_
+* Total grid costs - annuity in _**EUR/yr**_
+* Total distribution grid costs - annuity in _**EUR/yr**_
+* Total transmission grid costs - annuity in _**EUR/yr**_
 * Total distribution grid trench length in _**km**_
 * Total transmission grid trench length in _**km**_
 * Total number of coherent areas
