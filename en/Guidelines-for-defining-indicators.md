@@ -212,7 +212,7 @@ Mostafa Fallahnejad, in Hotmaps-Wiki, Guidelines-for-defining-indicators (April 
 
 This page is written by Mostafa Fallahnejad\*.
 
-&#9745; This page was reviewed by MArcus Hummel\**.
+&#9745; This page was reviewed by Marcus Hummel\**.
 
 \* [Energy Economics Group - TU Wien](https://eeg.tuwien.ac.at/)
 
