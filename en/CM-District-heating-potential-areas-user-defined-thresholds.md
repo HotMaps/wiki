@@ -97,7 +97,7 @@ Here, the calculation module is run for the case study of Aalborg in Denmark.
 
 ### Test Run 1: default input values
 
-The default input values show the general conditions under which an area can be considered as a potential DH area. These values should be regarded as starting point only. You may need to set values bellow or above default values considering additional local considerations. Therefore, the user should adapt these values to find the best combination of thresholds for his or her case study.
+The default input values show the general conditions under which an area can be considered as a potential DH area. These values should be regarded as starting point only. You may need to set values below or above the default values in the toolbox considering additional local conditions. Therefore, the user should adapt these values to find the best combination of thresholds for his or her case study.
 
 To run the calculation module, follow the next steps:
 
@@ -105,23 +105,24 @@ To run the calculation module, follow the next steps:
 
 ![Fig. 4-0](../images/cm_dh_potential/4-0.png "Name the run session")
 
+* Press the button "RUN CM" on the bottom left.
 * Wait until the process is finished.
-* As output, indicators and diagrams are shown in the "RESULTS" window. The indicators show:
+* As output, indicators and diagrams are shown in the "RESULTS" section on the right side of the toolbox. The indicators show:
   * the total heat demand in _*GWh*_ within the selected zone,
   * total DH potential in _*GWh*_ within the selected zone,
   * the share of DH potential from the total demand, which is obtained by division of DH potential by total heat demand in the region.
 
 ![Fig. 4-1](../images/cm_dh_potential/4-1.png "INDICATORS tab")
 
-Additionally, also two diagrams are generated. The first one shows the DH potential in each DH area. The corresponding labels can be found on the map, too. The second diagram illustrates the total DH potential in comparison with the total heat demand in the selected area.
+Additionally, also two diagrams are generated. The first shows the DH potential in each DH area. The corresponding labels can be found on the map, too. The second diagram illustrates the total DH potential in comparison with the total heat demand in the selected area.
 
 ![Fig. 4-2](../images/cm_dh_potential/4-2.png "GRAPHICS tab")
 
-* Also a new layer is added to the canvas showing DH areas. This layer is added to the list of layers under the "Calculation module" category. The run session name distinguishes the outputs of this run from other ones.
+* Also a new layer is added to the canvas showing DH areas. This layer is added to the list of layers under the category "Calculation module" in the very bottom of the layers section. The run session name distinguishes the outputs of this run from other ones.
 
 ![Fig. 4-3](../images/cm_dh_potential/4-3.png "Calculation module layers")
 
-Following these steps, you will get an impression of the input values and potential DH areas.
+Following these steps you will get an impression of the input values and potential DH areas.
 
 
 [**`To Top`**](#table-of-contents)
