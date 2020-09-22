@@ -56,24 +56,26 @@ The input layers and parameters as well as output layers and parameters for the 
 
 **Output layers and parameters are:**
 
-* Total demand in the selected region in the first year of investment in _**MWh**_
-* Total demand in the selected region in the last year of investment in _**MWh**_
-* Maximum potential of DH system through the investment period in _**MWh**_
-* Energetic specific DH grid costs in _**EUR/MWh**_
-* Energetic specific DH distribution grid costs in _**EUR/MWh**_
-* Energetic specific DH transmission grid costs in _**EUR/MWh**_
-* Specific DH distribution grid costs per meter in _**EUR/m**_
-* Specific DH transmission grid costs per meter in _**EUR/m**_
-* Total grid costs - annuity in _**EUR/yr**_
-* Total distribution grid costs - annuity in _**EUR/yr**_
-* Total transmission grid costs - annuity in _**EUR/yr**_
-* Total distribution grid trench length in _**km**_
-* Total transmission grid trench length in _**km**_
-* Total number of coherent areas
-* Number of economic coherent areas
-* Heat demand density in the last year of the investment period (considering energy savings) in raster format
-* DH areas (both economic and non-economic ones) in shapefile format
-* Transmission lines and their capacities in shapefile format
+* Parameters:
+  * Total demand in the selected region in the first year of investment in _**MWh**_
+  * Total demand in the selected region in the last year of investment in _**MWh**_
+  * Maximum potential of DH system through the investment period in _**MWh**_
+  * Energetic specific DH grid costs in _**EUR/MWh**_
+  * Energetic specific DH distribution grid costs in _**EUR/MWh**_
+  * Energetic specific DH transmission grid costs in _**EUR/MWh**_
+  * Specific DH distribution grid costs per meter in _**EUR/m**_
+  * Specific DH transmission grid costs per meter in _**EUR/m**_
+  * Total grid costs - annuity in _**EUR/yr**_
+  * Total distribution grid costs - annuity in _**EUR/yr**_
+  * Total transmission grid costs - annuity in _**EUR/yr**_
+  * Total distribution grid trench length in _**km**_
+  * Total transmission grid trench length in _**km**_
+  * Total number of coherent areas
+  * Number of economic coherent areas
+* Layers:
+  * Heat demand density in the last year of the investment period (considering energy savings) in raster format
+  * DH areas (both economic and non-economic ones) in shapefile format
+  * Transmission lines and their capacities in shapefile format
 
 
 [**`To Top`**](#table-of-contents)
