@@ -64,7 +64,7 @@ We hope you enjoy exploring the toolbox and find it helpful for your heating and
 ## How to cite
 The Hotmaps Team, in Hotmaps-Wiki, Welcome page (September 2020)
 
-<code><ins>**[To Top](#table-of-contents)**</ins></code>
+<code><ins>**[To Top](#hotmaps-toolbox)**</ins></code>
 
 
 ## Authors and reviewers
@@ -99,13 +99,13 @@ SPDX-License-Identifier: CC-BY-4.0
 
 License-Text: https://spdx.org/licenses/CC-BY-4.0.html
 
-<code><ins>**[To Top](#table-of-contents)**</ins></code>
+<code><ins>**[To Top](#hotmaps-toolbox)**</ins></code>
 
 
 ## Acknowledgement
 We would like to convey our deepest appreciation to the Horizon 2020 [Hotmaps Project](https://www.hotmaps-project.eu) (Grant Agreement number 723677), which provided the funding to carry out the present investigation.
 
-<code><ins>**[To Top](#table-of-contents)**</ins></code>
+<code><ins>**[To Top](#hotmaps-toolbox)**</ins></code>
 
 
 
