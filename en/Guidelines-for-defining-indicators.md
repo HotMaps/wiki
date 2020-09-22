@@ -46,11 +46,11 @@ This page explains how to manage indicators on the Hotmaps toolbox. An indicator
 
 - 'tablename'
 
-Name of the DB table. (Exemple: 'heat_tot_curr_density_tif')
+Name of the DB table. (Example: 'heat_tot_curr_density_tif')
 
 - 'from_indicator_name'
 
-Subtablename for the selection of indicators. **Must be unique.** (Exemple: 'stat_heat_tot_curr_density_tif')
+Subtablename for the selection of indicators. **Must be unique.** (Example: 'stat_heat_tot_curr_density_tif')
 
 - 'data_aggregated'
 
@@ -58,7 +58,7 @@ Is the data aggregated or not (Values: True or False)
 
 - 'scalelvl_column'
 
-Scale level column name if different to default one (Exemple: 'code')
+Scale level column name if different to default one (Example: 'code')
 
 - 'data_lvl'
 
@@ -66,25 +66,25 @@ Levels available for the data in the database
 
 - 'schema_scalelvl'
 
-Table schema location for the nuts level. (Exemple: 'geo', 'stat', 'public')
+Table schema location for the nuts level. (Example: 'geo', 'stat', 'public')
 
 - 'schema_hectare'
 
-Table schema location for the hectare level. (Exemple: 'geo', 'stat', 'public')
+Table schema location for the hectare level. (Example: 'geo', 'stat', 'public')
 
 - 'crs'
 
-Projection of the geometry (Exemple: '3035', '4326', '4258')
+Projection of the geometry (Example: '3035', '4326', '4258')
 
 - 'geo_column'
 
-Name of the geometry column in the database (Exemple: 'geom', 'geometry')
+Name of the geometry column in the database (Example: 'geom', 'geometry')
 
 - 'table_type'
 
 Type of the layer in the database (Values: 'vector' or 'raster'). 
 
-***Important:*** If it is a raster, the column available are **count, sum, mean, stddev, min and max**
+***Important:*** If it is a raster, the available columns are **count, sum, mean, stddev, min and max**
 
 - 'Indicators'
 
@@ -92,7 +92,8 @@ There are 2 types of indicators (Simple indicators &amp; Cross indicators).
 
 [**`To Top`**](#table-of-contents)
 
-### Simple indicator
+
+### Simple indicators
 
 A simple indicator is an object with 3 parameters. 
 
@@ -120,7 +121,8 @@ This is the indicator identifier of the indicator (Like an ID). This name **must
 
 [**`To Top`**](#table-of-contents)
 
-### Cross indicator
+
+### Cross indicators
 
 A cross indicator is an object with 7 parameters. The goal of this indicator is to make a calculation among simple indicators. 
 
@@ -141,11 +143,11 @@ Corresponds to the identifier of a simple indicator. This name **must be defined
 
 - 'reference_tablename_indicator_id_1'
 
-Reference of the layer tablename that reference the value number 1. (Exemple: 'heat_tot_curr_density_tif')
+Reference of the layer tablename that references the value number 1. (Example: 'heat_tot_curr_density_tif')
 
 - 'operator'
 
-Calcul rule to apply to the 2 values (Values: '/' or '*' or '+' or '-')
+Calculation rule to apply to the 2 values (Values: '/' or '*' or '+' or '-')
 
 - 'reference_indicator_id_1'
 
@@ -153,7 +155,7 @@ Corresponds to the identifier of a simple indicator. This name **must be defined
 
 - 'reference_tablename_indicator_id_2'
 
-Reference of the layer tablename that reference the value number 2. (Exemple: 'pop_tot_curr_density_tif')
+Reference of the layer tablename that references the value number 2. (Example: 'pop_tot_curr_density_tif')
 
 - 'unit'
 
@@ -166,7 +168,7 @@ This is the name of the indicator (Like an ID). This name **must be unique** in 
 
 ##### Note: For this example, the calculation below is done.
 
-    reference_indicator_id_1.reference_indicator_id_1 / reference_indicator_id_1.reference_indicator_id_1 = heat_tot_curr_density_tif.consumption / pop_tot_curr_density_tif.count_cell
+    reference_tablename_indicator_id_1.reference_indicator_id_1 / reference_tablename_indicator_id_2.reference_indicator_id_2 = heat_tot_curr_density_tif.consumption / pop_tot_curr_density_tif.count_cell
 
 
 [**`To Top`**](#table-of-contents)
@@ -210,7 +212,7 @@ Mostafa Fallahnejad, in Hotmaps-Wiki, Guidelines-for-defining-indicators (April 
 
 This page is written by Mostafa Fallahnejad\*.
 
-&#9744; This page was reviewed by Lukas Kranzl\*.
+&#9745; This page was reviewed by MArcus Hummel\**.
 
 \* [Energy Economics Group - TU Wien](https://eeg.tuwien.ac.at/)
 
@@ -219,6 +221,14 @@ Institute of Energy Systems and Electrical Drives
 Gusshausstrasse 27-29/370
 
 1040 Wien
+
+\** [e-think - energy research](http://e-think.ac.at/)
+
+Argentinierstrasse 18/10
+
+A-1040 Vienna
+
+Austria
 
 
 [**`To Top`**](#table-of-contents)
