@@ -109,7 +109,7 @@ Handbooks:
 * [Tutorial: How to use Hotmaps](https://youtu.be/dUDACmC_LO8) (This tutorial is played by default in English, but can be seen in any language, by using the youtube automatic translation options)
 * Introductory video: "How can the toolbox support energy planning?" [English](https://www.youtube.com/watch?v=7IPcVlWsarc)
 * Introductory video: "The EU wide database" [English](https://www.youtube.com/watch?v=dyJ5zySYBkM)
-* Test: introduction videos [English](https://docs.google.com/forms/d/e/1FAIpQLSf4lO8jXH77CRRjzwL4OT4ZoEO5AeSpRZhKnzWbKvZLRUwW_Q/viewform?authuser=1) / [German](https://docs.google.com/forms/d/e/1FAIpQLSfpqw2j-Dfc8YmOHRDGCw3J3RE8-0oDtN0ekbeh3rnCHRwIHg/viewform?authuser=1)
+* Test: Questionnaire on the content of the introductory videos [English](https://docs.google.com/forms/d/e/1FAIpQLSf4lO8jXH77CRRjzwL4OT4ZoEO5AeSpRZhKnzWbKvZLRUwW_Q/viewform?authuser=1) / [German](https://docs.google.com/forms/d/e/1FAIpQLSfpqw2j-Dfc8YmOHRDGCw3J3RE8-0oDtN0ekbeh3rnCHRwIHg/viewform?authuser=1)
 
 
 #### Exercises 1-2
