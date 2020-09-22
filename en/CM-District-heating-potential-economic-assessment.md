@@ -31,7 +31,7 @@ The DH areas are determined via performing sensitivity analyses on the HDM under
 [**`To Top`**](#table-of-contents)
 
 ## Inputs and outputs
-The input parameters and layers, as well as output layers and parameters, are as follows.
+The input layers and parameters as well as output layers and parameters for the CM are as follows.
 
 **Input layers and parameters are:**
 
@@ -42,13 +42,10 @@ The input parameters and layers, as well as output layers and parameters, are as
 * DH market share at the beginning of the investment period
 * Expected DH market share at the end of the investment period
 * Interest rate
-* DH grid cost ceiling in _**EUR/MWh**_: In potential DH areas, the distribution grid cost may not exceed the distribution grid cost ceiling.
-* Construction cost **constant** in _**EUR/m**_ as well as Construction cost **coefficient** in _**EUR/m<sup>2</sup>**_ for:
-  * Inner city
-  * Outer city
-  * Park
+* DH grid cost ceiling in _**EUR/MWh**_: In potential DH areas, the distribution grid cost may not exceed this defined distribution grid cost ceiling.
+* Construction cost **constant** in _**EUR/m**_ as well as Construction cost **coefficient** in _**EUR/m<sup>2</sup>**_
 * Full load hours 
-* Heat density map and gross floor area density map (by default is provided by the toolbox)
+* Heat density map and gross floor area density map: default maps are provided in the toolbox; own uploaded maps can also be used in the CM
   * in raster format (\*.tif)
   * with 1 hectare resolution
   * demand densities in _**MWh/ha**_ and gross floor area densities in _**m<sup>2</sup>/ha**_
