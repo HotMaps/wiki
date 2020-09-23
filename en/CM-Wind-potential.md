@@ -101,7 +101,7 @@ Pietro Zambelli, in Hotmaps-Wiki, CM-Wind-potential (September 2020)
 
 This page is written by Giulia Garegnani and Pietro Zambelli **[EURAC](http://www.eurac.edu)**.
 
-&#9744; This page was reviewed by Simon Pezzutto **[EURAC](http://www.eurac.edu)**.
+&#9745; This page was reviewed by Simon Pezzutto **[EURAC](http://www.eurac.edu)**.
 
 
 [**`To Top`**](#table-of-contents)
