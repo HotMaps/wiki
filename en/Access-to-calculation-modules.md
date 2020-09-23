@@ -41,9 +41,7 @@ Jeton Hasani, in Hotmaps-Wiki, Access-to-calculation-modules (April 2019)
 
 ## Authors and reviewers
 
-This page is written by: 
-
-**[EEG - TU Wien](https://eeg.tuwien.ac.at/)**: Jeton Hasani
+This page was written by Jeton Hasani **[EEG - TU Wien](https://eeg.tuwien.ac.at/)**.
 
 &#9745; This page was reviewed by Mostafa Fallahnejad.
 
