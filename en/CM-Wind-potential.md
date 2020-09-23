@@ -108,7 +108,7 @@ This page is written by Giulia Garegnani and Pietro Zambelli **[EURAC](http://ww
 
 ## License
 
-Copyright © 2016-2020: Pietro Zambelli
+Copyright © 2016-2020: Pietro Zambelli and Giulia Garegnani
 
 Creative Commons Attribution 4.0 International License
 
