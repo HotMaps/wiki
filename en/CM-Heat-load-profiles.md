@@ -251,23 +251,27 @@ Ali Aydemir and David Schilling, in Hotmaps Wiki, CM Heat load profiles (Septemb
 
 ## Authors and reviewers
 
-This page is written by Ali Aydemir \* and David Schilling \*
-&#9744; This page was reviewed by Tobias Fleiter\*.
+This page was written by Ali Aydemir, David Schilling **[Fraunhofer ISI](https://isi.fraunhofer.de/)**. 
 
-\* [Fraunhofer ISI](https://isi.fraunhofer.de/)
-Fraunhofer ISI, Breslauer Str. 48,
-76139 Karlsruhe
+&#9745; This page was reviewed by Tobias Fleiter **[Fraunhofer ISI](https://isi.fraunhofer.de/)**.
+
+
+[**`To Top`**](#table-of-contents)
 
 ## License
-Copyright © 2016-2018: Ali Aydemir, David Schilling
+
+Copyright © 2016-2020: Pietro Zambelli
 
 Creative Commons Attribution 4.0 International License
+
 This work is licensed under a Creative Commons CC BY 4.0 International License.
 
 SPDX-License-Identifier: CC-BY-4.0
 
 License-Text: https://spdx.org/licenses/CC-BY-4.0.html
 
+
+[**`To Top`**](#table-of-contents)
 
 ## Acknowledgement
 We would like to convey our deepest appreciation to the Horizon 2020 [Hotmaps Project](https://www.hotmaps-project.eu) (Grant Agreement number 723677), which provided the funding to carry out the present investigation.
