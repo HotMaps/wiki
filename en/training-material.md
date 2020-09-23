@@ -162,34 +162,26 @@ Giulia Conforto, in Hotmaps-Wiki, Training-Material (July 2020)
 
 ## Authors and reviewers
 
-This page is written by Giulia Conforto\*.
+This page was written by Giulia Conforto **[e-think](https://e-think.ac.at)**.
 
-&#9745;  This page was reviewed by Marcus Hummel
-
-
-\* [e-think - energy research](http://e-think.ac.at/)
-
-Argentinierstrasse 18/10
-
-A-1040 Vienna
-
-Austria
+&#9745; This page was reviewed by Marcus Hummel  **[e-think](https://e-think.ac.at)**.
 
 
 [**`To Top`**](#table-of-contents)
 
 ## License
 
-Copyright © 2016-2019: Giulia Conforto
+Copyright © 2016-2020: Giulia Conforto
 
 Creative Commons Attribution 4.0 International License
-
 This work is licensed under a Creative Commons CC BY 4.0 International License.
 
 SPDX-License-Identifier: CC-BY-4.0
 
 License-Text: https://spdx.org/licenses/CC-BY-4.0.html
 
+
+<code><ins>**[To Top](#hotmaps-toolbox)**</ins></code>
 
 ## Acknowledgement
 
