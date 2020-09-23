@@ -78,16 +78,18 @@ This page is written by the Hotmaps Team and namely by:
 
 **[e-think](https://e-think.ac.at)**: Marcus Hummel, Andreas Müller, Giulia Conforto, David Schmidinger
 
-**[EURAC](http://www.eurac.edu)**: Pietro Zambelli, Giulia Garegnani,
+**[EURAC](http://www.eurac.edu)**: Pietro Zambelli, Giulia Garegnani, Simon Pezzutto
 
 **[Fraunhofer ISI](https://isi.fraunhofer.de/)**: Ali Aydemir, David Schilling, Lisa Neusel, Tobias Fleiter
 
 **[HES-SO](https://www.hevs.ch)**: Daniel Hunacek, Lucien Zuber, Matthieu Dayer
 
-
+**[Planenergie](https://planenergi.dk/)**: Anders M. Odgaard 
 
 &#9745; This page was reviewed by Giulia Conforto.
 
+
+[**`To Top`**](#table-of-contents)
 
 ## License
 Copyright © 2016-2020: Lukas Kranzl, Mostafa Fallahnejad, Jeton Hasani, Thierry Bernhard, Lesly Houndole and Albain Dufils, Marcus Hummel, Giulia Conforto, David Schmidinger, Pietro Zambelli, Giulia Garegnani, Ali Aydemir, David Schilling, Lisa Neusel, Tobias Fleiter, Daniel Hunacek, Lucien Zuber, Matthieu Dayer.
@@ -99,8 +101,8 @@ SPDX-License-Identifier: CC-BY-4.0
 
 License-Text: https://spdx.org/licenses/CC-BY-4.0.html
 
-<code><ins>**[To Top](#hotmaps-toolbox)**</ins></code>
 
+<code><ins>**[To Top](#hotmaps-toolbox)**</ins></code>
 
 ## Acknowledgement
 We would like to convey our deepest appreciation to the Horizon 2020 [Hotmaps Project](https://www.hotmaps-project.eu) (Grant Agreement number 723677), which provided the funding to carry out the present investigation.
