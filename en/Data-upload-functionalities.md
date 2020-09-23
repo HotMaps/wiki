@@ -9,6 +9,7 @@
 - [Data security and privacy](#data-security-and-privacy)
 - [How to cite](#how-to-cite)
 - [Authors and reviewers](#authors-and-reviewers)
+- [License](#license)
 - [Acknowledgement](#acknowledgement)
 
 ## Introduction
@@ -83,16 +84,24 @@ Daniel Hunacek and Lucien Zuber, in Hotmaps Wiki, Data upload functionalities (S
 
 ## Authors and reviewers
 
-This page was witten by Daniel Hunacek, and Lucien Zuber\*.
+This page was written by Daniel Hunacek and Lucien Zuber **[HES-SO](https://www.hevs.ch)**.
 
-&#9744; This page was reviewed by ...
+&#9745; This page was reviewed by Mostafa Fallahnejad **[EEG - TU Wien](https://eeg.tuwien.ac.at/)**.
 
-\* [HES-SO Valais-Wallis - Institute of Sustainable Energy](https://www.hevs.ch/de/afe-institute/institut-energie-und-umwelt/)
 
-Route du Rawyl 47, 
+[**`To Top`**](#table-of-contents)
 
-1950 Sion, Switzerland
+## License
 
+Copyright © 2016-2020: Daniel Hunacek and Lucien Zuber
+
+Creative Commons Attribution 4.0 International License
+
+This work is licensed under a Creative Commons CC BY 4.0 International License.
+
+SPDX-License-Identifier: CC-BY-4.0
+
+License-Text: https://spdx.org/licenses/CC-BY-4.0.html
 
 [**`To Top`**](#table-of-contents)
 
