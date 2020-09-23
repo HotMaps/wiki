@@ -21,23 +21,24 @@
 * [Acknowledgement](#acknowledgement)
 
 ## Introduction Page 
-Once the toolbox is opened, the disclaiming page is shown ([Fig.1](#fig1)). Besides the disclaimer message, additional information regarding the objectives of the Hotmaps toolbox as well as the link to the Hotmaps project website and the data repositories is provided.
+Once the toolbox is opened, the disclaiming page is shown. Besides the disclaimer message, additional information regarding supported browsers, the objectives of the Hotmaps project, the link to the Hotmaps project website and the data repositories is provided.
 
 <a name="Fig1">![intro_gif][intro]</a>
-_Fig. 1 Short introduction to Hotmas toolbox_
+_Fig. 1 Short introduction to Hotmaps toolbox_
 
 
-The Hotmaps GUI is a GIS-based interface. By closing the disclaiming page, the user sees the map of Europe. By default, the heat demand density map of EU-28 countries and NUTS 3 layer is depicted. In addition to these two maps, some tools and buttons can be seen in GUI. These tools are illustrated in [Fig.2](#fig2)
+The Hotmaps GUI is a GIS-based interface. By closing the disclaiming page, the user sees the map of Europe. By default, the heat demand density map of EU-28 countries and NUTS 2 boundaries are depicted. In addition to these two maps, some tools and buttons can be seen in GUI. These tools are illustrated in the following figure.
 
 <a name="Fig2">![first_glance][Fig2] </a>
 _Fig. 2 Initial Page_
 
 Here you can spot at first glance 3 parts of the user interface:
-1. [a toolbar at the top](#upper-toolbar)
-2. the map itself
-3. [and some tools for changing the style of the map](#tiles)
 
-In the following chapters we will have a look at each of these 3 parts:
+1. [a toolbar at the top](#upper-toolbar),
+1. the map itself,
+1. [and some tools for changing the style of the map](#tiles).
+
+In the following chapters, these 3 parts are explained in detail.
 
 [**`To Top`**](#table-of-contents)
 
@@ -45,12 +46,15 @@ In the following chapters we will have a look at each of these 3 parts:
 ![first_glance][Fig3] 
 
 With this toolbar you can:
-1. [_Connect:_](#connect) register and login into the web application in order to save your work
-2. [_Go To Place:_](#go-to-place) zoom in to a specific region by typing the name 
-3. [_Layers:_](#layers) show the layer sidebar
-4. [_Selection Tools_:](#selection-tool) enable or disable the selection tools
-5. [_Show Result:_](#show-result) show the result sidebar of your selected regions
-6. [_Feedback:_](#feedback) give us feedback regarding the tool
+
+1. [_Connect:_](#connect) register and login into the web application in order to save your work,
+1. [_Go To Place:_](#go-to-place) zoom in to a specific region by typing the name,
+1. [_Layers:_](#layers) show the layer sidebar,
+1. [_Selection Tools_:](#selection-tool) enable or disable the selection tools,
+1. [_Show Result:_](#show-result) show the result sidebar of your selected regions,
+1. [_Feedback:_](#feedback) give us feedback regarding the tool,
+1. [_Save Session:_](#feedback) you can save selected layers and zoom level and recall them later one,
+1. [_Save Session Folder:_](#feedback) where you can see the list of all saved sessions.
 
 
 [**`To Top`**](#table-of-contents)
