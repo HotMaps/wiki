@@ -52,16 +52,16 @@ The inputs and outputs of these modules should be saved for each scenario and th
 
 The sheet "Final Table" calculates and shows a comparison of the following indicators for each defined scenario both in the figures and in the charts:
 * Cost per year for different cost categories and technologies in _**M EUR/yr**_,
-* Levelized costs of heat supply in _**EUR/MWh*_,
+* Levelized costs of heat supply in _**EUR/MWh**_,
 * CO2 emissions for the different technologies in _**tCO<sub>2</sub>/yr**_,
 * Final energy demand for the different technologies in _**GWh/yr**_,
 * Useful energy demand for the different technologies in _**GWh/yr**_,
 * Shares of renewable energy (RES) and district heating (DH).
 
 For each scenario, the following indicators are shown in the form of a stacked bar chart:
-* Overall (aggregated) costs of heat supply by district heating system and decentral heating system in _*M EUR/year*_
-* Overall (aggregated) CO<sub>2</sub> emissions by district heating system and decentral heating system in _*tons/year*_
-* Overall (aggregated) final energy and useful energy demand in _*GWh/year*_
+* Overall (aggregated) costs of heat supply by district heating system and decentral heating system in _**M EUR/yr**_
+* Overall (aggregated) CO<sub>2</sub> emissions by district heating system and decentral heating system in _**tCO<sub>2</sub>/yr**_
+* Overall (aggregated) final energy and useful energy demand in _**GWh/yr**_
 
 
 [**`To Top`**](#table-of-contents)
