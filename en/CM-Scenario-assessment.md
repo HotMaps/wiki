@@ -25,14 +25,14 @@ This module allows comparing different heating scenarios. The module is not inte
 ## Introduction
 
 The approach to assessing a number of different heating scenarios follows this sequence of calculations:
-* The building stock for the selected area
-* Costs, emissions, and energy for decentral heating supply,
-* Costs, emissions, and energy for a district heating supply economic assessment,
-* Supply dispatch costs, based on the size of the network assumed.
+* The building stock for the selected area,
+* Costs, emissions, and energy demand for decentral heat supply,
+* Costs, emissions, and energy demand for district heat supply,
+* Costs of the distribution of district heat.
 
-In each scenario, a certain portion of heating is assumed to be provided through decentral heating and another through district heating. For instance, a sensitivity analysis for a set of different district heating systems, with different penetration levels and different centralised heating supply technologies that may vary by the capacity of the energy generators could be built upon one common business case of decentral heating with certain fixed supply options. Viceversa, other sensitivity assessments could be run with one centralised heat supply scenario, investigating the impact of the different decentralised technologies, or with any other combination of scenarios.
+In each scenario a certain split between central and decentral heat supply is assumed together with assumptions on the development of the heat demand in the region. For instance, a sensitivity analysis for a set of different district heating system sizes with different supply technologies may be compared. The scenario may vary by the capacity of the heat generators in the district heating system, the conncetion rates to the district heating system or the costs and prices for different technologies. Similarly, for decentral supply various system parameters could be varied and the effects on the overall heating system in the region can be analysed.
 
-The user runs independently all the calculations modules for each scenario under consideration, reports the results in the relevant sheet of Excel Workbook, and then compares them. 
+The user independently runs the different calculations modules for each scenario under consideration, copies the results into the relevant sheets of the Excel workbook, and then compares them for different scenario settings. This procedure is described in the following sections on this wiki page.
 
 
 [**`To Top`**](#table-of-contents)
@@ -40,7 +40,7 @@ The user runs independently all the calculations modules for each scenario under
 
 ## Scenario assessment inputs and outputs
 
-The inputs compiled in the scenario assessment Workbook are produced by the following calculation modules: 
+The inputs compiled into the scenario assessment workbook are generated with the following calculation modules: 
 
 **1. [CM - Decentral heating supply](https://wiki.hotmaps.hevs.ch/en/CM-Decentral-heating-supply)**
 
@@ -48,21 +48,20 @@ The inputs compiled in the scenario assessment Workbook are produced by the foll
 
 **3. [CM - District heating potential: economic assessment](https://wiki.hotmaps.hevs.ch/en/CM-District-heating-potential-economic-assessment)**
 
-The input and output of these modules should be saved for each scenario and then compiled in the scenario assessment workbook.  The cells to be filled are properly marked and a colour-coding legend is reported on the first sheet of the workbook, as explained in the following paragraph [Interpretation of input parameters](#intepretation-of-input-parameters). The three above-mentioned calculation modules, require some inputs that you may already have, or that you may have to calculate running other modules, as specified in the following paragraph as well as in the **[Training section]()**.
+The inputs and outputs of these modules should be saved for each scenario and then compiled into the scenario assessment workbook. The cells to be filled are properly marked and a colour-coding legend is reported on the first sheet of the workbook, as explained in the following paragraph [Interpretation of input parameters](#intepretation-of-input-parameters). The three above-mentioned calculation modules require some inputs that you may already have, or that you may have to calculate running other modules, as specified in the following paragraph as well as in the **[Training section]()**.
 
-The sheet "Final Tabel" calculates and shows a comparison of these indicators both in the figures and charts for each scenario:
-* Cost per year,
-* Levelized costs,
-* CO2 emissions,
-* Final energy,
-* Useful energy,
-* RES/DH shares.
+The sheet "Final Table" calculates and shows a comparison of the following indicators for each defined scenario both in the figures and in the charts:
+* Cost per year for different cost categories and technologies in _**M EUR/yr**_,
+* Levelized costs of heat supply in _**EUR/MWh*_,
+* CO2 emissions for the different technologies in _**tCO<sub>2</sub>/yr**_,
+* Final energy demand for the different technologies in _**GWh/yr**_,
+* Useful energy demand for the different technologies in _**GWh/yr**_,
+* Shares of renewable energy (RES) and district heating (DH).
 
 For each scenario, the following indicators are shown in the form of a stacked bar chart:
 * Overall (aggregated) costs of heat supply by district heating system and decentral heating system in _*M EUR/year*_
 * Overall (aggregated) CO<sub>2</sub> emissions by district heating system and decentral heating system in _*tons/year*_
-* Overall energy carrier mix in _*MWh*_
-* Overal (aggregated) final energy and useful energy in _*GWh/year*_
+* Overall (aggregated) final energy and useful energy demand in _*GWh/year*_
 
 
 [**`To Top`**](#table-of-contents)
