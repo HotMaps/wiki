@@ -5,11 +5,12 @@
 * [Wiki toolbar and sidebar](#wiki-toolbar-and-sidebar)
 * [Add figures and images](#add-figures-and-images)
 * [Classification of Wiki pages](#classification-of-wiki-pages)
-* [Hotmaps data set repository structure](#hotmaps-data-set-repository-structure)
-* [General functionalities of the toolbox](#general-functionalities-of-the-toolbox)
-* [Calculation modules](#calculation-modules)
-* [How to apply the Hotmaps toolbox](#how-to-apply-the-hotmaps-toolbox)
-* [Developers area](#developers-area)
+* [Default structures of the wiki pages in the different wiki page classes](#default-structures-of-the-wiki-pages-in-the-different-wiki-page-classes)
+  * [Hotmaps data set repository structure](#hotmaps-data-set-repository-structure)
+  * [General functionalities of the toolbox](#general-functionalities-of-the-toolbox)
+  * [Calculation modules](#calculation-modules)
+  * [How to apply the Hotmaps toolbox](#how-to-apply-the-hotmaps-toolbox)
+  * [Developers area](#developers-area)
 * [Authors and reviewers](#authors-and-reviewers)
 * [License](#license)
 * [Acknowledgement](#acknowledgement)
@@ -97,7 +98,7 @@ Here, the most important point is to keep track of all Hotmaps repositories on G
 
 [**`To Top`**](#table-of-contents)
 
-## General functionalities of the toolbox
+### General functionalities of the toolbox
 * __Table of content__
 * __Introduction__
 * __Functionalities__
@@ -112,7 +113,7 @@ Here, the most important point is to keep track of all Hotmaps repositories on G
 
 [**`To Top`**](#table-of-contents)
 
-## Calculation modules
+### Calculation modules
 **NOTE I:** for the input layers please mention category of the layers as "default layer" or "personal layer" or "default/personal layer"
 
 
@@ -142,7 +143,7 @@ Here, the most important point is to keep track of all Hotmaps repositories on G
 
 [**`To Top`**](#table-of-contents)
 
-## How to apply the Hotmaps toolbox
+### How to apply the Hotmaps toolbox
 
 * __Table of content__
 * __Introduction__
@@ -158,7 +159,7 @@ Here, the most important point is to keep track of all Hotmaps repositories on G
 
 [**`To Top`**](#table-of-contents)
 
-## Developers area
+### Developers area
 
 * __Table of content__
 * __Introduction__
