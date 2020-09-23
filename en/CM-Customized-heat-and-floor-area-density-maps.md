@@ -18,6 +18,7 @@ This module generates both a heat density and a floor area density map in the fo
 
 This module will only be available as a stand-alone module; it will not be integrated into the toolbox. The users of this CM should be familiar with python programming and have installed required libraries (e.g. Numpy, Pandas, GeoPandas and GDAL).
 
+[**`To Top`**](#table-of-contents)
 
 ## Inputs and outputs
 
@@ -58,7 +59,7 @@ To visualize an own raster file in the Hotmaps toolbox, it should respect the ru
 1. The resolution of the raster map should 100x100m
 1. The raster should refer to a location in Europe.
 
-Based on the above criteria and coordinates given in the input CSV file, each input coordinate is allocated to a certain pixel. Entries allocated to one single pixel are aggregated. The bottom-left pixel and top-right pixel determine the extent of the pixel. The resolution of the map is 100x100. Accordingly, a heat density map and gross floor area map is generated.
+Based on the above criteria and coordinates given in the input CSV file, each input coordinate is allocated to a certain pixel. Entries allocated to one single pixel are aggregated. The bottom-left pixel and top-right pixel determine the extent of the pixel. The resolution of the map is 100x100m. Accordingly, a heat density map and gross floor area map is generated.
 
 [**`To Top`**](#table-of-contents)
 
