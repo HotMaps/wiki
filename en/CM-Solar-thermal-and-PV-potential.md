@@ -207,24 +207,16 @@ Giulia Garegnani, in Hotmaps-Wiki, CM-Solar-PV-potential (April 2019)
 
 ## Authors and reviewers
 
-This page is written by Giulia Garegnani\*.
+This page is written by Giulia Garegnani **[EURAC](http://www.eurac.edu)**.
 
-
-&#9744; This page was reviewed by ...
-
-\* [Urban and Regional Energy System Group - EURAC Bozen](http://www.eurac.edu/en/research/technologies/renewableenergy/researchfields/Pages/Energy-strategies-and-planning.aspx)
-
-Institute of Renewable Energy
-Drususallee/Viale Druso 1
-I-39100 Bozen/Bolzano
-Italy
+&#9744; This page was reviewed by Mostafa Fallahnejad **[EEG - TU Wien](https://eeg.tuwien.ac.at/)**.
 
 
 [**`To Top`**](#table-of-contents)
 
 ## License
 
-Copyright © 2016-2019: Giulia Garegnani
+Copyright © 2016-2020: Giulia Garegnani
 
 Creative Commons Attribution 4.0 International License
 
@@ -233,7 +225,6 @@ This work is licensed under a Creative Commons CC BY 4.0 International License.
 SPDX-License-Identifier: CC-BY-4.0
 
 License-Text: https://spdx.org/licenses/CC-BY-4.0.html
-
 
 [**`To Top`**](#table-of-contents)
 
