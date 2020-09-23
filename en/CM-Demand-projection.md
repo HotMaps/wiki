@@ -155,33 +155,16 @@ Andreas Müller and Marcus Hummel, in Hotmaps-Wiki, CM-Demand-projection (Octobe
 
 This page is written by Andreas Müller and Marcus Hummel\*.
 
+This page was written by Andreas Müller and Marcus Hummel **[e-think](https://e-think.ac.at)**.
 
-\* [e-think energy research](http://www.e-think.ac.at)
-
-e-think energy research
-
-Argentinierstrasse 18/10
-
-A-1040 Vienna
-
-Austria
-
-\* [TU Wien - Energy Economics Group](http://www.eeg.tuwien.ac.at)
-
-Institute of Energy Systems and Electrical Drives (ESEA)
-
-Gußhausstraße 25 – 29/E37003
-
-A-1040 Vienna
-
-Austria
+&#9745; This page was reviewed by Mostafa Fallahnejad **[EEG - TU Wien](https://eeg.tuwien.ac.at/)**.
 
 
 [**`To Top`**](#table-of-contents)
 
 ## License
 
-Copyright © 2016-2020: Andreas Müller, Marcus Hummel, Giulia Conforto and David Schmidinger
+Copyright © 2016-2020: Andreas Müller and Marcus Hummel
 
 Creative Commons Attribution 4.0 International License
 
