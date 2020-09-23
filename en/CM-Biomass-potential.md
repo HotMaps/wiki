@@ -92,22 +92,16 @@ Pietro Zambelli, in Hotmaps-Wiki, CM - Biomass potential (September 2020)
 
 ## Authors and reviewers
 
-This page is written by Pietro Zambelli\*.
-- [ ] This page was reviewed by Simon Pezzutto\*.
+This page is written by Pietro Zambelli **[EURAC](http://www.eurac.edu)**.
 
+&#9745; This page was reviewed by Simon Pezzutto **[EURAC](http://www.eurac.edu)**.
 
-\* [Urban and Regional Energy System Group - EURAC Bozen](http://www.eurac.edu/en/research/technologies/renewableenergy/researchfields/Pages/Energy-strategies-and-planning.aspx)
-
-Institute of Renewable Energy
-Drususallee/Viale Druso 1
-I-39100 Bozen/Bolzano
-Italy
 
 [**`To Top`**](#table-of-contents)
 
 ## License
 
-Copyright © 2016-2019: Pietro Zambelli
+Copyright © 2016-2020: Pietro Zambelli
 
 Creative Commons Attribution 4.0 International License
 
