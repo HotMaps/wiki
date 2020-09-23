@@ -191,7 +191,7 @@ This page was written by Mostafa Fallahnejad **[EEG - TU Wien](https://eeg.tuwie
 
 ## License
 
-Copyright © 2016-2020: Jeton Hasani
+Copyright © 2016-2020: Mostafa Fallahnejad
 
 Creative Commons Attribution 4.0 International License
 
