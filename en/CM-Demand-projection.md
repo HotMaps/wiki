@@ -181,7 +181,7 @@ Austria
 
 ## License
 
-Copyright © 2016-2020: Andreas Müller, Marcus Hummel
+Copyright © 2016-2020: Andreas Müller, Marcus Hummel, Giulia Conforto and David Schmidinger
 
 Creative Commons Attribution 4.0 International License
 
