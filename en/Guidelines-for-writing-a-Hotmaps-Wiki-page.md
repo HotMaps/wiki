@@ -55,7 +55,7 @@ In order to add an image to your Wiki page, you have two options:
 
 ## Classification of Wiki pages
 
-The Hotmaps Wiki pages are categorized in four classes:
+The Hotmaps Wiki pages are categorized in five classes:
 * Hotmaps data set repository structure
 * General Functionalities of the toolbox
 * Calculation Modules
@@ -77,7 +77,9 @@ Once you finished writing your Wiki page, ask your colleagues to review your pag
 [**`To Top`**](#table-of-contents)
 
 
-## Hotmaps data set repository structure
+## Default structures of the wiki pages in the different wiki page classes
+
+### Hotmaps data set repository structure
 
 Here, the most important point is to keep track of all Hotmaps repositories on GitLab and keep the links updated. The following structure is suggested for this Wiki page:
 
