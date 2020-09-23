@@ -251,7 +251,7 @@ Ali Aydemir and David Schilling, in Hotmaps Wiki, CM Heat load profiles (Septemb
 
 ## Authors and reviewers
 
-This page was written by Ali Aydemir, David Schilling **[Fraunhofer ISI](https://isi.fraunhofer.de/)**. 
+This page was written by Ali Aydemir and David Schilling **[Fraunhofer ISI](https://isi.fraunhofer.de/)**. 
 
 &#9745; This page was reviewed by Tobias Fleiter **[Fraunhofer ISI](https://isi.fraunhofer.de/)**.
 
@@ -260,7 +260,7 @@ This page was written by Ali Aydemir, David Schilling **[Fraunhofer ISI](https:/
 
 ## License
 
-Copyright © 2016-2020: Pietro Zambelli
+Copyright © 2016-2020: Ali Aydemir and David Schilling
 
 Creative Commons Attribution 4.0 International License
 
