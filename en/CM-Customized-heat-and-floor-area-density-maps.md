@@ -1,6 +1,7 @@
 <h1>CM Customized heat and gross floor area density maps</h1>
 
 ## Table of Contents
+* [In a glance](#in-a-glance)
 * [Introduction](#introduction)
 * [Inputs and outputs](#inputs-and-outputs)
   * [Inputs](#inputs-and-outputs_inputs)
@@ -11,6 +12,13 @@
 * [Authors and reviewers](#authors-and-reviewers)
 * [License](#license)
 * [Acknowledgement](#acknowledgement)
+
+
+## In a glance
+This module generates both a heat density and a floor area density map in the form of raster files. The input to the module a CSV file with certain column headers. For example, X-coordinate and Y-coordinate of the centre of buildings in EPSG:3035 coordinate reference system or their corresponding gross floor area and annual heat demand should be included in the CSV file. The generated raster files follow required projection and resolution by the Hotmaps toolbox and therefore, can be easily uploaded to the user accounts.
+
+
+[**`To Top`**](#table-of-contents)
 
 
 ## Introduction
@@ -54,9 +62,9 @@ As output, two raster files are generated:
 
 To visualize an own raster file in the Hotmaps toolbox, it should respect the rules defined by the toolbox. Generally, a raster should:
 
-1. have the CRS of ETRS89-extended / LAEA Europe - EPSG:3035,
-1. The coordinate of the raster origin (top-left corner of the raster) should be a multiplicand of 100, e.g. (4334900, 3019700).
-1. The resolution of the raster map should 100x100m
+1. have the CRS of **ETRS89-extended / LAEA Europe - EPSG:3035**;
+1. The coordinate of the raster origin (top-left corner of the raster) should be a multiplicand of 100, e.g. (4334900, 3019700);
+1. The resolution of the raster map should 100x100m;
 1. The raster should refer to a location in Europe.
 
 Based on the above criteria and coordinates given in the input CSV file, each input coordinate is allocated to a certain pixel. Entries allocated to one single pixel are aggregated. The bottom-left pixel and top-right pixel determine the extent of the pixel. The resolution of the map is 100x100m. Accordingly, a heat density map and gross floor area map is generated.
