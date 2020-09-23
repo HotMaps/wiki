@@ -11,7 +11,7 @@
 
 
 ## Data collection
-Hotmaps provides a large array of open data sets. The data has been provided by default for the entire EU28 countries with the aim to support local, regional and national heating and cooling (H&amp;C) planning. Hotmaps data sets provide data various categories including:
+Hotmaps provides a large array of open data sets. The data has been provided by default for the entire EU28 countries with the aim to support local, regional and national heating and cooling (H&amp;C) planning. Hotmaps data sets provide data for various categories including:
 
 * Building stock analysis;
 * Space heating, cooling and domestic hot water demand;
@@ -19,11 +19,11 @@ Hotmaps provides a large array of open data sets. The data has been provided by 
 * Industrial processes;
 * Heating and cooling supply;
 * Renewable energy sources data collection and potential review;
-* Hourly loads profiles;
+* Hourly load profiles;
 * Electricity system module and
 * Transport.
 
-All the approaches for data collection and analysis in the different sectors (i.e. residential, service, industrial and transportation sectors) are described in [this report](https://www.hotmaps-project.eu/wp-content/uploads/2018/03/D2.3-Hotmaps_for-upload_revised-final_.pdf) [1].
+All the approaches for data collection and analysis in the different sectors (i.e. residential, service, industry and transportation sectors) are described in [this report](https://www.hotmaps-project.eu/wp-content/uploads/2018/03/D2.3-Hotmaps_for-upload_revised-final_.pdf) [1(#references)].
 
 
 [**`To Top`**](#table-of-contents)
