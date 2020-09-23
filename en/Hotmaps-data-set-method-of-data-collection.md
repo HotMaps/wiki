@@ -23,7 +23,7 @@ Hotmaps provides a large array of open data sets. The data has been provided by 
 * Electricity system module and
 * Transport.
 
-All the approaches for data collection and analysis in the different sectors (i.e. residential, service, industry and transportation sectors) are described in [this report](https://www.hotmaps-project.eu/wp-content/uploads/2018/03/D2.3-Hotmaps_for-upload_revised-final_.pdf) [1(#references)].
+All the approaches for data collection and analysis in the different sectors (i.e. residential, service, industry and transportation sectors) are described in [this report](https://www.hotmaps-project.eu/wp-content/uploads/2018/03/D2.3-Hotmaps_for-upload_revised-final_.pdf) [[1](#references)].
 
 
 [**`To Top`**](#table-of-contents)
