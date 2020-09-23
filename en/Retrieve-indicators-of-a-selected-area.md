@@ -250,8 +250,6 @@ SPDX-License-Identifier: CC-BY-4.0
 License-Text: https://spdx.org/licenses/CC-BY-4.0.html
 
 
-<code><ins>**[To Top](#hotmaps-toolbox)**</ins></code>
-
 [**`To Top`**](#table-of-contents)
 
 ## Acknowledgement
