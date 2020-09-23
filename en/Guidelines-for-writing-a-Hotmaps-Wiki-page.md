@@ -5,12 +5,12 @@
 * [Wiki toolbar and sidebar](#wiki-toolbar-and-sidebar)
 * [Add figures and images](#add-figures-and-images)
 * [Classification of Wiki pages](#classification-of-wiki-pages)
-* [Default structures of the wiki pages in the different wiki page classes](#default-structures-of-the-wiki-pages-in-the-different-wiki-page-classes)
-  * [Hotmaps data set repository structure](#hotmaps-data-set-repository-structure)
-  * [General functionalities of the toolbox](#general-functionalities-of-the-toolbox)
-  * [Calculation modules](#calculation-modules)
-  * [How to apply the Hotmaps toolbox](#how-to-apply-the-hotmaps-toolbox)
-  * [Developers area](#developers-area)
+* [Default structures of the wiki pages](#default-structures-of-the-wiki-pages)
+  * [Hotmaps data set repository structure](#default-structures-of-the-wiki-pages_hotmaps-data-set-repository-structure)
+  * [General functionalities of the toolbox](#default-structures-of-the-wiki-pages_general-functionalities-of-the-toolbox)
+  * [Calculation modules](#default-structures-of-the-wiki-pages_calculation-modules)
+  * [How to apply the Hotmaps toolbox](#default-structures-of-the-wiki-pages_how-to-apply-the-hotmaps-toolbox)
+  * [Developers area](#default-structures-of-the-wiki-pages_developers-area)
 * [Authors and reviewers](#authors-and-reviewers)
 * [License](#license)
 * [Acknowledgement](#acknowledgement)
@@ -78,7 +78,7 @@ Once you finished writing your Wiki page, ask your colleagues to review your pag
 [**`To Top`**](#table-of-contents)
 
 
-## Default structures of the wiki pages in the different wiki page classes
+## Default structures of the wiki pages
 
 ### Hotmaps data set repository structure
 
