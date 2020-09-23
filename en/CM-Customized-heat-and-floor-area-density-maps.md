@@ -68,24 +68,16 @@ Mostafa Fallahnejad, in Hotmaps-Wiki, CM-District-heating-potentials (April 2019
 
 ## Authors and reviewers
 
-This page is written by Mostafa Fallahnejad\*.
+This page was written by Mostafa Fallahnejad **[EEG - TU Wien](https://eeg.tuwien.ac.at/)**.
 
-&#9744; This page was reviewed by Lukas Kranzl\*.
-
-\* [Energy Economics Group - TU Wien](https://eeg.tuwien.ac.at/)
-
-Institute of Energy Systems and Electrical Drives
-
-Gusshausstrasse 27-29/370
-
-1040 Wien
+&#9745; This page was reviewed by Marcul Hummel **[e-think](https://e-think.ac.at)**.
 
 
 [**`To Top`**](#table-of-contents)
 
 ## License
 
-Copyright © 2016-2019: Mostafa Fallahnejad
+Copyright © 2016-2020: Mostafa Fallahnejad
 
 Creative Commons Attribution 4.0 International License
 
