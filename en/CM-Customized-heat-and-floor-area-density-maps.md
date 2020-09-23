@@ -4,8 +4,6 @@
 * [In a glance](#in-a-glance)
 * [Introduction](#introduction)
 * [Inputs and outputs](#inputs-and-outputs)
-  * [Inputs](#inputs-and-outputs_inputs)
-  * [Outputs](#inputs-and-outputs_outputs)
 * [Method](#method)
 * [GitHub repository of this calculation module](#github-repository-of-this-calculation-module)
 * [How to cite](#how-to-cite)
@@ -30,7 +28,8 @@ This module will only be available as a stand-alone module; it will not be integ
 
 ## Inputs and outputs
 
-### Inputs
+**Inputs**
+
 The module accepts a CSV file as input. The following headers are expected in case of any of the input file types (should be available in the header of the CSV file):
 
 * **hotmaps_ID**: provide a unique, integer ID for each feature (polygon)
@@ -48,13 +47,14 @@ The module accepts a CSV file as input. The following headers are expected in ca
 
 **Important Note**: `The headers should be written as stated above. Otherwise, the code will break and returns an error.`
 
-[**`To Top`**](#table-of-contents)
 
-### Outputs
+
+**Outputs**
+
 As output, two raster files are generated:
 
-1. Gross floor area density map with pixel values in **_m<sup>2</sup> per hectare_**
-1. Heat demand density map with pixel values in **_MWh per hectare_**
+* Gross floor area density map with pixel values in **_m<sup>2</sup> per hectare_**
+* Heat demand density map with pixel values in **_MWh per hectare_**
 
 [**`To Top`**](#table-of-contents)
 
@@ -79,7 +79,7 @@ Based on the above criteria and coordinates given in the input CSV file, each in
 
 ## How to cite
 
-Mostafa Fallahnejad, in Hotmaps-Wiki, CM-District-heating-potentials (April 2019)
+Mostafa Fallahnejad, in Hotmaps-Wiki, CM Customized heat and gross floor area density maps (September 2020)
 
 
 [**`To Top`**](#table-of-contents)
