@@ -89,17 +89,9 @@ Pietro Zambelli, in Hotmaps-Wiki, CM-Heatsource-potential (September 2020)
 
 ## Authors and reviewers
 
-This page is written by Pietro Zambelli\*.
+This page is written by Pietro Zambelli **[EURAC](http://www.eurac.edu)**.
 
-&#9744; This page was reviewed by Simon Pezzutto\*.
-
-\* [Urban and Regional Energy System Group - Eurac research](https://www.eurac.edu/)
-
-Institute of Renewable Energy
-
-viale Druso 1
-
-39100 Bolzano
+&#9745; This page was reviewed by Simon Pezzutto **[EURAC](http://www.eurac.edu)**.
 
 
 [**`To Top`**](#table-of-contents)
@@ -115,6 +107,7 @@ This work is licensed under a Creative Commons CC BY 4.0 International License.
 SPDX-License-Identifier: CC-BY-4.0
 
 License-Text: https://spdx.org/licenses/CC-BY-4.0.html
+
 
 [**`To Top`**](#table-of-contents)
 
