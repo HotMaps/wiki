@@ -99,19 +99,12 @@ Pietro Zambelli, in Hotmaps-Wiki, CM-Wind-potential (September 2020)
 
 ## Authors and reviewers
 
-This page is written by Giulia Garegnani and Pietro Zambelli\*.
+This page is written by Giulia Garegnani and Pietro Zambelli **[EURAC](http://www.eurac.edu)**.
 
-&#9744; This page was reviewed by Simon Pezzutto\*.
+&#9744; This page was reviewed by Simon Pezzutto **[EURAC](http://www.eurac.edu)**.
 
-\* [Urban and Regional Energy System Group - EURAC Bozen](http://www.eurac.edu/en/research/technologies/renewableenergy/researchfields/Pages/Energy-strategies-and-planning.aspx)
-
-Institute of Renewable Energy
-Drususallee/Viale Druso 1
-I-39100 Bozen/Bolzano
-Italy
 
 [**`To Top`**](#table-of-contents)
-
 
 ## License
 
