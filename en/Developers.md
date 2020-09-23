@@ -16,6 +16,7 @@
 - [How to define indicators](#how-to-define-indicators)
 - [How to cite](#how-to-cite)
 - [Authors and reviewers](#authors-and-reviewers)
+- [License](#license)
 - [Acknowledgement](#acknowledgement)
 
 ## Introduction
