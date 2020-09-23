@@ -190,46 +190,24 @@ Anders M. Odgaard, in Hotmaps-Wiki, Concept for using Hotmaps for district cooli
 
 ## Authors and reviewers
 
-This page is written by Anders M. Odgaard \*.
+This page was written by Anders M. Odgaard **[Planenergie](https://planenergi.dk/)**.
 
-This page was reviewed by Mostafa Fallahnejad \** and Marcus Hummel \***.
-
-\* PlanEnergi
-
-Jyllandsgade 1
-
-DK-9520 Skørping
-
-\** Energy Economics Group - TU Wien
-
-Institute of Energy Systems and Electrical Drives
-
-Gusshausstrasse 27-29/370
-
-AT-1040 Wien
-
-\*** e-think
-
-Zentrum f. Energiewirtschaft und Umwelt
-
-Argentinierstrasse 18/10
-
-AT-1040 Wien
+&#9745; This page was reviewed by Marcus Hummel **[e-think](https://e-think.ac.at)**.
 
 
-<code><ins>**[To Top](#table-of-contents)**</ins></code>
+[**`To Top`**](#table-of-contents)
 
 ## License
 
-Copyright © 2016-2019: Anders M. Odgaard
+Copyright © 2016-2020: Anders M. Odgaard
 
 Creative Commons Attribution 4.0 International License
+
 This work is licensed under a Creative Commons CC BY 4.0 International License.
 
 SPDX-License-Identifier: CC-BY-4.0
 
 License-Text: https://spdx.org/licenses/CC-BY-4.0.html
-
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
 
