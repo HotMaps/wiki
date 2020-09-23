@@ -66,11 +66,11 @@ They differ in their thermal renovation rate, in other words how much of the gro
 ### Outputs
 
 * _Indicators:_
-  * Underlaying population growth assumptions from start to target year in a 5 year increment
-  * Heated (gross floor) area total and per capita in the start year and at the end year of the calculation (Due to the data situation of the heating density maps, the area for 2014 is shown here at the start value.)
+  * Underlying population growth assumptions from start to target year in a 5-year increment
+  * Heated (gross floor) area total and per capita in the start year and at the end year of the calculation (Due to the varying availability of different datasets for different years, the area for 2014 is shown here at the start value.)
   * Estimated (final) energy consumption total and per Area in the start year and at the end year of the calculation
   * Estimated area, total energy consumption and specific energy consumption per construction period in the start year and at the end year of the calculation
-  * Share of newly constructed buildings shown in map in 2017
+  * Share of newly constructed buildings shown in the raster map for the target year
 
 * _Graphics:_
   * Bar charts on heated gross floor area and final energy consumption per construction period
@@ -85,7 +85,9 @@ They differ in their thermal renovation rate, in other words how much of the gro
 
 As written before this module is based on calculations performed with the Invert/EE-Lab module for all countries of the EU 28 (see **www.invert.at** for a description of the method of the Invert/EE-Lab module). The calculated scenarios are analysed regarding the development of the following types of buildings: residential and non-residential buildings, 3 construction periods and newly constructed buildings. Then the population growth per NUTS3 region and the initial building stock (in terms of heated gross floor area & energy needs per construction period and building type) per NUTS 3 region are assessed. Based on this assessment the results of the calculated scenarios are transferred to the respective NUTS3 region. The NUTS3 results are then distributed to the different hectare elements according to the method developed in Müller et al 2019 (**REFERENCE**).
 
-The module provides 4 different scenarios which vary in their renovation rates. Through a selection, either 0.5%, 1%, 2% or 3% of the total gross floor area is renovated. It is to be noted that the saved heating requirement is not directly proportional to an increase of the renovation rate, since differently effective renovations are permitted. With a small renovation rate, mainly buildings are renovated, where favourable measures can achieve large savings. With a high renovation rate, thermally better buildings are also increasingly being renovated and their saved heating energy is lower in comparison. The base scenario behind the different scenarios is the reference scenario which is described in the following part. 
+## Provided scenarios
+
+The module provides 4 different scenarios, which vary in their renovation rates. Through a selection, either 0.5%, 1%, 2% or 3% of the total gross floor area is renovated annually. It is to be noted that the saved heating requirement is not directly proportional to an increase in the renovation rate since different effective renovations are permitted. With a small renovation rate, mainly buildings are renovated, where favourable measures can achieve large savings. With a high renovation rate, buildings with a higher thermal quality are also increasingly being renovated and their saved heating energy is lower in comparison. The base scenario behind the different scenarios is the reference scenario which is described in the following part. 
 
 **_"reference":_**
 Current efficiency policies remain in place and are effectively implemented. We assume that in general, building owners and professionals comply with regulatory instruments like building codes. National differences in the policy intensity continue to exist. Therefore, the policy intensity indicates qualitatively the range of policy ambition in different countries. The energy efficiency policy mix corresponds to the current packages in place, which in most countries is a mix of regulatory approaches (building codes, nearly zero energy buildings (nZEB) definitions, RES-H obligation), economic support (subsidies for building refurbishment) and energy taxation. Main sources for implemented policies are the Mure database (www.measures-odyssee-mure.eu/) and the projects ENTRANZE (www.entranze.eu/) and Zebra2020 (www.zebra2020.eu/). 
@@ -128,7 +130,6 @@ To run the calculation module, follow the next steps:
 
 [[/en/CM-Demand-projection/default-sample-run_jpg-min.jpg]]
 *Figure: Demand projection after running with default parameter*
-
 * Additionally, also two diagrams are generated. The first one shows the Heated gross floor area for different building periods. The second diagram illustrates the energy consumption for Heating and domnestic hot water for also divided fort he different building periods.
 
 [[/en/CM-Demand-projection/default-sample-run_graphs_jpeg.jpg]]
