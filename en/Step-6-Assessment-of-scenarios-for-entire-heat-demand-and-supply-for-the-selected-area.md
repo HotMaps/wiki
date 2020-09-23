@@ -35,20 +35,17 @@ Marcus Hummel, Giulia Conforto, in Hotmaps-Wiki, Guidelines for using the Hotmap
 
 
 ## Authors and reviewers
-This page is written by Marcus Hummel and Giulia Conforto\*.
 
-&#9744;  This page was reviewed by ...
+This page was written by Marcus Hummel and Giulia Conforto **[e-think](https://e-think.ac.at)**.
 
-\* [e-think](https://e-think.ac.at/),
-Zentrum f. Energiewirtschaft und Umwelt,
-Argentinierstrasse 18/10,
-1040 Wien
+&#9745; This page was reviewed by Mostafa Fallahnejad **[EEG - TU Wien](https://eeg.tuwien.ac.at/)**.
 
-<code><ins>**[To Top](#table-of-contents)**</ins></code>
 
+[**`To Top`**](#table-of-contents)
 
 ## License
-Copyright © 2016-2019: Marcus Hummel, Giulia Conforto
+
+Copyright © 2016-2020: Marcus Hummel, Giulia Conforto
 
 Creative Commons Attribution 4.0 International License
 This work is licensed under a Creative Commons CC BY 4.0 International License.
@@ -57,8 +54,8 @@ SPDX-License-Identifier: CC-BY-4.0
 
 License-Text: https://spdx.org/licenses/CC-BY-4.0.html
 
-<code><ins>**[To Top](#table-of-contents)**</ins></code>
 
+<code><ins>**[To Top](#hotmaps-toolbox)**</ins></code>
 
 ## Acknowledgement
 We would like to convey our deepest appreciation to the Horizon 2020 [Hotmaps Project](https://www.hotmaps-project.eu) (Grant Agreement number 723677), which provided the funding to carry out the present investigation.
