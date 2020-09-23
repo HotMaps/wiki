@@ -194,21 +194,17 @@ Jeton Hasani in Hotmaps-Wiki, CM Decentral heating supply (November 2019)
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
 
 ## Authors and reviewers
-This page is written by Jeton Hasani\*.
-- [ ] This page was reviewed by Lukas Kranzl\*.
 
-\* [Energy Economics Group - TU Wien](https://eeg.tuwien.ac.at/)
+This page was written by Jeton Hasani **[EEG - TU Wien](https://eeg.tuwien.ac.at/)**.
 
-Institute of Energy Systems and Electrical Drives
+&#9745; This page was reviewed by Mostafa Fallahnejad **[EEG - TU Wien](https://eeg.tuwien.ac.at/)**.
 
-Gusshausstrasse 27-29/370
 
-1040 Wien
-
-<code><ins>**[To Top](#table-of-contents)**</ins></code>
+[**`To Top`**](#table-of-contents)
 
 ## License
-Copyright © 2016-2019: 
+
+Copyright © 2016-2020: Jeton Hasani
 
 Creative Commons Attribution 4.0 International License
 
