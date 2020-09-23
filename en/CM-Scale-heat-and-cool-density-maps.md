@@ -1,7 +1,5 @@
 <h1>CM Scale heat and cool density maps</h1>
 
-**CM Scale heat and cool density maps**
-
 ## Table of Contents
 * [In a glance](#in-a-glance)
 * [Introduction](#introduction)
