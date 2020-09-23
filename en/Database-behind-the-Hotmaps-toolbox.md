@@ -9,6 +9,7 @@
 - [References](#references)
 - [How to cite](#how-to-cite)
 - [Authors and reviewers](#authors-and-reviewers)
+- [License](#license)
 - [Acknowledgement](#acknowledgement)
 
 ## Introduction
