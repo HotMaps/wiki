@@ -14,15 +14,15 @@
 
 
 ## Introduction
-This module generates both a heat density and a floor area density map in the form of raster files. The inputs to the module are either a shapefile with required data in its attribute table or a CSV file. The input data should be sufficient for calculating floor area and heat demand densities. For example, X-coordinate and Y-coordinate of the centre of buildings that in case of shapefile, will be automatically calculated; heat demand of buildings or specific heat demand and its floor area. Instead of floor areas, the building footprint and number of floors can be provided.
+This module generates both a heat density and a floor area density map in the form of raster files. The input to the module a CSV file with certain column headers. For example, X-coordinate and Y-coordinate of the centre of buildings in EPSG:3035 coordinate reference system or their corresponding gross floor area and annual heat demand should be included in the CSV file. The generated raster files follow required projection and resolution by the Hotmaps toolbox and therefore, can be easily uploaded to the user accounts.
 
-This module will only be available as a stand-alone module; it will not be integrated into the toolbox.
+This module will only be available as a stand-alone module; it will not be integrated into the toolbox. The users of this CM should be familiar with python programming and have installed required libraries (e.g. Numpy, Pandas, GeoPandas and GDAL).
 
 
 ## Inputs and outputs
 
 ### Inputs
-The module accepts either shapefile or CSV file as input. The following headers are expected in case of any of the input file types (should be available in the attribute table or as the header of the CSV file):
+The module accepts a CSV file as input. The following headers are expected in case of any of the input file types (should be available in the header of the CSV file):
 
 * **hotmaps_ID**: provide a unique, integer ID for each feature (polygon)
 * **Type**: Building type: set to 1 for service sector; other values are considered as residential (optional: can be left empty)
@@ -37,7 +37,7 @@ The module accepts either shapefile or CSV file as input. The following headers 
 * **Y_3035**: The Y-Coordinate of the center of the feature (polygon) in EPSG 3035 projection (Mandatory for the CSV file: can be left empty)
 
 
-**Important Note**: `The headers should be written as stated above. Otherwise, the code will return an error.`
+**Important Note**: `The headers should be written as stated above. Otherwise, the code will break and returns an error.`
 
 [**`To Top`**](#table-of-contents)
 
@@ -50,6 +50,15 @@ As output, two raster files are generated:
 [**`To Top`**](#table-of-contents)
 
 ## Method
+
+To visualize an own raster file in the Hotmaps toolbox, it should respect the rules defined by the toolbox. Generally, a raster should:
+
+1. have the CRS of ETRS89-extended / LAEA Europe - EPSG:3035,
+1. The coordinate of the raster origin (top-left corner of the raster) should be a multiplicand of 100, e.g. (4334900, 3019700).
+1. The resolution of the raster map should 100x100m
+1. The raster should refer to a location in Europe.
+
+Based on the above criteria and coordinates given in the input CSV file, each input coordinate is allocated to a certain pixel. Entries allocated to one single pixel are aggregated. The bottom-left pixel and top-right pixel determine the extent of the pixel. The resolution of the map is 100x100. Accordingly, a heat density map and gross floor area map is generated.
 
 [**`To Top`**](#table-of-contents)
 
@@ -68,9 +77,9 @@ Mostafa Fallahnejad, in Hotmaps-Wiki, CM-District-heating-potentials (April 2019
 
 ## Authors and reviewers
 
-This page was written by Mostafa Fallahnejad **[EEG - TU Wien](https://eeg.tuwien.ac.at/)**.
+This page was written by Mostafa Fallahnejad (**[EEG - TU Wien](https://eeg.tuwien.ac.at/)**).
 
-&#9745; This page was reviewed by Marcul Hummel **[e-think](https://e-think.ac.at)**.
+&#9745; This page was reviewed by Marcul Hummel (**[e-think](https://e-think.ac.at)**).
 
 
 [**`To Top`**](#table-of-contents)
