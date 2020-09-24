@@ -94,14 +94,6 @@ This page was written by Thierry Bernhard **[CREM](https://www.crem.ch/)**.
 
 &#9745; This page was reviewed by Lesly Houndole and Albain Dufils **[CREM](https://www.crem.ch/)**.
 
-\* [CREM](https://www.crem.ch/)
-
-Centre de Recherches Energétiques et Municipales
-
-Rue Marconi 19 - CP 256
-
-CH-1920 Martigny
-
 
 [**`To Top`**](#table-of-contents)
 
