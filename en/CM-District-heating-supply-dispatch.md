@@ -28,7 +28,7 @@ The district heating supply dispatch module is a dispatch model which tries to f
 
 ![concept.png][concept]
 
-The method described here is to be understood as a first concept and can deviate from the actual implementation (model complexity, inputs and outputs, etc. must be seen from this point of view). This wiki page, explains the the version of calculation module that is integrated to the toolbox. A **stand-alone version** of the calculation module is much more comprehensive and can be downloaded from **[HERE](https://github.com/tuw-eeg/hotmapsDispatch)**. The **documentation** of the stand-alone version can be found **[HERE](https://hotmapsdispatch.readthedocs.io/en/latest/)**.
+The method described here is to be understood as a first concept and can deviate from the actual implementation (model complexity, inputs and outputs, etc. must be seen from this point of view). This wiki page, explains the the version of calculation module that is integrated to the toolbox. A **stand-alone version** of the calculation module is much more comprehensive and can be downloaded from **[HERE](https://github.com/tuw-eeg/hotmapsDispatch)**. This version requires however, basic knowledge of python programming. The **documentation** of the stand-alone version can be found **[HERE](https://hotmapsdispatch.readthedocs.io/en/latest/)**.
 
 [**`To Top`**](#table-of-contents)
 
