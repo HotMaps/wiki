@@ -24,6 +24,8 @@ This module generates load profiles of demand for space heating and hot water ge
 ## Introduction
 Hotmaps provides generic and year specific heat load profiles on NUTS2 level. The user may wish to adapt the default profiles based on the information that he/she has. This calculation module give the possibility for scaling different constituting elements of the profiles up or down and obtain a new profile.
 
+[**`To Top`**](#table-of-contents)
+
 ## Inputs and outputs
 
 ### Input layers and parameters
@@ -216,9 +218,9 @@ Ali Aydemir and David Schilling, in Hotmaps Wiki, CM Heat load profiles (Septemb
 
 ## Authors and reviewers
 
-This page was written by Ali Aydemir and David Schilling **[Fraunhofer ISI](https://isi.fraunhofer.de/)**. 
+This page was written by Ali Aydemir and David Schilling (**[Fraunhofer ISI](https://isi.fraunhofer.de/)**). 
 
-&#9745; This page was reviewed by Tobias Fleiter **[Fraunhofer ISI](https://isi.fraunhofer.de/)**.
+&#9745; This page was reviewed by Tobias Fleiter (**[Fraunhofer ISI](https://isi.fraunhofer.de/)**).
 
 
 [**`To Top`**](#table-of-contents)
