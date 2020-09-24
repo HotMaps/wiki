@@ -143,21 +143,13 @@ Both the yearly costs as well as the LCOH are shown in figures as well. These ca
 
 ### Emissions
 The scenario assessment file also provides the absolute amounts of CO<sub>2</sub> emissions in the different scenarios. The values are shown for the different supply technologies distinguishing between individual (decentral) and district heating (central) supply. The values are given in _**tCO<sub>2</sub>/yr**_.
-
-
-
 Again, the amounts of emissions are also shown in the form of a diagram right beside the table.
 
-### Absolute energy
-To compare the energy shares of the individual scenarios, the entries Final Energy and Useful Energy are suitable.
-Final Energy refers to the necessary use of energy sources to achieve useful energy with the technologies used and their efficiency. In relation to centralized, the line losses are also included here. A comparison of the final energy of the individual scenarios is again right beside the table in the diagram final energy in GWh/yr.
-The portion of final energy which is available after final conversion to the consumer for the respective use is called useful energy. The parts from the different technologies are shown under in the table under useful energy or in the diagram useful energy in GWh/yr on the right side.
+### Energy demand (final and useful energy)
+In the table also the demands for final and useful energy are presented. In the final energy demand also the losses in the district heating system are contained. Therefore, the final energy demand values for district heating (central) supply reflect the energy carrier demand in the plants of the district heating system. Both, the values for useful and for final energy demand are shown in _**GWh/yr**_.
 
-### Shares
-Finally, the document offers a comparison of four different shares. 
-Three of them are renewable shares. In the table renewable factor below, you can indicate factors for different technologies. We have provided default values here, but these can be changed as desired.
-The fourth share describes the portion from final energy supplied by district heating the whole system final energy. 
-All the shares can be found in the graphic Shares in % to the right of the table.
+### Shares of renewable energy and district heating
+Finally, the table offers a comparison of four different shares: the share of renewable energy in decentral supply, in central supply and in the overall heat supply in the area, and the share of district heating / central supply in the area. As for the other values, these values are also presented in figures right beside the table.
 
 [[/en/CM-Scenario-assessment/picture4.jpg]]
 
