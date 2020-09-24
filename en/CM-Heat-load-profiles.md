@@ -10,6 +10,7 @@
   * [Overview](#method_overview)
   * [Details](#method_details)
   * [Implementation](#method_implementation)
+* [GitHub repository of this calculation module](#github-repository-of-this-calculation-module)
 * [Sample run](#sample-run)
 * [How to cite](#how-to-cite)
 * [Authors and reviewers](#authors-and-reviewers)
@@ -189,6 +190,14 @@ The heat demand density of the residential and non-residential sectors are raste
 The gross floor area residential and gross floor area non-residential are raster files which can be found **[here]( https://gitlab.com/hotmaps/gfa_res_curr_density)** and **[here.]( https://gitlab.com/hotmaps/gfa_nonres_curr_density)**
 
 [**`To Top`**](#table-of-contents)
+
+
+## GitHub repository of this calculation module
+
+[Here](https://github.com/HotMaps/load_profile_cm) you get the bleeding-edge development for this calculation module.
+
+[**`To Top`**](#table-of-contents)
+
 
 ## Sample run
 
