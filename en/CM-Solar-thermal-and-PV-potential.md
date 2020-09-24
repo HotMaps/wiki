@@ -209,7 +209,7 @@ Giulia Garegnani, in Hotmaps-Wiki, CM-Solar-PV-potential (April 2019)
 
 This page is written by Giulia Garegnani **[EURAC](http://www.eurac.edu)**.
 
-&#9744; This page was reviewed by Mostafa Fallahnejad **[EEG - TU Wien](https://eeg.tuwien.ac.at/)**.
+&#9745; This page was reviewed by Mostafa Fallahnejad **[EEG - TU Wien](https://eeg.tuwien.ac.at/)**.
 
 
 [**`To Top`**](#table-of-contents)
