@@ -22,11 +22,13 @@ This module generates load profiles of demand for space heating and hot water ge
 [**`To Top`**](#table-of-contents)
 
 ## Introduction
-Calculation of heat demand load profiles for selected regions.
+Hotmaps provides generic and year specific heat load profiles on NUTS2 level. The user may wish to adapt the default profiles based on the information that he/she has. This calculation module give the possibility for scaling different constituting elements of the profiles up or down and obtain a new profile.
 
 ## Inputs and outputs
 
 ### Input layers and parameters
+Several layers and profiles are used from the default data set of the Hotmaps:
+
 * Heat density residential sector
 * Heat density non-residential sector
 * Gross floor area residential
@@ -38,22 +40,13 @@ Calculation of heat demand load profiles for selected regions.
 * Load profiles for residential domestic hot water
 * Load profiles for tertiary domestic hot water
 
-#### Provided by the user
-* Residential heating factor
+### User inputs
+User should provide the following parameters:
 
-  The residential heating demand is multiplied with this factor.
-
-* Tertiary heating factor
-
-  The tertiary heating demand is multiplied with this factor.
-
-* Residential hot water supply factor
-
-  The residential hot water demand is multiplied with this factor.
-
-* Tertiary hot water supply factor
-
-  The tertiary hot water demand is multiplied with this factor.
+* **Residential heating factor**: The residential heating demand is multiplied by this factor.
+* **Tertiary heating factor**: The tertiary heating demand is multiplied by this factor.
+* **Residential hot water supply factor**: The residential hot water demand is multiplied by this factor.
+* **Tertiary hot water supply factor**: The tertiary hot water demand is multiplied by this factor.
 
 
 [**`To Top`**](#table-of-contents)
@@ -62,46 +55,18 @@ Calculation of heat demand load profiles for selected regions.
 
 #### Indicators
 
-* Heat demand by industry
-
-  Yearly heat demand by industry in the selected area.
-
-* Heat demand by residential heating
-
-  Yearly heat required for residential heating in the selected area.
-
-* Heat demand by residential warm water supply
-
-  Yearly heat required for residential warm water supply in the selected area.
-
-* Heat demand by tertiary sector heating
-
-  Yearly heat required for tertiary sector heating in the selected area.
-
-* Heat demand by tertiary sector warm water supply
-
-  Yearly heat required for tertiary sector warm water supply in the selected area.
-
-* Total head demand
-
-  Yearly total heat required in the selected area.
+* **Heat demand by industry**: Yearly heat demand by industry in the selected area.
+* **Heat demand by residential heating**: Yearly heat required for residential heating in the selected area.
+* **Heat demand by residential warm water supply**: Yearly heat required for residential warm water supply in the selected area.
+* **Heat demand by tertiary sector heating**: Yearly heat required for tertiary sector heating in the selected area.
+* **Heat demand by tertiary sector warm water supply**: Yearly heat required for tertiary sector warm water supply in the selected area.
+* **Total head demand**: Yearly total heat required in the selected area.
 
 #### Graphics
 
-* Heat demand profiles
+* **Heat demand profiles**: A graphic showing above listed indicators over the year. 
 
-  Graphic showing above listed indicators over the year. Details can be found [here](en-CM-Heat-load-profiles#heat-demand-profiles)
-
-#### Examples of Graphics
-
-##### Heat demand profiles
-
-<figure>
-<img alt="" src="../images/cm_load_profile/profile.PNG"/>
-<figcaption><i>Graphic showing the heat demand of the different sectors over the year.</i></figcaption>
-</figure>
-
-The x-axis represents time and the y-axis power. It can be helpful to hide certain sectors to better see others.
+The x-axis represents the time and the y-axis shows the power in MW. It can be helpful to hide certain sectors to better see others. This can be done by double-clicking on the legend.
 
 
 [**`To Top`**](#table-of-contents)
@@ -116,7 +81,7 @@ Corresponding load profiles are assigned to industrial sites, residential and te
 ### Details
 
 #### Residential warm water supply
-Based on the gross floor area of residential buildings and their Nuts0 ID the energy used for warm water supply is computed with the following list. With the Nuts2 ID of a specific area, a load profile is assigned.  The residential hot water supply is multiplied with the residential hot water supply factor in case the user wants to adjust the value.
+Based on the gross floor area of residential buildings and their NUTS 0 ID, the energy used for warm water supply is computed with the following list. Using the NUTS 2 ID of the selected area, a load profile is assigned. The residential hot water supply is multiplied by the residential hot water supply factor in case the user wants to adjust the value.
 
 *Specific energy per area for warm water supply in residential buildings in different countries*
 
@@ -152,10 +117,10 @@ Based on the gross floor area of residential buildings and their Nuts0 ID the en
 | UK            | 49.03         |
 
 #### Residential heating
-The heat density for the residential sector is used. Since this dataset already contains the energy used for warm water, the previous computed warm water energy is subtracted from it. Based on the Nuts2 ID a residential heating profile is assigned for each tile of the heat density in the user selection.  The residential heating is multiplied with the residential heating factor in case the user wants to adjust the value.
+The heat demand density for the residential sector is used. Since this data set already contains the energy used for warm water, the previous computed warm water energy is subtracted from it. Based on the NUTS 2 ID a residential heating profile is assigned for each tile of the heat density in the user selection. The residential heating is multiplied by the residential heating factor in case the user wants to adjust the value.
 
 #### Tertiary warm water supply
-Similar to the residential warm water supply the energy needed is computed with a table. With the Nuts2 ID of a specific area, a load profile is assigned.  The tertiary warm water supply is multiplied with the tertiary hot water supply factor in case the user wants to adjust the value.
+Similar to the residential warm water supply the energy needed is computed with a table. With the NUTS 2 ID of a specific area, a load profile is assigned. The tertiary warm water supply is multiplied with the tertiary hot water supply factor in case the user wants to adjust the value.
 
 *Specific energy per area for warm water supply in tertiary buildings in different countries*
 
@@ -191,13 +156,13 @@ Similar to the residential warm water supply the energy needed is computed with 
 | UK            | 13.45         |
 
 #### Tertiary heating
-The tertiary heating is computed similar to the residential heating. The tertiary heating is multiplied with the tertiary heating factor in case the user wants to adjust the value.
+The tertiary heating is computed similar to the residential heating. The tertiary heating is multiplied by the tertiary heating factor in case the user wants to adjust the value.
 
 #### Industrial heat demand
-The heat demand by industry is looked up the industrial database and based on the Nuts0 ID and the subsector a load profile is assigned.
+The heat demand by industry is looked up the industrial database and based on the NUTS 0 ID and the sub-sector a load profile is assigned.
 
 #### Summation
-The five resulting profiles are added together in an absolute way.
+The five resulting profiles are aggregated in an absolute way to obtain the final profile.
 
 
 [**`To Top`**](#table-of-contents)
@@ -211,11 +176,11 @@ All load profiles are normalized so that the integral is equal to 1.
 
 #### Industrial sites
 
-The heat sources are taken from the **[industrial database.]( https://gitlab.com/hotmaps/industrial_sites/industrial_sites_Industrial_Database)** Based on their excess heat, Nuts0 ID and industrial sector a load profile covering every hour of the year is created for each site.
+The heat sources are taken from the **[industrial database.]( https://gitlab.com/hotmaps/industrial_sites/industrial_sites_Industrial_Database)** Based on their excess heat, NUTS 0 ID and industrial sector a load profile covering every hour of the year is created for each site.
 
 #### Heat densities
 
-The heat density residential sector and heat density non-residential sector are raster files which can be found **[here.]( https://gitlab.com/hotmaps/heat)**
+The heat demand density of the residential and non-residential sectors are raster files that can be found **[here.]( https://gitlab.com/hotmaps/heat)**
 
 #### Gross floor areas
 
