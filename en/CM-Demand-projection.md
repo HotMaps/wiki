@@ -130,10 +130,10 @@ The following six graphs show the development of the final energy demand for spa
 *Figure: Portion of Final energy demand in 2050 for NL, ES, BE, SE, CZ, HU, AT, RO, FI, DK and GK relative to 2015*
 
 **_SK, IE, PT, HR, BG, LT, LV, SI, EE, LU, CY and MT:_**
-[[/en/CM-Demand-projection/final_absolute_DE.jpg]]
+[[/en/CM-Demand-projection/final_absolute_SK.jpg]]
 *Figure: Final energy demand in SK, IE, PT, HR, BG, LT, LV, SI, EE, LU, CY and MT for 2015 and 2050 with different renovation rates*
 
-[[/en/CM-Demand-projection/final_relative_DE.jpg]]
+[[/en/CM-Demand-projection/final_relative_SK.jpg]]
 *Figure: Portion of Final energy demand in 2050 for SK, IE, PT, HR, BG, LT, LV, SI, EE, LU, CY and MT relative to 2015*
 
 [**`To Top`**](#table-of-contents)
