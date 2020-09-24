@@ -180,8 +180,6 @@ Andreas Müller and Marcus Hummel, in Hotmaps-Wiki, CM-Demand-projection (Octobe
 
 ## Authors and reviewers
 
-This page is written by Andreas Müller and Marcus Hummel\*.
-
 This page was written by Andreas Müller and Marcus Hummel **[e-think](https://e-think.ac.at)**.
 
 &#9745; This page was reviewed by Mostafa Fallahnejad **[EEG - TU Wien](https://eeg.tuwien.ac.at/)**.
