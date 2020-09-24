@@ -82,7 +82,7 @@ Pietro Zambelli and Giulia Garegnani, in Hotmaps Wiki, CM Shallow geothermal pot
 
 ## Authors and reviewers
 
-This page is written by Giulia Garegnani and Pietro Zambelli **[EURAC](http://www.eurac.edu)**.
+This page was written by Giulia Garegnani and Pietro Zambelli **[EURAC](http://www.eurac.edu)**.
 
 &#9745; This page was reviewed by Mostafa Fallahnejad **[EEG - TU Wien](https://eeg.tuwien.ac.at/)**.
 
