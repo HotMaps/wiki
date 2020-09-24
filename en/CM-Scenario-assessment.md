@@ -159,13 +159,12 @@ Finally, the table offers a comparison of four different shares: the share of re
 ## Sample run
 (Tomaszów Mazowiecki)
 
-With the download of the Excel file, you will receive a ready-to-fill version of the scenario assessment. 
-After a successful calculation of individual scenarios using the modules decentral heating supply, district heating economic assessment and district heating supply dispatch, the respective results of the modules can be copied into the corresponding sheets of the document.
-Here three scenarios for the polish city Tomaszów Mazowiecki are evaluated.
+With the download of the Excel file you will receive a ready-to-fill version of the scenario assessment. After a successful calculation of scenarios using the modules CM - Decentral heating supply, CM - District heating potential: economic assessment and CM - District heating supply dispatch, the respective results of the modules can be copied into the corresponding sheets of the document.
+In the following three scenarios for the polish city Tomaszów Mazowiecki are evaluated as an example.
 
-### Filling in Dec. heating supply data
-As the CM Dec. Heating supply only calculates individual building classes, these must first be combined to an entire building stock of the area under investigation. This can be achieved by using the provided template. TODO 
-Then the desired scenarios can be entered (copy data into the corresponding columns)
+### Ref. Dec. heating supply
+In this example one scenario of decentral heating supply for the city of Tomaszów Mazowiecki in Poland has been calculated using the Hotmaps toolbox together with the sheets in the section building stock according to the procedure described in [this section of the page](CM-Scenario-assessment#interpretation-of-input-parameters_definition-of-the-building-stock-and-calculation-of-indicators-for-decentral-heating-supply).
+
 [[/en/CM-Scenario-assessment/sample_run_picture1.jpg]]
 
 ### Filling in DH economic assessment data
