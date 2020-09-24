@@ -213,6 +213,7 @@ This page was written by Jeton Hasani **[EEG - TU Wien](https://eeg.tuwien.ac.at
 Copyright © 2016-2020: Jeton Hasani
 
 Creative Commons Attribution 4.0 International License
+
 This work is licensed under a Creative Commons CC BY 4.0 International License.
 
 SPDX-License-Identifier: CC-BY-4.0
