@@ -93,20 +93,18 @@ Further down in the sheet there are some parameters that have already been fille
 * *Grid losses* (F121:N121): is used to calculate the demand for heat supply in the district heating system out of the share of useful energy supplied by district heating.
 
 
-### Definition of the building Stock and calculation of indicators for decentral heating supply
+### Definition of the building stock and calculation of indicators for decentral heating supply
 
 A set of three sheets is used to describe the building stock of the region under investigation. The three sheets are used to collect the results of the CM - Decentral heating supply for single buildings, combine the single buildings to a building stock and to calculate the indicators for decentral heating supply needed for the overall scenario assessment. The content and filling of the different sheets is described in the following.
 
- Please visit the [CM - Decentral heating supply](/en/CM-Decentral-heating-supply) page for a deeper understanding of how the building stock feeds into that module.
-
 **1. Single-family buildings**
-This worksheet is prepared to collect the results of the [CM - Decentral heating supply](/en/CM-Decentral-heating-supply) for single-family buildings. Two different types of single-family buildings can be taken into account in the default version of the workbook. However, the user can adapt the workbook in order to combine any number of different single-family buildings (e.g. from different construction periods or different types like detached or semi-detached)
+This worksheet is prepared to collect the results of the [CM - Decentral heating supply](/en/CM-Decentral-heating-supply) for single-family buildings. Two different types of single-family buildings can be taken into account in the default version of the workbook. However, the user can adapt the workbook in order to combine any number of different single-family buildings (e.g. from different construction periods or different types like detached or semi-detached).
 
 **2. MF & non-res buildings**
-The worksheet as it is offers to structure a building stock for multi-family houses of eight different types: each column is dedicated to a building type and the CM - Decentral heating supply should be run once per each type. However, the user can adapt the Workbook in order to combine any number of different building categories (e.g. per age, gross floor area, category, etc.). 
+This worksheet is prepared to collect the results of the [CM - Decentral heating supply](/en/CM-Decentral-heating-supply) for multi-family as well as non-residential (non-res) buildings. 8 different types of multi-family and non-residential buildings can be taken into account in the default version of the workbook. However, the user can adapt the workbook in order to combine any number of different multi-family and non-residential buildings (e.g. from different construction periods or different types like small multi-family buildings, apartment blocks, offices, hotels & restuarants, education, etc.).
 
 **Building stock & Dec supply**
-In this sheet, the input to enter is the *Heat demand total (Final Energy)* for the selected area and the *Share of building type on the total useful energy demand for heat in 2050* per each type of building. The template offers a set of 10 different types of building, per category and age. The user can adjust the parameters of the building types, as well as the total number of building types combined at this stage, and the *Share of total useful heat demand in the building type supplied by the different individual heating technologies*.
+In this sheet the building stock of the region under investigation is compiled out of the building types defined and calculated in the previous two worksheets (C15:L15). Furthermore, the split of technologies assumed to be used in the different building types is defined (C17:L25) and the indicators for decentral heating supply in the building stock are calculated (E44:E77). For this also the overall heat demand in the region under investigation (E9) as well as the assumed CO2-price (E10) have to be defined by the user.
 
 
 ### Ref. Decentral (Dec.) heating supply
