@@ -90,7 +90,9 @@ A *Scenarios Table* (R4:Z17) is ready to be filled with a short description of t
 Further down in the sheet there are some parameters that have already been filled out, but can be adjusted, as long as they are not left empty:
 * *Renewable factor* (F102:H116): is used to calculate the renewable final energy out of total final energy demand. 
 * *General efficiency factor* (K102): is used to calculate the total useful energy demand out of total final energy demand.
-* *Grid losses* (F121:N121): is used to calculate the demand for heat supply in the district heating system out of the share of useful energy supplied by district heating.
+* *Grid losses* (F121:N121): is used to calculate the demand for heat supply in the district heating system out of the share of useful energy supplied by district heating (see the following figure).
+
+[[/en/CM-Scenario-assessment/picture3.jpg]]
 
 
 ### Definition of the building stock and calculation of indicators for decentral heating supply
@@ -140,11 +142,11 @@ Both the yearly costs as well as the LCOH are shown in figures as well. These ca
 [[/en/CM-Scenario-assessment/picture2_new.jpg]]
 
 ### Emissions
-To be able to compare the emissions of different scenarios, they are calculated under CO2 emissions. They are divided into centralized and decentralized scenarios, which in turn are divided into the technologies used. This allows a precise analysis on a technology level to evaluate them among each other or to identify large sources. Regarding central emissions, the additional emissions are also included here, which occur due to the distribution line losses. They can be adjusted in line 121, under Grid losses.
+The scenario assessment file also provides the absolute amounts of CO<sub>2</sub> emissions in the different scenarios. The values are shown for the different supply technologies distinguishing between individual (decentral) and district heating (central) supply. The values are given in _**tCO<sub>2</sub>/yr**_.
 
-[[/en/CM-Scenario-assessment/picture3.jpg]]
 
-Also, there is again a diagram which shows the emissions of the different scenarios. (Emissions in t CO2/yr)
+
+Again, the amounts of emissions are also shown in the form of a diagram right beside the table.
 
 ### Absolute energy
 To compare the energy shares of the individual scenarios, the entries Final Energy and Useful Energy are suitable.
