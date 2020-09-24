@@ -5,6 +5,7 @@
 * [Introduction](#introduction)
 * [Inputs and outputs](#inputs-and-outputs)
 * [Method](#method)
+* [GitHub repository of this calculation module](#github-repository-of-this-calculation-module)
 * [Sample run](#sample-run)
 * [How to cite](#how-to-cite)
 * [Authors and reviewers](#authors-and-reviewers)
@@ -14,37 +15,41 @@
 
 
 ## In a glance
-This module calculates the cost-minimal operation of a portfolio of heat supply technologies in a defined district heating system for each hour of the year. The inputs to the module are hourly profiles for the heat demand in the network, for the potential heat supply from different sources and for energy carrier prices. Furthermore, cost and efficiency parameters for each technology are required. The module yields the costs of heat supply, the share of energy carriers used and the implied CO2 emissions. The module can also be used to optimise the capacities of installed heat supply technologies.
+This module can be run in two modes: 1)dispatch, 2)invest. In the dispatch mode, it calculates the cost-minimal operation of a portfolio of heat supply technologies in a defined district heating system for each hour of the year. The inputs to the module are hourly profiles for the heat demand in the network, for the potential heat supply from different sources and for energy carrier prices. Furthermore, cost and efficiency parameters for each technology are required. The module yields the costs of heat supply, the share of energy carriers used and the implied CO2 emissions. In the invest mode, the module optimizes the capacities of installed heat supply technologies to cover heat demand.
 
 [**`To Top`**](#table-of-contents)
 
 
 
 ## Introduction
-The district heating supply module is a dispatch model which tries to find a cost optimum solution for covering the heat demand at every hour of the year.
+This module can be run in two modes: 1) dispatch, 2) invest. In the dispatch mode, it calculates the cost-minimal operation of a portfolio of heat supply technologies in a defined district heating system for each hour of the year. The inputs to the module are hourly profiles for the heat demand in the network, for the potential heat supply from different sources and for energy carrier prices. Furthermore, cost and efficiency parameters for each technology are required. The module yields the costs of heat supply, the share of energy carriers used and the implied CO2 emissions. In the invest mode, the module optimizes the capacities of installed heat supply technologies to cover heat demand.
+
+The district heating supply dispatch module is a dispatch model which tries to find a cost optimum solution for covering the heat demand at every hour of the year.
 
 ![concept.png][concept]
 
-&gt; The method described here is to be understood as a first concept and can deviate from the actual implementation (model complexity, inputs and outputs, etc. must be seen from this point of view).
+The method described here is to be understood as a first concept and can deviate from the actual implementation (model complexity, inputs and outputs, etc. must be seen from this point of view). This wiki page, explains the the version of calculation module that is integrated to the toolbox. A **stand-alone version** of the calculation module is much more comprehensive and can be downloaded from **[HERE](https://github.com/tuw-eeg/hotmapsDispatch)**. The **documentation** of the stand-alone version can be found **[HERE](https://hotmapsdispatch.readthedocs.io/en/latest/)**.
 
 [**`To Top`**](#table-of-contents)
 
 ## Inputs and outputs
 
 ### Main inputs
+The module requires a long array of input parameters. The main input parameters are however:
 1. Heat demand of the grid (selected region)
 1. Installed capacities of heat generators/storage
 1. Technical(en-efficiencies) and financial parameters(opex,capex,lifetime) of heat generators/storages
 1. Profiles (time series of the heat demand, solar radiation, temperature, electricity prices, etc..)
-1. ...
+
 
 ### Main outputs
+The main output indicators of the calculation module are:
 * Heat generation costs
 * Investment, operation and fuel costs
 * Heat generation mix per heat generator
 * CO2 Emissions
 * Full Load Hours, 
-* etc..
+
 
 **IMPORTANT NOTE** In Hotmaps biomass emissions are not assumed zero because Hotmaps is a tool aimed at supporting the ongoing energy transition. Considering biomass as a carbon-neutral source of energy implies that burning biomass reduces the current total emissions compared to burning fossil fuels, which is not true. The storage of carbon dioxide in trees happens over decades, while its release in the atmosphere takes place all at once. Therefore, the net carbon balance of biomass is zero in the long run, but not in the short run and climate change mitigation measures need to bring results in reducing carbon emissions in the short run.
 
@@ -94,6 +99,14 @@ The objective function tries to find the minimum of the difference from the cost
 ![legend.png][legend]
 
 [**`To Top`**](#table-of-contents)
+
+
+## GitHub repository of this calculation module
+
+[Here](https://github.com/HotMaps/dispatch_module/tree/develop) you get the bleeding-edge development for this calculation module.
+
+[**`To Top`**](#table-of-contents)
+
 
 ## Sample run
 
@@ -150,7 +163,6 @@ License-Text: https://spdx.org/licenses/CC-BY-4.0.html
 We would like to convey our deepest appreciation to the Horizon 2020 [Hotmaps Project](https://www.hotmaps-project.eu) (Grant Agreement number 723677), which provided the funding to carry out the present investigation.
 
 [**`To Top`**](#table-of-contents)
-<code>[Review this page](CM_DH_supply/_edit)</code>
 
 
 [//]: # (Here are all the files to the links)
