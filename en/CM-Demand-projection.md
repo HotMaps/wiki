@@ -107,7 +107,33 @@ _Qualitative overview of policy assumptions:_
 * Technology development: low
 
 _Results:_
-Total final energy demand for space heating, hot water and cooling in EU-28 decreases from 3650 TWh (2012) to 2800 TWh (2050).
+Total final energy demand for space heating, hot water, cooling and auxiliary energy demand in EU-28 decreases to approximately 3850 TWh for all renovation rates in 2015 and to 2800TWh to 2250 TWh in 2050 depending on the renovation rate.
+
+[[/en/CM-Demand-projection/final_energy_EU28.jpg]]
+*Figure: Final energy demand in EU-28 from 2015 to 2050 for different renovation rates*
+
+The following six graphs show the development of the final energy demand for space heating, cooling and domestic hot water preparation for the individual EU member states.
+
+DE, FR, GB, IT and PL:
+[[/en/CM-Demand-projection/final_absolute_DE.jpg]]
+*Figure: Final energy demand in DE, FR, GB, IT and PL for 2015 and 2050 with different renovation rates*
+
+[[/en/CM-Demand-projection/final_relative_DE.jpg]]
+*Figure: Portion of Final energy demand in 2050 for DE, FR, GB, IT and PL relative to 2015*
+
+NL, ES, BE, SE, CZ, HU, AT, RO, FI, DK and GK:
+[[/en/CM-Demand-projection/final_absolute_NL.jpg]]
+*Figure: Final energy demand in NL, ES, BE, SE, CZ, HU, AT, RO, FI, DK and GK for 2015 and 2050 with different renovation rates*
+
+[[/en/CM-Demand-projection/final_relative_NL.jpg]]
+*Figure: Portion of Final energy demand in 2050 for NL, ES, BE, SE, CZ, HU, AT, RO, FI, DK and GK relative to 2015*
+
+SK, IE, PT, HR, BG, LT, LV, SI, EE, LU, CY and MT:
+[[/en/CM-Demand-projection/final_absolute_DE.jpg]]
+*Figure: Final energy demand in SK, IE, PT, HR, BG, LT, LV, SI, EE, LU, CY and MT for 2015 and 2050 with different renovation rates*
+
+[[/en/CM-Demand-projection/final_relative_DE.jpg]]
+*Figure: Portion of Final energy demand in 2050 for SK, IE, PT, HR, BG, LT, LV, SI, EE, LU, CY and MT relative to 2015*
 
 [**`To Top`**](#table-of-contents)
 
