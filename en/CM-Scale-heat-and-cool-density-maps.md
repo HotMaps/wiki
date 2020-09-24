@@ -5,7 +5,7 @@
 * [Introduction](#introduction)
 * [Inputs and outputs](#inputs-and-outputs)
 * [Method](#method)
-* [Application](#application)
+* [Interpretation of results](#interpretation-of-results)
 * [GitHub repository of this calculation module](#github-repository-of-this-calculation-module)
 * [Sample run](#sample-run)
   * [Test Run: default input values](#sample-run_test-run-default-input-values)
@@ -15,14 +15,15 @@
 * [Acknowledgement](#acknowledgement)
 
 ## In a glance
-This module scales the default layer with a given factor. The aim is to provide a distribution of heat and cold demand if only the total amount of heat and cold demand is available.
+This module scales the default layer with a given factor. Often heat and cold demands are reported in an aggregated manner in energy balances. Using this calculation module, it is possible to us the distribution of default Hotmaps heat and cold demand density maps to dis aggregate such values. This is done by scaling the default Hotmaps heat and cool density maps up or done to reach the desired value.
 
 
 [**`To Top`**](#table-of-contents)
 
 ## Introduction
 
-The aim of the calculation module is to quickly obtain a new raster by scaling a raster density map by a user-chosen factor. It generates a new raster by multiplying each cell of the input raster by the given factor.
+This module scales the default layer with a given factor. Often heat and cold demands are reported in an aggregated manner in energy balances. Using this calculation module, it is possible to us the distribution of default Hotmaps heat and cold demand density maps to dis aggregate such values. This is done by scaling the default Hotmaps heat and cool density maps up or done to reach the desired value.
+The calculation module provides a new raster by scaling a raster density map by a user-chosen factor. It generates a new raster by multiplying each cell of the input raster by the given factor.
 
 
 [**`To Top`**](#table-of-contents)
@@ -36,8 +37,8 @@ The input parameters and layers, as well as output layers and parameters, are as
 * Multiplication factor [-]: a real value between _*0*_ and _*1000*_
   * if the multiplication factor is > 1, the output raster is greater than the input. 
   * if the multiplication factor is < 1, the output raster is smaller than the input.
-* The layer to be scaled :
-  * Heat or Cool density map in raster format (\*.tif)
+* The layer to be scaled:
+  * Heat or Cool density map in raster format (\*.tif): It is possible to scale personal heat and cool density maps up or down as well.  
 
 **Output layers and parameters are:**
 
@@ -52,7 +53,7 @@ Each cell's value of the input raster is multiplied by the multiplication factor
 
 [**`To Top`**](#table-of-contents)
 
-## Application
+## Interpretation of results
 If we know the total consumption of an area, and the indicator _Total head demand_ does not correspond this value, it is possible to scale the heat demand by the ratio (Total_real / Total_default).
 The following figure gives the example of a multiplication factor value of 0.5.
 
@@ -74,11 +75,14 @@ Here, the calculation module is run for the case study of Vienna, Austria. First
 
 ### Test Run: default input values
 After pressing run a new density map is calculated on the basis of the selected map. The default value here is the heat density total map. 
-After the calculation, the total new heat demand is shown on the right side, under indicators. (Here the default value is 1 and therefore no changes occur).
+After the calculation, the total new heat demand is shown on the right side, under indicators. (Here the default value is 1 and therefore, no change in the indicators occurs).
+
 [[/en/CM-Scale-heat-and-cool-density-maps/picture1.jpg]]
 
-After closing the calculation modules and switching to the layer section, the newly calculated heat density map can be found on the very bottom. It can be downloaded and uploaded again to save it or use it in further calculations.
+After closing the calculation modules and switching to the layer section, the newly calculated heat density map can be found at the very bottom of the LAYERS tab. This layer can be downloaded by the user and also can be uploaded to the user account for the purpose of further calculations.
+
 [[/en/CM-Scale-heat-and-cool-density-maps/picture2.jpg]]
+
 [**`To Top`**](#table-of-contents)
 
 ## How to cite
@@ -90,16 +94,15 @@ Thiery Bernhard, in Hotmaps-Wiki, CM Scale heat and cool density maps (April 201
 
 ## Authors and reviewers
 
-This page was written by Thierry Bernhard **[CREM](https://www.crem.ch/)**.
+This page was written by Thierry Bernhard (**[CREM](https://www.crem.ch/)**).
 
-&#9745; This page was reviewed by Lesly Houndole and Albain Dufils **[CREM](https://www.crem.ch/)**.
-
+&#9745; This page was reviewed by Lesly Houndole and Albain Dufils (**[CREM](https://www.crem.ch/)**).
 
 [**`To Top`**](#table-of-contents)
 
 ## License
 
-Copyright © 2016-2019: Thierry Bernhard
+Copyright © 2016-2020: CREM
 
 Creative Commons Attribution 4.0 International License
 
