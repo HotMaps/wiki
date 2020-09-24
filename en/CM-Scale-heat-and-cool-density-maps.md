@@ -90,9 +90,9 @@ Thiery Bernhard, in Hotmaps-Wiki, CM Scale heat and cool density maps (April 201
 
 ## Authors and reviewers
 
-This page is written by Thierry Bernhard\*.
+This page was written by Thierry Bernhard **[CREM](https://www.crem.ch/)**.
 
-&#9745; This page was reviewed by Lesly Houndole and Albain Dufils\*.
+&#9745; This page was reviewed by Lesly Houndole and Albain Dufils **[CREM](https://www.crem.ch/)**.
 
 \* [CREM](https://www.crem.ch/)
 
