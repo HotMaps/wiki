@@ -112,7 +112,7 @@ Pietro Zambelli, in Hotmaps-Wiki, CM-Heatsource-potential (September 2020)
 
 ## Authors and reviewers
 
-This page is written by Pietro Zambelli **[EURAC](http://www.eurac.edu)**.
+This page was written by Pietro Zambelli **[EURAC](http://www.eurac.edu)**.
 
 &#9745; This page was reviewed by Simon Pezzutto **[EURAC](http://www.eurac.edu)**.
 
