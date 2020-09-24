@@ -414,7 +414,7 @@ Mostafa Fallahnejad, in Hotmaps-Wiki, Hotmaps-data-repository-structure (May 201
 
 ## Authors and reviewers
 
-This page is written by **Mostafa Fallahnejad** ([EEG - TU Wien](https://eeg.tuwien.ac.at/)).
+This page was written by **Mostafa Fallahnejad** ([EEG - TU Wien](https://eeg.tuwien.ac.at/)).
 
 &#9745; This page was reviewed by **Marcus Hummel** ([e-think](https://e-think.ac.at/))
 
