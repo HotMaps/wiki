@@ -109,6 +109,7 @@ _Qualitative overview of policy assumptions:_
 _Results:_
 Total final energy demand for space heating, hot water, cooling and auxiliary energy demand in EU-28 decreases to approximately 3850 TWh for all renovation rates in 2015 and to 2800TWh to 2250 TWh in 2050 depending on the renovation rate.
 
+**_EU-28:_**
 [[/en/CM-Demand-projection/final_energy_EU28.jpg]]
 *Figure: Final energy demand in EU-28 from 2015 to 2050 for different renovation rates*
 
