@@ -42,11 +42,11 @@ The user independently runs the different calculations modules for each scenario
 
 The inputs compiled into the scenario assessment workbook are generated with the following calculation modules: 
 
-**1. [CM - Decentral heating supply](https://wiki.hotmaps.hevs.ch/en/CM-Decentral-heating-supply)**
+**1. [CM - Decentral heating supply](/en/CM-Decentral-heating-supply)**
 
-**2. [CM - District heating supply dispatch](https://wiki.hotmaps.hevs.ch/en/CM-District-heating-supply-dispatch)**
+**2. [CM - District heating supply dispatch](/en/CM-District-heating-supply-dispatch)**
 
-**3. [CM - District heating potential: economic assessment](https://wiki.hotmaps.hevs.ch/en/CM-District-heating-potential-economic-assessment)**
+**3. [CM - District heating potential: economic assessment](/en/CM-District-heating-potential-economic-assessment)**
 
 The inputs and outputs of these modules should be saved for each scenario and then compiled into the scenario assessment workbook. The cells to be filled are properly marked and a colour-coding legend is reported on the first sheet of the workbook, as explained in the following paragraph [Interpretation of input parameters](#interpretation-of-input-parameters). The three above-mentioned calculation modules require some inputs that you may already have, or that you may have to calculate running other modules, as specified in the following paragraph as well as in the **[Training section](/en/training-material)**.
 
@@ -79,44 +79,49 @@ The input parameters needed to run this module are divided into:
 On top of these, the workbook has instructions in red text and additional calculations that should not be edited in grey cells. The picture below shows how the colour-coding indicated on the front sheet of the workbook looks like.
 
 [[/en/CM-Scenario-assessment/CM-Scenario-Assessment-Colour-Coding.jpg]]
- 
-### Final Table
 
-This sheet mainly shows the overall output parameters both in figures and charts, and it has few input parameters.
 
-A *Scenarios Table* (R4:Z17) is ready to be filled with a short description of the different scenarios object of the assessment. Placed right above the charts, this table can be a reminder for the user or clarification for other collaborators.
+### Final Table - Overview of assessment results
+
+The sheet named "Final Table" mainly shows the overall output parameters both in figures and charts. Also, it has few input parameters that need to be provided by the user.
+
+A *Scenarios Table* (R4:Z17) is ready to be filled with a short description of the different scenarios assessed. Placed right above the charts, this table can be a reminder for the user or clarification for other collaborators.
 
 Further down in the sheet there are some parameters that have already been filled out, but can be adjusted, as long as they are not left empty:
-* *Renewable factor*: is used to calculate the green final energy out of total final energy demand. 
-* *General efficiency factor*: is used to calculate the total useful energy demand out of total final energy demand.
-* *Grid losses*: is used to build the decentral and district heating factor to calculate all the main overall indicators(levelized cost LCOH, CO2 emissions, Final energy, and Useful energy).
+* *Renewable factor* (F102:H116): is used to calculate the renewable final energy out of total final energy demand. 
+* *General efficiency factor* (K102): is used to calculate the total useful energy demand out of total final energy demand.
+* *Grid losses* (F121:N121): is used to calculate the demand for heat supply in the district heating system out of the share of useful energy supplied by district heating.
 
 
-### Building Stock
+### Definition of the building Stock and calculation of indicators for decentral heating supply
 
-This set of three tabs is used to build the building stock that will be used as an input parameter to calculate the output of the decentral heating supply. Please visit the [CM - Decentral heating supply](https://wiki.hotmaps.hevs.ch/en/CM-Decentral-heating-supply) page for a deeper understanding of how the building stock feeds into that module.
+A set of three sheets is used to describe the building stock of the region under investigation. The three sheets are used to collect the results of the CM - Decentral heating supply for single buildings, combine the single buildings to a building stock and to calculate the indicators for decentral heating supply needed for the overall scenario assessment. The content and filling of the different sheets is described in the following.
 
-**Single-family building stock**
-The worksheet as it is offers to structure a building stock for single-family houses of two different types: each column is dedicated to a building type and the CM - Decentral heating supply should be run once per each type. However, the user can adapt the Workbook in order to combine any number of different building categories (e.g. per age, gross floor area, category, etc.). 
+ Please visit the [CM - Decentral heating supply](/en/CM-Decentral-heating-supply) page for a deeper understanding of how the building stock feeds into that module.
 
-**Multi-family building stock**
+**1. Single-family buildings**
+This worksheet is prepared to collect the results of the [CM - Decentral heating supply](/en/CM-Decentral-heating-supply) for single-family buildings. Two different types of single-family buildings can be taken into account in the default version of the workbook. However, the user can adapt the workbook in order to combine any number of different single-family buildings (e.g. from different construction periods or different types like detached or semi-detached)
+
+**2. MF & non-res buildings**
 The worksheet as it is offers to structure a building stock for multi-family houses of eight different types: each column is dedicated to a building type and the CM - Decentral heating supply should be run once per each type. However, the user can adapt the Workbook in order to combine any number of different building categories (e.g. per age, gross floor area, category, etc.). 
 
-
-### Decentral heating supply
+**Building stock & Dec supply**
 In this sheet, the input to enter is the *Heat demand total (Final Energy)* for the selected area and the *Share of building type on the total useful energy demand for heat in 2050* per each type of building. The template offers a set of 10 different types of building, per category and age. The user can adjust the parameters of the building types, as well as the total number of building types combined at this stage, and the *Share of total useful heat demand in the building type supplied by the different individual heating technologies*.
 
-### Ref. Decentral heating supply
+
+### Ref. Decentral (Dec.) heating supply
 The output of the previous sheet *Decentral heating supply*, shown in fields highlighted in red, is to be copied and pasted in this sheet in the yellow fields. This sheet is meant to combine a number of decentral heating scenarios that will be considered for the portion of decentral heating in each one of the scenarios assessed in the Final Table. So for instance, if the sensitivity analysis builds on one fixed decentral heating scenario and evaluates the impact of nine levels of penetration of district heating, then the previous steps should be carried out only once and the Decentral heating supply outcome should be pasted in all the nine columns of this sheet. Conversely, if different decentral heating scenarios are compared, the three steps previously described should be repeated for each one.
 
-### Ref. DH Economic Assessment
+
+### Ref. DH economic assessment
 The input used to run several scenarios of the *CM DH Economic Assessment* are to be written in the blue cells, and each run's output is to be pasted in the yellow fields. This sheet is also meant to combine a number of decentral heating scenarios that will be considered for the portion of decentral heating in each one of the scenarios assessed in the Final Table but in relation to the economic assessment and costs. As for the previous sheet, if the sensitivity analysis builds on one fixed decentral heating scenario and evaluates the impact of nine levels of penetration of district heating, then the Decentral Heating Economics Assessment outcome should be pasted in all the nine columns of this sheet. Conversely, if different decentral heating scenarios are compared, a separate run of the Calculation module should be complete for each scenario.
+
 
 ### Ref. DH supply dispatch
 The input used to run several scenarios of the *CM DH Supply Dispatch* are to be written in the blue cells, and each run's output is to be pasted in the yellow fields. This sheet is also meant to combine a number of decentral heating scenarios that will be considered for the portion of decentral heating in each one of the scenarios assessed in the Final Table. As for the previous sheet, if the sensitivity analysis builds on one fixed decentral heating scenario and evaluates the impact of nine levels of penetration of district heating, then the Decentral Heating Economics Assessment outcome should be pasted in all the nine columns of this sheet. Conversely, if different decentral heating scenarios are compared, a separate run of the Calculation module should be complete for each scenario.
 
-
 [**`To Top`**](#table-of-contents)
+
 
 ## Interpretation of results
 After copying your results from the three modules: Decentral heating supply, district heating economic assessment and district heating supply dispatch to the corresponding sheets you will get whole scenario results in the final table sheet for your evaluated area.
