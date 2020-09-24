@@ -118,6 +118,10 @@ The user is free to decide on which scenarios for the construction of district h
 
 
 ### Ref. DH supply dispatch
+In this worksheet various scenarios for the supply of heat to potential district heating systems can be defined. To do so, the user runs different scenarios with the [CM - District heating supply dispatch](/en/CM-District-heating-supply-dispatch) and copies the results of the module from the toolbox into this worksheet (cells D84:L98 for the results in the section called "INDICATORS" and cells D104:L195 for the results in the section called "GRAPHICS").
+The user is free to decide on which scenarios for the construction of district heating grids are collected in this sheet (e.g. different market shares of district heating in district heating areas, different grid cost ceilings or different overall heat demands in the region).
+
+
 The input used to run several scenarios of the *CM DH Supply Dispatch* are to be written in the blue cells, and each run's output is to be pasted in the yellow fields. This sheet is also meant to combine a number of decentral heating scenarios that will be considered for the portion of decentral heating in each one of the scenarios assessed in the Final Table. As for the previous sheet, if the sensitivity analysis builds on one fixed decentral heating scenario and evaluates the impact of nine levels of penetration of district heating, then the Decentral Heating Economics Assessment outcome should be pasted in all the nine columns of this sheet. Conversely, if different decentral heating scenarios are compared, a separate run of the Calculation module should be complete for each scenario.
 
 [**`To Top`**](#table-of-contents)
