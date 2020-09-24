@@ -45,6 +45,7 @@ This page was written by Marcus Hummel and Giulia Conforto **[e-think](https://e
 Copyright © 2016-2020: Marcus Hummel, Giulia Conforto
 
 Creative Commons Attribution 4.0 International License
+
 This work is licensed under a Creative Commons CC BY 4.0 International License.
 
 SPDX-License-Identifier: CC-BY-4.0
