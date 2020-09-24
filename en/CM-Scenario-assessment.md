@@ -48,7 +48,7 @@ The inputs compiled into the scenario assessment workbook are generated with the
 
 **3. [CM - District heating potential: economic assessment](https://wiki.hotmaps.hevs.ch/en/CM-District-heating-potential-economic-assessment)**
 
-The inputs and outputs of these modules should be saved for each scenario and then compiled into the scenario assessment workbook. The cells to be filled are properly marked and a colour-coding legend is reported on the first sheet of the workbook, as explained in the following paragraph [Interpretation of input parameters](#intepretation-of-input-parameters). The three above-mentioned calculation modules require some inputs that you may already have, or that you may have to calculate running other modules, as specified in the following paragraph as well as in the **[Training section]()**.
+The inputs and outputs of these modules should be saved for each scenario and then compiled into the scenario assessment workbook. The cells to be filled are properly marked and a colour-coding legend is reported on the first sheet of the workbook, as explained in the following paragraph [Interpretation of input parameters](#intepretation-of-input-parameters). The three above-mentioned calculation modules require some inputs that you may already have, or that you may have to calculate running other modules, as specified in the following paragraph as well as in the **[Training section](https://wiki.hotmaps.hevs.ch/en/training-material)**.
 
 The sheet "Final Table" calculates and shows a comparison of the following indicators for each defined scenario both in the figures and in the charts:
 * Cost per year for different cost categories and technologies in _**M EUR/yr**_,
