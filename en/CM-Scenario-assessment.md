@@ -163,20 +163,23 @@ With the download of the Excel file you will receive a ready-to-fill version of 
 In the following three scenarios for the polish city Tomaszów Mazowiecki are evaluated as an example.
 
 ### Ref. Dec. heating supply
-In this example one scenario of decentral heating supply for the city of Tomaszów Mazowiecki in Poland has been calculated using the Hotmaps toolbox together with the sheets in the section building stock according to the procedure described in [this section of the page](CM-Scenario-assessment#interpretation-of-input-parameters_definition-of-the-building-stock-and-calculation-of-indicators-for-decentral-heating-supply).
+In this example one scenario of decentral heating supply for the city of Tomaszów Mazowiecki in Poland has been calculated using the Hotmaps toolbox together with the sheets in the section building stock according to the procedure described in [this section of the page](CM-Scenario-assessment#interpretation-of-input-parameters_definition-of-the-building-stock-and-calculation-of-indicators-for-decentral-heating-supply). This scenario for decentral supply has been copied to the scenarios 1, 2 and 3 in the scenario assessment file, worksheet "Ref. Dec. heating supply" in order to use the same individual heating supply scenario in all three overall city scenarios that are compared.
 
 [[/en/CM-Scenario-assessment/sample_run_picture1.jpg]]
 
-### Filling in DH economic assessment data
-The next step in building the whole area scenarios is to choose the scenarios of the district heating grids. This is done by pasting the output data from the CM DH economic assessment in the corresponding sheet. Here once again, paste the data for your scenarios to the corresponding columns.
+### Ref. DH economic assessment
+In this example one scenario of district heating grid construction for the city of Tomaszów Mazowiecki in Poland has been calculated using the Hotmaps toolbox. This scenario has been copied to the scenarios 1, 2 and 3 in the scenario assessment file, worksheet "Ref. DH economic assessment" in order to use the same district heating grid construction scenario in all three overall city scenarios that are compared.
+
 [[/en/CM-Scenario-assessment/sample_run_picture2.jpg]]
 
-### Filling in DH supply dispatch data
-The last bit of data needed are the scenarios for the supply of the district heating network. These data are obtained through calculating it with the DH supply dispatch module. Also, copy your results from that module to the corresponding scenario in the sheet DH supply dispatch. Please note hear, that you must copy in two parts of the results. After running the DH supply dispatch module, the first one is provided through export indicators and the second one through switching to the tab graphic and clicking on export graphs at the very bottom. 
+### Ref. DH supply dispatch
+In this example three different scenarios of district heating supply for the city of Tomaszów Mazowiecki in Poland has been calculated using the Hotmaps toolbox. The scenarios reflect different combinations of supply technologies, namely different capacities of heat pumps, excess heat as well as heat only boilers.
+
 [[/en/CM-Scenario-assessment/sample_run_picture3.jpg]]
 
 ### Final table 
-After copying the individual data, the compiled scenarios can be examined in the Sheet final table. On the one hand there is a table showing the exact results and on the other hand you can find some graphs on the right side.
+After copying the individual data, the compiled scenarios can be examined in the sheet final table. On the one hand there is a table showing the exact results and on the other hand you can find corresponding graphs on the right side of the table. In this example the effects of using different capacities of supply technologies in the district heating system can be assessed based on the costs, emissions, energy demand and shares of renewable energy.
+
 [[/en/CM-Scenario-assessment/sample_run_picture4.jpg]]
 
 
