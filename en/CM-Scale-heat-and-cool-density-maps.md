@@ -99,7 +99,7 @@ This page was written by Thierry Bernhard **[CREM](https://www.crem.ch/)**.
 
 ## License
 
-Copyright © 2016-2019: CREM
+Copyright © 2016-2019: Thierry Bernhard
 
 Creative Commons Attribution 4.0 International License
 
