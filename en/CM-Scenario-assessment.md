@@ -182,7 +182,7 @@ Giulia Conforto and David Schmidinger, in Hotmaps-Wiki, CM-Scenario-assessment (
 
 ## Authors and reviewers
 
-This page is written by Giulia Conforto and David Schmidinger **[e-think](https://e-think.ac.at)**.
+This page was written by Giulia Conforto and David Schmidinger **[e-think](https://e-think.ac.at)**.
 
 &#9745; This page was reviewed by Marcul Hummel **[e-think](https://e-think.ac.at)**.
 
