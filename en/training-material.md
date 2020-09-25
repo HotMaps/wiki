@@ -82,7 +82,7 @@ The on-site training material has evolved building on the experience and feedbac
 
 ### Online Training
 
-The training material is presented below following the order in which it has been used or distributed. To see the agenda used during the training, please refer to the [Training Material Guideline](https://github.com/HotMaps/training_materials/blob/master/data/22_Hotmaps_D6.8_Training_Materials_2020_08_25_GC.docx).
+The training material is presented below following the order in which it has been used or distributed. To see the agenda used during the training, please refer to the [Training Material Guideline](https://github.com/HotMaps/training_materials/raw/master/data/22_Hotmaps_D6.8_Training_Materials_2020_08_25_GC.docx).
   - [Before the training](#training-material_online-training_before-the-training)
   - [Preparatory webinar](#training-material_online-training_preparatory-webinar)
   - [Exercises 1-2](#training-material_online-training_exercises-1-2)
@@ -92,7 +92,7 @@ The training material is presented below following the order in which it has bee
 
 
 #### Before the training
-* Email sent to participants before the first webinar [English](https://github.com/HotMaps/training_materials/blob/master/data/23_Hotmaps_Final_email_before_training.docx) / [German](https://github.com/HotMaps/training_materials/blob/master/data/24_Hotmaps_Final_email_before_training_DE.docx)
+* Email sent to participants before the first webinar [English](https://github.com/HotMaps/training_materials/raw/master/data/23_Hotmaps_Final_email_before_training.docx) / [German](https://github.com/HotMaps/training_materials/raw/master/data/24_Hotmaps_Final_email_before_training_DE.docx)
 * Tutorial: How to use Hotmaps [English](https://youtu.be/dUDACmC_LO8) (This tutorial can be seen in any language, by using the youtube automatic translation options)
 
 Handbooks:
@@ -104,7 +104,7 @@ Handbooks:
 
 #### Preparatory Webinar
 * Preparatory webinar: introduction to the Hotmaps project, toolbox, database, and online training [English](https://www.youtube.com/watch?v=nGJ8BJNB4z8) / [German](https://www.youtube.com/watch?v=4FLplnzbtg0)
-* Presentation used for the webinar [English](https://github.com/HotMaps/training_materials/blob/master/data/01_Hotmaps_eLearning_PreparatoryWebinar_2020-06-15.pdf) / [German](https://github.com/HotMaps/training_materials/blob/master/data/02_Hotmaps_eLearning_PreparatoryWebinar_2020-05-04_DE.pdf)
+* Presentation used for the webinar [English](https://github.com/HotMaps/training_materials/raw/master/data/01_Hotmaps_eLearning_PreparatoryWebinar_2020-06-15.pdf) / [German](https://github.com/HotMaps/training_materials/raw/master/data/02_Hotmaps_eLearning_PreparatoryWebinar_2020-05-04_DE.pdf)
 * [Sample Google Classroom](https://classroom.google.com/) English access code: **ealdt6b** / German access code: **tzfxr5w**  
 * [Tutorial: How to use Hotmaps](https://youtu.be/dUDACmC_LO8) (This tutorial is played by default in English, but can be seen in any language, by using the youtube automatic translation options)
 * Introductory video: "How can the toolbox support energy planning?" [English](https://www.youtube.com/watch?v=7IPcVlWsarc)
@@ -114,32 +114,32 @@ Handbooks:
 
 #### Exercises 1-2
 * Webinar: introduction to exercises 1-2 [English](https://www.youtube.com/watch?v=DOnJArGz_3E) / [German](https://www.youtube.com/watch?v=qvgpgkp7WEE)
-* Presentation used for the webinar  [English](https://github.com/HotMaps/training_materials/blob/master/data/03_Hotmaps%20Webinar_Exrcise-1-and-2.pdf)
-* Exercises 1-2 word [English](https://github.com/HotMaps/training_materials/blob/master/data/04_Exercises-1-and-2.docx) / [German](https://github.com/HotMaps/training_materials/blob/master/data/05_Uebungen-1-und-2.docx)
-* Exercises 1-2 excel [English](https://github.com/HotMaps/training_materials/blob/master/data/06_Exercises-1-and-2.xlsx) / [German](https://github.com/HotMaps/training_materials/blob/master/data/07_Uebungen-1-und-2.xlsx)
-* How to open a CSV [English](https://github.com/HotMaps/training_materials/blob/master/data/08_open_csv_easy.pdf) / [German](https://github.com/HotMaps/training_materials/blob/master/data/09_importieren_csv_einfach.pptx)
+* Presentation used for the webinar  [English](https://github.com/HotMaps/training_materials/raw/master/data/03_Hotmaps%20Webinar_Exrcise-1-and-2.pdf)
+* Exercises 1-2 word [English](https://github.com/HotMaps/training_materials/raw/master/data/04_Exercises-1-and-2.docx) / [German](https://github.com/HotMaps/training_materials/raw/master/data/05_Uebungen-1-und-2.docx)
+* Exercises 1-2 excel [English](https://github.com/HotMaps/training_materials/raw/master/data/06_Exercises-1-and-2.xlsx) / [German](https://github.com/HotMaps/training_materials/raw/master/data/07_Uebungen-1-und-2.xlsx)
+* How to open a CSV [English](https://github.com/HotMaps/training_materials/raw/master/data/08_open_csv_easy.pdf) / [German](https://github.com/HotMaps/training_materials/raw/master/data/09_importieren_csv_einfach.pptx)
 
 
 #### Exercises 3-4
 * Webinar: Wrap-up of exercises 1-2, introduction to exercises 3-4 [English](https://www.youtube.com/watch?v=YbfLLoREo6w) / [German](https://www.youtube.com/watch?v=8U_9bT3TZgg)
-* Exercises 3-4 word [English](https://github.com/HotMaps/training_materials/blob/master/data/10_Exercises-3-and-4.docx) / [German](https://github.com/HotMaps/training_materials/blob/master/data/11_%C3%9Cbungen-3-und-4.docx)
-* Exercises 3-4 excel [English](https://github.com/HotMaps/training_materials/blob/master/data/12_Exercises-3-and-4_DEV.xlsx) / [German](https://github.com/HotMaps/training_materials/blob/master/data/13_Uebungen-3-und-4.xlsx)
+* Exercises 3-4 word [English](https://github.com/HotMaps/training_materials/raw/master/data/10_Exercises-3-and-4.docx) / [German](https://github.com/HotMaps/training_materials/raw/master/data/11_%C3%9Cbungen-3-und-4.docx)
+* Exercises 3-4 excel [English](https://github.com/HotMaps/training_materials/raw/master/data/12_Exercises-3-and-4_DEV.xlsx) / [German](https://github.com/HotMaps/training_materials/raw/master/data/13_Uebungen-3-und-4.xlsx)
 
 
 #### Exercise 5
 * Webinar: Wrap-up of exercises 3-4, introduction to exercise 5 [English](https://www.youtube.com/watch?v=NAcdCrsQZuI) / [German](https://www.youtube.com/watch?v=lnTw9aCR6Fw)
-* Exercise 5 word [English](https://github.com/HotMaps/training_materials/blob/master/data/14_Exercise-5.docx) / [German](https://github.com/HotMaps/training_materials/blob/master/data/15_Uebung-5.docx)
-* Exercise 5 excel [English](https://github.com/HotMaps/training_materials/blob/master/data/16_Exercise-5_DEV.xlsx) / [German](https://github.com/HotMaps/training_materials/blob/master/data/17_Uebung-5.xlsx)
+* Exercise 5 word [English](https://github.com/HotMaps/training_materials/raw/master/data/14_Exercise-5.docx) / [German](https://github.com/HotMaps/training_materials/raw/master/data/15_Uebung-5.docx)
+* Exercise 5 excel [English](https://github.com/HotMaps/training_materials/raw/master/data/16_Exercise-5_DEV.xlsx) / [German](https://github.com/HotMaps/training_materials/raw/master/data/17_Uebung-5.xlsx)
 
 
 #### Closing Webinar
 * Webinar: Wrap-up of exercise 5, feedback questionnaire, certificates and final remarks [English](https://www.youtube.com/watch?v=NAcdCrsQZuI) / [German](https://www.youtube.com/watch?v=CPCDR-iBTZA)
-* Exercise 5 complete [English](https://github.com/HotMaps/training_materials/blob/master/data/18_Exercise-5_DEV_filled.xlsx)
-* Exercise 1-2 complete [German](https://github.com/HotMaps/training_materials/blob/master/data/19_Uebungen-1-und-2_ausgefuellt.xlsx)
-* Exercise 3-4 complete [German](https://github.com/HotMaps/training_materials/blob/master/data/20_Uebungen-3-und-4_ausgefuellt.xlsx)
+* Exercise 5 complete [English](https://github.com/HotMaps/training_materials/raw/master/data/18_Exercise-5_DEV_filled.xlsx)
+* Exercise 1-2 complete [German](https://github.com/HotMaps/training_materials/raw/master/data/19_Uebungen-1-und-2_ausgefuellt.xlsx)
+* Exercise 3-4 complete [German](https://github.com/HotMaps/training_materials/raw/master/data/20_Uebungen-3-und-4_ausgefuellt.xlsx)
 * Feedback questionnaire [English](https://docs.google.com/forms/d/e/1FAIpQLScZ-ZWohPtDjVUtfrVKRWDaLmzH0LWiL2m2RLpXKKn_8l0ddw/viewform?authuser=1) / [German](https://docs.google.com/forms/d/e/1FAIpQLSdoYCGCWnkPkFawSBLCokFaBIikdvisyAhngdt7NJ3_60F5uw/viewform?authuser=1)
 * Template for certificates: please contact conforto@e-think.ac.at
-* Presentation used for the webinar [English](https://github.com/HotMaps/training_materials/blob/master/data/21_Final-Webinar_Exercise-5.pptx)
+* Presentation used for the webinar [English](https://github.com/HotMaps/training_materials/raw/master/data/21_Final-Webinar_Exercise-5.pptx)
 
 [**`To Top`**](#table-of-contents)
 
