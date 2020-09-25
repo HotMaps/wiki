@@ -3,8 +3,8 @@
 ## Table of Contents
 
 * [Indicators](#indicators)
-  * [Simple indicator](#indicators_simple-indicator)
-  * [Cross indicator](#indicators_cross-indicator)
+  * [Simple indicator](#indicators_simple-indicators)
+  * [Cross indicator](#indicators_cross-indicators)
 * [Indicator result](#indicator-result)
 * [How to cite](#how-to-cite)
 * [Authors and reviewers](#authors-and-reviewers)
@@ -109,7 +109,7 @@ A simple indicator is an object with 3 parameters.
 
 This is the table column that is selected in the table. (Example: 'count')
 
-![tablecolumnselection](/api/assets/table_image.png)
+![tablecolumnselection](https://github.com/HotMaps/Hotmaps-toolbox-service/raw/master/api/assets/table_image.png)
 
 - 'unit'
 
