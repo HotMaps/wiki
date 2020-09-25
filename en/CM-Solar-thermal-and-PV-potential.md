@@ -22,9 +22,9 @@ This module calculates the energy supply potential and related costs for rooftop
 
 ## Introduction
 
-It aims to compute the solar thermal and the photovoltaic energy potential and the financial feasibility of a selected area by considering:
-- the installation of new Solar thermal / PV systems on a percentage of the available areas (the default area are the building footprint)
-- assess the financial feasibility of new plants
+The calculation module aims to compute the solar thermal and the photovoltaic energy potential and the financial feasibility of a selected area by considering:
+- the installation of new solar thermal / PV systems on a percentage of the available areas (the default area are the building footprint),
+- assess the financial feasibility of new plants.
 
 [**`To Top`**](#table-of-contents)
 
@@ -37,20 +37,20 @@ The input parameters and layers, as well as output layers and parameters, are as
 **Input layers and parameters are:**
 
 * raster file:
-     * mean yearly solar irradiation [kWh m^{-2}] 
-     * with the area available for the solar energy exploitation. The default raster use the building footprint raster file [m^{2}] 
-* percentage of available area that can be covered with solar panels [%] 
+     * mean yearly solar irradiation [kWh/m<sup>2</sup>] ,
+     * with the area available for the solar energy exploitation. The default raster use the building footprint raster file [m<sup>2</sup>],
+* percentage of available area that can be covered with solar panels [%],
 * reference plant parameters:  
-     * average installed peak power per plant [kW_p] 
-     * system efficiency, value between 0 and 1 [-] 
-     * the solar radiation at Standard Test Condition equal to 1 kW  m^{-2}
-     * module efficiency at Standard Test Conditions [kW  m^{-2}]
+     * average installed peak power per plant [kW_p],
+     * system efficiency, value between 0 and 1 [-],
+     * the solar radiation at Standard Test Condition equals to 1 kW/m<sup>2</sup>,
+     * module efficiency at Standard Test Conditions [kW  m<sup>2</sup>].
 
 **Output layers and parameters are:**
 
 * Total cost of covering the selected area with PV panels [currency]
 * Total yearly energy production [MWh/year]
-* Levelized Cost of Energy  [€/kWh]
+* Levelized cost of energy  [€/kWh]
 * Raster file with the most suitable areas for PV energy production
 
 [**`To Top`**](#table-of-contents)
@@ -58,10 +58,10 @@ The input parameters and layers, as well as output layers and parameters, are as
 ## Method
 
 Starting from the available area and the kind of PV technology the module computes the PV energy production under the following assumptions:
-- Optimal inclination of the PV system
-- Area of the PV modules equal to the percentage of the building footprint chosen by the user
-- Unique selected technology for all the installed PV systems
-- Default system efficiency equal to 0.75 
+- Optimal inclination of the PV system;
+- Area of the PV modules equal to the percentage of the building footprint chosen by the user;
+- Unique selected technology for all the installed PV systems;
+- Default system efficiency equal to 0.75.
 
 These assumptions have been done in order to consider a planning phase for a region and not the design of a specific PV system.
 
@@ -74,18 +74,18 @@ The energy production of each pixel considers covering only a fraction of the ro
 
 ### Example
 
-To give a practical example of how the CM logic/methodology is applied to a predefined area.
+To give a practical example, the CM logic/methodology is applied to a predefined area.
 By default, the input area we are using is the buildings' footprint. 
 So for example, the city of Bolzano (Italy), since a large part of the city is the historic centre (where it is not possible to install solar panels) we can estimate that only 1 roof every 5 can be used to collect solar energy (~20%). Instead, if you provide an area that it is available to implement some solar field then you can set 100% of the area can be used for the solar system.
 
 Which area of the 20% of the roofs in Bolzano can be covered by PV panels?
-Cover the whole roof is no realistic, since part of the roof have not suitable orientation since the building generally has 4 sides we can imagine that around 25% of the roof have a good orientation (at least in Bolzano where most of the roofs are not plane and have 2 or 4 roofs slopes), but still, we have shadowing effects from the surrounding trees, buildings, mountains, etc, and generally, we are leaving some space close to the border of the roofs so let's imagine that 50% of the good oriented roof can be used by PV (25% * 50% = 12.5%), the default value is a bit more optimistic (15%).
+Cover the whole roof is not realistic, since part of the roof have not suitable orientation. Since the building generally has 4 sides, we can imagine that around 25% of the roof have a good orientation (at least in Bolzano, where most of the roofs are not plane and have 2 or 4 roofs slopes). Nevertheless, we have shadowing effects from the surrounding trees, buildings, mountains, etc, and generally, we are leaving some space close to the border of the roofs so let's imagine that 50% of the good oriented roof can be used by PV (25% * 50% = 12.5%), the default value is a bit more optimistic (15%).
 
 In case of a solar field generally, the PV string occupies around 40-50% of the area to avoid the shadowing effect between PV strings.
 
 #### Example with a PV system on a building footprint
 
-For the sake of example, we are explaining the methodology for one single pixel, the CM is applying the same logic for each pixel in the area selected by the user. The default layer (the building footprint) has a pixel dimension of 100 x 100 m, therefore we have an available surface of 10000 m². For this example imagine that only 3000 m² of roofs are available in the pixel, the other missing part of the surface is surface dedicated to routes, green areas, river, etc. The logic implemented by the CM is:
+For the sake of example, we are explaining the methodology for one single pixel (1 hectare area). The CM applies the same logic for each pixel in the area selected by the user. The default layer (the building footprint) has a pixel dimension of 100x100m, therefore we have an available surface of 10000 m². For this example imagine that only 3000 m² of roofs are available in the pixel, the other missing part of the surface is surface dedicated to routes, green areas, river, etc. The logic implemented by the CM is:
 
 * apply the first percentage to get only the roofs that I can host the system:
     `available_surface = 3000 [m²] * 20% = 600 [m²]`
@@ -100,7 +100,7 @@ For the sake of example, we are explaining the methodology for one single pixel,
 
 #### Example with a solar PV field
 
-Now we have a pixel of 100 x 100m that it is available for a PV field system:
+Now we have a pixel of 100x100m that it is available for a PV field system:
 
 * as said before the first percentage is 100% since all the area can host the PV system:
     `available_surface = (100 x 100) [m²] * 100% = 10000 [m²]`
@@ -115,8 +115,8 @@ Now we have a pixel of 100 x 100m that it is available for a PV field system:
 
 #### Example with a PV & ST system on a building footprint
 
-The building surface that you can use it is a limited resource, therefore it is not possible to use the same surface to collect solar energy with a PV system and use also a Solar Thermal system.
-So recalling the previous example we have already 75 m² of surface dedicated to PV, we estimated that the good-oriented roof it is around 25% and therefore, we have still other 75 [m²] available. We can only use a fraction, let's say that 7.5%, that mean that if before we consider a 25% of the roof with a good exposition then we are considering the 12.5% is dedicated to the PV and 7.5 is dedicated to ST, and therefore we are using 20% of the 25%.
+The building surface that can be used, is a limited resource. Therefore it is not possible to use the same surface to collect solar energy with a PV system and at the same time, use a Solar Thermal system.
+So recalling the previous example, we have already 75 m² of surface dedicated to PV, we estimated that the good-oriented roof accounts for 25% of the total surface and therefore, we have still other 75 [m²] available. We can only use a fraction, let's say that 7.5%. This means that if before we consider a 25% of the roof with a good exposition then we are considering the 12.5% is dedicated to the PV and 7.5 is dedicated to ST, and therefore, we are using 20% of the 25%.
 
 So to give a practical example:
 
@@ -178,7 +178,7 @@ To run the calculation module, follow the next steps:
   * Total energy production,
   * Total setup costs,
   * Number of installed systems,
-  * Levelized Cost of Energy
+  * Levelized Cost of Energy.
 
 
 ![Fig. 3](../images/cm_solar_PV/default_values_03.png "Test run 1 INDICATORS tab")
@@ -203,7 +203,7 @@ Depending on your experience and local knowledge, you may increase or decrease t
   * Total energy production,
   * Total setup costs,
   * Number of installed systems,
-  * Levelized Cost of Energy
+  * Levelized Cost of Energy.
 
 
 [**`To Top`**](#table-of-contents)
@@ -216,9 +216,9 @@ Giulia Garegnani, in Hotmaps-Wiki, CM-Solar-PV-potential (April 2019)
 
 ## Authors and reviewers
 
-This page was written by Giulia Garegnani **[EURAC](http://www.eurac.edu)**.
+This page was written by Giulia Garegnani (**[EURAC](http://www.eurac.edu)**).
 
-&#9745; This page was reviewed by Mostafa Fallahnejad **[EEG - TU Wien](https://eeg.tuwien.ac.at/)**.
+&#9745; This page was reviewed by Mostafa Fallahnejad (**[EEG - TU Wien](https://eeg.tuwien.ac.at/)**).
 
 
 [**`To Top`**](#table-of-contents)
