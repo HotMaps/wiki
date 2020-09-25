@@ -104,7 +104,7 @@ Handbooks:
 
 #### Preparatory Webinar
 * Preparatory webinar: introduction to the Hotmaps project, toolbox, database, and online training [English](https://www.youtube.com/watch?v=nGJ8BJNB4z8) / [German](https://www.youtube.com/watch?v=4FLplnzbtg0)
-* Presentation used for the webinar [English](https://github.com/HotMaps/training_materials/raw/master/data/01_Hotmaps_eLearning_PreparatoryWebinar_2020-06-15.pdf) / [German](https://github.com/HotMaps/training_materials/raw/master/data/02_Hotmaps_eLearning_PreparatoryWebinar_2020-05-04_DE.pdf)
+* Presentation used for the webinar [English](https://github.com/HotMaps/training_materials/raw/master/data/01_Hotmaps_eLearning_PreparatoryWebinar_2020-06-15.pptx) / [German](https://github.com/HotMaps/training_materials/raw/master/data/02_Hotmaps_eLearning_PreparatoryWebinar_2020-05-04_DE.pptx)
 * [Sample Google Classroom](https://classroom.google.com/) English access code: **ealdt6b** / German access code: **tzfxr5w**  
 * [Tutorial: How to use Hotmaps](https://youtu.be/dUDACmC_LO8) (This tutorial is played by default in English, but can be seen in any language, by using the youtube automatic translation options)
 * Introductory video: "How can the toolbox support energy planning?" [English](https://www.youtube.com/watch?v=7IPcVlWsarc)
