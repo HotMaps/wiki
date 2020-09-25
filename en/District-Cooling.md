@@ -27,7 +27,7 @@ This page aims to show how to apply the Hotmaps toolbox to carry out cooling pla
 The Hotmaps database and toolbox can be used for cooling planning in the following way:
 * Use the default cooling demand density map for analysing district cooling potentials
 * Use the CM - Scale heat and cool density maps to increase / decrease the cooling demand in the default layer in order to fit other estimations
-* Use your own data regarding the building stock in the area of analysis together with data on specific cooling demand per building types from the Hotmaps database and the calculation module CM – Customised Floor area and Heat demand density maps to create a bottom-up cooling demand density map for further use 
+* Use your own data regarding the building stock in the area of analysis together with data on specific cooling demand per building types from the Hotmaps database and the calculation module CM – Customised gross floor area and heat demand density maps to create a bottom-up cooling demand density map for further use 
 * Use the CM – District Heating Potential Areas: user-defined thresholds to identify areas potentially interesting for district cooling
 
 These different steps are explained in detail in the following sections. Furthermore, these are illustrated on the example of Aalborg municipality.
@@ -99,7 +99,7 @@ To develop a customized bottom-up cooling density map based on local data, perfo
 * Classify your local building stock data to the sub-sectors and building age class of the Hotmaps Building Stock data.
 * Connect the cooling final energy demand for each subsector and building age class with your local building stock data for each building and calculate the cooling final energy demand.
 * Convert your spreadsheet to .csv or .xls in order to create a shapefile .shp based on the coordination of each building and the final energy demand for cooling.
-* Create a bottom-up cooling density map .tif using the Hotmaps CM Customized heat and gross floor area density maps. Description can be found in the Wiki page [CM - Customized heat and floor area density maps](/en/CM-Customized-heat-and-floor-area-density-maps), which also contains the [link to the code](https://github.com/HotMaps/customized_h_fa_dm).
+* Create a bottom-up cooling density map .tif using the Hotmaps CM Customized heat and gross floor area density maps. Description can be found in the Wiki page [CM - Customized heat and gross floor area density maps](/en/CM-Customized-heat-and-floor-area-density-maps), which also contains the [link to the code](https://github.com/HotMaps/customized_h_fa_dm).
 * Upload the developed layer as you would do for a selection of the default layer as described in the previous section](/en/District-cooling_Upload-the-cooling-demand-density-map-to-your-private-account).
 
 Now you can use the customized bottom-up cooling demand density map for district cooling planning by using the [CM - District heating potential areas: user-defined thresholds](/en/CM-District-heating-potential-areas-user-defined-thresholds) as described in the [fourth step](/en/District-Cooling#method_use-of-the-cm-district-heating-potential-areas-user-defined-thresholds-to-identify-potential-district-cooling-areas).
@@ -153,7 +153,7 @@ Pezzutto et. al., 2019: [D2.3 WP2 Report –Open Data Set for the EU28](https://
 
 Pezzutto, Croce, Zambotti, 2019. [Building stock analysis’ – developed under D.2.3 WP2](https://gitlab.com/hotmaps/building-stock)
 
-Mostafa Fallahnejad, 2020. [Stand-alone CM: Customized heat and floor area density maps](https://github.com/HotMaps/customized_h_fa_dm)
+Mostafa Fallahnejad, 2020. [Stand-alone CM: Customized heat and gross floor area density maps](https://github.com/HotMaps/customized_h_fa_dm)
 
 Mostafa Fallahnejad, in Hotmaps-Wiki, CM-Customized heat and gross floor area density maps (April 2019).
 
