@@ -12,7 +12,7 @@
   - [Server infrastructure](#description-of-it-infrastructure_server-infrastructure)
     - [Infrastructure](#description-of-it-infrastructure_server-infrastructure_infrastructure)
     - [Performance](#description-of-it-infrastructure_server-infrastructure_performance)
-- [Read.ME](#Read.ME)
+- [Read.ME](#Read-ME)
 - [How to define indicators](#how-to-define-indicators)
 - [How to cite](#how-to-cite)
 - [Authors and reviewers](#authors-and-reviewers)
