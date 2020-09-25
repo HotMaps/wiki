@@ -32,8 +32,8 @@ The following data relevant for Part I of Annex VIII is available in the Hotmaps
     * [Industrial sites subsector](https://gitlab.com/hotmaps/industrial_sites/industrial_sites_industryBenchmarks)
   * All other:
     * No default data is contained for supply points, but own data can uploaded and displayed
-    * [How to create an account](#introduction-to-user-interface)
-    * [How to upload own data to the toolbox](#data-upload-functionalities)
+    * [How to create an account](https://wiki.hotmaps.eu/en/Introduction-to-user-interface)
+    * [How to upload own data to the toolbox](https://wiki.hotmaps.eu/en/Data-upload-functionalities)
 * Point 3: a map covering the entire national territory
   * (a) Heating and cooling demand areas (not for industrial demand)
     * [Heat density residential](https://gitlab.com/hotmaps/heat/heat_res_curr_density)
@@ -41,8 +41,8 @@ The following data relevant for Part I of Annex VIII is available in the Hotmaps
     * [Heat density total](https://gitlab.com/hotmaps/heat/heat_tot_curr_density)
   * (b) + (c) Existing and planned supply points
     * No default data is contained for supply points, but own data can be uploaded and displayed
-    * [How to create an account](#introduction-to-user-interface)
-    * [How to upload own data to the toolbox](#data-upload-functionalities)
+    * [How to create an account](https://wiki.hotmaps.eu/en/Introduction-to-user-interface)
+    * [How to upload own data to the toolbox](https://wiki.hotmaps.eu/en/Data-upload-functionalities)
 * Point 4: forecast of trends in the demand for heating and cooling
   * Default scenarios for all EU28 MS are available from the H2020 project [CHEETAH](http://www.cheetah-project.eu/)
   * This data is also integrated into the [CM – Demand projection](https://wiki.hotmaps.eu/en/CM-Demand-projection) and used for the calculations in this module
@@ -102,14 +102,14 @@ The following resulting **indicators can be retrieved from the Hotmaps Calculati
 ### Different Steps
 
 * [Step 1: Identification of different representative cases for district heating](https://wiki.hotmaps.eu/en/Step-1-Identification-of-different-representative-cases-for-district-heating)
-   * [Calculation of future heat demand and building floor area density maps](Step-1-Identification-of-different-representative-cases-for-district-heating#step-1-identification-of-different-representative-cases-for-district-heating_calculation-of-future-heat-demand-and-building-floor-area-density-maps)
-   * [Identification of areas potentially interesting for district heating](Step-1-Identification-of-different-representative-cases-for-district-heating#step-1-identification-of-different-representative-cases-for-district-heating_identification-of-areas-potentially-interesting-for-district-heating)
-   * [Identification of representative, typical district heating areas for further analysis](Step-1-Identification-of-different-representative-cases-for-district-heating#step-1-identification-of-different-representative-cases-for-district-heating_identification-of-representative-typical-district-heating-areas-for-further-analysis)
+   * Calculation of future heat demand and building floor area density maps
+   * Identification of areas potentially interesting for district heating
+   * Identification of representative, typical district heating areas for further analysis
 * [Step 2: Costs and potentials for district heating in representative regions or cities](https://wiki.hotmaps.eu/en/Step-2-Costs-and-potentials-for-district-heating-in-representative-regions-or-cities)
-   * [Economic assessment of the potential for district heating](Step-2-Costs-and-potentials-for-district-heating-in-representative-regions-or-cities#step-2-costs-and-potentials-for-district-heating-in-representative-regions-or-cities_economic-assessment-of-the-potential-for-district-heating)
-   * [Estimation of costs for the transport of excess heat to district heating areas](Step-2-Costs-and-potentials-for-district-heating-in-representative-regions-or-cities#step-2-costs-and-potentials-for-district-heating-in-representative-regions-or-cities_estimation-of-costs-for-the-transport-of-excess-heat-to-district-heating-areas)
-   * [Development of future heat load profiles](Step-2-Costs-and-potentials-for-district-heating-in-representative-regions-or-cities#step-2-costs-and-potentials-for-district-heating-in-representative-regions-or-cities_development-of-future-heat-load-profiles)
-   * [Calculation of costs and emissions of heat supply in district heating](Step-2-Costs-and-potentials-for-district-heating-in-representative-regions-or-cities#step-2-costs-and-potentials-for-district-heating-in-representative-regions-or-cities_calculation-of-costs-and-emissions-of-heat-supply-in-district-heating)
+   * Economic assessment of the potential for district heating
+   * Estimation of costs for the transport of excess heat to district heating areas
+   * Development of future heat load profiles
+   * Calculation of costs and emissions of heat supply in district heating
 * [Step 3: Calculation of decentral heat supply](https://wiki.hotmaps.eu/en/Step-3-Calculation-of-decentral-heat-supply)
 * [Step 4: Comparison of results for different scenarios](https://wiki.hotmaps.eu/en/Step-4-Comparison-of-results-for-different-scenarios)
 
