@@ -67,8 +67,7 @@ SPDX-License-Identifier: CC-BY-4.0
 
 License-Text: https://spdx.org/licenses/CC-BY-4.0.html
 
-
-<code><ins>**[To Top](#hotmaps-toolbox)**</ins></code>
+[**`To Top`**](#table-of-contents)
 
 ## Acknowledgement
 We would like to convey our deepest appreciation to the Horizon 2020 [Hotmaps Project](https://www.hotmaps-project.eu) (Grant Agreement number 723677), which provided the funding to carry out the present investigation.
