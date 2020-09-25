@@ -21,7 +21,7 @@ These guidelines describe how the Hotmaps toolbox can be used to analyse costs a
 
 ## Part I: Overview of heating and cooling
 
-The Hotmaps database and toolbox provides two different inputs to this part: first, the Hotmaps database provides default data for several of the data needed to include in this part I of the comprehensive assessment. Second, the Hotmaps toolbox is basically a mapping tool that allows a geographical representation of default data in the toolbox but also of other data uploaded to the toolbox. In the following we describe the different default data form Hotmaps that might be of use and we link to the descriptions of how to use the upload function of the Hotmaps toolbox.
+The Hotmaps data sets and toolbox provides two different inputs to this part: first, the Hotmaps data sets provide default data for several of the data needed to include in this part I of the comprehensive assessment. Second, the Hotmaps toolbox is basically a mapping tool that not only allows a geographical representation of default data in the toolbox; but also, user uploaded data to the use account in the toolbox. In the following, we describe the different default data form Hotmaps and we link to the descriptions of how to use the upload function of the Hotmaps toolbox.
 
 The following data relevant for Part I of Annex VIII is available in the Hotmaps database:
 
@@ -45,7 +45,7 @@ The following data relevant for Part I of Annex VIII is available in the Hotmaps
     * [How to upload own data to the toolbox](#data-upload-functionalities)
 * Point 4: forecast of trends in the demand for heating and cooling
   * Default scenarios for all EU28 MS are available from the H2020 project [CHEETAH](http://www.cheetah-project.eu/)
-  * This data is also integrated into the [CM – Demand projection](https://wiki.hotmaps.hevs.ch/en/CM-Demand-projection) and used for the calculations in this module
+  * This data is also integrated into the [CM – Demand projection](https://wiki.hotmaps.eu/en/CM-Demand-projection) and used for the calculations in this module
 
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
@@ -57,15 +57,15 @@ The Hotmaps toolbox contains a number of calculation modules (CMs) that can be u
 
 ### Overview of the Hotmaps approach
 
-To assess the economic potential for efficiency in heating and cooling it is important to distinguish between areas potentially supplied by district heating and areas where decentral supply will most probably be more economically efficient. Thus, **the Hotmaps approach strongly builds on the following four steps**:
+To assess the economic potential for efficiency in heating and cooling it is important to distinguish between areas potentially supplied by district heating and areas where decentral supply will most probably be more economically efficient. Accordingly, **the Hotmaps approach is built strongly on the following four steps**:
 
-1. Identify different representative, typical cases for district heating in the country/region under investigation
+1. Identify different representative, typical cases for district heating in the country/region under investigation;
 
-2. Carry out analyses of district heating grid construction/expansion and district heat supply for the identified representative cases
+2. Carry out analyses of district heating grid construction/expansion and district heat supply for the identified representative cases;
 
-3. Calculate indicators of decentral heat supply
+3. Calculate indicators of decentral heat supply;
 
-4. Compare different scenarios of district heating and decentral heat supply and sensitivity calculations
+4. Compare different scenarios of district heating and decentral heat supply and sensitivity calculations.
 
 The following figure shows this approach graphically. The different steps will be explained in more detail in the following chapters of these guidelines.
 
@@ -82,36 +82,36 @@ In all of these steps **various scenarios and sensitivities should be taken into
 The following resulting **indicators can be retrieved from the Hotmaps Calculation Modules** (CMs):
 
 * Economic potential: 
-  * Levelised costs of Heat (LCOH) [EUR/MWh]:
-    * [CM - District heating supply dispatch](https://wiki.hotmaps.hevs.ch/en/CM-District-heating-supply-dispatch) for costs of heat supply to district heating
-    * [CM - Decentral heating supply](https://wiki.hotmaps.hevs.ch/en/CM-Decentral-heating-supply) for costs of decentral heat supply 
-    * [CM - Excess heat transport potential](https://wiki.hotmaps.hevs.ch/en/CM-Excess-heat-transport-potential) for costs of transporting excess heat to potential district heating networks
+  * Levelized costs of Heat (LCOH) [EUR/MWh]:
+    * [CM - District heating supply dispatch](https://wiki.hotmaps.eu/en/CM-District-heating-supply-dispatch) for costs of heat supply to district heating
+    * [CM - Decentral heating supply](https://wiki.hotmaps.eu/en/CM-Decentral-heating-supply) for costs of decentral heat supply 
+    * [CM - Excess heat transport potential](https://wiki.hotmaps.eu/en/CM-Excess-heat-transport-potential) for costs of transporting excess heat to potential district heating networks
   * Specific district heating grid costs (expansion and/or new construction) [EUR/MWh]:
-    * [CM - District heating potential: economic assessment](https://wiki.hotmaps.hevs.ch/en/CM-District-heating-potential-economic-assessment)
+    * [CM - District heating potential: economic assessment](https://wiki.hotmaps.eu/en/CM-District-heating-potential-economic-assessment)
 * GHG emissions:
   * CO2 emissions [kt]:
-    * [CM - District heating supply dispatch](https://wiki.hotmaps.hevs.ch/en/CM-District-heating-supply-dispatch) for CO2 emissions from heat supply to district heating
-    * [CM - Decentral heating supply](https://wiki.hotmaps.hevs.ch/en/CM-Decentral-heating-supply) for CO2 emissions from decentral heat supply
+    * [CM - District heating supply dispatch](https://wiki.hotmaps.eu/en/CM-District-heating-supply-dispatch) for CO2 emissions from heat supply to district heating
+    * [CM - Decentral heating supply](https://wiki.hotmaps.eu/en/CM-Decentral-heating-supply) for CO2 emissions from decentral heat supply
 * Impact on the share of RES can be calculated based on the results of the following CMs:
-  * [CM - District heating supply dispatch](https://wiki.hotmaps.hevs.ch/en/CM-District-heating-supply-dispatch) for the share of RES from heat supply to district heating
-  * [CM - Decentral heating supply](https://wiki.hotmaps.hevs.ch/en/CM-Decentral-heating-supply) for the share of RES from decentral heat supply
+  * [CM - District heating supply dispatch](https://wiki.hotmaps.eu/en/CM-District-heating-supply-dispatch) for the share of RES from heat supply to district heating
+  * [CM - Decentral heating supply](https://wiki.hotmaps.eu/en/CM-Decentral-heating-supply) for the share of RES from decentral heat supply
 
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
 
 ### Different Steps
 
-* [Step 1: Identification of different representative cases for district heating](https://wiki.hotmaps.hevs.ch/en/Step-1-Identification-of-different-representative-cases-for-district-heating)
+* [Step 1: Identification of different representative cases for district heating](https://wiki.hotmaps.eu/en/Step-1-Identification-of-different-representative-cases-for-district-heating)
    * [Calculation of future heat demand and building floor area density maps](Step-1-Identification-of-different-representative-cases-for-district-heating#step-1-identification-of-different-representative-cases-for-district-heating_calculation-of-future-heat-demand-and-building-floor-area-density-maps)
    * [Identification of areas potentially interesting for district heating](Step-1-Identification-of-different-representative-cases-for-district-heating#step-1-identification-of-different-representative-cases-for-district-heating_identification-of-areas-potentially-interesting-for-district-heating)
    * [Identification of representative, typical district heating areas for further analysis](Step-1-Identification-of-different-representative-cases-for-district-heating#step-1-identification-of-different-representative-cases-for-district-heating_identification-of-representative-typical-district-heating-areas-for-further-analysis)
-* [Step 2: Costs and potentials for district heating in representative regions or cities](https://wiki.hotmaps.hevs.ch/en/Step-2-Costs-and-potentials-for-district-heating-in-representative-regions-or-cities)
+* [Step 2: Costs and potentials for district heating in representative regions or cities](https://wiki.hotmaps.eu/en/Step-2-Costs-and-potentials-for-district-heating-in-representative-regions-or-cities)
    * [Economic assessment of the potential for district heating](Step-2-Costs-and-potentials-for-district-heating-in-representative-regions-or-cities#step-2-costs-and-potentials-for-district-heating-in-representative-regions-or-cities_economic-assessment-of-the-potential-for-district-heating)
    * [Estimation of costs for the transport of excess heat to district heating areas](Step-2-Costs-and-potentials-for-district-heating-in-representative-regions-or-cities#step-2-costs-and-potentials-for-district-heating-in-representative-regions-or-cities_estimation-of-costs-for-the-transport-of-excess-heat-to-district-heating-areas)
    * [Development of future heat load profiles](Step-2-Costs-and-potentials-for-district-heating-in-representative-regions-or-cities#step-2-costs-and-potentials-for-district-heating-in-representative-regions-or-cities_development-of-future-heat-load-profiles)
    * [Calculation of costs and emissions of heat supply in district heating](Step-2-Costs-and-potentials-for-district-heating-in-representative-regions-or-cities#step-2-costs-and-potentials-for-district-heating-in-representative-regions-or-cities_calculation-of-costs-and-emissions-of-heat-supply-in-district-heating)
-* [Step 3: Calculation of decentral heat supply](https://wiki.hotmaps.hevs.ch/en/Step-3-Calculation-of-decentral-heat-supply)
-* [Step 4: Comparison of results for different scenarios](https://wiki.hotmaps.hevs.ch/en/Step-4-Comparison-of-results-for-different-scenarios)
+* [Step 3: Calculation of decentral heat supply](https://wiki.hotmaps.eu/en/Step-3-Calculation-of-decentral-heat-supply)
+* [Step 4: Comparison of results for different scenarios](https://wiki.hotmaps.eu/en/Step-4-Comparison-of-results-for-different-scenarios)
 
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
@@ -125,9 +125,9 @@ Marcus Hummel, Giulia Conforto, in Hotmaps-Wiki, Guidelines for using the Hotmap
 
 ## Authors and reviewers
 
-This page was written by Marcus Hummel and Giulia Conforto **[e-think](https://e-think.ac.at)**.
+This page was written by Marcus Hummel and Giulia Conforto (**[e-think](https://e-think.ac.at)**).
 
-&#9745; This page was reviewed by Mostafa Fallahnejad **[EEG - TU Wien](https://eeg.tuwien.ac.at/)**.
+&#9745; This page was reviewed by Mostafa Fallahnejad (**[EEG - TU Wien](https://eeg.tuwien.ac.at/)**).
 
 
 [**`To Top`**](#table-of-contents)
