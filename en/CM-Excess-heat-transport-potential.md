@@ -402,10 +402,9 @@ From the above, the following work hierarchy could be used:
 
 ### CM does not finish
 
-* Reduce [spatial resolution](en-CM-Excess-heat-transport-potential#performance-parameters) (increase kms)
-* Reduce [time resolution](en-CM-Excess-heat-transport-potential#performance-parameters)
+* Reduce spatial resolution
+* Reduce time resolution
 * Select smaller area
-* Decrease [search radius](en-CM-Excess-heat-transport-potential#provided-by-user)
 * Rerun at a later point
 
 ### CM crashes without a message
@@ -415,7 +414,7 @@ From the above, the following work hierarchy could be used:
 
 ### Error: "No DH area in selection."
 
-Check [DH Potential CM](https://wiki.hotmaps.hevs.ch/en/CM-District-heating-potential-areas-user-defined-thresholds) to adapt inputs so that a dh area is created.
+Check [DH Potential CM](https://wiki.hotmaps.hevs.ch/en/CM-District-heating-potential-areas-user-defined-thresholds) to adapt inputs so that a DH area is created.
 
 ### Error: "No industrial sites in the selected area."
 
@@ -423,7 +422,7 @@ Check the "industrial sites" layer in the user selection.
 
 ### Error: "No entry points in selected area."
 
-Check [warning](en-CM-Excess-heat-transport-potential#warning-no-residential-heating-profile-available-for-).
+Check [warning](#troubleshooting_warning-no-industry-profiles-available-for).
 
 ### Error: "No industrial sites in range."
 
@@ -431,7 +430,7 @@ Select a larger area, in which you find at least one industrial site based on th
 
 ### Error: "No excess heat used."
 
-Increase [transmission line threshold](en-CM-Excess-heat-transport-potential#provided-by-user)
+Increase [transmission line threshold](#inputs-and-outputs_input-layers-and-parameters_provided-by-the-user)
 
 ### Warning: "No industry profiles available for ..."
 
