@@ -61,7 +61,7 @@ To upload the cooling demand data to the Hotmaps toolbox, perform the following 
 * Select the raster file for the ‘Cooling Density Total’ that you have downloaded above (e.g. “cool_tot_curr_density.tif”). Select the raster file type ‘(Building) Heat density total’, despite the layer type, in fact, is ‘Cooling density total’. This way the cooling density can be used in the calculation modules for examining and assessing the district cooling potentials.
 * The uploaded layer will appear at the top of the left layer panel and can be used as the embedded layers.
 
-Now you can use the customized bottom-up cooling demand density map for district cooling planning by using the [CM - District heating potential areas: user-defined thresholds](#CM-District-heating-potential-areas-user-defined-thresholds) as described in the [third step](/en/District-cooling_Use-of-the-CM – District-heating-potential-areas-user-defined-thresholds-to-identify-potential-district-cooling-areas).
+Now you can use the customized bottom-up cooling demand density map for district cooling planning by using the [CM - District heating potential areas: user-defined thresholds](/en/CM-District-heating-potential-areas-user-defined-thresholds) as described in the [third step](/en/District-cooling_method_Use-of-the-CM – District-heating-potential-areas-user-defined-thresholds-to-identify-potential-district-cooling-areas).
 
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
@@ -158,7 +158,7 @@ Mostafa Fallahnejad, 2020. [Stand-alone CM: Customized heat and floor area densi
 Mostafa Fallahnejad, in Hotmaps-Wiki, CM-Customized heat and gross floor area density maps (April 2019).
 
 
-<code><ins>**[To Top](#table-of-contents)**</ins></code
+<code><ins>**[To Top](#table-of-contents)**</ins></code>
 
 ## How to cite
 
