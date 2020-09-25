@@ -4,6 +4,7 @@
 * [Introduction](#introduction)
 * [Inputs and outputs](#inputs-and-outputs)
 * [Method](#method)
+* [GitHub repository of this calculation module](#github-repository-of-this-calculation-module)
 * [References](#references)
 * [How to cite](#how-to-cite)
 * [Authors and reviewers](#authors-and-reviewers)
@@ -11,7 +12,7 @@
 * [Acknowledgement](#acknowledgement)
 
 ## Introduction
-This module provides the possibility to add additional industry sites with their heating and cooling demand and excess heat potential to the HotMaps toolbox. It is possible to add additional energy-intensive as well as less-energy intensive industries. The user enters the necessary data in a stand-alone Excel-tool, which then generates a datasheet to be uploaded on the HotMaps toolbox.   
+This module provides the possibility to add additional industry sites with their heating and cooling demand and excess heat potential to the Hotmaps toolbox. It is possible to add additional energy-intensive as well as less-energy intensive industries. The user enters the necessary data in a stand-alone Excel-tool, which then generates a CSV file for uploading to the Hotmaps toolbox.   
 
 [**`To Top`**](#table-of-contents)
 
@@ -20,12 +21,12 @@ This module provides the possibility to add additional industry sites with their
 ### Important pre-settings before using the tool
 
 🔺 <mark>**Note:** 
-For the generation of the (*.csv*) files in the correct format, it is necessary that the default delimiter is set as comma (**english standard**). This **cannot be configured from Excel** and needs to be done globally from the Windows Control Panel (as described [here](https://www.itsupportguides.com/knowledge-base/office-2013/excel-20132016-how-to-change-csv-delimiter-character/)). The figure below shows the exemplary setting for German windows PC's.
+For the generation of the (*.csv*) files in the correct format, it is necessary that the default delimiter is set as comma (**English standard**). This **cannot be configured from Excel** and needs to be done globally from the Windows Control Panel (as described [here](https://www.itsupportguides.com/knowledge-base/office-2013/excel-20132016-how-to-change-csv-delimiter-character/)). The figure below shows the exemplary setting for German windows PC's.
 
 ![Fig. 6](https://github.com/HotMaps/hotmaps_wiki/raw/master/Images/cm_add_industry_plant/Delimiter2.PNG "Delimiter2")
 
 🔺 <mark>**Note:** 
-For proper use of the Excel-tool you must use **point** as decimal separator (english standard, f.ex. 40.50). This need to be configured from Excel (as described [here](https://support.microsoft.com/en-us/office/change-the-character-used-to-separate-thousands-or-decimals-c093b545-71cb-4903-b205-aebb9837bd1e)).
+For the proper use of the Excel-based tool, you must use **point** as decimal separator (English standard, e.g. 40.50). This need to be configured from Excel (as described [here](https://support.microsoft.com/en-us/office/change-the-character-used-to-separate-thousands-or-decimals-c093b545-71cb-4903-b205-aebb9837bd1e)).
 The figure below shows the exemplary setting for German Excel.
 
 ![Fig. 7](https://github.com/HotMaps/hotmaps_wiki/raw/master/Images/cm_add_industry_plant/Decimal.png "Decimal")
@@ -33,9 +34,9 @@ The figure below shows the exemplary setting for German Excel.
 
 ### Data input in Excel-tool by user
 
-Please download the provided Excel-tool [HERE](https://github.com/HotMaps/add_industry_plant_cm/blob/master/HotMaps_CM_Add_industry_plant_V14.xlsm).
+Please download the provided Excel-tool from [HERE](https://github.com/HotMaps/add_industry_plant_cm/blob/master/HotMaps_CM_Add_industry_plant_V14.xlsm).
 
-The approach how to use the Excel-tool is illustrated in the figure below and described in more detail in the following sections.
+The approach on how to use the Excel-tool is illustrated in the figure below and described in more detail in the following sections.
 
 <figure>
   <img src="../images/cm_add_industry_plant/approach2.png" alt=""/>
@@ -46,7 +47,7 @@ Step-by-step approach  how to use the Excel-tool.</i></figcaption>
 #### 1) Add general information
 Please go to tabsheet: <figure><img src="../images/cm_add_industry_plant/General_information.PNG" alt=""/></figure>
 
-In the first step please enter all necessary general information about the sites for which heat and cooling demand and excess heat potential should be calculated. It is possible to add up to 10 industrial sites. 
+In the first step, please enter all necessary general information about the sites for which heating and cooling demand and excess heat potential should be calculated. It is possible to add up to 10 industrial sites. 
 
 <figure>
   <img src="../images/cm_add_industry_plant/General_information_Box.PNG" alt=""/>
@@ -57,30 +58,30 @@ Example of excel table to enter general information of companies as basis for th
 
 #### 2) Choose calculation option
 
-In the second step there are 3 options how heat and cooling demand and excess heat potential can be estimated. Please note, that it is possible to switch between the three options for the different companies but not within a company itself.
+In the second step, there are 3 options on how heating and cooling demand and excess heat potential can be estimated. Please note, that it is possible to switch between the three options for the different companies; but not within a company itself.
 
-With regard to the excess heat temperature it has to be mentioned, that low temperature heat (< 100°C) can be entered into the Excel-Tool but is not yet evaluated in the HotMaps toolbox. If low temperature heat should be considered, the application of a heat pump is necessary. Therefor the user can include the electricity demand of a heat pump in the final energy demand for electricity and lift the temperature of the generated excess heat up to the range of 100-200°C.
+With regard to the excess heat temperature, it has to be mentioned, that low temperature heat (< 100°C) can be entered into the Excel-Tool, but is not yet evaluated in the Hotmaps toolbox. If low temperature heat should be considered, the application of a heat pump is necessary. Therefore, the user can include the electricity demand of a heat pump in the final energy demand for electricity and lift the temperature of the generated excess heat up to the range of 100-200°C.
 
 ##### Option 1: Manual input
 Please go to tabsheet: <figure><img src="../images/cm_add_industry_plant/Option1.PNG" alt=""/></figure>
 
-Please choose this option, if data on heat/ cooling demand and excess heat potential and temperature distribution is available for the selected company and can be filled in manually.
+Please choose this option, if data on heating / cooling demand and excess heat potential and temperature distribution is available for the selected company and can be filled in manually.
 
 ##### Option 2: Plant selection
-Please go to tabsheet: <figure><img src="../images/cm_add_industry_plant/Option2.PNG" alt=""/></figure>
+Please go to the tabsheet: <figure><img src="../images/cm_add_industry_plant/Option2.PNG" alt=""/></figure>
 
-Please choose this option, if no information about heat/ cooling demand and excess heat potential is available for the selected company. On the basis of a plant specific database typical heat/cooling demand and excess heat potentials with temperature distribution can be selected for a number of plants and products/processes. 
-As necessary input for the conversion of the product specific data a value as calculation basis needs to be entered (f. ex. production, area etc.). 
+Please choose this option, if no information about heating / cooling demand and excess heat potential is available for the selected company. Based on the plant's specific database, the typical heating/cooling demand and excess heat potentials with temperature distribution can be selected for a number of plants and products/processes. 
+As a necessary input for the conversion of the product specific data, a value as calculation basis needs to be entered (e.g. production, area etc.). 
 For more information concerning the calculation method see [Method](#method).
 
 ##### Option 3: Sector selection
 Please go to tabsheet: <figure><img src="../images/cm_add_industry_plant/Option3.PNG" alt=""/></figure>
 
-Please choose this option, if your plant type is not available in option 2. On the basis of sector specific heat data typical heat/ cooling demand and excess heat potentials are calculated. 
-As necessary input the fuel demand for heat supply (in GWh/ year) needs to be entered. For more information concerning the calculation method see [Method](#method).
+Please choose this option, if your plant type is not available in option 2. On the basis of sector specific heat data, typical heating / cooling demand and excess heat potentials are calculated. 
+As a necessary input, the fuel demand for heat supply (in GWh/ year) must be entered. For more information concerning the calculation method see [Method](#method).
 
 ### Data upload on HotMaps toolbox
-There are 2 files (*.csv) that need to be generated by the user and then uploaded onto the HotMaps toolbox.
+There are 2 files (*.csv) that are be generated by Excel-based tool and can be uploaded to the user account in the Hotmaps toolbox.
 
 #### 1) File generation: Subsector
 Please go to tabsheet: ![Fig. 1](https://github.com/HotMaps/hotmaps_wiki/raw/master/Images/cm_add_industry_plant/DataImportSubsector.png "data import subsector")
@@ -97,12 +98,12 @@ Export the table as *.csv* by clicking on:
 
 ![Fig. 9](https://github.com/HotMaps/hotmaps_wiki/raw/master/Images/cm_add_industry_plant/Export_EH.PNG "export EH")
 
-#### 3) Upload on HotMaps Toolbox
-To upload the two *.csv*-files open the upload platform by clicking on **Account**
+#### 3) Upload to the Hotmaps Toolbox
+To upload the two *.csv* files, open the upload platform by clicking on **Account**.
 
 ![Fig. 3](https://github.com/HotMaps/hotmaps_wiki/raw/master/Images/cm_add_industry_plant/account2.PNG "account2")
 
-In a next step select the two *.csv*-files for uploading and choose the right upload category for each file.
+In a next step, select the two *.csv* files for uploading and choose the right upload category for each file.
 
 ![Fig. 4](https://github.com/HotMaps/hotmaps_wiki/raw/master/Images/cm_add_industry_plant/Upload2.png "upload2")
 
@@ -115,16 +116,16 @@ You can now check out your uploaded files in the section **Layers - Personal lay
 
 ## Method
 
-If the heat/ cooling demand and excess heat potential of a plant is not known, two indicator based methods are offered to the user for the calculation of heat demand and excess heat potential. 
+If the heating / cooling demand and excess heat potential of a plant is not known, two indicator-based methods are offered to the user for the calculation of heat demand and excess heat potential. 
 
-It has to be mentioned that these values are only indicative approximate values for typical plants (option 2) or on a sectorial level (option 3) and don't replace a detailed analysis and measurement of heat demand and excess heat of a plant.
+It has to be mentioned that these values are only indicative approximate values for typical plants (option 2) or on a sector level (option 3) and do not replace a detailed analysis and measurement of heat demand and excess heat of a plant.
 
 
 ### Method - Option 2: Plant selection
-The plant specific heat data is taken from the Forecast database. For a large number of different energy-intensive and less energy-intensive plant types process heat/ cooling demand and excess heat potential are derived from the specific final energy demand of fuels and electricity. 
-It is important to note that due to the underlying database only process heat and process cooling is covered with this method; space heating and hot water is not included here. Depending on the plant type different inputs as basis for the calculation are provided (f. ex. production volume in _tonnes_ or area in _m<sup>2</sup>_ ).
+The plant specific heat data is taken from the Forecast database. For a large number of different energy-intensive and less energy-intensive plant types process heating / cooling demand and excess heat potential are derived from the specific final energy demand of fuels and electricity. 
+It is important to note that due to the underlying database only process heat and process cooling is covered with this method; space heating and hot water is not included here. Depending on the plant type different inputs as basis for the calculation are provided (e.g. production volume in _tonnes_ or area in _m<sup>2</sup>_ ).
 
-For the calculation of heat and cooling demand it is necessary to assume conversion efficiencies from final energy to heat and cooling. Since most of the heat applications are steam-based an efficiency of 90% is assumed. For cooling applications a temperature level weighted energy efficiency ratio (EER) is assumed: 
+For the calculation of the heating and cooling demand, it is necessary to assume conversion efficiencies from final energy to heat and cooling. Since most of the heat applications are steam-based, an efficiency of 90% is assumed. For cooling applications a temperature level weighted energy efficiency ratio (EER) is assumed: 
 
 | Temperature level | assumed EER (according to Forecast database) | 
 | --- |-------------:|
@@ -137,15 +138,15 @@ The whole database used for option 2 is available here:  [Option2 Database](http
 ### Method - Option 3: Sector selection
 Option 3 provides a broad based assessment of heat demand and excess heat for the sectors of the manufacturing industry (according to NACE Rev. 2 [[1](#references)]). 
 
-#### Calculation of excess heat potentials on sectorial level
+#### Calculation of excess heat potentials on a sector level
 For the calculation of the excess heat potential of the different sectors excess heat factors according to Brückner 2016 [[2](#references)] are used (see table below). The excess heat factor is defined as waste heat generated per fuel consumption.
-In [[2](#references)] the available data to determine the excess heat potential in the manufacturing industry originates from the emissions survey carried out every four years on state level in germany. 
+In [[2](#references)] the available data to determine the excess heat potential in the manufacturing industry originates from the emissions survey carried out every four years on state level in Germany. 
 According to the Emission Declaration Ordinance (1. BImSchG) all operators of plants, which are subject to approval, have to submit a declaration of their emissions every four years. 
-For the year 2008 data on company level consisting of exhaust gas volume flows and their temperature level are evaluated. Together with available information on the type and quantitiy of fuel consumption of the plants, the excess heat factor of a plant is calculated as
+For the year 2008 data on company level consisting of exhaust gas volume flows and their temperature level are evaluated. Together with available information on the type and quantity of fuel consumption of the plants, the excess heat factor of a plant is calculated as:
 
 _Excess heat factor = Excess heat / fuel consumption_
 
-Finally the excess heat factor is calculated not only at company level but also on sector level. For detailed information see [[2](#references)].
+Finally, the excess heat factor is calculated not only at company level but also on sector level. For detailed information see [[2](#references)].
 
 The excess heat factors according to [[2](#references)] include excess heat coming from process heat as well as space heat generation and hot water. This is due to the fact that only an exhaust gas volume flow leaving the plant is analyzed without separating the fuel consumption into space heating, hot water and process heat. Excess heat generated by electricity based applications is not included.
 
@@ -180,15 +181,23 @@ The distribution of the share of excess heat per temperature range is based on o
 
 *Excess heat factors for the sectors of the manufacturing industry (according to [[1](#references)])*
 
-#### Calculation of heat demand on sectorial level
+#### Calculation of heat demand on a sector level
 
-The breakdown of the final energy demand for fuels into temperature ranges on sectorial level is based on a german study (databasis for evaluation of energy efficiency measures [[3](#references)]). 
+The breakdown of the final energy demand for fuels into temperature ranges on a sector level is based on a German study (data basis for evaluation of energy efficiency measures [[3](#references)]). 
 For the calculation of the heat demand it is assumed that almost all fuel purchases are used for heat. Consistent with option 2 a conversion efficiency from final energy to heat of 90% is assumed for steam-based heat generation.
 
 
 The whole database used for option 3 is available here: [Option3 Database](https://github.com/HotMaps/add_industry_plant_cm/blob/master/CM_add_industry_plant_databases.xlsx)
 
 [**`To Top`**](#table-of-contents)
+
+
+## GitHub repository of this calculation module
+
+[Here](https://github.com/HotMaps/add_industry_plant_cm) you get the bleeding-edge development for this calculation module.
+
+[**`To Top`**](#table-of-contents)
+
 
 ## References
 
@@ -202,15 +211,15 @@ The whole database used for option 3 is available here: [Option3 Database](https
 
 ## How to cite
 Ali Aydemir and Lisa Neusel, in Hotmaps-Wiki, en-CM-Add-industry-plant
-(September 2019)
+(September 2020)
 
 [**`To Top`**](#table-of-contents)
 
 ## Authors and reviewers
 
-This page was written by Ali Aydemir and Lisa Neusel **[Fraunhofer ISI](https://isi.fraunhofer.de/)**. 
+This page was written by Ali Aydemir and Lisa Neusel (**[Fraunhofer ISI](https://isi.fraunhofer.de/)**). 
 
-&#9745; This page was reviewed by Tobias Fleiter **[Fraunhofer ISI](https://isi.fraunhofer.de/)**.
+&#9745; This page was reviewed by Tobias Fleiter (**[Fraunhofer ISI](https://isi.fraunhofer.de/)**).
 
 
 [**`To Top`**](#table-of-contents)
