@@ -157,14 +157,11 @@ We would like to convey our deepest appreciation to the Horizon 2020 [Hotmaps Pr
 
 
 
+
 <!--- THIS IS A SUPER UNIQUE IDENTIFIER -->
 
 View in another language:
 
- [German](../de/GL-national)<sup>\*</sup> 
+ [German](../de/Step-1-Identification-of-different-representative-cases-for-district-heating)<sup>\*</sup> 
 
 <sup>\*</sup> machine translated
-
-<br/>  
-[**`Scenario Toolchain Steps`**](guide-national-level-comprehensive-assessment-eed#part-iii-analysis-of-the-economic-potential-for-efficiency-in-heating-and-cooling_different-steps)
-[**`Next step`**](step-2-Costs-and-potentials-for-district-heating-in-representative-regions-or-cities)
