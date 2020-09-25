@@ -72,6 +72,8 @@ Consequently, the surface covered by a single plant and the total number of plan
 Finally, the most suitable area is computed by considering the roofs with higher energy production. 
 The energy production of each pixel considers covering only a fraction of the roofs equal to f_roof. The integral of the energy production of the most suitable area is equal to the total energy production of the selected area.
 
+[**`To Top`**](#table-of-contents)
+
 ### Example
 
 To give a practical example, the CM logic/methodology is applied to a predefined area.
@@ -82,6 +84,8 @@ Which area of the 20% of the roofs in Bolzano can be covered by PV panels?
 Cover the whole roof is not realistic, since part of the roof have not suitable orientation. Since the building generally has 4 sides, we can imagine that around 25% of the roof have a good orientation (at least in Bolzano, where most of the roofs are not plane and have 2 or 4 roofs slopes). Nevertheless, we have shadowing effects from the surrounding trees, buildings, mountains, etc, and generally, we are leaving some space close to the border of the roofs so let's imagine that 50% of the good oriented roof can be used by PV (25% * 50% = 12.5%), the default value is a bit more optimistic (15%).
 
 In case of a solar field generally, the PV string occupies around 40-50% of the area to avoid the shadowing effect between PV strings.
+
+[**`To Top`**](#table-of-contents)
 
 #### Example with a PV system on a building footprint
 
@@ -98,6 +102,8 @@ For the sake of example, we are explaining the methodology for one single pixel 
   and therefore we will have 3 plants of 3 KWp installed on the pixel of 100 by 100 m (so 9 kWp), and then we multiply this value by the energy produced by 1 kWp and multiply by the efficiency of the PV systems (inverter and transmission, by default: 0.85) to obtain the total energy produced by the pixel:
     `pv_energy = solar_radiation [kWh/kWp/year] * 9 [kWp] * 0.85`
 
+[**`To Top`**](#table-of-contents)
+
 #### Example with a solar PV field
 
 Now we have a pixel of 100x100m that it is available for a PV field system:
@@ -112,6 +118,8 @@ Now we have a pixel of 100x100m that it is available for a PV field system:
     `n_pv_plants = 5000 // 20 = 250`
   and therefore we will have 250 plants of 3 KWp installed on the pixel of 100 by 100 m (so 750 kWp), and then we multiply this value by the hourly energy produced by 1 kWp and multiply by the efficiency of the PV systems (inverter and transmission, by default: 0.85) to obtain the total energy produced by the pixel:
     `pv_energy = solar_radiation [kWh/kWp/year] * 750 kWp * 0.85`
+
+[**`To Top`**](#table-of-contents)
 
 #### Example with a PV & ST system on a building footprint
 
