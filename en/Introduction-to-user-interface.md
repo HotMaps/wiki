@@ -14,6 +14,9 @@
    * [Selection Tools](#upper-toolbar_selection-tools)
    * [Show Result](#upper-toolbar_show-result)
    * [Feedback](#upper-toolbar_feedback)
+   * [Save Session](#upper-toolbar_save-session)
+   * [Save Session Folder](#upper-toolbar_save-session-folder)
+
 * [Tiles](#tiles)
 * [How to cite](#how-to-cite)
 * [Authors and reviewers](#authors-and-reviewers)
@@ -53,8 +56,8 @@ With this toolbar you can:
 1. [_Selection Tools_:](#upper-toolbar_selection-tools) enable or disable the selection tools,
 1. [_Show Result:_](#upper-toolbar_show-result) show the result sidebar of your selected regions,
 1. [_Feedback:_](#upper-toolbar_feedback) give us feedback regarding the tool,
-1. [_Save Session:_](#upper-toolbar_feedback) you can save selected layers and zoom level and recall them later one,
-1. [_Save Session Folder:_](#feedback) where you can see the list of all saved sessions.
+1. [_Save Session:_](#upper-toolbar_save-session) you can save selected layers and zoom level and recall them later one,
+1. [_Save Session Folder:_](#upper-toolbar_save-session-folder) where you can see the list of all saved sessions.
 
 
 [**`To Top`**](#table-of-contents)
@@ -160,7 +163,7 @@ Have you noticed any errors?
 Please let us know!
 By giving us feedback you can help us improve the toolbox!
 
-Please fill out the [form](#fig7) below:
+Please fill out the [form](#Fig7) below:
 
 ![feedback_gif][feedback]
 
@@ -177,6 +180,14 @@ and set a priority:
 
 [**`To Top`**](#table-of-contents)
 
+### Save Session
+you can make a snapshot of your work (selected areas and layers, zoom levels, etc) by pushing this button. You can also define a name and a description of the snapshot.
+[[/en/Introduction-to-user-interface/save_session.png]]
+
+### Save Session Folder
+Here you see all your snapshots with their names and description. When you select one the selected layers, areas, the zoom level and other configuration are loaded.
+[[/en/Introduction-to-user-interface/show_session.png]]
+
 ## Tiles
 You can choose the territorial scale that you want to analyze (NUTS regions or hectare level) and set the tile of the map
 
@@ -187,7 +198,7 @@ There are following configurations possible
 ![maping_gif][mapping]
 
 1. Zoom in and Zoom out the map
-2. Show the NUTS boundaries to select specific NUTS regions or use hectare to customize your [selection](#selection-tools)
+2. Show the NUTS boundaries to select specific NUTS regions or use hectare to customize your [selection](#upper-toolbar_selection-tools)
 3. Use OpenStreetMap tile or Satelite tile
 
 [**`To Top`**](#table-of-contents)
