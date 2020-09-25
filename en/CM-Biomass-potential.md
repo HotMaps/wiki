@@ -20,10 +20,9 @@ This module calculates the energy potential from different biomass sources (fore
 
 ## Introduction
 
-This module assess the biomass energy that might be generated from a biomass source.
-The aims of this CM is to assess the electric and thermal energy that can be used from the biomass potential of NUTS3 regions. The module consider different typology of biomass that can be exploit to produce energy.
-The CM use the default dataset for the whole EU that are at NUTS3 level. 
-The CM do not consider which is the biomass that can be sustainable used for the energy production.
+This module assess the potential biomass energy that can be generated from a biomass source.
+The aims of this CM is to assess the electric and thermal energy that can be used from the biomass potential of NUTS3 regions. The module considers different typology of biomass that can be exploit to produce energy.
+The CM uses the default data set for the whole EU that are at NUTS3 level. 
 
 
 
@@ -40,21 +39,21 @@ The input parameters and layers as well as output layers and parameters are as f
 * vector layer with the mass of biological residues that it is available, per biomass typology;
 * Percentage of solid waste that can be effectively collected (default value: 90%)
 * Efficiency in transforming solid waste in thermal energy (default value: 50%)
-* Efficiency in transforming solid waste in eletrical energy (default value: 20%)
+* Efficiency in transforming solid waste in electrical energy (default value: 20%)
 * Percentage of agriculture residues that can be effectively collected (default value: 60%)
 * Efficiency in transforming agriculture residues in thermal energy (default value: 50%)
-* Efficiency in transforming agriculture residues in eletrical energy (default value: 20%)
+* Efficiency in transforming agriculture residues in electrical energy (default value: 20%)
 * Percentage of livestock effluents that can be effectively collected (default value: 50%)
 * Efficiency in transforming livestock effluents in thermal energy (default value: 50%)
-* Efficiency in transforming livestock effluents in eletrical energy (default value: 20%)
+* Efficiency in transforming livestock effluents in electrical energy (default value: 20%)
 * Percentage of forest residues that can be effectively collected (default value: 50%)
 * Efficiency in transforming forest residues in thermal energy (default value: 50%)
-* Efficiency in transforming forest residues in eletrical energy (default value: 20%)
+* Efficiency in transforming forest residues in electrical energy (default value: 20%)
 
 **Output layers and parameters are:**
 
-* the total biomas heat energy potential
-* the total biomas electric energy potential
+* the total biomass heat energy potential
+* the total biomass electric energy potential
 * graph with the electric/thermal energy per biomass type.
 
 [**`To Top`**](#table-of-contents)
@@ -62,9 +61,8 @@ The input parameters and layers as well as output layers and parameters are as f
 
 ## Method
 
-The module for each biomass resource available apply a first percentage to reduce the total amount of biomass that can be effectively and realistically collected. For instance for the forestry biomass can have different percentage of biomass collection rate depending on the forestry ground conditions (e.g. slope, terrain roughness) and the mechanization of the process (e.g. use of cable crane, harvester and forwarder, etc.).
-While for each source the user can select the efficiency in transforming the biomass energy into thermal and electricity energy. The user can select different efficiency per biomass sources, because different source might require different treatment and process.
-
+The module calculates for each available biomass resource the percentage of the total amount of biomass that can be effectively and realistically be collected. These values are provided by user as input. In providing these values, user should consider parameters such as forestry ground conditions (e.g. slope, terrain roughness) and the mechanization of the process (e.g. use of cable crane, harvester and forwarder, etc.) in order to provide a realistic estimation.
+Based on the provided transformation efficiency, the energy that can be extracted from each biomass resource is calculated. Finally, the total biomass heat energy potential and total biomass electric energy potential are obtained.
 
 [**`To Top`**](#table-of-contents)
 
@@ -78,7 +76,7 @@ While for each source the user can select the efficiency in transforming the bio
 
 ## Sample run
 
-![Fig. 1-0](https://wiki.hotmaps.hevs.ch/en/CM-Biomass-potential/cm-biomass.png "Execute the Wind CM")
+
 
 
 [**`To Top`**](#table-of-contents)
