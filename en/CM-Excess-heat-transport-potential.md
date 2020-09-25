@@ -10,12 +10,10 @@
   * [Overview](#method_overview)
   * [Details](#method_details)
   * [Implementation](#method_implementation)
-* [Quickstart](#quickstart)
+* [GitHub repository of this calculation module](#github-repository-of-this-calculation-module)
+* [Quick start](#quick-start)
 * [Troubleshooting](#troubleshooting)
 * [Sample run](#sample-run)
-  * [Sample run 1](#sample-run_sample-run-1)
-  * [Sample run 2](#sample-run_sample-run-2)
-  * [Sample run 3](#sample-run_sample-run-3)
 * [How to cite](#how-to-cite)
 * [Authors and reviewers](#authors-and-reviewers)
 * [License](#license)
@@ -28,12 +26,12 @@ This module calculates the flow and the costs of heat transmission from potentia
 
 ## Introduction
 
-The Calculation Module "Excess Heat Transport potential" will help the user to identify integration potentials for excess heat in district heating networks. The potentials are based on the [CM - District Heating Potential](en-CM-District-heating-potential-areas-user-defined-thresholds)L. This CM identifies areas with favourable conditions for district heating networks and it shows how much heat could be covered by industrial excess heat in these areas. However, this does not mean that a district heating network already exists in this region.
+The Calculation Module "Excess Heat Transport potential" will help the user to identify integration potentials for excess heat in district heating networks. The potentials are based on the [CM - District Heating Potential](https://wiki.hotmaps.hevs.ch/en/CM-District-heating-potential-areas-user-defined-thresholds). This CM identifies areas with favorable conditions for district heating networks and shows how much heat could potentially be covered by industrial excess heat in these areas. However, this does not mean that a district heating network already exists in this region.
 
 The following data and methods are combined for the previous task.
 
 Data:
-* Heating requirements for nearby areas with favourable conditions for district heating networks, which are dissolved hourly (from the [CM - District Heating Potential](en-CM-District-heating-potential-areas-user-defined-thresholds)).
+* Heating requirements for nearby areas with favorable conditions for district heating networks, which are dissolved hourly (from the [CM - District Heating Potential](https://wiki.hotmaps.hevs.ch/en/CM-District-heating-potential-areas-user-defined-thresholds)).
 
 * Data on excess heat quantities of industrial companies in the area, which are also resolved hourly (from the data set industrial database).
 
@@ -44,10 +42,10 @@ Method (simplified):
 
 The aim of the method is to represent the largest possible excess heat flow with not too many and thus too long pipelines to the possible district heating users by generating networks with maximum flows. However, particularly inefficient transport lines (with low heat flows and thus high specific heat transport costs) are not considered in the final network. The threshold for the economic efficiency of individual transport lines can be specified by the user (cf. Transmission line threshold).
 
-The basic background of the approach is as follows: if there are only a few sources of excess heat, a single pipeline per source could always be taken into account for transporting the heat to a nearby area with favourable conditions for district heating. However, if there are several excess heat sources that are to flow into the same area, it would make sense to collect the heat and transport it to the area in a larger common pipeline. The approach with one pipe per source tends to overestimate the effort for the pipelines.
+The basic background of the approach is as follows: if there are only a few sources of excess heat, a single pipeline per source could always be taken into account for transporting the heat to a nearby area with favorable conditions for district heating. However, if there are several excess heat sources that are to flow into the same area, it would make sense to collect the heat and transport it to the area in a larger common pipeline. The approach with one pipe per source tends to overestimate the effort for the pipelines.
 
-To counteract the above, the problem of pipeline planning was approximated by assuming a network flow problem. A heuristic is used to solve the problem, in which excess heat can be bundled and transported to the possible users. The concrete methodical design of the solution with the approach of the minimum span tree is described in the corresponding methodical part.
-The pipeline design determined in the previous context does not, therefore, represent a detailed planning or real route guidance, but is only used for the approximation of costs for the distribution of the excess heat quantities in the nearby areas with favourable conditions for district heating networks (see [CM - District Heating Potential](en-CM-District-heating-potential-areas-user-defined-thresholds), keyword coherent areas). This approximation of costs thus refers to the entire network.
+To counteract the above, the problem of pipeline planning was approximated by assuming a network flow problem. A heuristic method is used to solve the problem, in which excess heat can be bundled and transported to the possible users. The concrete methodical design of the solution with the approach of the minimum span tree is described in the corresponding methodical part.
+The pipeline design determined in the previous context does not, therefore, represent a detailed planning or real route guidance, but is only used for the approximation of costs for the distribution of the excess heat quantities in the nearby areas with favorable conditions for district heating networks (see [CM - District Heating Potential](https://wiki.hotmaps.hevs.ch/en/CM-District-heating-potential-areas-user-defined-thresholds), keyword coherent areas). This approximation of costs thus refers to the entire network.
 
 The results should then first be interpreted as follows: if the recorded excess heat quantities were to be transported together to the indicated nearby areas, then the costs for heat distribution could be in the order of magnitude as indicated by the tool (cf. Levelized cost of heat supply). As a rule, the values for the entire network are also a good starting indicator for individual pipelines. The purpose of the results is, therefore, to provide a project developer or planner with an order of magnitude for possible distribution costs.
 
@@ -72,15 +70,11 @@ The results should then first be interpreted as follows: if the recorded excess 
 
 * Min. heat demand per hectare
 
-  See [CM - District Heating Potential](en-CM-District-heating-potential-areas-user-defined-thresholds).
+  See [CM - District Heating Potential](https://wiki.hotmaps.hevs.ch/en/CM-District-heating-potential-areas-user-defined-thresholds).
 
 * Min. heat demand in a DH area
 
-  See [CM - District Heating Potential](en-CM-District-heating-potential-areas-user-defined-thresholds).
-
-* Search radius in km
-
-  The maximum length of a transmission line from point to point.
+  See [CM - District Heating Potential](https://wiki.hotmaps.hevs.ch/en/CM-District-heating-potential-areas-user-defined-thresholds).
 
 * Lifetime of equipment in years
 
@@ -108,9 +102,6 @@ The results should then first be interpreted as follows: if the recorded excess 
 
   Sets the interval between the network flow calculations over the whole year. Can be one of these values: (hour, day, week, month, year)
 
-* Spatial resolution in km
-
-  Sets the entry point distance in longitude and latitude direction in DH areas.
 
 [**`To Top`**](#table-of-contents)
 
@@ -160,11 +151,6 @@ The results should then first be interpreted as follows: if the recorded excess 
   Graphic showing annual delivered excess heat to the investment necessary for the network.
   Details can be found [here](en-CM-Excess-heat-transport-potential#excess-heat-used-and-investment-necessary).
 
-* Excess heat used and levelized cost
-
-  Graphic showing annual delivered excess heat to levelized cost for network and corresponding transmission line threshold.
-  Details can be found [here](en-CM-Excess-heat-transport-potential#excess-heat-used-and-levelized-cost).
-
 * Load curves
 
   Graphic showing monthly heat demand and excess.
@@ -195,28 +181,6 @@ By clicking on the transmission line additional information will pop up.
 More information about the annual heat demand and DH potential can be found [here](en-CM-District-heating-potential-areas-user-defined-thresholds).
 The excess heat connected excess heat and used excess heat are the same as their equally named [indicators](en-CM-Excess-heat-transport-potential#indicators).
 
-##### Excess heat used and investment necessary
-
-<figure>
-<img alt="" src="../images/cm_excess_heat/network_cost_to_flow3.PNG"/>
-<figcaption><i>This graphic plots the costs of the network compared to the annual flow. The orange point represents the current network with its set transmission line threshold</i></figcaption></figure>
-
-The x-axis represents the annual flow and the y-axis the necessary investment for the complete network. Note that the x-axis is not linear and may be confusing. Always check the actual values! The orange point represents the network at the currently set [transmission line threshold](en-CM-Excess-heat-transport-potential#provided-by-user). Deviations from the [investment needed](en-CM-Excess-heat-transport-potential#indicators) indicator are common since the graphic is generated at a lower accuracy because of computational complexity. The trend and course of the graph represent how the [transmission line threshold](en-CM-Excess-heat-transport-potential#provided-by-user) affects the network and can be really helpful. Especially in conjunction with the next [graphic](en-CM-Excess-heat-transport-potential#excess-heat-used-and-levelized-cost). In the case of small networks, this graphic might not display any useful information since the network is not complex enough for variations.
-
-##### Excess heat used and levelized cost
-
-<figure>
-<img alt="" src="../images/cm_excess_heat/normalized_cost3.PNG"/>
-<figcaption><i>This graphic plots levelized heating costs and the necessary transmission line threshold for a certain flow. The orange points represent the value with the currently set transmission line threshold</i></figcaption></figure>
-
-The x-axis represents the annual flow and the y-axis both <span style="color:#3e95cd">levelized costs of heat</span> and the <span style="color:#32CD32">transmission line threshold</span>. The orange points represent the network at the currently set [transmission line threshold](en-CM-Excess-heat-transport-potential#provided-by-user). Since the transmission line threshold curve can scale a lot higher than the levelized costs it might be helpful to disable the view of the transmission line threshold curve like shown in the picture below. In the case of small networks, this graphic might not display any useful information since the network is not complex enough for variations.
-
-<figure>
-<img alt="" src="../images/cm_excess_heat/levelized_cost_simp3.PNG"/>
-<figcaption><i>Sometimes it can be helpful to hide the transmission line threshold in the graphic to analyze the levelized costs.</i></figcaption></figure>
-
-Deviations from the [levelized costs of heat](en-CM-Excess-heat-transport-potential#indicators) indicator are common since the graphic is generated at a lower accuracy because of computational complexity. The trend and course of the graph represent how the [transmission line threshold](en-CM-Excess-heat-transport-potential#provided-by-user) affects the network and can be really helpful. Once a desired levelized cost of heat is chosen the transmission line threshold curve can be reenabled and the corresponding transmission line threshold for the desired levelized cost can be read by hovering over the curve at this point. More details on how to use the graphic can be found here.
-
 ##### Load curves
 
 <figure>
@@ -233,19 +197,19 @@ The x-axis represents time and the y-axis power. The blue curves represent the h
 
 ### Overview
 The key element of the excess heat module is the source-sink model used.
-It constructs a transmission network of minimum length and computes the flow for every hour of the year based on residential heating load profiles with Nuts2 resolution and industry load profiles with Nuts0 resolution. Based on averaged peak flows throughout the year costs for every transmission line and heat exchanger on the source and sink side can be computed.
+It constructs a transmission network of minimum length and computes the flow for every hour of the year based on residential heating load profiles with NUTS 2 resolution and industry load profiles with NUTS 0 resolution. Based on averaged peak flows throughout the year costs for every transmission line and heat exchanger on the source and sink side can be computed.
 
 [**`To Top`**](#table-of-contents)
 
 ### Details
 #### Modeling of sources
-Based on the Nuts0 ID and the industrial sector a yearlong hourly resolved load profile is assigned to every source.
+Based on the NUTS 0 ID and the industrial sector a yearlong hourly resolved load profile is assigned to every source.
 
 #### Modeling of sinks
-Based on the district heating potential calculation module equidistantly entry points are created in the coherent areas. Depending on the Nuts2 ID of the entry points a load profile is assigned.
+Based on the district heating potential calculation module equidistantly entry points are created in the coherent areas. Depending on the NUTS 2 ID of the entry points a load profile is assigned.
 
 #### Fixed radius search
-Within a set radius, it is checked which sources are in the range of each other, which sinks are in the range of each other and which sinks are in range for sources. This can be represented by a graph with sources and sinks forming the vertices and the vertices in the range being connected by an edge.
+Within a preset radius, it is checked which sources are in the range of each other, which sinks are in the range of each other and which sinks are in range for sources. This can be represented by a graph with sources and sinks forming the vertices and the vertices in the range being connected by an edge.
 
 #### Reduction to minimum length network
 A minimum spanning tree is computed with the distance of the edges as weights. This results in a graph retaining its connectivity while having a minimum total length of edges. Note that the entry points of coherent areas are connected internally for free since they form their own distribution network.
@@ -331,7 +295,7 @@ The heat sources are taken from the **[industrial database.]( https://gitlab.com
 
 #### Heat sinks
 
-The heat sinks are based on coherent areas with known heat demand. The coherent areas form a mask for a grid on which equidistant points are placed as entry points. Depending on the selected Nuts2 ID a residential heating profile is assigned to the sinks. The custom addition of entry points and sinks is planned.
+The heat sinks are based on coherent areas with known heat demand. The coherent areas form a mask for a grid on which equidistant points are placed as entry points. Depending on the selected NUTS 2 ID a residential heating profile is assigned to the sinks. The custom addition of entry points and sinks is planned.
 
 <figure>
 <img alt="" src="../images/cm_excess_heat/coherent_aera_entry_points.svg"/>
@@ -375,11 +339,7 @@ C<sub>HSink</sub>(en-P) = P<sub>peak</sub> * 265,000€/MW if P<sub>peak</sub> &
 
 C<sub>HSink</sub>(en-P) = P<sub>peak</sub> * 100,000€/MW else.
 
-The costs of the pump follow
 
-C<sub>Pump</sub>(en-P) = P<sub>peak</sub> * 240,000€/MW if P<sub>peak</sub> &lt; 1MW or
-
-C<sub>Pump</sub>(en-P) = P<sub>peak</sub> * 90,000€/MW else.
 
 #### Removal of transmission lines
 
@@ -392,12 +352,20 @@ First, the heat sources and sinks are loaded with their load profiles. Then the 
 
 [**`To Top`**](#table-of-contents)
 
-## Quickstart
+
+## GitHub repository of this calculation module
+
+[Here](https://github.com/HotMaps/excess_heat_cm/tree/develop) you get the bleeding-edge development for this calculation module.
+
+[**`To Top`**](#table-of-contents)
+
+
+## Quick start
 
 The present CM - EXCESS HEAT TRANSPORT POTENTIAL is intended to help the user to identify integration potentials for excess heat in district heating networks. Although numerous analysis functions are given in order not to restrict the user, it must be explicitly pointed out that this is not detailed technical planning.
-The potentials are based on the [CM - District Heating Potential](en-CM-District-heating-potential-areas-user-defined-thresholds). This CM identifies areas with favourable conditions for district heating networks. Thus it shows how much heat could be covered by industrial excess heat in these areas. However, this does not mean that a district heating network already exists in this region. An application-oriented use of the tool for practitioners could, therefore, look as follows:
+The potentials are based on the [CM - District Heating Potential](https://wiki.hotmaps.hevs.ch/en/CM-District-heating-potential-areas-user-defined-thresholds). This CM identifies areas with favorable conditions for district heating networks. Thus it shows how much heat could be covered by industrial excess heat in these areas. However, this does not mean that a district heating network already exists in this region. An application-oriented use of the tool for practitioners could, therefore, look as follows:
 
-* If necessary, add your own data on excess heat providing companies in the region with the [add industry plant](en-CM-Add-industry-plant) cm.
+* If necessary, add your own data on excess heat providing companies in the region with the [add industry plant](https://wiki.hotmaps.hevs.ch/en/CM-Add-industry-plant) CM.
 
 * Turn on the "Industrial sites excess heat"
 
@@ -447,7 +415,7 @@ From the above, the following work hierarchy could be used:
 
 ### Error: "No DH area in selection."
 
-Check [DH Potential CM](en-CM-District-heating-potential-areas-user-defined-thresholds) to adapt inputs so that a dh area is created.
+Check [DH Potential CM](https://wiki.hotmaps.hevs.ch/en/CM-District-heating-potential-areas-user-defined-thresholds) to adapt inputs so that a dh area is created.
 
 ### Error: "No industrial sites in the selected area."
 
@@ -459,7 +427,7 @@ Check [warning](en-CM-Excess-heat-transport-potential#warning-no-residential-hea
 
 ### Error: "No industrial sites in range."
 
-Increase [search radius](en-CM-Excess-heat-transport-potential#provided-by-user)
+Select a larger area, in which you find at least one industrial site based on the default industrial data set available in the Hotmaps toolbox.
 
 ### Error: "No excess heat used."
 
@@ -478,8 +446,6 @@ CM does not have access to residential heating profile data to be executed in th
 
 ## Sample run
 
-### Sample run 1
-
 Sample run in PL22 with default parameters. It is recommended to turn on excess heat sites in the layers tab.
 
 <figure>
@@ -487,114 +453,14 @@ Sample run in PL22 with default parameters. It is recommended to turn on excess 
 <figcaption><i>Sample run in PL22. The pink areas represent the district heating. The orange circles the heat source and the orange lines the transmission lines of the network.</i></figcaption>
 </figure>
 
-<figure>
-<img alt="" src="../images/cm_excess_heat/heat_compare1.PNG"/>
-<figcaption><i>This graphic compares the DH potential, total excess heat, connected excess heat and used excess heat.</i></figcaption>
-</figure>
-
-<figure>
-<img alt="" src="../images/cm_excess_heat/network_cost_to_flow1.PNG"/>
-<figcaption><i>This graphic plots the costs of the network compared to the annual flow. The orange point represents the current network with its set transmission line threshold</i></figcaption>
-</figure>
-
-In this case, we can see that there is much more excess heat available than used, but on the other side, the maximum possible flow is almost achieved, since the orange point is at 1530 GWh per year. In this case, increasing the search radius can help to distribute more excess heat. In sample run 2 we will do exactly that.
-
-<figure>
-<img alt="" src="../images/cm_excess_heat/normalized_cost1.PNG"/>
-<figcaption><i>This graphic plots levelized heating costs and the necessary transmission line threshold for a certain flow. The orange points represent the value with the currently set transmission line threshold</i></figcaption>
-</figure>
-
-<figure>
-<img alt="" src="../images/cm_excess_heat/levelized_cost_simp1.PNG"/>
-<figcaption><i>Sometimes it can be helpful to hide the transmission line threshold in the graphic to analyze the levelized costs.</i></figcaption>
-</figure>
 
 <figure>
 <img alt="" src="../images/cm_excess_heat/profiles1.PNG"/>
-<figcaption><i>This graphic shows the total flow through the network throughout the year. The lower graphic represents the average day. Since the default time resolution is set to "week" it is constant in this case.</i></figcaption>
+<figcaption><i>
+This graphic shows the total flow through the network throughout the year. The lower graphic represents the average day. Since the default time resolution is set to "week" it is constant in this case.
+</i></figcaption>
 </figure>
 
-[**`To Top`**](#table-of-contents)
-
-### Sample run 2
-
-Sample run in PL22 with maximum search radius set to 40 km.
-
-<figure>
-<img alt="" src="../images/cm_excess_heat/sample_run2.PNG"/>
-<figcaption><i>Sample run in PL22. The pink areas represent the district heating. The orange circles the heat source and the orange lines the tranmission lines of the network.</i></figcaption>
-</figure>
-
-The network is much larger than in the first sample run.
-
-<figure>
-<img alt="" src="../images/cm_excess_heat/heat_compare2.PNG"/>
-<figcaption><i>This graphic compares the DH potential, total excess heat, connected excess heat and used excess heat.</i></figcaption>
-</figure>
-
-More excess heat is used.
-
-<figure>
-<img alt="" src="../images/cm_excess_heat/network_cost_to_flow2.PNG"/>
-<figcaption><i>This graphic plots the costs of the network compared to the annual flow. The orange point represents the current network with its set transmission line threshold</i></figcaption>
-</figure>
-
-<figure>
-<img alt="" src="../images/cm_excess_heat/normalized_cost2.PNG"/>
-<figcaption><i>This graphic plots levelized heating costs and the necessary transmission line threshold for a certain flow. The orange points represent the value with the currently set transmission line threshold</i></figcaption>
-</figure>
-
-<figure>
-<img alt="" src="../images/cm_excess_heat/levelized_cost_simp2.PNG"/>
-<figcaption><i>Sometimes it can be helpful to hide the transmission line threshold in the graphic to analyze the levelized costs.</i></figcaption>
-</figure>
-
-We can see a local minimum of levelized cost of heat supply at 4900 GWh per year. By hovering over the green line we can determine this is achieved with a transmission line threshold of 0.11 ct/kWh. In sample run 3 we are going to try to find this network.
-
-<figure>
-<img alt="" src="../images/cm_excess_heat/profiles2.PNG"/>
-<figcaption><i>This graphic shows the total flow through the network throughout the year. The lower graphic represents the average day. Since the default time resolution is set to "week" it is constant in this case.</i></figcaption>
-</figure>
-
-[**`To Top`**](#table-of-contents)
-
-### Sample run 3
-
-Sample run in PL22 with maximum search radius set to 40 km, transmission line threshold set to 0.11ct/kWh and time resolution set to "hour".
-
-<figure>
-<img alt="" src="../images/cm_excess_heat/sample_run3.PNG"/>
-<figcaption><i>Sample run in PL22. The pink areas represent the district heating. The orange circles the heat source and the orange lines the transmission lines of the network.</i></figcaption>
-</figure>
-
-The network is smaller than in the second run but retains much of the flow.
-
-<figure>
-<img alt="" src="../images/cm_excess_heat/heat_compare3.PNG"/>
-<figcaption><i>This graphic compares the DH potential, total excess heat, connected excess heat and used excess heat.</i></figcaption>
-</figure>
-
-<figure>
-<img alt="" src="../images/cm_excess_heat/network_cost_to_flow3.PNG"/>
-<figcaption><i>This graphic plots the costs of the network compared to the annual flow. The orange point represents the current network with its set transmission line threshold</i></figcaption>
-</figure>
-
-<figure>
-<img alt="" src="../images/cm_excess_heat/normalized_cost3.PNG"/>
-<figcaption><i>This graphic plots levelized heating costs and the necessary transmission line threshold for a certain flow. The orange points represent the value with the currently set transmission line threshold</i></figcaption>
-</figure>
-
-<figure>
-<img alt="" src="../images/cm_excess_heat/levelized_cost_simp3.PNG"/>
-<figcaption><i>Sometimes it can be helpful to hide the transmission line threshold in the graphic to analyze the levelized costs.</i></figcaption>
-</figure>
-
-We can see that we just hit the local minimum. The difference in the cost of approximation graphs to the indicators is caused by approximation errors. But those errors are mostly systematic and hence do not offset the minimum but just scale the curve in a different way. The levelized cost indicator now shows 0.84 ct/kWh instead of the 1.09 ct/kWh in the second run.
-
-<figure>
-<img alt="" src="../images/cm_excess_heat/profiles3.PNG"/>
-<figcaption><i>This graphic shows the total flow through the network throughout the year. The lower graphic represents the average day. This time with time resolution set to "hour" the average day is represented correctly.</i></figcaption>
-</figure>
 
 
 [**`To Top`**](#table-of-contents)
