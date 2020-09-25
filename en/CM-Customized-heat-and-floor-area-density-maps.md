@@ -13,14 +13,14 @@
 
 
 ## In a glance
-This module generates raster files both for a heat density and a floor area density map in the format required by the Hotmaps toolbox. The input data is provided in the form of a CSV file containing information on location, gross floor area and heat demand for each single building to be taken into account.
+This module generates raster files both for a heat density and a gross floor area density map in the format required by the Hotmaps toolbox. The input data is provided in the form of a CSV file containing information on location, gross floor area and heat demand for each single building to be taken into account.
 
 
 [**`To Top`**](#table-of-contents)
 
 
 ## Introduction
-This module generates both a heat density and a floor area density map in the form of raster files. The input to the module is a CSV file with certain column headers. It should contain the following data: the X- and the Y-coordinate of the centre of the buildings in EPSG:3035 coordinate reference system, the gross floor area and the annual heat demand of the buildings. The generated raster files follow required projection and resolution by the Hotmaps toolbox and therefore, can easily be uploaded to the user accounts.
+This module generates both a heat density and a gross floor area density map in the form of raster files. The input to the module is a CSV file with certain column headers. It should contain the following data: the X- and the Y-coordinate of the centre of the buildings in EPSG:3035 coordinate reference system, the gross floor area and the annual heat demand of the buildings. The generated raster files follow required projection and resolution by the Hotmaps toolbox and therefore, can easily be uploaded to the user accounts.
 
 This module is only available as a stand-alone module; it is not integrated in the online version of the Hotmaps toolbox. The users of this CM should be familiar with python programming and have installed required libraries (e.g. Numpy, Pandas, GeoPandas and GDAL).
 
