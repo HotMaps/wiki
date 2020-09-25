@@ -36,7 +36,7 @@ The following figure shows this procedure graphically and shows the various data
 ![](../images/Hotmaps_ApproachNational_Step2.png)
 *Figure: Analysis of costs and potentials for district heating in representative cities/regions (Step 2)*
 
-In the following subchapters, the different steps in this procedure are described in more detail.
+In the following sub-chapters, the different steps in this procedure are described in more detail.
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
 
@@ -78,14 +78,14 @@ The costs and emissions of heat supply in the district heating system depend on 
 * Combinations of different technologies in supply portfolios:
     * Excess heat from industry (with or without heat pump)
     * Waste incineration
-    * High-efficiency cogeneration
+    * High-efficiency co-generation
     * Solar thermal
     * Geothermal
     * Biomass
     * Heat pumps with different heat sources as e.g.
         * wastewater treatment plants
         * river water
-        * excess heat from data centres
+        * excess heat from data centers
 * Prices scenarios:
     * for prices of different energy carriers 
     * for prices CO2 emissions
@@ -105,9 +105,9 @@ Marcus Hummel, Giulia Conforto, in Hotmaps-Wiki, Guidelines for using the Hotmap
 
 ## Authors and reviewers
 
-This page was written by Marcus Hummel and Giulia Conforto **[e-think](https://e-think.ac.at)**.
+This page was written by Marcus Hummel and Giulia Conforto (**[e-think](https://e-think.ac.at)**).
 
-&#9745; This page was reviewed by Mostafa Fallahnejad **[EEG - TU Wien](https://eeg.tuwien.ac.at/)**.
+&#9745; This page was reviewed by Mostafa Fallahnejad (**[EEG - TU Wien](https://eeg.tuwien.ac.at/)**).
 
 
 [**`To Top`**](#table-of-contents)
