@@ -47,13 +47,13 @@ In the following chapters, these 3 parts are explained in detail.
 
 With this toolbar you can:
 
-1. [_Connect:_](#connect) register and login into the web application in order to save your work,
-1. [_Go To Place:_](#go-to-place) zoom in to a specific region by typing the name,
-1. [_Layers:_](#layers) show the layer sidebar,
-1. [_Selection Tools_:](#selection-tool) enable or disable the selection tools,
-1. [_Show Result:_](#show-result) show the result sidebar of your selected regions,
-1. [_Feedback:_](#feedback) give us feedback regarding the tool,
-1. [_Save Session:_](#feedback) you can save selected layers and zoom level and recall them later one,
+1. [_Connect:_](#upper-toolbar_connect) register and login into the web application in order to save your work,
+1. [_Go To Place:_](#upper-toolbar_go-to-place) zoom in to a specific region by typing the name,
+1. [_Layers:_](#upper-toolbar_layers) show the layer sidebar,
+1. [_Selection Tools_:](#upper-toolbar_selection-tools) enable or disable the selection tools,
+1. [_Show Result:_](#upper-toolbar_show-result) show the result sidebar of your selected regions,
+1. [_Feedback:_](#upper-toolbar_feedback) give us feedback regarding the tool,
+1. [_Save Session:_](#upper-toolbar_feedback) you can save selected layers and zoom level and recall them later one,
 1. [_Save Session Folder:_](#feedback) where you can see the list of all saved sessions.
 
 
