@@ -3,11 +3,13 @@
 ## Table of Contents
 * [In a glance](#in-a-glance)
 * [Introduction](#introduction)
-* [Data Sources](#data-sources)
-* [Inputs](#inputs)
-* [Outputs](#outputs)
-  * [Indicators](#outputs_indicators)
-  * [Graphs](#outputs_graphs)
+* [Inputs and outputs](#inputs-and-outputs)
+  * [Inputs](#inputs-and-outputs_inputs)
+    * [Default input data](#inputs-and-outputs_inputs_default-input-data)
+    * [Manual input data](#inputs-and-outputs_inputs_manual-input-data)
+  * [Outputs](#inputs-and-outputs_outputs)
+    * [Indicators](#inputs-and-outputs_outputs_indicators)
+    * [Graphs](#inputs-and-outputs_outputs_graphs)
 * [Methodology](#methodology)
 * [GitHub repository of this calculation module](#github-repository-of-this-calculation-module)
 * [Sample run](#sample-run)
@@ -19,13 +21,13 @@
 
 
 ## In a glance
-This module calculates the costs of heat supply in buildings via decentral heating technologies. Inputs to the module are investment costs, O&M costs, energy prices, the hourly load profile of heat demand as well as depreciation time and interest rate. Furthermore, the composition of buildings and renovation states of the buildings in the analysed area are required. The outputs are heat supply costs of various decentral heat supply technologies for the defined buildings and price assumptions as well as reference decentral supply costs for the analysed area and related CO2 emissions.
+This module calculates the costs of heat supply in buildings via decentral heat supply technologies. Inputs to the module are investment costs, O&M costs, energy prices, the hourly load profile of heat demand as well as depreciation time and interest rate. Furthermore, the composition of buildings and renovation states of the buildings in the analysed area are required. The outputs are heat supply costs of various decentral heat supply technologies for the defined buildings and price assumptions as well as reference decentral supply costs for the analysed area and related CO2 emissions.
 
 [**`To Top`**](#table-of-contents)
 
 ## Introduction
 
-This calculation module calculates the levelized cost of heat (LCOH) for various technologies to supply a user-defined building.
+This calculation module calculates the levelized cost of heat (LCOH) for various decentral heat supply technologies for supplying heat to a user-defined building.
 
 ![](https://raw.githubusercontent.com/HotMaps/hotmaps_wiki/master/Images/cm_decentral_heating/new/1.png)
 
@@ -36,17 +38,19 @@ The technologies are for example as follows:
 * Bio-oil boiler,
 * Oil boiler,
 * Biomass automatic and manual,
-* Woodstove,
+* Wood-stove,
 * Natural gas,
 * Solar thermal
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
 
-##Inputs: 
+## Inputs and outputs: 
 
-###Default input data 
+### Inputs
 
-The default input data is taken from the following datasets: 
+####Default input data 
+
+Part of the input data comes from the Hotmaps default data sets. These include: 
 -   NUTS Raster
 -   Building stock (NUTS0 Level): useful energy demand by building class and
     construction period
@@ -55,42 +59,42 @@ The default input data is taken from the following datasets:
 -   Financial Data - Energy Carrier Prices (NUTS0 Level)
 
 
-###Manual input data 
+####Manual input data 
 
-The following data is manually inputted: 
--   Selection of an interesting area
+The following input data should be entered manually after the selection of an area: 
+-   Building age,
+-   Interest rate,
+-   Gross floor area,
+-   Building Type,
+-   Year (for finance data),
 -   Savings in space heating,
--   Gross floor area
--   Year (for finance data)
--   Calculation interest rate,
--   Building age
--   Building Type
--   Emission factors per energy carrier
+-   Emission factors per energy carrier.
 
-**IMPORTANT NOTE** In Hotmaps biomass emissions are not assumed zero because Hotmaps is a tool aimed at supporting the ongoing energy transition. Considering biomass as a carbon-neutral source of energy implies that burning biomass reduces the current total emissions compared to burning fossil fuels, which is not true. The storage of carbon dioxide in trees happens over decades, while its release in the atmosphere takes place all at once. Therefore, the net carbon balance of biomass is zero in the long run, but not in the short run and climate change mitigation measures need to bring results in reducing carbon emissions in the short run.
+**IMPORTANT NOTE** In Hotmaps biomass emissions are not assumed zero because Hotmaps is a tool aimed at supporting the ongoing energy transition. Considering biomass as a carbon-neutral source of energy implies that burning biomass reduces the current total emissions compared to burning fossil fuels, which is not true. The storage of carbon dioxide in trees happens over decades, while its release in the atmosphere takes place all at once. Therefore, it can be concluded that the net carbon balance of biomass is zero in the long run, but not in the short run and climate change mitigation measures need to bring results in reducing carbon emissions in the short run.
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
 
-## Outputs:
+### Outputs:
 
-### Indicators:
+#### Indicators:
+Indicators are composed of a summary of input parameters and calculated values:
 
--   Corresponding NUTS Code: NUTS3 Code of the selected region (when using
-    hectare level or LAU level)
--   entered savings in space heating
--   entered gross floor area
--   entered year
--   entered interest rate
--   entered building age
--   entered building type
--   annual useful energy demand of the building
--   Heat Load
--   Sector
--   Used Building type for each the financial data
+- Corresponding NUTS Code: NUTS3 Code of the selected region (when using
+    hectare level or LAU level),
+- entered savings in space heating,
+- entered gross floor area,
+- entered year,
+- entered interest rate,
+- entered building age,
+- entered building type,
+- annual useful energy demand of the building,
+- Heat Load,
+- Sector,
+- Used Building type for each the financial data.
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
 
-### Graphs:
+#### Graphs:
 
 -   LCOH
 -   OPEX
@@ -107,10 +111,10 @@ The following data is manually inputted:
 
 ## Methodology:
 
-Based on the selected region the corresponding NUTS0 and NUTS2 Region is
+Based on the selected region the corresponding NUTS0 and NUTS2 Regions are
 determined.
 
-Then for the selected building type and building age and NUTS0 region the
+Then, for the selected building type and building age and NUTS0 region the
 specific useful energy demand is selected and the annual heat demand calculated
 by multiplying it by the gross floor area.
 
@@ -126,16 +130,16 @@ costs and operational costs and fuel costs **for each heating technology** are
 determined.
 
 The specific investment and operational costs are assumed to have an exponential
-behaviour:
+behavior:
 
 ![](https://raw.githubusercontent.com/HotMaps/hotmaps_wiki/master/Images/cm_decentral_heating/new/4.png)
 
-Therefore based on the country, year and building type of the entered inputs the
+Based on the country, year and building type of the entered inputs the
 factors for each technology are figured out:
 
 ![](https://raw.githubusercontent.com/HotMaps/hotmaps_wiki/master/Images/cm_decentral_heating/new/5.png)
 
-With the factors determined the absolute costs can be calculated as follows:
+With the factors determined, the absolute costs can be calculated as follows:
 
 ![](https://raw.githubusercontent.com/HotMaps/hotmaps_wiki/master/Images/cm_decentral_heating/new/6.png)
 
@@ -197,7 +201,7 @@ Jeton Hasani in Hotmaps-Wiki, CM Decentral heating supply (November 2019)
 
 This page was written by Jeton Hasani **[EEG - TU Wien](https://eeg.tuwien.ac.at/)**.
 
-&#9745; This page was reviewed by Mostafa Fallahnejad **[EEG - TU Wien](https://eeg.tuwien.ac.at/)**.
+&#9745; This page was reviewed by Mostafa Fallahnejad (**[EEG - TU Wien](https://eeg.tuwien.ac.at/)**).
 
 
 [**`To Top`**](#table-of-contents)
