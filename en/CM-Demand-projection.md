@@ -141,6 +141,8 @@ The following six graphs depict the development of the final energy demand for s
 ## GitHub repository of this calculation module
 **[Here](https://github.com/HotMaps/renovation_effect)** you get the bleeding-edge development for this calculation module.
 
+[**`To Top`**](#table-of-contents)
+
 ## Sample run
 
 Here, the calculation module is run for the case study of Vienna, Austria. First, use the "Go To Place" bar to navigate to Vienna and select the city. Click on the "Layers" button to open the "Layers" window and then click on the "CALCULATION MODULE" tab. In the list of calculation modules, select "CM - Demand projection".
