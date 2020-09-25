@@ -84,7 +84,7 @@ To scale and download a cooling density map layer to be used for the CM – Dist
 * Run the CM by clicking on the button “RUN CM”.
 * The calculation yields a new ‘cooling density layer’ with a 20 % higher cooling demand, this can be found in the layers section to the left at the bottom of all available layers.
 * Download the resulting layer (and rename it if necessary).
-* Upload the scaled cooling demand data to the Hotmaps toolbox, as described [above](en/District-Cooling#use-of-the-default-cooling-density-map-from-the-hotmaps-database_upload-the-selected-cooling-demand-density-map-to-your-private-account).
+* Upload the scaled cooling demand data to the Hotmaps toolbox, as described [above](#method_use-of-the-default-cooling-density-map-from-the-hotmaps-database_upload-the-selected-cooling-demand-density-map-to-your-private-account).
 
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
