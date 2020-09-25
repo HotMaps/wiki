@@ -17,12 +17,12 @@ This feature requires basic usage knowledge on selection and layers.
 
 If you have any difficulties please read the following guides:
 
-- [How to select a region in the Hotmaps toolbox](How-to-select-a-region-in-the-Hotmaps-toolbox)
-- [Layer selection](Layer-section)
+- [How to select a region in the Hotmaps toolbox](Select-a-region-in-the-Hotmaps-toolbox)
+- [Layer selection](Layers-section-in-the-Hotmaps-toolbox)
 
 [**`To Top`**](#table-of-contents)
 
-## How to export a dataset
+## How to export a data set
 
 1. Select the layer you want to export in the list of layers (left panel)
 
@@ -30,7 +30,7 @@ If you have any difficulties please read the following guides:
 
 3. Select the the region you want with the selection tools![export_selection](../images/export_selection.png)
 
-4. Once the selection is ok, click on the ![export button](../images/layer-export-btn.png) button below the layer name on the left panel to start the download process.
+4. Once the selection is done, click on the ![export button](../images/layer-export-btn.png) button that appears below the layer name on the left panel to start the download process.
 
    ![layer options](../images/layer-options.png)
 
@@ -49,9 +49,9 @@ Daniel Hunacek and Lucien Zuber, in Hotmaps Wiki, Data export functionalities (S
 
 ## Authors and reviewers
 
-This page was written by Daniel Hunacek and Lucien Zuber **[HES-SO](https://www.hevs.ch)**.
+This page was written by Daniel Hunacek and Lucien Zuber (**[HES-SO](https://www.hevs.ch)**).
 
-&#9745; This page was reviewed by Mostafa Fallahnejad **[EEG - TU Wien](https://eeg.tuwien.ac.at/)**.
+&#9745; This page was reviewed by Mostafa Fallahnejad (**[EEG - TU Wien](https://eeg.tuwien.ac.at/)**).
 
 
 [**`To Top`**](#table-of-contents)
