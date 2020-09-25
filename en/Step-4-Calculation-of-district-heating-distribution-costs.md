@@ -22,7 +22,7 @@ This is the fourth step of the analysis at local and municipal level.
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
   
 ## Calculation of district heating distribution costs
-For the representative cities/areas an economic assessment of district heating can be performed in order to gain more detailed insights on the costs and economic feasibility of district heating and the amount of heat potentially supplied by district heating in the areas. For this purpose the [CM - District heating potential: economic assessment](https://wiki.hotmaps.hevs.ch/en/CM-District-heating-potential-economic-assessment) can be used. This module generates a map of potential district heating areas based on an assessment of the heat distribution costs. An analysis of the feasibility of district heating in the selected areas can be done as follows:
+For the representative cities/areas an economic assessment of district heating can be performed in order to gain more detailed insights on the costs and economic feasibility of district heating and the amount of heat potentially supplied by district heating in the areas. For this purpose the [CM - District heating potential: economic assessment](https://wiki.hotmaps.eu/en/CM-District-heating-potential-economic-assessment) can be used. This module generates a map of potential district heating areas based on an assessment of the heat distribution costs. An analysis of the feasibility of district heating in the selected areas can be done as follows:
 
 * Adapt network construction costs according to experiences in your region / country of interest
 * Calculate the average heat distribution costs and district heating demands for different input parameters
@@ -33,7 +33,7 @@ For the representative cities/areas an economic assessment of district heating c
   * Network construction costs
   * Depreciation time and interest rate
 
-The scenarios can be used to analyse the influence of the different factors on the heat distribution costs in district heating systems in the different representative cities/areas. For different settings of depreciation time and interest rate, one scenario of district heating expansion per representative city/area should be selected for further analysis. The outcomes of this step are the heat demand for district heating [GWh/yr] and the heat distribution costs [EUR/MWh] in each of the representative cities/areas. These results will then be used in the overall [Scenario Assessment](https://wiki.hotmaps.hevs.ch/en/CM-Scenario-assessment) in [Step 6](https://wiki.hotmaps.hevs.ch/en/Step-6-Assessment-of-scenarios-for-entire-heat-demand-and-supply-for-the-selected-area).
+The scenarios can be used to analyse the influence of the different factors on the heat distribution costs in district heating systems in the different representative cities/areas. For different settings of depreciation time and interest rate, one scenario of district heating expansion per representative city/area should be selected for further analysis. The outcomes of this step are the heat demand for district heating [GWh/yr] and the heat distribution costs [EUR/MWh] in each of the representative cities/areas. These results will then be used in the overall [Scenario Assessment](https://wiki.hotmaps.eu/en/CM-Scenario-assessment) in [Step 6](https://wiki.hotmaps.eu/en/Step-6-Assessment-of-scenarios-for-entire-heat-demand-and-supply-for-the-selected-area).
 <br\>  
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
 
@@ -45,9 +45,9 @@ Marcus Hummel, Giulia Conforto, in Hotmaps-Wiki, Guidelines for using the Hotmap
 
 ## Authors and reviewers
 
-This page was written by Marcus Hummel and Giulia Conforto **[e-think](https://e-think.ac.at)**.
+This page was written by Marcus Hummel and Giulia Conforto (**[e-think](https://e-think.ac.at)**).
 
-&#9745; This page was reviewed by Mostafa Fallahnejad **[EEG - TU Wien](https://eeg.tuwien.ac.at/)**.
+&#9745; This page was reviewed by Mostafa Fallahnejad (**[EEG - TU Wien](https://eeg.tuwien.ac.at/)**).
 
 
 [**`To Top`**](#table-of-contents)
