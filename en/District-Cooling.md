@@ -43,7 +43,10 @@ These different steps are explained in detail in the following sections. Further
 ## Use of the default cooling density map from the Hotmaps database
 The Hotmaps database provides a cooling demand density map for entire EU28 countries on the level of 100 x 100 m. This raster layer is contained in the online [Hotmaps toolbox](https://www.hotmaps.eu) as well as in the data repository on gitlab. In the following it is explained how to prepare the map for being used in the CM - District heating potential areas: user defined thresholds.
 
-### Create an account for the Hotmaps toolbox. You can find a description of the procedure to do so under the following [link](/en/Introduction-to-user-interface).
+
+### Create an account for the Hotmaps toolbox. 
+You can find a description of the procedure to do so under the following [link](/en/Introduction-to-user-interface).
+
 
 ### Download a selection of the default cooling density map from the Hotmaps database
 To download the cooling density map (or a selection of the map) as a raster file and save it to your computer, perform the following steps:
@@ -51,6 +54,7 @@ To download the cooling density map (or a selection of the map) as a raster file
 * Click on the bounding box that contains the area of interest (make sure you remain at the scale ‘LAU2’), or select a customised area by drawing the location boundaries (make sure you remain at the scale ‘Hectare’). In this case, draw the boundaries around the area of interest using the drawing tool: <img height=20 width=20 src="https://wiki.hotmaps.hevs.ch/en/District-Cooling/square_selection_icon.jpg"/> you can choose among rectangular, circle shape, or a polygon. Then, click on the drawn bounding box to select the area.
 * Select the category ‘Cooling density total’ in the left panel under ‘Layers’. 
 * Download the cooling density map as a raster file and save it to your computer for the currently selected area by clicking on the ‘Download layer selection’ symbol <img height=20 width=20 src="https://wiki.hotmaps.hevs.ch/en/District-Cooling/logo_download_selection_1.jpg"/> below the layer ‘Cooling density total’.
+
 
 ### Upload the selected cooling demand density map to your private account
 To upload the cooling demand data to the Hotmaps toolbox, perform the following steps:
@@ -62,10 +66,11 @@ To upload the cooling demand data to the Hotmaps toolbox, perform the following 
 
 Now you can use the customized bottom-up cooling demand density map for district cooling planning by using the [CM - District heating potential areas: user-defined thresholds](#CM-District-heating-potential-areas-user-defined-thresholds) as described in the [third step](/en/District-cooling_Use-of-the-CM – District-heating-potential-areas-user-defined-thresholds-to-identify-potential-district-cooling-areas).
 
+
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
 
 
-#### Use of the CM - Scale heat and cool density maps to adapt the default map
+## Use of the CM - Scale heat and cool density maps to adapt the default map
 
 This module scales the default layer with a given factor. The aim is to provide the possibility to generate a heat or cold demand density layer with any overall value. E.g. if you like to increase the cooling demand by 20 %.
 
@@ -89,9 +94,10 @@ To scale and download a cooling density map layer to be used for the CM – Dist
 
 ## Create an individual bottom-up cooling demand density map using Hotmaps data and modules
 To develop a customized bottom-up cooling density map based on local data, perform the following steps:
-### Obtain local data on building stock (including location/coordinates, building area, building type, construction year or period).
 
-### Download the Hotmaps Building Stock data on final energy demand for space heating (SH), space cooling (SC), and domestic hot water (DHW) for each EU28 from [here(folder data)](https://gitlab.com/hotmaps/building-stock)
+* Obtain local data on building stock (including location/coordinates, building area, building type, construction year or period).
+
+* Download the Hotmaps Building Stock data on final energy demand for space heating (SH), space cooling (SC), and domestic hot water (DHW) for each EU28 from [here(folder data)](https://gitlab.com/hotmaps/building-stock)
 
 ### Find the country that you are working with or use the EU28-average in the Hotmaps Building Stock data.
 
