@@ -22,29 +22,29 @@ This is the first step of the analysis at local and municipal level.
 [**`To Top`**](#table-of-contents)
 
 ## Analysis of potentials for excess heat and renewable energy in the identified regions with potential interest for district heating
-In this step, the potentials for excess heat and renewable energy in the regions that have been identified as potentially interesting for district heating can be analysed. These data together with the data on heat demand and heat demand density in the regions collected in the previous step can then be used to characterise representative district heating areas for further analysis steps. The following list gives an overview of the heat sources that should be taken into account and links to the default data for the respective energy source, which is available in the Hotmaps database:
+In this step, the potentials for excess heat and renewable energy in the regions that have been identified as potentially interesting areas for district heating, can be analysed. These data together with the data on heat demand and heat demand density in the regions collected in the previous step can then be used to characterise representative district heating areas for further analysis steps. The following list gives an overview of the heat sources that should be taken into account and links to the default data for the respective energy source, which is available in the Hotmaps database:
 
 * Renewable energy sources:
   * [Waste water treatment plants:](https://gitlab.com/hotmaps/potential/WWTP)
-    * DB - Wastewater treatment plants power
-    * DB - Wastewater treatment plants capacity
+    * Wastewater treatment plants power
+    * Wastewater treatment plants capacity
   * [Agricultural biomass:](https://gitlab.com/hotmaps/potential/potential_biomass)
-    * DB - Agricultural residues
-    * DB - Livestock effluents
-  * Forestal biomass:
-    * [DB - Forest residues](https://gitlab.com/hotmaps/potential/potential_forest)
+    * Agricultural residues
+    * Livestock effluents
+  * Biomass from forest:
+    * [Forest residues](https://gitlab.com/hotmaps/potential/potential_forest)
   * Waste:
-    * [DB - Municipal solid waste](https://gitlab.com/hotmaps/potential/potential_municipal_solid_waste)
+    * [Municipal solid waste](https://gitlab.com/hotmaps/potential/potential_municipal_solid_waste)
   * Geothermal energy:
-    * [DB - Geothermal potential heat conductivity](https://gitlab.com/hotmaps/potential/potential_geothermal_raster)
+    * [Geothermal potential heat conductivity](https://gitlab.com/hotmaps/potential/potential_geothermal_raster)
   * Solar thermal energy:
-    * [DB - Potential solar thermal collectors - rooftop](https://gitlab.com/hotmaps/potential/potential_solarthermal_collectors_rooftop)
-    * [DB - Potential solar thermal collectors open - field](https://gitlab.com/hotmaps/potential/potential_solarthermal_collectors_open_field)
+    * [Potential solar thermal collectors - rooftop](https://gitlab.com/hotmaps/potential/potential_solarthermal_collectors_rooftop)
+    * [Potential solar thermal collectors open - field](https://gitlab.com/hotmaps/potential/potential_solarthermal_collectors_open_field)
 * Excess heat:
   * Large industrial sites:
-    * [DB - Industrial sites excess heat](https://gitlab.com/hotmaps/industrial_sites/industrial_sites_industryBenchmarks)
+    * [Industrial sites excess heat](https://gitlab.com/hotmaps/industrial_sites/industrial_sites_industryBenchmarks)
   * Other excess heat sources:
-    * Information on other excess heat sources like power plants, further industrial plants, low-temperature heat sources like river water, data centers, etc. can be uploaded into the toolbox. A guide on how to do this can be found [here](https://wiki.hotmaps.hevs.ch/en/CM-Add-industry-plant).
+    * Information on other excess heat sources like power plants, further industrial plants, low-temperature heat sources like river water, data centers, etc. can be uploaded into the toolbox. A guide on how to do this can be found [here](https://wiki.hotmaps.eu/en/CM-Add-industry-plant).
 
 The following figure shows this procedure graphically and shows the various data sources and calculation modules that can be used.
 <br/>  
@@ -62,9 +62,9 @@ Marcus Hummel, Giulia Conforto, in Hotmaps-Wiki, Guidelines for using the Hotmap
 
 ## Authors and reviewers
 
-This page was written by Marcus Hummel and Giulia Conforto **[e-think](https://e-think.ac.at)**.
+This page was written by Marcus Hummel and Giulia Conforto (**[e-think](https://e-think.ac.at)**).
 
-&#9745; This page was reviewed by Mostafa Fallahnejad **[EEG - TU Wien](https://eeg.tuwien.ac.at/)**.
+&#9745; This page was reviewed by Mostafa Fallahnejad (**[EEG - TU Wien](https://eeg.tuwien.ac.at/)**).
 
 
 [**`To Top`**](#table-of-contents)
