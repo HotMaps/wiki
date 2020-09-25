@@ -5,6 +5,7 @@
 * [Introduction](#introduction)
 * [Inputs and outputs](#inputs-and-outputs)
 * [Method](#method)
+* [GitHub repository of this calculation module](#github-repository-of-this-calculation-module)
 * [Sample run](#sample-run)
 * [How to cite](#how-to-cite)
 * [Authors and reviewers](#authors-and-reviewers)
@@ -20,7 +21,7 @@ This module calculates the potential of shallow geothermal energy to be used in 
 
 ## Introduction
 
-It aims to compute the shallow geothermal potential based on [r.green.gshp.theoretical](https://grass.osgeo.org/grass76/manuals/addons/r.green.gshp.theoretical.html) according to the [G.pot methodology](https://www.sciencedirect.com/science/article/pii/S0360544216303358). 
+The calculation module aims to compute the shallow geothermal potential based on [r.green.gshp.theoretical](https://grass.osgeo.org/grass76/manuals/addons/r.green.gshp.theoretical.html) according to the [G.pot methodology](https://www.sciencedirect.com/science/article/pii/S0360544216303358). 
 In this module, the output is the theoretical maximum energy that can be converted in the ideal case without considering the financial and spatial constraints. 
 
 
@@ -34,28 +35,29 @@ The input parameters and layers, as well as output layers and parameters, are as
 
 **Input layers and parameters are:**
 
-* Vector with depth-averaged ground thermal conductivity [W m-1 K-1]
+* Vector with depth-averaged ground thermal conductivity [W m<sup>-1</sup> K<sup>-1</sup>]
 * Value with the Heating Season [0-365] days
 * Raster with the initial ground temperature T0 [°C]
-* Value with depth-averaged ground thermal capacity [MJ m-3 K-1]
 * Value with depth-averaged ground thermal capacity [MJ m<sup>-3</sup> K<sup>-1</sup>]
 
-The advanced input is:
+The advance input parameters are:
 * Borehole radius [m]
 * Borehole thermal resistance [m K W<sup>-1</sup>]
 * Borehole length [m]
 * Pipe radius [m]
 * Number of pipes in the borehole
-* Thermal conductivity of the borehole filling (geothermal grout) [W m-1 K-1]
+* Thermal conductivity of the borehole filling (geothermal grout) [W m<sup>-1</sup> K<sup>-1</sup>]
 * Minimum or maximum fluid temperature [°C]
 * Simulated lifetime of the plant [years]
 
 **Output layers and parameters are:**
 
-* a raster map with the geothermal power potential [W]
-* a raster map with the geothermal energy potential [MWh]
+* a raster map with the geothermal energy potential [MWh/(ha*yr)]
+* an indicator on average energy that can be extracted per GCHP system [MWh/yr]
 
 A deeper explanation of the default input raster is available in the [Hotmaps repository](https://gitlab.com/hotmaps/potential/potential_geothermal_raster)
+
+It is also worth-mentioning that due to the fact that implementation of geothermal system is not always possible, specially in the a very dense city areas, the input raster file does not provide information for several large cities. This is also visible in the output files and is NOT a mistake in the calculation.
 
 [**`To Top`**](#table-of-contents)
 
@@ -63,15 +65,25 @@ A deeper explanation of the default input raster is available in the [Hotmaps re
 ## Method
 The method to define the energy potential is based on the [G.pot](https://www.sciencedirect.com/science/article/pii/S0360544216303358). The potential of shallow geothermal energy is computed by means of and empirical relationship proposed by [Casasso et al. (2016)](https://www.sciencedirect.com/science/article/pii/S0360544216303358).
 
-The methodology produce a map with the power and the energy that can be extracted considering the main characteristics of the terrain (e.g. ground temperature/capacity/conductivity) and of the Borehole (e.g. lenght, diameter, etc).
+The methodology produce a map with the power and the energy that can be extracted considering the main characteristics of the terrain (e.g. ground temperature/capacity/conductivity) and of the Borehole (e.g. length, diameter, etc).
+
+[**`To Top`**](#table-of-contents)
+
+
+## GitHub repository of this calculation module
+
+[Here](https://github.com/HotMaps/gchp_potential/tree/develop) you get the bleeding-edge development for this calculation module.
+
 
 [**`To Top`**](#table-of-contents)
 
 ## Sample Run
 
-Users can give different ground characteristics (e.g. ground temperature, ground conductivity and capacity), if available.
-Users can also define the different characteristics of the geothermal system like the Borehole geometry.
+Users can give different ground characteristics (e.g. ground temperature, ground conductivity and capacity), if available. It is also possible to define the different characteristics of the geothermal system like the Borehole geometry.
 
+As previously mentioned, a raster layer is generated as output. This layer shows the potential in different areas. As it is difficult to estimate the potential in dense urban areas, the input raster layer does not provide information for such regions. As a result, these regions are also empty in the output layer.
+
+[[/en/CM-Shallow-geothermal-potential/shallow_geothermal_out_raster.png]]
 
 [**`To Top`**](#table-of-contents)
 
@@ -82,9 +94,9 @@ Pietro Zambelli and Giulia Garegnani, in Hotmaps Wiki, CM Shallow geothermal pot
 
 ## Authors and reviewers
 
-This page was written by Giulia Garegnani and Pietro Zambelli **[EURAC](http://www.eurac.edu)**.
+This page was written by Giulia Garegnani and Pietro Zambelli (**[EURAC](http://www.eurac.edu)**).
 
-&#9745; This page was reviewed by Mostafa Fallahnejad **[EEG - TU Wien](https://eeg.tuwien.ac.at/)**.
+&#9745; This page was reviewed by Mostafa Fallahnejad (**[EEG - TU Wien](https://eeg.tuwien.ac.at/)**).
 
 
 [**`To Top`**](#table-of-contents)
