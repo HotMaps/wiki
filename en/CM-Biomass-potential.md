@@ -93,7 +93,7 @@ Pietro Zambelli, in Hotmaps-Wiki, CM - Biomass potential (September 2020)
 
 This page was written by Pietro Zambelli (**[EURAC](http://www.eurac.edu)**).
 
-&#9745; This page was reviewed by Mostafa Fallahnejad (**[EURAC](http://www.eurac.edu)**).
+&#9745; This page was reviewed by Mostafa Fallahnejad (**[EEG - TU Wien](https://eeg.tuwien.ac.at/)**).
 
 
 [**`To Top`**](#table-of-contents)
