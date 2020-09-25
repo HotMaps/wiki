@@ -58,6 +58,7 @@ Part of the input data comes from the Hotmaps default data sets. These include:
 -   Financial Data - Heating Systems (NUTS0 Level)
 -   Financial Data - Energy Carrier Prices (NUTS0 Level)
 
+[**`To Top`**](#table-of-contents)
 
 ####Manual input data 
 
