@@ -48,7 +48,7 @@ To add datasets on the list of public datasets, they must be pushed to a new Git
 
 Once a day the repositories are checked for new commits and integrated if so. The integration process checks whether the data conforms to the specification or not. 
 
-Here is the specification:  [Hotmaps_Data-upload-on-Gitlab_2017-12-04_V4.pdf](uploads/Hotmaps_Data-upload-on-Gitlab_2017-12-04_V4.pdf) 
+Here is the specification:  [Hotmaps_Data-upload-on-Gitlab_2017-12-04_V4.pdf](https://wiki.hotmaps.eu/uploads/Hotmaps_Data-upload-on-Gitlab_2017-12-04_V4.pdf) 
 
 [**`To Top`**](#table-of-contents)
 
@@ -58,7 +58,6 @@ The code of the application is located on GitHub under the [Hotmaps organization
 
 * [Hotmaps-toolbox-client](https://github.com/HotMaps/Hotmaps-toolbox-service) contains the frontend of our application. It is an Angular project (JavaScript)
 * [Hotmaps-toolbox-service](https://github.com/HotMaps/Hotmaps-toolbox-service) contains the API for our application. It is based on Flask (Python)
-* [Hotmaps-wiki](https://github.com/HotMaps/hotmaps_wiki) is the Wiki you're currently reading
 * [base-calculation-module](https://github.com/HotMaps/base_calculation_module) is the basic template you can use to create your own calculation modules for Hotmaps
 * a list of calculations modules
 
@@ -76,9 +75,9 @@ In order to push something to some Hotmaps repository you have to be a member of
 
 You can find more information on how to work in these documents:
 
--  [Hotmaps_python_best_practices_tutorial_2017-08-07_v01.pdf](uploads/Hotmaps_python_best_practices_tutorial_2017-08-07_v01.pdf)
--  [Hotmaps_Testing_in_python_tutorial_pytest_2017-08-07_v01.pdf](uploads/Hotmaps_Testing_in_python_tutorial_pytest_2017-08-07_v01.pdf)
--  [GitFlow_Guidelines_CREM_2017-02-01.pdf](uploads/GitFlow_Guidelines_CREM_2017-02-01.pdf) 
+-  [Hotmaps_python_best_practices_tutorial_2017-08-07_v01.pdf](https://wiki.hotmaps.eu/uploads/Hotmaps_python_best_practices_tutorial_2017-08-07_v01.pdf)
+-  [Hotmaps_Testing_in_python_tutorial_pytest_2017-08-07_v01.pdf](https://wiki.hotmaps.eu/uploads/Hotmaps_Testing_in_python_tutorial_pytest_2017-08-07_v01.pdf)
+-  [GitFlow_Guidelines_CREM_2017-02-01.pdf](https://wiki.hotmaps.eu/uploads/GitFlow_Guidelines_CREM_2017-02-01.pdf) 
 
 [**`To Top`**](#table-of-contents)
 
@@ -184,9 +183,9 @@ Daniel Hunacek, Lucien Zuber, Matthieu Dayer, in Hotmaps Wiki, Developers Sectio
 
 ## Authors and reviewers
 
-This page was written by Daniel Hunacek, Lucien Zuber, and Matthieu Dayer **[HES-SO](https://www.hevs.ch)**.
+This page was written by Daniel Hunacek, Lucien Zuber, and Matthieu Dayer (**[HES-SO](https://www.hevs.ch)**).
 
-&#9745; This page was reviewed by Mostafa Fallahnejad **[EEG - TU Wien](https://eeg.tuwien.ac.at/)**.
+&#9745; This page was reviewed by Mostafa Fallahnejad (**[EEG - TU Wien](https://eeg.tuwien.ac.at/)**).
 
 
 [**`To Top`**](#table-of-contents)
