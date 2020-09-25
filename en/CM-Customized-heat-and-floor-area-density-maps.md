@@ -13,16 +13,16 @@
 
 
 ## In a glance
-This module generates both a heat density and a floor area density map in the form of raster files. The input to the module a CSV file with certain column headers. For example, X-coordinate and Y-coordinate of the centre of buildings in EPSG:3035 coordinate reference system or their corresponding gross floor area and annual heat demand should be included in the CSV file. The generated raster files follow required projection and resolution by the Hotmaps toolbox and therefore, can be easily uploaded to the user accounts.
+This module generates raster files both for a heat density and a floor area density map in the format required by the Hotmaps toolbox. The input data is provided in the form of a CSV file containing information on location, gross floor area and heat demand for each single building to be taken into account.
 
 
 [**`To Top`**](#table-of-contents)
 
 
 ## Introduction
-This module generates both a heat density and a floor area density map in the form of raster files. The input to the module a CSV file with certain column headers. For example, X-coordinate and Y-coordinate of the centre of buildings in EPSG:3035 coordinate reference system or their corresponding gross floor area and annual heat demand should be included in the CSV file. The generated raster files follow required projection and resolution by the Hotmaps toolbox and therefore, can be easily uploaded to the user accounts.
+This module generates both a heat density and a floor area density map in the form of raster files. The input to the module is a CSV file with certain column headers. It should contain the following data: the X- and the Y-coordinate of the centre of the buildings in EPSG:3035 coordinate reference system, the gross floor area and the annual heat demand of the buildings. The generated raster files follow required projection and resolution by the Hotmaps toolbox and therefore, can easily be uploaded to the user accounts.
 
-This module will only be available as a stand-alone module; it will not be integrated into the toolbox. The users of this CM should be familiar with python programming and have installed required libraries (e.g. Numpy, Pandas, GeoPandas and GDAL).
+This module is only available as a stand-alone module; it is not integrated in the online version of the Hotmaps toolbox. The users of this CM should be familiar with python programming and have installed required libraries (e.g. Numpy, Pandas, GeoPandas and GDAL).
 
 [**`To Top`**](#table-of-contents)
 
@@ -53,8 +53,8 @@ The module accepts a CSV file as input. The following headers are expected in ca
 
 As output, two raster files are generated:
 
-* Gross floor area density map with pixel values in **_m<sup>2</sup> per hectare_**
-* Heat demand density map with pixel values in **_MWh per hectare_**
+* A gross floor area density map with pixel values in **_m<sup>2</sup> per hectare_**
+* A heat demand density map with pixel values in **_MWh per hectare_**
 
 [**`To Top`**](#table-of-contents)
 
@@ -64,7 +64,7 @@ To visualize an own raster file in the Hotmaps toolbox, it should respect the ru
 
 1. have the CRS of **ETRS89-extended / LAEA Europe - EPSG:3035**;
 1. The coordinate of the raster origin (top-left corner of the raster) should be a multiplicand of 100, e.g. (4334900, 3019700);
-1. The resolution of the raster map should 100x100m;
+1. The resolution of the raster map should be 100x100m;
 1. The raster should refer to a location in Europe.
 
 Based on the above criteria and coordinates given in the input CSV file, each input coordinate is allocated to a certain pixel. Entries allocated to one single pixel are aggregated. The bottom-left pixel and top-right pixel determine the extent of the pixel. The resolution of the map is 100x100m. Accordingly, a heat density map and gross floor area map is generated.
