@@ -137,9 +137,9 @@ Jeton Hasani, in Hotmaps Wiki, CM District heating supply dispatch (September 20
 
 ## Authors and reviewers
 
-This page was written by Jeton Hasani **[EEG - TU Wien](https://eeg.tuwien.ac.at/)**.
+This page was written by Jeton Hasani (**[EEG - TU Wien](https://eeg.tuwien.ac.at/)**).
 
-&#9745; This page was reviewed by Mostafa Fallahnejad **[EEG - TU Wien](https://eeg.tuwien.ac.at/)**.
+&#9745; This page was reviewed by Mostafa Fallahnejad (**[EEG - TU Wien](https://eeg.tuwien.ac.at/)**).
 
 
 [**`To Top`**](#table-of-contents)
