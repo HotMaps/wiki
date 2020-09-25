@@ -61,7 +61,7 @@ To upload the cooling demand data to the Hotmaps toolbox, perform the following 
 * Select the raster file for the ‘Cooling Density Total’ that you have downloaded above (e.g. “cool_tot_curr_density.tif”). Select the raster file type ‘(Building) Heat density total’, despite the layer type, in fact, is ‘Cooling density total’. This way the cooling density can be used in the calculation modules for examining and assessing the district cooling potentials.
 * The uploaded layer will appear at the top of the left layer panel and can be used as the embedded layers.
 
-Now you can use the customized bottom-up cooling demand density map for district cooling planning by using the [CM - District heating potential areas: user-defined thresholds](/en/CM-District-heating-potential-areas-user-defined-thresholds) as described in the [third step](/en/District-Cooling#method_use-of-the-cm-district-heating-potential-areas-user-defined-thresholds-to-identify-potential-district-cooling-areas).
+Now you can use the customized bottom-up cooling demand density map for district cooling planning by using the [CM - District heating potential areas: user-defined thresholds](/en/CM-District-heating-potential-areas-user-defined-thresholds) as described in the [fourth step](/en/District-Cooling#method_use-of-the-cm-district-heating-potential-areas-user-defined-thresholds-to-identify-potential-district-cooling-areas).
 
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
@@ -102,7 +102,7 @@ To develop a customized bottom-up cooling density map based on local data, perfo
 * Create a bottom-up cooling density map .tif using the Hotmaps CM Customized heat and gross floor area density maps. Description can be found in the Wiki page [CM - Customized heat and floor area density maps](#CM-Customized-heat-and-floor-area-density-maps), which also contains the [link to the code](https://github.com/HotMaps/customized_h_fa_dm).
 * Upload the developed layer as you would do for a selection of the default layer as described in the previous section](/en/District-cooling_Upload-the-cooling-demand-density-map-to-your-private-account).
 
-Now you can use the customized bottom-up cooling demand density map for district cooling planning by using the [CM - District heating potential areas: user-defined thresholds](#CM-District-heating-potential-areas-user-defined-thresholds) as described in the next step.
+Now you can use the customized bottom-up cooling demand density map for district cooling planning by using the [CM - District heating potential areas: user-defined thresholds](/en/CM-District-heating-potential-areas-user-defined-thresholds) as described in the [fourth step](/en/District-Cooling#method_use-of-the-cm-district-heating-potential-areas-user-defined-thresholds-to-identify-potential-district-cooling-areas).
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
 
