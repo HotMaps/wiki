@@ -109,7 +109,7 @@ Now you can use the customized bottom-up cooling demand density map for district
 
 ### Use of the CM – District heating potential areas: user defined thresholds to identify potential district cooling areas
 
-The calculation module [CM - District heating potential areas: user-defined thresholds](#CM-District-heating-potential-areas-user-defined-thresholds) generates a shapefile of potential district cooling areas based on the following input data: a cooling density map with 1 hectare (ha) resolution, a cooling demand threshold for the cooling demand in each cell of the cooling density map and a cooling demand threshold for groups of connected cells with cooling demand above the previous threshold (=coherent area).
+The calculation module [CM - District heating potential areas: user-defined thresholds](en/CM-District-heating-potential-areas-user-defined-thresholds) generates a shapefile of potential district cooling areas based on the following input data: a cooling density map with 1 hectare (ha) resolution, a cooling demand threshold for the cooling demand in each cell of the cooling density map and a cooling demand threshold for groups of connected cells with cooling demand above the previous threshold (=coherent area).
 
 In order to calculate and compare different scenarios of potential district cooling areas based on the two threshold values used in the module, perform the following steps:
 * Zoom to the location that you want to examine (e.g. Aalborg).
