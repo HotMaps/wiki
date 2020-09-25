@@ -294,6 +294,7 @@ We would like to convey our deepest appreciation to the Horizon 2020 [Hotmaps Pr
 [electricity]: ../images/general_tool_functionalities_and_structure/electricity.png
 
 
+
 <!--- THIS IS A SUPER UNIQUE IDENTIFIER -->
 
 View in another language:

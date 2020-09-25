@@ -152,10 +152,11 @@ We would like to convey our deepest appreciation to the Horizon 2020 [Hotmaps Pr
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
 
 
+
 <!--- THIS IS A SUPER UNIQUE IDENTIFIER -->
 
 View in another language:
 
- [German](../de/GL-local)<sup>\*</sup> 
+ [German](../de/guide-national-level-comprehensive-assessment-eed)<sup>\*</sup> 
 
 <sup>\*</sup> machine translated

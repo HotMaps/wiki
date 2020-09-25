@@ -117,3 +117,10 @@ License-Text: https://spdx.org/licenses/CC-BY-4.0.html
 We would like to convey our deepest appreciation to the Horizon 2020 Hotmaps Project (Grant Agreement number 723677), which provided the funding to carry out the present investigation.
 
 [**`To Top`**](#table-of-contents)
+<!--- THIS IS A SUPER UNIQUE IDENTIFIER -->
+
+View in another language:
+
+ [German](../de/CM-Biomass-potential)<sup>\*</sup> 
+
+<sup>\*</sup> machine translated

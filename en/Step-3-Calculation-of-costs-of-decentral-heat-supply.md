@@ -73,15 +73,11 @@ We would like to convey our deepest appreciation to the Horizon 2020 [Hotmaps Pr
 
 
 
+
 <!--- THIS IS A SUPER UNIQUE IDENTIFIER -->
 
 View in another language:
 
- [German](../de/GL-national)<sup>\*</sup> 
+ [German](../de/Step-3-Calculation-of-costs-of-decentral-heat-supply)<sup>\*</sup> 
 
 <sup>\*</sup> machine translated
-
-<br\>  
-[**`Scenario Toolchain Steps`**](guide-local-and-municipal-levels#the-hotmaps-scenario-toolchain-different-steps)
-[**`Previous step`**](step-2-Calculation-of-future-heat-demand-and-gross-floor-area-density-maps)
-[**`Next step`**](step-4-calculation-of-district-heating-distribution-costs)
