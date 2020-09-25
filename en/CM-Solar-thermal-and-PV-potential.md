@@ -6,6 +6,7 @@
 * [Inputs and outputs](#inputs-and-outputs)
 * [Method](#method)
   * [Example](#method_example)
+* [GitHub repository of this calculation module](#github-repository-of-this-calculation-module)
 * [Sample run](#sample-run)
   * [Test Run 1: default input values](#sample-run_test-run-1-default-input-values)
   * [Test Run 2: modified input values](#sample-run_test-run-2-modified-input-values)
@@ -134,6 +135,14 @@ So to give a practical example:
 
 
 [**`To Top`**](#table-of-contents)
+
+
+## GitHub repository of this calculation module
+
+[Here](https://github.com/HotMaps/solar_potential/tree/develop) you get the bleeding-edge development for this calculation module.
+
+[**`To Top`**](#table-of-contents)
+
 
 ## Test Run 1
 Here, the calculation module is run for the Lombardy region in Italy (NUTS2).
