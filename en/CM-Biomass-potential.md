@@ -76,8 +76,9 @@ Based on the provided transformation efficiency, the energy that can be extracte
 
 ## Sample run
 
+This calculation module can be run on NUTS 0-3 levels. Figure below shows the obtained heat and electrical potentials for each biomass resource, based on the default input parameters.
 
-
+[[/en/CM-Biomass-potential/cm_biomass_potential.png]]
 
 [**`To Top`**](#table-of-contents)
 
