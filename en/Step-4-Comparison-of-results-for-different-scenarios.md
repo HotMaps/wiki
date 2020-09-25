@@ -33,9 +33,9 @@ Marcus Hummel, Giulia Conforto, in Hotmaps-Wiki, Guidelines for using the Hotmap
 
 ## Authors and reviewers
 
-This page was written by Marcus Hummel and Giulia Conforto **[e-think](https://e-think.ac.at)**.
+This page was written by Marcus Hummel and Giulia Conforto (**[e-think](https://e-think.ac.at)**).
 
-&#9745; This page was reviewed by Mostafa Fallahnejad **[EEG - TU Wien](https://eeg.tuwien.ac.at/)**.
+&#9745; This page was reviewed by Mostafa Fallahnejad (**[EEG - TU Wien](https://eeg.tuwien.ac.at/)**).
 
 
 [**`To Top`**](#table-of-contents)
