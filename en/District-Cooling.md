@@ -22,23 +22,24 @@
 
 ## In a glance
 
-This page aims to show how to apply the Hotmaps toolbox to carry out cooling planning. The pilot area of the Aalborg Municipality is taken as a study case, as this city is working towards district cooling planning. The potential application of the Hotmaps Toolboxis demonstrated by using the calculation modules to investigate the cooling demand in Aalborg and the potential for district cooling.
+This page aims to show how to apply the Hotmaps toolbox to carry out cooling planning. The pilot area of the Aalborg Municipality is taken as a study case, as this city is working towards district cooling planning. The potential application of the Hotmaps toolbox is demonstrated by using different calculation modules to investigate the cooling demand in Aalborg and to assess the potential for district cooling in the city.
 
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
 
 ## Introduction
 
-The cooling demand in Aalborg Municipality is centred in and around the dense city centre.
+The cooling demand in Aalborg Municipality is centred in and around the dense city centre. The following figure shows the gross floor area density in each heactare of the city based on the estimation done in course of the Hotmaps project.
+
 [[/en/District-Cooling/DCooling_1.jpg]]
 Figure 1: Gross Floor Area Density Map of the Municipality of Aalborg
 
 
 The application of the Hotmaps toolbox for carrying out cooling planning entails the following steps:
-* Using the existing Cooling Density Map, by selecting and downloading it.
+* Using the existing [cooling density map](https://gitlab.com/hotmaps/heat/cool_tot_curr_density), by selecting and downloading it.
 * Uploading the layer as a personal layer categorised as a “[Building] Heat density total”. This way the cooling density can be used in the existing calculation modules for examining and assessing the district cooling potentials.
-* Using the cooling layer in the calculation module “CM - District Heating Potential Areas: User-Defined Thresholds” to examine and access the district cooling potentials. The density threshold should be lowered for district cooling compared to district heating given the nature of district cooling.
-* Developing a customized bottom-up cooling density map by using data and functionalities from the Hotmaps database and GitHub-repository. These Hotmaps data should be coupled with more detailed local data on building stock.
+* Using the layer of the cooling density map in the calculation module [CM - District Heating Potential Areas: User-Defined Thresholds](/en/CM-District-heating-potential-areas-user-defined-thresholds) to examine and access the district cooling potentials. The density threshold should be lowered for district cooling compared to district heating given the nature of district cooling.
+* Developing a customized bottom-up cooling density map by using data and functionalities from the Hotmaps database and GitHub-repository. These Hotmaps data should be coupled with more detailed local data on the stock of buildings in the analysis area.
 
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
