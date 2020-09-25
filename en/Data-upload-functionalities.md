@@ -80,7 +80,7 @@ If you are logged out, you won't be able to access any of your personal layers, 
 ## Data security and privacy
 
 Hotmaps toolbox offers security to users creating an account on the platform. Usual security measures have been implemented: HTTPS protocol, password hashing/salting and so on. However please note that for the moment the uploaded datasets are not encrypted on the server. So please avoid uploading sensitive data.
-The user data is however, encrypted and no one has access to them from outside. You have the possibility to recover your password, if you forget it.
+
 
 
 [**`To Top`**](#table-of-contents)
