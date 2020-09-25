@@ -41,31 +41,31 @@ The application of the Hotmaps toolbox for carrying out cooling planning entails
 * Using the layer of the cooling density map in the calculation module [CM - District Heating Potential Areas: User-Defined Thresholds](/en/CM-District-heating-potential-areas-user-defined-thresholds) to examine and access the district cooling potentials. The density threshold should be lowered for district cooling compared to district heating given the nature of district cooling.
 * Developing a customized bottom-up cooling density map by using data and functionalities from the Hotmaps database and GitHub-repository. These Hotmaps data should be coupled with more detailed local data on the stock of buildings in the analysis area.
 
-
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
+
 
 ## Inputs and outputs
 
 ### Inputs
 
-In order to create and use a cooling density map, you need first to create an account, then download the cooling density map, save it, upload the cooling demand data, and then create a bottom-up cooling demand density map. All the steps are illustrated below.
+In order to create and use a cooling density map, you first need to create an account, then download the default cooling density map from the database, save it locally on your computer, upload the downloaded map to your user account, and then create a bottom-up cooling demand density map. All the steps are illustrated below.
 
 
 #### Create a user account
 
-To be able to upload the cooling demand data, you need first to create a user account (register), performing the following steps: 
+To be able to upload data, you first need to create a user account (register). This is done by performing the following steps: 
 * Go to the [Hotmaps Toolbox](https://www.hotmaps.eu)
-* Click on the ‘Connect’ button on the top left corner and follow the instructions. Use your email address as username. Once you have created an account, the button ‘Connect’ in the top left corner should have been replaced with an ‘Account’ button. 
+* Click on the ‘Connect’ button on the top left corner and follow the instructions. Use your email address as username. Once you have logged in to your account, the button ‘Connect’ in the top left corner should have been replaced with an ‘Account’ button. 
 * The account window will pop up in the middle of the screen. From here, you can edit your user details, view the available storage space, and most importantly upload your own data.
-* The accepted file format are .tif and .csv. Press the ‘Select file’ button located at the bottom of the account window, localise the desired file on your computer, select the right category from the drop-down list to the left, and upload the file to the toolbox with the the ‘Upload Layer’ button.
+* The accepted file formats are .tif and .csv. Press the ‘Select file’ button located at the bottom of the account window, localise the desired file on your computer, select the right category from the drop-down list to the left, and upload the file to the toolbox with the the ‘Upload Layer’ button.
 * You can leave the account window by clicking at any point of the screen outside of the account window.
-
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
 
-#### Download a cooling density map
 
-To download the cooling density map as a raster file and save it to your computer, perform the following steps:
+#### Download a selection of the default cooling density map from the Hotmaps database
+
+To download the cooling density map (or a selection of the map) as a raster file and save it to your computer, perform the following steps:
 * Zoom to the location that you want to analyse (e.g. Aalborg).
 * Click on the bounding box that contains the area of interest (make sure you remain at the scale ‘LAU2’), or select a customised area by drawing the location boundaries (make sure you remain at the scale ‘Hectare’). In this case, draw the boundaries around the area of interest using the drawing tool: <img height=20 width=20 src="https://wiki.hotmaps.hevs.ch/en/District-Cooling/square_selection_icon.jpg"/> you can choose among rectangular, circle shape, or a polygon. Then, click on the drawn bounding box to select the area.
 * Select the category ‘Cooling density total’ in the left panel under ‘Layers’. 
