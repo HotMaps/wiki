@@ -27,7 +27,8 @@ By pressing the ![layers_button][layers_button] Button a sidebar with different 
 [**`To Top`**](#table-of-contents)
 
 ## Layers
-There are [two categories of layers](https://www.gislounge.com/geodatabases-explored-vector-and-raster-data):  
+There are [two categories of layers](https://www.gislounge.com/geodatabases-explored-vector-and-raster-data): 
+ 
 1. Vector Layers
 2. Raster Layers
 
