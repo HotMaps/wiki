@@ -31,19 +31,18 @@ The datasets can be found on the [Gitlab repository](https://gitlab.com/hotmaps)
 
 ## Query
 
-Please note that aggregations when selecting NUTS or LAU regions are pre-computed and therefore faster than aggregations of hectare selections which are computed on-the-fly.
+Please note that aggregations when selecting NUTS or LAU regions are pre-computed and therefore, faster than aggregations of hectare selections, which are computed on-the-fly.
 
 
 [**`To Top`**](#table-of-contents)
 
 ## Indicators
 
-TBD (CREM)
+Indicators are defined **[here](https://github.com/HotMaps/Hotmaps-toolbox-service/blob/develop/api/app/models/indicators.py)**.
+Depending on the layers, various statistical parameters such as minimum value, maximum value and mean value are among the indicators. An explanation of defining indicators for the layers integrated into the Hotmaps database can be found **[here](https://github.com/HotMaps/Hotmaps-toolbox-service/blob/develop/api/app/models/INDICATORS.md)**.
 
 
 [**`To Top`**](#table-of-contents)
-
->>>>>>> prod-test-revert
 
 
 ## Technologies
