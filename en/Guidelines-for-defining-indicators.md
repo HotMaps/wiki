@@ -3,8 +3,8 @@
 ## Table of Contents
 
 * [Indicators](#indicators)
-  * [Simple indicator](#indicators_simple-indicators)
-  * [Cross indicator](#indicators_cross-indicators)
+  * [Simple indicators](#indicators_simple-indicators)
+  * [Cross indicators](#indicators_cross-indicators)
 * [Indicator result](#indicator-result)
 * [How to cite](#how-to-cite)
 * [Authors and reviewers](#authors-and-reviewers)
