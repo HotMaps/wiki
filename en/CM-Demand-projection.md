@@ -158,17 +158,17 @@ To run the calculation module, follow the next steps:
 * Wait until the process is finished.
 * You can immediately see that the Heat density map has been added to the map. As output, indicators are shown in the "RESULTS" window and on the map the new heat density map and gross floor area are shown.
 
-[[/en/CM-Demand-projection/default-sample-run_jpg-min.jpg]]
+<img src="/en/CM-Demand-projection/default-sample-run_jpg-min.jpg"/>
 *Figure: Demand projection after running with default parameter*
-* Additionally, also two diagrams are generated. The first one shows the Heated gross floor area for different building periods. The second diagram illustrates the energy consumption for Heating and domnestic hot water for also divided fort he different building periods.
+* Additionally, also two diagrams are generated. The first one shows the Heated gross floor area for different building periods. The second diagram illustrates the energy consumption for heating and domestic hot water for also divided fort different building periods.
 
-[[/en/CM-Demand-projection/default-sample-run_graphs_jpeg.jpg]]
-*Figure: Demand projection after running with default parameter, switching to graphics*
+<img src="/en/CM-Demand-projection/default-sample-run_graphs_jpeg.jpg"/>
+*Figure: Demand projection after running with a default parameter, switching to graphics*
 
 * After running the calculation and closing the calculation module two new layers can be found at the very bottom under the Layers list. On the one hand the new heating density map and on the other hand the new gross floor area map. If you want to save them and use them in further calculations, you have to download and upload them again.
 
-[[/en/CM-Demand-projection/default-sample-run_layers_jpg-min.jpg]]
-*Figure: Demand projection after running with default parameter, switching to result layers*
+<img src="/en/CM-Demand-projection/default-sample-run_layers_jpg-min.jpg"/>
+*Figure: Demand projection after running with a default parameter, switching to result layers*
 
 As mentioned before, it may be necessary to adjust the input parameters to the own data situation or to check sensitivities.
 
