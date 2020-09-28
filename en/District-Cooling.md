@@ -135,7 +135,7 @@ In order to calculate and compare different scenarios of potential district cool
   - DC areas and their potentials – a shapefile, polygons of the potential DC areas.
 * These can be found in the layers section in the left panel (you have to close the calculation modules with ‘X’ and move to ‘Layers’) at the bottom of all available layers. Take a screenshot of these layers and insert it here.
 
-[[/en/District-Cooling/DCooling_2-min.png]]
+<img src="/en/District-Cooling/DCooling_2-min.png"/>
 Figure 1: Identified District Cooling potential area in the city center of the Municipality of Aalborg
 
 **IMPORTANT NOTE** 
