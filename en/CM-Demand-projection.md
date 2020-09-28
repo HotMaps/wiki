@@ -40,13 +40,13 @@ They differ in their thermal renovation rate, in other words how much of the gro
 * _Select target year:_
   * here you can select the year for which the calculations will be performed
 
-* _Reduction of gross floor area compared to the reference scenario:_
+* _Scale up or down the reduction of gross floor area compared to reference scenario:_
   * with this parameter you can change the development of gross floor area of currently existing buildings compared to the development as projected in the scenario calculated with the Invert/EE-Lab model
   * you can define different relative changes for existing buildings built in different construction periods (before 1977, between 1977 and 1990, after 1990)
   * the values to be introduced have the unit [%]
   * a value of 25 means that the reduction of gross floor area in a defined construction period, e.g. before 1977, between the starting year of the calculation and the end of the selected scenario time, is multiplied by 0.25. E.g. in the selected Invert/EE-Lab scenario the gross floor area of buildings constructed before 1977 decreases from 10 Mio. m² to 6 Mio m² between now and the end of the selected scenario time period. This equals a decrease of 4 Mio m². When choosing a value of 25 the effect of the Invert/EE-Lab scenario is changed in order to not reflect a decrease of 4 Mio m² over this time period, but of only 1 Mio. m² (4 * 0.25). Thus, the remaining gross floor area of buildings constructed before 1977 at the end of the scenario time period would be 9 Mio. m².
 
-* _Reduction of specific energy needs compared to reference scenario:_
+* _Scale up or down the reduction of specific energy needs compared to reference scenario:_
   * with this parameter you can change the development of the specific energy needs for space heating and hot water generation of currently existing buildings compared to the development as projected in the scenario calculated with the Invert/EE-Lab model
   * you can define different relative changes for existing buildings built in different construction periods (before 1977, between 1977 and 1990, after 1990)
   * the values to be introduced have the unit [%]
@@ -156,7 +156,7 @@ To run the calculation module, follow the next steps:
 
 * Assign a name to the run session (optional) and set the input parameters (here, default values were used) and then press “RUN CM” at the end of the CM input.
 * Wait until the process is finished.
-* You can immediately see that the Heat density map has been added to the map. As output, indicators are shown in the "RESULTS" window and on the map the new heat density map and großfloorarea are shown.
+* You can immediately see that the Heat density map has been added to the map. As output, indicators are shown in the "RESULTS" window and on the map the new heat density map and gross floor area are shown.
 
 [[/en/CM-Demand-projection/default-sample-run_jpg-min.jpg]]
 *Figure: Demand projection after running with default parameter*
