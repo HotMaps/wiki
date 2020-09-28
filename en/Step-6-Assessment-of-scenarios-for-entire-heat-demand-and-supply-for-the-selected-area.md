@@ -15,7 +15,7 @@
 ## Introduction
 This is the last step of the analysis at local and municipal level.
 
-[[/en/Step-6-Assessment-of-scenarios-for-entire-heat-demand-and-supply-for-the-selected-area/Hotmaps_Local_Toolchain_Step_6final.png]]
+<img src="/en/Step-6-Assessment-of-scenarios-for-entire-heat-demand-and-supply-for-the-selected-area/Hotmaps_Local_Toolchain_Step_6final.png"/>
 *Figure: The steps to assess different scenarios for the entire heat demand and supply are highlighted in the Toolchain above.*
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
@@ -25,7 +25,7 @@ The final step in the analysis is the comparison of the results for the differen
 
 [[/en/Step-6-Assessment-of-scenarios-for-entire-heat-demand-and-supply-for-the-selected-area/Wiki-local-detailed-Step-6.png]]
 *Figure: Comparison of results for different scenarios*
-<br\>  
+  
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
 
