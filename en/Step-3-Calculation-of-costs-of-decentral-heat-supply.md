@@ -2,8 +2,7 @@
 
 [**`Scenario Toolchain Steps`**](guide-local-and-municipal-levels#the-hotmaps-scenario-toolchain-different-steps)
 [**`Previous step`**](step-2-Calculation-of-future-heat-demand-and-gross-floor-area-density-maps)
-[**`Next step`**](step-4-calculation-of-district-heating-distribution-costs)
-<br\>  
+[**`Next step`**](step-4-calculation-of-district-heating-distribution-costs) 
 
 ## Table of Contents
 * [Introduction](#introduction)
@@ -16,9 +15,9 @@
 ## Introduction
 This is the third step of the analysis at local and municipal level.
   
-[[/en/Step-3-Calculation-of-costs-of-decentral-heat-supply/Hotmaps_Local_Toolchain_Step_3final.png]]
+<img src="/en/Step-3-Calculation-of-costs-of-decentral-heat-supply/Hotmaps_Local_Toolchain_Step_3final.png"/>
 *Figure: The steps to calculate the decentral heat supply costs are highlighted in the Toolchain above.*
-<br\>  
+ 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
  
 ## Calculation of costs of decentral heat supply
@@ -26,14 +25,14 @@ In the third step, the costs and emissions of heat supply via decentral technolo
 
 The [CM - Decentral heating supply](https://wiki.hotmaps.eu/en/CM-Decentral-heating-supply) can be used to calculate the costs and emissions of heat supply via different decentral technologies. The module uses data on heat demand as well as data on costs of technologies and prices for energy carriers to calculate the levelized costs of heat supply [EUR/MWh] for the different technologies in the different typical buildings and renovation states. The following figure shows this procedure graphically and shows the various data sources feeding into the [CM - Decentral heating supply](https://wiki.hotmaps.eu/en/CM-Decentral-heating-supply).
 <br\>  
-[[/en/Step-3-Calculation-of-costs-of-decentral-heat-supply/Wiki-local-detailed-Step-3fin.png]]
+<img src="/en/Step-3-Calculation-of-costs-of-decentral-heat-supply/Wiki-local-detailed-Step-3fin.png"/>
 *Figure: Calculation of decentral heat supply*
-<br\>  
-<br\>  
+
+
 The calculations can be used to identify costs and benefits of various supply technologies in different representative buildings and their sensitivity to important influencing parameters like energy carrier and CO2 prices or interest rate and depreciation time.
 
 The outcomes of this step are the costs of heat supply via decentral technologies in [EUR/MWh] in each of the representative buildings and the related CO2 emissions [kt/yr]. These results will then be used in the overall [Scenario Assessment](https://wiki.hotmaps.eu/en/CM-Scenario-assessment) in [Step 6](https://wiki.hotmaps.eu/en/Step-6-Assessment-of-scenarios-for-entire-heat-demand-and-supply-for-the-selected-area).
-<br\>  
+
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
 
 ## How to cite
