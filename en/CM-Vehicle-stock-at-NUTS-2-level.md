@@ -20,7 +20,7 @@ This calculation module demonstrates the vehicle stock profile in NUTS 2 level f
 [**`To Top`**](#table-of-contents)
 
 ## Introduction
-This calculation module demonstrates the vehicle stock profile in NUTS 2 level up to year 2030 based on a business as usual scenario. The data set can be found in Hotmaps repository as well. The illustrated numbers on the NUTS 2 level, were extrapolated based on values on NUTS 0 data. The historical data points were  extrapolated  based  on  future  trends  for  selected  indicators  derived  from  the  PRIMES–TREMOVE EU 2016 reference scenario [1].
+This calculation module demonstrates the vehicle stock profile in NUTS 2 level up to year 2030 based on a business as usual scenario. The data set can be found in Hotmaps repository as well. The illustrated numbers on the NUTS 2 level, were extrapolated based on values on NUTS 0 data. The historical data points were  extrapolated  based  on  future  trends  for  selected  indicators  derived  from  the  PRIMES–TREMOVE EU 2016 reference scenario [ [1]](#references).
 
 The calculation module can be run on NUTS 2 level only.
 
