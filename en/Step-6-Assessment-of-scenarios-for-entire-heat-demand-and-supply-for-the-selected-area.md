@@ -2,7 +2,8 @@
 
 [**`Scenario Toolchain Steps`**](guide-local-and-municipal-levels#the-hotmaps-scenario-toolchain-different-steps)
 [**`Previous step`**](step-5-calculation-of-costs-of-heat-supply-to-district-heating)
-<br\>  
+
+
 ## Table of Contents
 * [Introduction](#introduction)
 * [Comparison of results for different scenarios](#comparison-of-results-for-different-scenarios)
