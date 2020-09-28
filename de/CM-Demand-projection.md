@@ -4,7 +4,7 @@
 * [Einführung] (# Einführung) 
 * [Ein- und Ausgänge] (# Ein- und Ausgänge) 
 * [Ein- und Ausgänge] (# Ein- und Ausgänge) -outputs_inputs) 
-* [Outputs] (# input-and-output_outputs) 
+* [Outputs] (#input-and-output_outputs) 
 * [Methode] (# Methode) 
 * [GitHub-Repository dieses Berechnungsmoduls] (# github-Repository-dieses-Berechnungsmoduls) 
 * [Probelauf ] (# sample-run) 
