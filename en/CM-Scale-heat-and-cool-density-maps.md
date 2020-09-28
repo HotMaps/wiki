@@ -77,7 +77,7 @@ Here, the calculation module is run for the case study of Vienna, Austria. First
 After pressing run a new density map is calculated on the basis of the selected map. The default value here is the heat density total map. 
 After the calculation, the total new heat demand is shown on the right side, under indicators. (Here the default value is 1 and therefore, no change in the indicators occurs).
 
-[[/en/CM-Scale-heat-and-cool-density-maps/picture1.jpg]]
+<img src="/en/CM-Scale-heat-and-cool-density-maps/picture1.jpg"/>
 
 After closing the calculation modules and switching to the layer section, the newly calculated heat density map can be found at the very bottom of the LAYERS tab. This layer can be downloaded by the user and also can be uploaded to the user account for the purpose of further calculations.
 
