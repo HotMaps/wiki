@@ -29,7 +29,6 @@ The **Calculation Modules** section provides an in-depth explanation of concepts
 
 The section "**How to apply the Hotmaps toolbox?**" is one of the most important sections of this wiki. It helps Hotmaps users to perform heating and cooling planning with the Hotmaps toolbox and includes guidelines on using Hotmaps at the local and national levels, as well and training materials. This section illustrates how different calculation module can be used to analyze different aspects of the heating and cooling system and different research questions. Furthermore, it shows, how the calculation modules can also be used as a chain of tools to derive scenarios for heating and cooling of certain areas. This toolchain is depicted schematically below:
 
-![](../images/Hotmaps_toolchain_2019-05-09.png =684x)
 <p align="center">
   <img src="../images/Hotmaps_toolchain_2019-05-09.png" alt="drawing" width="550"/>
 </p>
