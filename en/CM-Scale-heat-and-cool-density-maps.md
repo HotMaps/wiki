@@ -81,7 +81,7 @@ After the calculation, the total new heat demand is shown on the right side, und
 
 After closing the calculation modules and switching to the layer section, the newly calculated heat density map can be found at the very bottom of the LAYERS tab. This layer can be downloaded by the user and also can be uploaded to the user account for the purpose of further calculations.
 
-<img src="/en/CM-Scale-heat-and-cool-density-maps/picture2.jpg/>
+<img src="/en/CM-Scale-heat-and-cool-density-maps/picture2.jpg"/>
 
 [**`To Top`**](#table-of-contents)
 
