@@ -78,7 +78,7 @@ Another option that is only available at the hectare level, is to upload a GeoJS
 When selecting one or more regions on the map, the box on the left side of the screen with the buttons to load results shows the following information about the current selection:
 
 * Elements selected: the number of single zones that have been selected
-* Bounding Box: the overall surface that has been selected
+* Bounding Box: the overall surface of the smallest rectangular shape that can cover the area that has been selected
 * Scale: the level at which the selection is done
 
 **IMPORTANT NOTE**
