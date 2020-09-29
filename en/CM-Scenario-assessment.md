@@ -30,7 +30,7 @@ The approach to assessing a number of different heating scenarios follows this s
 * Costs, emissions, and energy demand for district heat supply,
 * Costs of the distribution of district heat.
 
-In each scenario a certain split between central and decentral heat supply is assumed together with assumptions on the development of the heat demand in the region. For instance, a sensitivity analysis for a set of different district heating system sizes with different supply technologies may be compared. The scenario may vary by the capacity of the heat generators in the district heating system, the conncetion rates to the district heating system or the costs and prices for different technologies. Similarly, for decentral supply various system parameters could be varied and the effects on the overall heating system in the region can be analysed.
+In each scenario, a certain split between central and decentral heat supply is assumed together with assumptions on the development of the heat demand in the region. For instance, a sensitivity analysis for a set of different district heating system sizes with different supply technologies may be compared. The scenario may vary by the capacity of the heat generators in the district heating system, the connection rates to the district heating system or the costs and prices for different technologies. Similarly, for decentral supply, various system parameters could be varied and the effects on the overall heating system in the region can be analyzed.
 
 The user independently runs the different calculations modules for each scenario under consideration, copies the results into the relevant sheets of the Excel workbook, and then compares them for different scenario settings. This procedure is described in the following sections on this wiki page.
 
@@ -107,24 +107,24 @@ This worksheet is prepared to collect the results of the [CM - Decentral heating
 This worksheet is prepared to collect the results of the [CM - Decentral heating supply](/en/CM-Decentral-heating-supply) for multi-family as well as non-residential (non-res) buildings. 8 different types of multi-family and non-residential buildings can be taken into account in the default version of the workbook. However, the user can adapt the workbook in order to combine any number of different multi-family and non-residential buildings (e.g. from different construction periods or different types like small multi-family buildings, apartment blocks, offices, hotels & restuarants, education, etc.).
 
 **Building stock & Dec supply**
-In this sheet the building stock of the region under investigation is compiled out of the building types defined and calculated in the previous two worksheets (C15:L15). Furthermore, the split of technologies assumed to be used in the different building types is defined (C17:L25) and the indicators for decentral heating supply in the building stock are calculated (E44:E77). For this also the overall heat demand in the region under investigation (E9) as well as the assumed CO<sub>2</sub>-price (E10) have to be defined by the user.
+In this sheet, the building stock of the region under investigation is compiled out of the building types defined and calculated in the previous two worksheets (C15:L15). Furthermore, the split of technologies assumed to be used in the different building types is defined (C17:L25) and the indicators for decentral heating supply in the building stock are calculated (E44:E77). For this also the overall heat demand in the region under investigation (E9) as well as the assumed CO<sub>2</sub>-price (E10) have to be defined by the user.
 
 
 ### Ref. Decentral (Dec.) heating supply
 
-In this worksheet various scenarios for decentral heating supply in the region under investigation can be defined. To do so, results from the calculation in the previous worksheet (Building stock & Dec supply, cells E44:E77) can be copied into the yellow marked cells in this worksheet. The worksheet in its default version is prepared to compile 9 different scenarios.
+In this worksheet, various scenarios for decentral heating supply in the region under investigation can be defined. To do so, results from the calculation in the previous worksheet (Building stock & Dec supply, cells E44:E77) can be copied into the yellow marked cells in this worksheet. The worksheet in its default version is prepared to compile 9 different scenarios.
 The user is free to decide on which scenarios for decentral heating supply are collected in this sheet (e.g. different technology split in the different building types, different CO<sub>2</sub> prices or different heat demands in the region).
 
 
 ### Ref. DH economic assessment
 
-In this worksheet various scenarios for the construction of district heating grids in the region under investigation can be defined. To do so, the user runs different scenarios with the [CM - District heating potential: economic assessment](/en/CM-District-heating-potential-economic-assessment) and copies the results of the module from the toolbox into this worksheet (cells C29:T44). Out of broader set of calucalted scenarios the user then chooses 9 scenarios to be used for the overall scenario assessment (C52:K67).
+In this worksheet, various scenarios for the construction of district heating grids in the region under investigation can be defined. To do so, the user runs different scenarios with the [CM - District heating potential: economic assessment](/en/CM-District-heating-potential-economic-assessment) and copies the results of the module from the toolbox into this worksheet (cells C29:T44). Out of broader set of calucalted scenarios the user then chooses 9 scenarios to be used for the overall scenario assessment (C52:K67).
 The user is free to decide on which scenarios for the construction of district heating grids are collected in this sheet (e.g. different market shares of district heating in district heating areas, different grid cost ceilings or different overall heat demands in the region).
 
 
 ### Ref. DH supply dispatch
 
-In this worksheet various scenarios for the supply of heat to potential district heating systems can be defined. To do so, the user runs different scenarios with the [CM - District heating supply dispatch](/en/CM-District-heating-supply-dispatch) and copies the results of the module from the toolbox into this worksheet (cells D84:L98 for the results in the section called "INDICATORS" and cells D104:L195 for the results in the section called "GRAPHICS").
+In this worksheet, various scenarios for the supply of heat to potential district heating systems can be defined. To do so, the user runs different scenarios with the [CM - District heating supply dispatch](/en/CM-District-heating-supply-dispatch) and copies the results of the module from the toolbox into this worksheet (cells D84:L98 for the results in the section called "INDICATORS" and cells D104:L195 for the results in the section called "GRAPHICS").
 The user is free to decide on which scenarios for the supply of heat to potential district heating systems are collected in this sheet (e.g. different combinations of technologies, different heat demands in the district heating systems, different CO<sub>2</sub> prices or different energy carrier prices).
 
 
@@ -169,7 +169,7 @@ Finally, the table offers a comparison of four different shares: the share of re
 
 (Tomasz처w Mazowiecki)
 
-With the download of the Excel file you will receive a ready-to-fill version of the scenario assessment. After a successful calculation of scenarios using the modules CM - Decentral heating supply, CM - District heating potential: economic assessment and CM - District heating supply dispatch, the respective results of the modules can be copied into the corresponding sheets of the document.
+With the download of the Excel file, you will receive a ready-to-fill version of the scenario assessment. After a successful calculation of scenarios using the modules CM - Decentral heating supply, CM - District heating potential: economic assessment and CM - District heating supply dispatch, the respective results of the modules can be copied into the corresponding sheets of the document.
 In the following three scenarios for the polish city Tomasz처w Mazowiecki are evaluated as an example.
 
 ### Ref. Dec. heating supply
@@ -178,19 +178,19 @@ In this example one scenario of decentral heating supply for the city of Tomasz�
 <img src="/en/CM-Scenario-assessment/sample_run_picture1.jpg"/>
 
 ### Ref. DH economic assessment
-In this example one scenario of district heating grid construction for the city of Tomasz처w Mazowiecki in Poland has been calculated using the Hotmaps toolbox. This scenario has been copied to the scenarios 1, 2 and 3 in the scenario assessment file, worksheet "Ref. DH economic assessment" in order to use the same district heating grid construction scenario in all three overall city scenarios that are compared.
+In this example, one scenario of district heating grid construction for the city of Tomasz처w Mazowiecki in Poland has been calculated using the Hotmaps toolbox. This scenario has been copied to scenarios 1, 2, and 3 in the scenario assessment file, worksheet "Ref. DH economic assessment" in order to use the same district heating grid construction scenario in all three overall city scenarios that are compared.
 
 <img src="/en/CM-Scenario-assessment/sample_run_picture2.jpg"/>
 
 ### Ref. DH supply dispatch
-In this example three different scenarios of district heating supply for the city of Tomasz처w Mazowiecki in Poland has been calculated using the Hotmaps toolbox. The scenarios reflect different combinations of supply technologies, namely different capacities of heat pumps, excess heat as well as heat only boilers.
+In this example, three different scenarios of district heating supply for the city of Tomasz처w Mazowiecki in Poland has been calculated using the Hotmaps toolbox. The scenarios reflect different combinations of supply technologies, namely different capacities of heat pumps, excess heat as well as heat only boilers.
 
 <img src="/en/CM-Scenario-assessment/sample_run_picture3.jpg"/>
 
 ### Final table 
-After copying the individual data, the compiled scenarios can be examined in the sheet final table. On the one hand there is a table showing the exact results and on the other hand you can find corresponding graphs on the right side of the table. In this example the effects of using different capacities of supply technologies in the district heating system can be assessed based on the costs, emissions, energy demand and shares of renewable energy.
+After copying the individual data, the compiled scenarios can be examined in the sheet Final Table. On the one hand, there is a table showing the exact results and on the other hand, you can find corresponding graphs on the right side of the table. In this example, the effects of using different capacities of supply technologies in the district heating system can be assessed based on the costs, emissions, energy demand, and shares of renewable energy.
 
-<img src="/en/CM-Scenario-assessment/sample_run_picture4.jpg"/>
+
 
 
 
