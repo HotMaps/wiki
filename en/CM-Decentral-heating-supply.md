@@ -48,7 +48,7 @@ The technologies are for example as follows:
 
 ### Inputs
 
-####Default input data 
+#### Default input data 
 
 Part of the input data comes from the Hotmaps default data sets. These include: 
 -   NUTS Raster
@@ -60,7 +60,7 @@ Part of the input data comes from the Hotmaps default data sets. These include:
 
 [**`To Top`**](#table-of-contents)
 
-####Manual input data 
+#### Manual input data 
 
 The following input data should be entered manually after the selection of an area: 
 -   Building age,
@@ -181,6 +181,7 @@ formula:
 ### Test Run 
 
 #### Default Input Parameters
+
 [[/en/CM-Decentral-heating-supply/inputs.png]]
 
 #### Output Indicators With Default Input Parameters
