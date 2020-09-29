@@ -1,6 +1,6 @@
 <h1>Welcome!</h1>
 
-##Hotmaps toolbox
+## Hotmaps toolbox
 
 Heating and cooling in residential and industrial sectors account for half of the EU’s energy consumption. More than 80% of heating and cooling is still generated from fossil fuels [[1](#references)]. Meanwhile, heat losses are also significantly high. This sector needs to be transformed!
 
