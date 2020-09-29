@@ -166,7 +166,8 @@ The results should then first be interpreted as follows: if the recorded excess 
 ##### Transmission lines
 
 <img alt="" src="../images/cm_excess_heat/shp_file.PNG"/>
-<figcaption><i>Example of a transmission line displayed in the toolbox</i></figcaption></figure>
+<figcaption><i><br/>
+Example of a transmission line displayed in the toolbox</i></figcaption></figure>
 
 By clicking on the transmission line additional information will pop up.
 
@@ -176,7 +177,8 @@ By clicking on the transmission line additional information will pop up.
 
 <figure>
 <img alt="" src="../images/cm_excess_heat/heat_compare3.PNG"/>
-<figcaption><i>This graphic compares the DH potential, total excess heat, connected excess heat and used excess heat.</i></figcaption></figure>
+<figcaption><i><br/>
+This graphic compares the DH potential, total excess heat, connected excess heat and used excess heat.</i></figcaption></figure>
 
 More information about the annual heat demand and DH potential can be found [here](en-CM-District-heating-potential-areas-user-defined-thresholds).
 The excess heat connected excess heat and used excess heat are the same as their equally named [indicators](en-CM-Excess-heat-transport-potential#indicators).
@@ -185,7 +187,8 @@ The excess heat connected excess heat and used excess heat are the same as their
 
 <figure>
 <img alt="" src="../images/cm_excess_heat/profiles3.PNG"/>
-<figcaption><i>This graphic shows the total flow through the network throughout the year. The lower graphic represents the average day.</i></figcaption>
+<figcaption><i><br/>
+This graphic shows the total flow through the network throughout the year. The lower graphic represents the average day.</i></figcaption>
 </figure>
 
 The x-axis represents time and the y-axis power. The blue curves represent the heat demand of the DH areas and the red the excess heat available. The intersection of both curves represents the actual total flow of heat. The upper graphic shows the flow over the year and the bottom one the flow of the average day. Note that [time resolution](en-CM-Excess-heat-transport-potential#performance-parameters) needs to be set at least to "month" for the upper and "hour" for the lower graphic to be representative.
@@ -255,7 +258,9 @@ Every sink needs a correspondence id, which indicates if it is internally connec
 
 <figure>
 <img alt="" src="../images/cm_excess_heat/correspondence_graph.svg"/>
-<figcaption><i> <br/> Example of a correspondence graph. The red vertices represent sources and the blue ones sinks. The three sinks on the right are coherent connected by an additional larger vertex</i></figcaption>
+<figcaption><i> <br/> 
+
+Example of a correspondence graph. The red vertices represent sources and the blue ones sinks. The three sinks on the right are coherent connected by an additional larger vertex</i></figcaption>
 </figure>
 
 ##### Maximum flow graph
@@ -263,7 +268,9 @@ Since igraph does not support multiple sources and sinks in its maximum flow fun
 
 <figure>
 <img alt="" src="../images/cm_excess_heat/max_flow_graph.svg"/>
-<figcaption><i> <br/> Example of a maximum flow graph.</i></figcaption>
+<figcaption><i> <br/> 
+
+Example of a maximum flow graph.</i></figcaption>
 </figure>
 
 ##### Minimum spanning tree computation
@@ -271,7 +278,9 @@ Based on the correspondence graph the minimum spanning tree is computed. The edg
 
 <figure>
 <img alt="" src="../images/cm_excess_heat/correspondence_graph_with_weigths.svg"/>
-<figcaption><i> <br/> Example of a correspondence graph with the weights of every edge and its minimum spanning tree.</i></figcaption>
+<figcaption><i> <br/> 
+
+Example of a correspondence graph with the weights of every edge and its minimum spanning tree.</i></figcaption>
 </figure>
 
 ##### Maximum flow computation
@@ -279,7 +288,9 @@ The flow through the edges connecting the real sources or sinks to the infinite 
 
 <figure>
 <img alt="" src="../images/cm_excess_heat/max_flow_graph_with_capacities.svg"/>
-<figcaption><i> <br/> Example of a maximum flow graph and the capacities of each source and sink. The right graph shows the maximum flow allowed through each edge after the normalization. Note that the maximum flow allowed through the edges with infinity symbol is actually capped to 1000 in the implementation.</i></figcaption>
+<figcaption><i> <br/> 
+
+Example of a maximum flow graph and the capacities of each source and sink. The right graph shows the maximum flow allowed through each edge after the normalization. Note that the maximum flow allowed through the edges with infinity symbol is actually capped to 1000 in the implementation.</i></figcaption>
 </figure>
 
 The implementation of the igraph maximum flow function uses the Push-relabel algorithm. This type of algorithm is not cost-sensitive and might not always find the shortest way of routing the flow. A cost-sensitive algorithm is not available in igraph and the performance would be likely to low to be able to resolve an hourly based flow throughout the year. But because of the prior reduction to a minimum spanning tree the cases in which a non-ideal solution is chosen are very limited and unlikely. The Push-relabel algorithm also has the tendency to rout the flow through the least amount of edges. The igraph implementation seems to be deterministic in the order of allocation of the flow if the graphs are at least automorphisms, which is important for the hourly based flow calculation since any artificially introduced flow oscillation between edges is undesirable.
