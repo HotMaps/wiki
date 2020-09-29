@@ -93,7 +93,7 @@ Here you can create an account for the _hotmaps_ website. After submitting the [
 
 <a name="Fig5">![register][register]</a>
 
-_Fig.5.: Register Form_
+_Fig.5.: Registration Form_
 
 [**`To Top`**](#table-of-contents)
 
