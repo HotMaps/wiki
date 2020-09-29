@@ -60,9 +60,9 @@ has been interpolated with a yearly resolution. The results are shown in form of
 
 ## Sample run
 
-[[/en/CM-Vehicle-stock-at-NUTS-2-level/1.png]]
+<img src="/en/CM-Vehicle-stock-at-NUTS-2-level/1.png"/>
 
-[[/en/CM-Vehicle-stock-at-NUTS-2-level/2.png]]
+<img src="/en/CM-Vehicle-stock-at-NUTS-2-level/2.png"/>
 
 
 [**`To Top`**](#table-of-contents)
