@@ -69,6 +69,7 @@ For each scenario, the following indicators are shown in the form of a stacked b
 
 ## Interpretation of input parameters
 
+
 The input parameters needed to run this module are divided into:
 
 * Parameters to be selected/filled out in the calculation modules on the Toolbox: highlighted in turquoise in the workbook. 
