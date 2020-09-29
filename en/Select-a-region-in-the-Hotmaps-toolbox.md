@@ -9,6 +9,7 @@
   * [NUTS 3 Selection](#selection-by-nuts-boundaries_nuts-3-selection)
   * [LAU Selection](#selection-by-nuts-boundaries_lau-selection)
 * [Custom Selection](#custom-selection)
+* [Bounding Box and Area Selection Limit](#bounding-box-and-area-selection-limit)
 * [How to cite](#how-to-cite)
 * [Authors and reviewers](#authors-and-reviewers)
 * [License](#license)
@@ -68,6 +69,20 @@ If you need a more flexible way and want to analyze a region that is not covered
 Another option that is only available at the hectare level, is to upload a GeoJSON selection object. GeoJSON is a format for encoding geographic data structures. If you have created a GeoJSON object that represents a region of space, or a collection of spatially bounded entities, by uploading your GeoJSN object, this selection will be readily used in Hotmaps.
 
 ![ selecting_hectare_gif][selecting_hectare]
+
+
+[**`To Top`**](#table-of-contents)
+
+## Bounding Box and Area Selection Limit
+
+When selecting one or more regions on the map, the box on the left side of the screen with the buttons to load results shows the following information about the current selection:
+
+* Elements selected: the number of single zones that have been selected
+* Bounding Box: the overall surface that has been selected
+* Scale: the level at which the selection is done
+
+**IMPORTANT NOTE**
+The Bounding Box has a limit threshold of about 640.000km2. Calculation modules and result layers cannot be run/loaded above this threshold. Selecting an area above the selection limit will return the following error message: *You have exceeded the AREA SELECTION LIMIT for the free selection as well as for running calculation modules! Please select a smaller area.*
 
 [**`To Top`**](#table-of-contents)
 
