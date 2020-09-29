@@ -80,7 +80,7 @@ Here, the calculation module is run for the case study of Aalborg in Denmark.
 
 * First, use the "Go To Place" bar to navigate to Aalborg and select the city.
 
-![Fig. 1](../images/cm_dh_potential/1.png "Navigate to a location")
+<img src="../images/cm_dh_potential/1.png" alt="Fig. 1" title="Navigate to a location"/>
 
 * Follow the steps as shown in the figure below:
   * Click on the "Layers" button to open the "Layers" window:
@@ -89,7 +89,7 @@ Here, the calculation module is run for the case study of Aalborg in Denmark.
 
 * Now, the calculation module "CM-DISTRICT HEATING POTENTIAL AREAS: USER-DEFINED THRESHOLDS" opens and is ready to run.
 
-![Fig. 3](../images/cm_dh_potential/3.png "NDISTRICT HEATING POTENTIAL")
+<img src="../images/cm_dh_potential/3.png" alt="Fig. 3" title="NDISTRICT HEATING POTENTIAL"/>
 
 
 [**`To Top`**](#table-of-contents)
@@ -103,7 +103,7 @@ To run the calculation module, follow the next steps:
 
 * Assign a name to the run session (optional - here, we chose "Test Run 1") and set the input parameters (here, default values were used).
 
-![Fig. 4-0](../images/cm_dh_potential/4-0.png "Name the run session")
+<img src="../images/cm_dh_potential/4-0.png" alt="Fig. 4-0" title="Name the run session"/>
 
 * Press the button "RUN CM" on the bottom left.
 * Wait until the process is finished.
@@ -115,15 +115,15 @@ To run the calculation module, follow the next steps:
   * total DH potential in _*GWh*_ within the selected zone,
   * the share of DH potential from the total demand, which is obtained by division of DH potential by total heat demand in the region.
 
-![Fig. 4-1](../images/cm_dh_potential/4-1.png "INDICATORS tab")
+<img src="../images/cm_dh_potential/4-1.png" alt="Fig. 4-1" title="INDICATORS tab"/>
 
 Additionally, also two diagrams are generated. The first shows the DH potential in each DH area. The corresponding labels can be found on the map, too. The second diagram illustrates the total DH potential in comparison with the total heat demand in the selected area.
 
-![Fig. 4-2](../images/cm_dh_potential/4-2.png "GRAPHICS tab")
+<img src="../images/cm_dh_potential/4-2.png" alt="Fig. 4-2" title="GRAPHICS tab"/>
 
 * Also a new layer is added to the canvas showing DH areas. This layer is added to the list of layers under the category "Calculation module" in the very bottom of the layers section. The run session name distinguishes the outputs of this run from other ones.
 
-![Fig. 4-3](../images/cm_dh_potential/4-3.png "Calculation module layers")
+<img src="../images/cm_dh_potential/4-3.png" alt="Fig. 4-3" title="Calculation module layers"/>
 
 Following these steps you will get an impression of the input values and potential DH areas.
 
@@ -138,7 +138,7 @@ Depending on your experience and local knowledge, you may increase or decrease t
 
 * Assign a name to the run session (optional - here, we chose "Test Run 2") and set the input parameters (_*250 MWh/ha*_ for min. heat demand in hectare and _*35 GWh/year*_ for the minimum demand in DH area).
 
-![Fig. 5-0](../images/cm_dh_potential/5-0.png "Name the run session")
+<img src="../images/cm_dh_potential/5-0.png" alt="Fig. 5-0" title="Name the run session"/>
 
 * Press the button "RUN CM" on the bottom left.
 * Wait until the process is finished.
@@ -147,15 +147,15 @@ Depending on your experience and local knowledge, you may increase or decrease t
   * total DH potential in _*GWh*_ within the selected zone,
   * the share of DH potential from total demand, which is obtained by division of DH potential by total heat demand in the region.
 
-![Fig. 5-1](../images/cm_dh_potential/5-1.png "INDICATORS tab")
+<img src="../images/cm_dh_potential/5-1.png" alt="Fig. 5-1" title="INDICATORS tab"/>
 
 Additionally, also two diagrams are generated. The first one shows the DH potential in each DH area. The corresponding labels can be found on the map, too. The second diagram illustrates the total DH potential in comparison with the total heat demand in the selected area.
 
-![Fig. 5-2](../images/cm_dh_potential/5-2.png "GRAPHICS tab")
+<img src="../images/cm_dh_potential/5-2.png" alt="Fig. 5-2" title="GRAPHICS tab"/>
 
 * Also a new layer is added to the canvas showing DH areas. This layer is added to the list of layers under the "Calculation module" category. The run session name distinguishes the outputs of this run from other ones.
 
-![Fig. 5-3](../images/cm_dh_potential/5-3.png "Calculation module layers")
+<img src="../images/cm_dh_potential/5-3.png" alt="Fig. 5-3" title="Calculation module layers"/>
 
 
 [**`To Top`**](#table-of-contents)

@@ -85,7 +85,7 @@ The module obtain the monthly and hourly profile, computing the barycenter of th
 
 ## Sample run
 
-![Fig. 1-0](https://wiki.hotmaps.hevs.ch/en/CM-Wind-potential/cm-wind.png "Execute the Wind CM")
+<img src="https://wiki.hotmaps.hevs.ch/en/CM-Wind-potential/cm-wind.png" alt="Fig. 1-0" title="Execute the Wind CM"/>
 
 
 [**`To Top`**](#table-of-contents)

@@ -99,7 +99,7 @@ Then to assess and classify the potential, the module:
 
 ## Sample run
 
-![Fig. 1-0](https://wiki.hotmaps.hevs.ch/en/CM-Heatsource-potential/cm-heat.png "Execute the Heatsource CM")
+<img src="https://wiki.hotmaps.hevs.ch/en/CM-Heatsource-potential/cm-heat.png" alt="Fig. 1-0" title="Execute the Heatsource CM"/>
 
 
 [**`To Top`**](#table-of-contents)

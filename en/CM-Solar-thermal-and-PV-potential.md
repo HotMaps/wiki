@@ -180,7 +180,7 @@ To run the calculation module, follow the next steps:
 
 * Assign a name to the run session (optional - here, we chose "Test Run 1") and set the input parameters (here, default values were used).
 
-![Fig. 2](../images/cm_solar_PV/default_values_02.png "Test run 1 with default values")
+<img src="../images/cm_solar_PV/default_values_02.png" alt="Fig. 2" title="Test run 1 with default values"/>
 
 * Wait until the process is finished.
 * As output, indicators and diagrams are shown in the "RESULTS" window. The indicators show:
@@ -190,13 +190,13 @@ To run the calculation module, follow the next steps:
   * Levelized Cost of Energy.
 
 
-![Fig. 3](../images/cm_solar_PV/default_values_03.png "Test run 1 INDICATORS tab")
+<img src="../images/cm_solar_PV/default_values_03.png" alt="Fig. 3" title="Test run 1 INDICATORS tab"/>
 
 
 * Also a new layer is added to the canvas showing the buildings with higher energy potential. This layer is added to the list of layers under the "Calculation module" category. The run session name distinguishes the outputs of this run from other ones.
 If you deselected the default layers and select TEST RUN 1 you can visualize the most suitable areas for PV plants installations.
 
-![Fig. 4](../images/cm_solar_PV/default_values_03.png "Test run 1 Calculation module LAYERS")
+<img src="../images/cm_solar_PV/default_values_03.png" alt="Fig. 4" title="Test run 1 Calculation module LAYERS"/>
 
 
 [**`To Top`**](#table-of-contents)

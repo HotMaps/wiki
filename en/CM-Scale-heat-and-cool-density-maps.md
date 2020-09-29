@@ -57,7 +57,7 @@ Each cell's value of the input raster is multiplied by the multiplication factor
 If we know the total consumption of an area, and the indicator _Total head demand_ does not correspond this value, it is possible to scale the heat demand by the ratio (Total_real / Total_default).
 The following figure gives the example of a multiplication factor value of 0.5.
 
-![Fig. 1-0](/images/Wiki_CM_scale.png "Name the run session")
+<img src="/images/Wiki_CM_scale.png" alt="Fig. 1-0" title="Name the run session"/>
 
 
 [**`To Top`**](#table-of-contents)

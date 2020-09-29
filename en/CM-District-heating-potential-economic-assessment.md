@@ -145,7 +145,7 @@ Now, press the "RUN CM" button and wait until the calculation is finished.
 The following figure shows the obtained results for the given input parameters in Vienna. The most important indicators are demonstrated in the RESULTS window. Additionally, you can get some indicators by pressing on each single potential areas on the map.
 
 
-![Figure 1](../images/cm_econ_assessment/1.png "Figure 1: potential areas and indicators")
+<img src="../images/cm_econ_assessment/1.png" alt="Figure 1" title="Figure 1: potential areas and indicators"/>
 
 The output layers will appear in the LAYERS bar under the Calculation module section.
 
