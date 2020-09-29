@@ -178,6 +178,7 @@ By clicking on the transmission line additional information will pop up.
 <figure>
 <img alt="" src="../images/cm_excess_heat/heat_compare3.PNG"/>
 <figcaption><i><br/>
+
 This graphic compares the DH potential, total excess heat, connected excess heat and used excess heat.</i></figcaption></figure>
 
 More information about the annual heat demand and DH potential can be found [here](en-CM-District-heating-potential-areas-user-defined-thresholds).
@@ -188,6 +189,7 @@ The excess heat connected excess heat and used excess heat are the same as their
 <figure>
 <img alt="" src="../images/cm_excess_heat/profiles3.PNG"/>
 <figcaption><i><br/>
+
 This graphic shows the total flow through the network throughout the year. The lower graphic represents the average day.</i></figcaption>
 </figure>
 
@@ -358,7 +360,7 @@ With a cost to flow threshold for transmission lines, they can be removed if exc
 
 #### Description of the complete routine
 
-First, the heat sources and sinks are loaded with their load profiles. Then the fixed radius search is performed, and the Network initialized. Afterwards, the Network is reduced to its minimum spanning tree and the maximum flow is computed for every hour of the year. Based on the flow the costs for every heat exchanger, pump and transmission line is computed. If a threshold cost to flow ratio is defined, the removal of transmission line procedure is executed. In the end, the total cost and total flow of the network and the layout of the network is returned.
+First, the heat sources and sinks are loaded with their load profiles. Then the fixed radius search is performed, and the Network initialized. Afterward, the Network is reduced to its minimum spanning tree and the maximum flow is computed for every hour of the year. Based on the flow the costs for every heat exchanger, pump, and transmission line is computed. If a threshold cost to flow ratio is defined, the removal of transmission line procedure is executed. In the end, the total cost and total flow of the network and the layout of the network is returned.
 
 
 [**`To Top`**](#table-of-contents)
@@ -387,14 +389,14 @@ The potentials are based on the [CM - District Heating Potential](https://wiki.h
 <img alt="" src="../images/cm_excess_heat/heat_compare1.PNG"/>
 <figcaption><i>This graphic compares the DH potential, total excess heat, connected excess heat and used excess heat.</i></figcaption></figure>
 
-  shows how much heat could be covered by excess heat in the investigated area.
+This graphic shows how much heat could be covered by excess heat in the investigated area.
 
 * Value
 <figure>
 <img alt="" src="../images/cm_excess_heat/indicators.PNG"/>
 <figcaption><i>Indicators Investments necessary, Annual costs and levelized cost of heat</i></figcaption></figure>
 
- shows the specific heat production costs for the whole network. Note: the displayed costs have been estimated  using a simplified approach. These costs do not apply to individual pipelines. However, the displayed costs can be used as a simplified starting assumption as transport costs for the integration of excess heat into a possibly nearby district heating network.
+This graphic shows the specific heat production costs for the whole network. Note: the displayed costs have been estimated  using a simplified approach. These costs do not apply to individual pipelines. However, the displayed costs can be used as a simplified starting assumption as transport costs for the integration of excess heat into a possibly nearby district heating network.
 
 From the above, the following work hierarchy could be used:
 1. Check whether a district heating network exists or is planned in the region under consideration.
