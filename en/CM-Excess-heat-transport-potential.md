@@ -175,11 +175,9 @@ By clicking on the transmission line additional information will pop up.
 
 ##### DH potential and excess heat
 
-<figure>
 <img alt="" src="../images/cm_excess_heat/heat_compare3.PNG"/>
-<figcaption><i><br/>
 
-This graphic compares the DH potential, total excess heat, connected excess heat and used excess heat.</i></figcaption></figure><br/>
+_This graphic compares the DH potential, total excess heat, connected excess heat and used excess heat._
 
 More information about the annual heat demand and DH potential can be found [here](CM-District-heating-potential-areas-user-defined-thresholds).
 The excess heat connected excess heat and used excess heat are the same as their equally named indicators, in the [Input and Output](en-CM-Excess-heat-transport-potential#inputs-and-outputs_input-layers-and-parameters) section.
