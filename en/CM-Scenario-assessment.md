@@ -190,6 +190,7 @@ In this example, three different scenarios of district heating supply for the ci
 ### Final table 
 After copying the individual data, the compiled scenarios can be examined in the sheet Final Table. On the one hand, there is a table showing the exact results and on the other hand, you can find corresponding graphs on the right side of the table. In this example, the effects of using different capacities of supply technologies in the district heating system can be assessed based on the costs, emissions, energy demand, and shares of renewable energy.
 
+<img src="/en/CM-Scenario-assessment/sample_run_picture4.jpg"/>
 
 
 
