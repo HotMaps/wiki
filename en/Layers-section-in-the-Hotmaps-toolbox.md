@@ -22,8 +22,8 @@ By pressing the ![layers_button][layers_button] Button a sidebar with different 
 
 1. Shows the symbology section of the layer (legend)
 2. Shows the information section (primary a link to the GitLab repository, it is highly recommended to look for more information about the data in the [GitLab Repository](https://gitlab.com/hotmaps) )
-3. Download the layer for the selected region(en-s)
-4. Redirects you to the GitLab repository to download the whole layer
+3. Download the default dataset
+4. Download layer for the layer selection
 
 [**`To Top`**](#table-of-contents)
 
