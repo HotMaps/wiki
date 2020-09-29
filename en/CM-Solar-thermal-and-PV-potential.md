@@ -157,9 +157,9 @@ Here, the calculation module is run for the Lombardy region in Italy (NUTS2).
 
 * First, select Nuts2 and the chosen area.
 
-<img src="/images/cm_solar_PV/default_values_01.png "Select a region"/>
+<img src="/images/cm_solar_PV/default_values_01.png/>
 
-Fig. 1
+Fig. 1: Select a region
 
 * Follow the steps as shown in the figure below:
   * Click on the "Layers" button to open the "Layers" window:
