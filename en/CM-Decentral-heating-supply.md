@@ -29,7 +29,7 @@ This module calculates the costs of heat supply in buildings via decentral heat 
 
 This calculation module calculates the levelized cost of heat (LCOH) for various decentral heat supply technologies for supplying heat to a user-defined building.
 
-![](https://raw.githubusercontent.com/HotMaps/hotmaps_wiki/master/Images/cm_decentral_heating/new/1.png)
+<img src="https://raw.githubusercontent.com/HotMaps/hotmaps_wiki/master/Images/cm_decentral_heating/new/1.png" alt=""/>
 
 The technologies are for example as follows:
 
@@ -119,12 +119,12 @@ Then, for the selected building type and building age and NUTS0 region the
 specific useful energy demand is selected and the annual heat demand calculated
 by multiplying it by the gross floor area.
 
-![](https://raw.githubusercontent.com/HotMaps/hotmaps_wiki/master/Images/cm_decentral_heating/new/2.png)
+<img src="https://raw.githubusercontent.com/HotMaps/hotmaps_wiki/master/Images/cm_decentral_heating/new/2.png" alt=""/>
 
 Based on the annual heat demand of the building and the entered savings in space
 heating the heat load is calculated with the use the heat load profiles.
 
-![](https://raw.githubusercontent.com/HotMaps/hotmaps_wiki/master/Images/cm_decentral_heating/new/3.png)
+<img src="https://raw.githubusercontent.com/HotMaps/hotmaps_wiki/master/Images/cm_decentral_heating/new/3.png" alt=""/>
 
 With the heat load, the annual heat demand and the selected year the investment
 costs and operational costs and fuel costs **for each heating technology** are
@@ -133,20 +133,20 @@ determined.
 The specific investment and operational costs are assumed to have an exponential
 behavior:
 
-![](https://raw.githubusercontent.com/HotMaps/hotmaps_wiki/master/Images/cm_decentral_heating/new/4.png)
+<img src="https://raw.githubusercontent.com/HotMaps/hotmaps_wiki/master/Images/cm_decentral_heating/new/4.png" alt=""/>
 
 Based on the country, year and building type of the entered inputs the
 factors for each technology are figured out:
 
-![](https://raw.githubusercontent.com/HotMaps/hotmaps_wiki/master/Images/cm_decentral_heating/new/5.png)
+<img src="https://raw.githubusercontent.com/HotMaps/hotmaps_wiki/master/Images/cm_decentral_heating/new/5.png" alt=""/>
 
 With the factors determined, the absolute costs can be calculated as follows:
 
-![](https://raw.githubusercontent.com/HotMaps/hotmaps_wiki/master/Images/cm_decentral_heating/new/6.png)
+<img src="https://raw.githubusercontent.com/HotMaps/hotmaps_wiki/master/Images/cm_decentral_heating/new/6.png" alt=""/>
 
 For the fuel costs, the price data of the energy carriers are needed.
 
-![](https://raw.githubusercontent.com/HotMaps/hotmaps_wiki/master/Images/cm_decentral_heating/new/7.png)
+<img src="https://raw.githubusercontent.com/HotMaps/hotmaps_wiki/master/Images/cm_decentral_heating/new/7.png" alt=""/>
 
 Now we have all the needed data and can calculate the levelized cost of heat.
 
@@ -154,18 +154,18 @@ The levelized cost of heat for each heating system is calculated as the net pres
 
 The levelized cost of heat is given by:
 
-![](https://raw.githubusercontent.com/HotMaps/hotmaps_wiki/master/Images/cm_decentral_heating/new/8.png)
+<img src="https://raw.githubusercontent.com/HotMaps/hotmaps_wiki/master/Images/cm_decentral_heating/new/8.png" alt=""/>
 
 In this calculation the yearly costs and the yearly heat production (useful energy demand) is assumed to be constant over the lifetime and thus the summations transform into a geometric series and the transforming factor is called the annuity factor α. A graphical representation of this transforming process is shown in the figures below
 
-![](https://raw.githubusercontent.com/HotMaps/hotmaps_wiki/master/Images/cm_decentral_heating/new/9.png)
+<img src="https://raw.githubusercontent.com/HotMaps/hotmaps_wiki/master/Images/cm_decentral_heating/new/9.png" alt=""/>
 
-![](https://raw.githubusercontent.com/HotMaps/hotmaps_wiki/master/Images/cm_decentral_heating/new/10.png)
+<img src="https://raw.githubusercontent.com/HotMaps/hotmaps_wiki/master/Images/cm_decentral_heating/new/10.png" alt=""/>
 
 This assumption simplifies the calculation and the LCOH is given by the following
 formula:
 
-![](https://raw.githubusercontent.com/HotMaps/hotmaps_wiki/master/Images/cm_decentral_heating/new/11.png)
+<img src="https://raw.githubusercontent.com/HotMaps/hotmaps_wiki/master/Images/cm_decentral_heating/new/11.png" alt=""/>
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
 

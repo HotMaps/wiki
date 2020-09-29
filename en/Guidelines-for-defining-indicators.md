@@ -109,7 +109,7 @@ A simple indicator is an object with 3 parameters.
 
 This is the table column that is selected in the table. (Example: 'count')
 
-![tablecolumnselection](https://github.com/HotMaps/Hotmaps-toolbox-service/raw/master/api/assets/table_image.png)
+<img src="https://github.com/HotMaps/Hotmaps-toolbox-service/raw/master/api/assets/table_image.png" alt="tablecolumnselection"/>
 
 - 'unit'
 

@@ -30,7 +30,7 @@ In order to identify different, representative, typical cases for further analys
 
 The following figure shows this procedure graphically and shows the various data sources and calculation modules that can be used.
 
-![](../images/Hotmaps_ApproachNational_Step1.png)
+<img src="../images/Hotmaps_ApproachNational_Step1.png" alt=""/>
 *Figure: Identification of different representative, typical cases for district heating (Step 1)*
 
 In the following subchapters, the different steps in this procedure are described in more detail.

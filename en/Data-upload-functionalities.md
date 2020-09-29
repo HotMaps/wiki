@@ -32,7 +32,7 @@ Regarding the upload of raster files, following aspects should be considered:
 
 ## How to upload a layer with custom data
 
-By pressing the ![account button](../images/account-btn.png) button at the top left corner of the page. This will bring the profile page to the front. 
+By pressing the <img src="../images/account-btn.png" alt="account button"/> button at the top left corner of the page. This will bring the profile page to the front. 
 
 On the profile page:
 
@@ -40,7 +40,7 @@ On the profile page:
 2. selection of file to upload (.tif or .csv),
 3. upload by clicking on the "+" icon
 
-![profile page upload](../images/profile-upload.png)
+<img src="../images/profile-upload.png" alt="profile page upload"/>
 
 The selection of the type of data set is used in order to get the correct symbology. If your data set does not match the layer symbology, it won't be displayed correctly.
 
@@ -50,7 +50,7 @@ Each user has a limited disk space, once the user has not enough free space, he 
 
 Before being able to display the layer on the map, the server will need some time (up to several minutes depending on the size of your file) after the success message to import the data set correctly. The data set is available to be displayed once its size is updated in your user account.
 
-![upload_complete](../images/upload_complete.png)
+<img src="../images/upload_complete.png" alt="upload_complete"/>
 
 The layer can now be displayed on the map by activating it on the layers panel. 
 
@@ -59,13 +59,13 @@ The layer can now be displayed on the map by activating it on the layers panel.
 
 ## How to display an uploaded layer
 
-It is possible to display a layer that has been previously uploaded from the layers panel by clicking on the ![layers button](../images/layers-btn.png) button.
+It is possible to display a layer that has been previously uploaded from the layers panel by clicking on the <img src="../images/layers-btn.png" alt="layers button"/> button.
 
 The list of uploaded layers is displayed on the "Personal layers" section on top of the left panel.
 
 A layer can be displayed by activating it on the left panel.
 
-![upload display layer](../images/upload-layers.png)
+<img src="../images/upload-layers.png" alt="upload display layer"/>
 
 
 [**`To Top`**](#table-of-contents)

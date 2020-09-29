@@ -37,22 +37,22 @@ After selecting a region and pressing the _LOAD RESULTS Button_ the result sideb
 [**`To Top`**](#table-of-contents)
 
 ### NUTS 0 Selection
-![ selecting_nuts0_gif](https://wiki.hotmaps.hevs.ch/images/general_tool_functionalities_and_structure/selecting_nuts0.gif)
+<img src="https://wiki.hotmaps.hevs.ch/images/general_tool_functionalities_and_structure/selecting_nuts0.gif" alt=" selecting_nuts0_gif"/>
 
 [**`To Top`**](#table-of-contents)
 
 ### NUTS 1 Selection
-![ selecting_nuts1_gif](https://wiki.hotmaps.hevs.ch/images/general_tool_functionalities_and_structure/selecting_nuts1.gif)
+<img src="https://wiki.hotmaps.hevs.ch/images/general_tool_functionalities_and_structure/selecting_nuts1.gif" alt=" selecting_nuts1_gif"/>
 
 [**`To Top`**](#table-of-contents)
 
 ### NUTS 2 Selection
-![ selecting_nuts2_gif](https://wiki.hotmaps.hevs.ch/images/general_tool_functionalities_and_structure/selecting_nuts2.gif)
+<img src="https://wiki.hotmaps.hevs.ch/images/general_tool_functionalities_and_structure/selecting_nuts2.gif" alt=" selecting_nuts2_gif"/>
 
 [**`To Top`**](#table-of-contents)
 
 ### NUTS 3 Selection
-![ selecting_nuts3_gif](https://wiki.hotmaps.hevs.ch/images/general_tool_functionalities_and_structure/selecting_nuts3.gif)
+<img src="https://wiki.hotmaps.hevs.ch/images/general_tool_functionalities_and_structure/selecting_nuts3.gif" alt=" selecting_nuts3_gif"/>
 
 [**`To Top`**](#table-of-contents)
 

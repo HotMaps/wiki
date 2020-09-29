@@ -25,16 +25,16 @@ The Hotmaps wiki platform provides flexible functionalities for creating and edi
 On top of each page you see the edit toolbar. The figure below shows this toolbar and briefly explains the function of each button.
 
 
-![](/en/Guidelines-for-writing-a-Hotmaps-Wiki-page/toolbar_new.png)
+<img src="/en/Guidelines-for-writing-a-Hotmaps-Wiki-page/toolbar_new.png" alt=""/>
 
 
 The sidebar is visible in all wiki pages. Note that **any modification in the sidebar is applied to all wiki pages**. In other words, the sidebar is not specific to the page that you are editing. In order to modify the sidebar, press the "edit" button on the wiki toolbar. The sidebar modification can be done via the section on the bottom of the edit page as shown in the following figure.
 
-![](/en/Guidelines-for-writing-a-Hotmaps-Wiki-page/sidebar.png)
+<img src="/en/Guidelines-for-writing-a-Hotmaps-Wiki-page/sidebar.png" alt=""/>
 
 In order to enlarge the edit window, drag it toward the bottom-right corner as shown in the following figure.
 
-![](/en/Guidelines-for-writing-a-Hotmaps-Wiki-page/enlarge_edit_window_new.png)
+<img src="/en/Guidelines-for-writing-a-Hotmaps-Wiki-page/enlarge_edit_window_new.png" alt=""/>
 [**`To Top`**](#table-of-contents)
 
 

@@ -33,7 +33,7 @@ For the identified representative cities/areas analyses on the costs and potenti
 
 The following figure shows this procedure graphically and shows the various data sources and calculation modules that can be used.
 
-![](../images/Hotmaps_ApproachNational_Step2.png)
+<img src="../images/Hotmaps_ApproachNational_Step2.png" alt=""/>
 *Figure: Analysis of costs and potentials for district heating in representative cities/regions (Step 2)*
 
 In the following sub-chapters, the different steps in this procedure are described in more detail.

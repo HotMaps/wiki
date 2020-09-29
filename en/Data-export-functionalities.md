@@ -28,11 +28,11 @@ If you have any difficulties please read the following guides:
 
 2. Select the selection scale on the right of the map (NUTS/LAU/hectare)
 
-3. Select the the region you want with the selection tools![export_selection](../images/export_selection.png)
+3. Select the the region you want with the selection tools<img src="../images/export_selection.png" alt="export_selection"/>
 
-4. Once the selection is done, click on the ![export button](../images/layer-export-btn.png) button that appears below the layer name on the left panel to start the download process.
+4. Once the selection is done, click on the <img src="../images/layer-export-btn.png" alt="export button"/> button that appears below the layer name on the left panel to start the download process.
 
-   ![layer options](../images/layer-options.png)
+   <img src="../images/layer-options.png" alt="layer options"/>
 
 5. Once finished you will get a .tif file on your computer
 
