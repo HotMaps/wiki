@@ -79,7 +79,7 @@ The input parameters needed to run this module are divided into:
 
 On top of these, the workbook has instructions in red text and additional calculations that should not be edited in grey cells. The picture below shows how the colour-coding indicated on the front sheet of the workbook looks like.
 
-[[/en/CM-Scenario-assessment/CM-Scenario-Assessment-Colour-Coding.jpg]]
+<img src="/en/CM-Scenario-assessment/CM-Scenario-Assessment-Colour-Coding.jpg"/>
 
 
 ### Final Table - Overview of assessment results
@@ -93,7 +93,7 @@ Further down in the sheet there are some parameters that have already been fille
 * *General efficiency factor* (K102): is used to calculate the total useful energy demand out of total final energy demand.
 * *Grid losses* (F121:N121): is used to calculate the demand for heat supply in the district heating system out of the share of useful energy supplied by district heating (see the following figure).
 
-[[/en/CM-Scenario-assessment/picture3.jpg]]
+<img src="/en/CM-Scenario-assessment/picture3.jpg"/>
 
 
 ### Definition of the building stock and calculation of indicators for decentral heating supply
@@ -111,16 +111,19 @@ In this sheet the building stock of the region under investigation is compiled o
 
 
 ### Ref. Decentral (Dec.) heating supply
+
 In this worksheet various scenarios for decentral heating supply in the region under investigation can be defined. To do so, results from the calculation in the previous worksheet (Building stock & Dec supply, cells E44:E77) can be copied into the yellow marked cells in this worksheet. The worksheet in its default version is prepared to compile 9 different scenarios.
 The user is free to decide on which scenarios for decentral heating supply are collected in this sheet (e.g. different technology split in the different building types, different CO<sub>2</sub> prices or different heat demands in the region).
 
 
 ### Ref. DH economic assessment
+
 In this worksheet various scenarios for the construction of district heating grids in the region under investigation can be defined. To do so, the user runs different scenarios with the [CM - District heating potential: economic assessment](/en/CM-District-heating-potential-economic-assessment) and copies the results of the module from the toolbox into this worksheet (cells C29:T44). Out of broader set of calucalted scenarios the user then chooses 9 scenarios to be used for the overall scenario assessment (C52:K67).
 The user is free to decide on which scenarios for the construction of district heating grids are collected in this sheet (e.g. different market shares of district heating in district heating areas, different grid cost ceilings or different overall heat demands in the region).
 
 
 ### Ref. DH supply dispatch
+
 In this worksheet various scenarios for the supply of heat to potential district heating systems can be defined. To do so, the user runs different scenarios with the [CM - District heating supply dispatch](/en/CM-District-heating-supply-dispatch) and copies the results of the module from the toolbox into this worksheet (cells D84:L98 for the results in the section called "INDICATORS" and cells D104:L195 for the results in the section called "GRAPHICS").
 The user is free to decide on which scenarios for the supply of heat to potential district heating systems are collected in this sheet (e.g. different combinations of technologies, different heat demands in the district heating systems, different CO<sub>2</sub> prices or different energy carrier prices).
 
@@ -129,35 +132,41 @@ The user is free to decide on which scenarios for the supply of heat to potentia
 
 
 ## Interpretation of results
+
 After filling in the scenario data into the three worksheets (Ref. Dec. heating supply, Ref. DH economic assessment, Ref. DH supply dispatch) the indicators for the defined scenarios are automatically calculated in the sheet "Final table". The table in the cells B7:N88 shows the results of these overall scenarios. Indicators are calculated for costs, emissions, energy demand as well as shares of renewable energy and district heating.
 
-[[/en/CM-Scenario-assessment/picture1.jpg]]
+<img src="/en/CM-Scenario-assessment/picture1.jpg"/>
 
 In general, all these results are individually calculated for the decentral as well as the area supplied with district heating and are applied to the overall scenario using their respective shares. They are therefore listed separately as individual components of the respective parameter.
 
 ### Costs
+
 The scenario assessment file shows a split of the overall costs into capital expenditures (CAPEX), operational expenditures (OPEX), expenditures for energy as well as for CO<sub>2</sub>. These different cost categories are presented both for central and decentral supply in the region. Furthermore, the costs for the distribution grid are shown. All of those cost components are shown in _**M EUR/yr**_.
 Besides the overall yearly costs also the levelised costs of heat supply (LCOH) are shown in the table. They are presented in _**EUR/MWh**_
 Both the yearly costs as well as the LCOH are shown in figures as well. These can be found beside the table as shown in the next figure.
 
-[[/en/CM-Scenario-assessment/picture2_new.jpg]]
+<img src="/en/CM-Scenario-assessment/picture2_new.jpg"/>
 
 ### Emissions
+
 The scenario assessment file also provides the absolute amounts of CO<sub>2</sub> emissions in the different scenarios. The values are shown for the different supply technologies distinguishing between individual (decentral) and district heating (central) supply. The values are given in _**tCO<sub>2</sub>/yr**_.
 Again, the amounts of emissions are also shown in the form of a diagram right beside the table.
 
 ### Energy demand (final and useful energy)
+
 In the table also the demands for final and useful energy are presented. In the final energy demand also the losses in the district heating system are contained. Therefore, the final energy demand values for district heating (central) supply reflect the energy carrier demand in the plants of the district heating system. Both, the values for useful and for final energy demand are shown in _**GWh/yr**_.
 
 ### Shares of renewable energy and district heating
+
 Finally, the table offers a comparison of four different shares: the share of renewable energy in decentral supply, in central supply and in the overall heat supply in the area, and the share of district heating / central supply in the area. As for the other values, these values are also presented in figures right beside the table.
 
-[[/en/CM-Scenario-assessment/picture4.jpg]]
+<img src="/en/CM-Scenario-assessment/picture4.jpg"/>
 
 [**`To Top`**](#table-of-contents)
 
 
 ## Sample run
+
 (Tomaszów Mazowiecki)
 
 With the download of the Excel file you will receive a ready-to-fill version of the scenario assessment. After a successful calculation of scenarios using the modules CM - Decentral heating supply, CM - District heating potential: economic assessment and CM - District heating supply dispatch, the respective results of the modules can be copied into the corresponding sheets of the document.
@@ -166,22 +175,22 @@ In the following three scenarios for the polish city Tomaszów Mazowiecki are ev
 ### Ref. Dec. heating supply
 In this example one scenario of decentral heating supply for the city of Tomaszów Mazowiecki in Poland has been calculated using the Hotmaps toolbox together with the sheets in the section building stock according to the procedure described in [this section of the page](CM-Scenario-assessment#interpretation-of-input-parameters_definition-of-the-building-stock-and-calculation-of-indicators-for-decentral-heating-supply). This scenario for decentral supply has been copied to the scenarios 1, 2 and 3 in the scenario assessment file, worksheet "Ref. Dec. heating supply" in order to use the same individual heating supply scenario in all three overall city scenarios that are compared.
 
-[[/en/CM-Scenario-assessment/sample_run_picture1.jpg]]
+<img src="/en/CM-Scenario-assessment/sample_run_picture1.jpg"/>
 
 ### Ref. DH economic assessment
 In this example one scenario of district heating grid construction for the city of Tomaszów Mazowiecki in Poland has been calculated using the Hotmaps toolbox. This scenario has been copied to the scenarios 1, 2 and 3 in the scenario assessment file, worksheet "Ref. DH economic assessment" in order to use the same district heating grid construction scenario in all three overall city scenarios that are compared.
 
-[[/en/CM-Scenario-assessment/sample_run_picture2.jpg]]
+<img src="/en/CM-Scenario-assessment/sample_run_picture2.jpg"/>
 
 ### Ref. DH supply dispatch
 In this example three different scenarios of district heating supply for the city of Tomaszów Mazowiecki in Poland has been calculated using the Hotmaps toolbox. The scenarios reflect different combinations of supply technologies, namely different capacities of heat pumps, excess heat as well as heat only boilers.
 
-[[/en/CM-Scenario-assessment/sample_run_picture3.jpg]]
+<img src="/en/CM-Scenario-assessment/sample_run_picture3.jpg"/>
 
 ### Final table 
 After copying the individual data, the compiled scenarios can be examined in the sheet final table. On the one hand there is a table showing the exact results and on the other hand you can find corresponding graphs on the right side of the table. In this example the effects of using different capacities of supply technologies in the district heating system can be assessed based on the costs, emissions, energy demand and shares of renewable energy.
 
-[[/en/CM-Scenario-assessment/sample_run_picture4.jpg]]
+<img src="/en/CM-Scenario-assessment/sample_run_picture4.jpg"/>
 
 
 
