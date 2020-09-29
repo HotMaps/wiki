@@ -38,7 +38,7 @@ The picture below shows the structure of a calculation module
 
 ## List of Calculation Modules
 
-below you see the currently available modules
+Below you see the currently available modules. In the lower part, the stand-alone calculation modules are listed. Each one has a link to his dedicated wiki page or separate wiki and to his repository, as they are not an integral part of the Hotmaps Toolbox.
 
 [[/en/Access-to-calculation-modules/cm_list.png]]
 
