@@ -96,7 +96,7 @@ The following vector layers are visualized:
 
 Some Calculation Modules generate a layer with the calculated results, such as [CM - Scale Heat and Cool Density Maps](/en/CM-Scale-heat-and-cool-density-maps) for instance. When these CMs are run, the relative layer appears on the left side of the screen, in the layer section, at the very bottom. The layer can be then selected and used in further calculations. As for every other layer, few buttons below the layer title allow showing the layer symbology, available information about the layer, downloading the layer dataset, and downloading the layer as a raster file.
 
-[[/en/Layers-section-in-the-Hotmaps-toolbox/CM Layer.JPG]]
+<img src="/en/Layers-section-in-the-Hotmaps-toolbox/CM-Layer.JPG"/>
 
  
 [**`To Top`**](#table-of-contents)
