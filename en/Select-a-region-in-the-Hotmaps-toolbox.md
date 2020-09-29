@@ -62,7 +62,10 @@ Besides the three NUTS Levels, you have also the possibility to analyse in LAU l
 [**`To Top`**](#table-of-contents)
 
 ## Custom Selection:
-If you need a more flexible way and want to analyze a region that is not covered by the NUTS or LAU boundaries then it is better to specify your own customs regions (see below).
+
+If you need a more flexible way and want to analyze a region that is not covered by the NUTS or LAU boundaries then it is better to specify your own customs regions. The toolbox offers multiple selection tools: rectangular, circle, or polygon. Draw the shape that you want to analyze, then click on the drawn bounding box to select the area.
+
+Another option that is only available at the hectare level, is to upload a GeoJSON selection object. GeoJSON is a format for encoding geographic data structures. If you have created a GeoJSON object that represents a region of space, or a collection of spatially bounded entities, by uploading your GeoJSN object, this selection will be readily used in Hotmaps.
 
 ![ selecting_hectare_gif][selecting_hectare]
 
