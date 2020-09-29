@@ -467,8 +467,7 @@ Sample run in PL22 with default parameters. It is recommended to turn on excess 
 
 <figure>
 <img alt="" src="../images/cm_excess_heat/profiles1.PNG"/>
-<figcaption><i>
-This graphic shows the total flow through the network throughout the year. The lower graphic represents the average day. Since the default time resolution is set to "week" it is constant in this case.
+<figcaption><i> <br/> This graphic shows the total flow through the network throughout the year. The lower graphic represents the average day. Since the default time resolution is set to "week" it is constant in this case.
 </i></figcaption>
 </figure>
 
