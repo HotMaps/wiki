@@ -148,6 +148,8 @@ The figure below shows the appearance of the tools:
 <li>button for loading the results of your selected region and selected layers</li>
 <li>button for deleting a selected region</li>
 </ol>
+
+
 [**`To Top`**](#table-of-contents)
 
 ### Show Result
