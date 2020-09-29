@@ -140,9 +140,11 @@ The figure below shows the appearance of the tools:
 2. Create a custom square region
 3. Create a custom circle region
 4. Create a custom polygon region
+5. Upload a GeoJSON object to use a custom area selection
 
 <ol type="A">
 <li>shows how many regions you selected</li>
+<li>shows the overall surface of the smallest rectangule that can cover the selected area</li>
 <li>shows the scale you selected from right toolbar</li>
 </ol>
 <ol type="a">
