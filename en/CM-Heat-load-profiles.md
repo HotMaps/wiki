@@ -205,12 +205,16 @@ Sample run in DK05.
 
 <figure>
 <img alt="" src="../images/cm_load_profile/sample_run.PNG"/>
-<figcaption><i>Sample run in DK05. Only the selected blue area is considered.</i></figcaption>
+<figcaption><i></br>
+
+Sample run in DK05. Only the selected blue area is considered.</i></figcaption>
 </figure>
 
 <figure>
 <img alt="" src="../images/cm_load_profile/profile.PNG"/>
-<figcaption><i>Graphic showing the heat demand of the different sectors over the year.</i></figcaption>
+<figcaption><i></br>
+
+Graphic showing the heat demand of the different sectors over the year.</i></figcaption>
 </figure>
 
 Data from this graphic can be exported by pressing the "EXPORT GRAPHS" button.
