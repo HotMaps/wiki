@@ -186,11 +186,11 @@ formula:
 
 #### Output Indicators With Default Input Parameters
 
-[[/en/CM-Decentral-heating-supply/output_indicators_default_decentral.png]]
+<img src="/en/CM-Decentral-heating-supply/output_indicators_default_decentral.png"/>
 
 #### Output Charts With Default Input Parameters
 
-[[/en/CM-Decentral-heating-supply/output_graphs_default_decentral.png]]
+<img src="/en/CM-Decentral-heating-supply/output_graphs_default_decentral.png"/>
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
 
