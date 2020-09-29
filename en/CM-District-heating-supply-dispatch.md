@@ -124,7 +124,7 @@ Below you can see all input parameters that can be changed
 
 #### Output Charts
 
-[[/en/CM-District-heating-supply-dispatch/charts.png]]
+<img src="/en/CM-District-heating-supply-dispatch/charts.png"/>
 
 [**`To Top`**](#table-of-contents)
 
