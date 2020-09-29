@@ -5,6 +5,7 @@
 * [Layers](#layers)
 * [Raster Layers](#raster-layers)
 * [Vector Layers](#vector-layers)
+* [Calculation Module Layers](#calculation-module-layers)
 * [How to cite](#how-to-cite)
 * [Authors and reviewers](#authors-and-reviewers)
 * [License](#license)
@@ -32,7 +33,7 @@ There are [two categories of layers](https://www.gislounge.com/geodatabases-expl
 1. Vector Layers
 2. Raster Layers
 
-Following layers can be found and visualized (you can see also the legend and also the information section of each layer):
+The following layers can be found and visualized (you can see also the legend and also the information section of each layer):
 
 ![sidebar_layer.png][sidebar]
 
@@ -69,7 +70,7 @@ Following raster layers are visualized:
 
 ## Vector Layers
 
-Following vector layers are visualized:
+The following vector layers are visualized:
 
 1. **4x Industry layers:**
    * Industrial Site Emission
@@ -89,6 +90,15 @@ Following vector layers are visualized:
 1. **1 x Electricity Layer:**
    * Electricity CO2 Emissions Country Average
 
+[**`To Top`**](#table-of-contents)
+
+## Calculation Module Layers
+
+Some Calculation Modules generate a layer with the calculated results, such as [CM - Scale Heat and Cool Density Maps](/en/CM-Scale-heat-and-cool-density-maps) for instance. When these CMs are run, the relative layer appears on the left side of the screen, in the layer section, at the very bottom. The layer can be then selected and used in further calculations. As for every other layer, few buttons below the layer title allow showing the layer symbology, available information about the layer, downloading the layer dataset, and downloading the layer as a raster file.
+
+[[/en/Layers-section-in-the-Hotmaps-toolbox/CM Layer.JPG]]
+
+ 
 [**`To Top`**](#table-of-contents)
 
 ## How to cite
