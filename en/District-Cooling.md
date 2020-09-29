@@ -199,10 +199,11 @@ We would like to convey our deepest appreciation to the Horizon 2020 [Hotmaps Pr
 
 
 
+
 <!--- THIS IS A SUPER UNIQUE IDENTIFIER -->
 
 View in another language:
 
- [German](../de/District-Cooling)<sup>\*</sup> 
+ [German](../de/District-Cooling)<sup>\*</sup> [Italian](../it/District-Cooling)<sup>\*</sup> 
 
 <sup>\*</sup> machine translated

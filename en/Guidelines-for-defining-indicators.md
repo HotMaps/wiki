@@ -241,10 +241,11 @@ We would like to convey our deepest appreciation to the Horizon 2020 [Hotmaps Pr
 
 
 
+
 <!--- THIS IS A SUPER UNIQUE IDENTIFIER -->
 
 View in another language:
 
- [German](../de/Guidelines-for-defining-indicators)<sup>\*</sup> 
+ [German](../de/Guidelines-for-defining-indicators)<sup>\*</sup> [Italian](../it/Guidelines-for-defining-indicators)<sup>\*</sup> 
 
 <sup>\*</sup> machine translated

@@ -6,5 +6,6 @@ Please select your language:
 *    [Bulgarian](../bg/Home)<sup>\*</sup>
 *    [German](../de/Home)<sup>\*</sup>
 *    [Spanish](../es/Home)<sup>\*</sup>
+*    [Italian](../it/Home)<sup>\*</sup>
 
 <sup>\*</sup>: machine translated

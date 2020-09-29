@@ -137,10 +137,11 @@ We would like to convey our deepest appreciation to the Horizon 2020 [Hotmaps Pr
 
 
 
+
 <!--- THIS IS A SUPER UNIQUE IDENTIFIER -->
 
 View in another language:
 
- [German](../de/Step-2-Costs-and-potentials-for-district-heating-in-representative-regions-or-cities)<sup>\*</sup> 
+ [German](../de/Step-2-Costs-and-potentials-for-district-heating-in-representative-regions-or-cities)<sup>\*</sup> [Italian](../it/Step-2-Costs-and-potentials-for-district-heating-in-representative-regions-or-cities)<sup>\*</sup> 
 
 <sup>\*</sup> machine translated

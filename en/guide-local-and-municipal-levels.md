@@ -101,10 +101,11 @@ We would like to convey our deepest appreciation to the Horizon 2020 [Hotmaps Pr
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
 
 
+
 <!--- THIS IS A SUPER UNIQUE IDENTIFIER -->
 
 View in another language:
 
- [German](../de/guide-local-and-municipal-levels)<sup>\*</sup> 
+ [German](../de/guide-local-and-municipal-levels)<sup>\*</sup> [Italian](../it/guide-local-and-municipal-levels)<sup>\*</sup> 
 
 <sup>\*</sup> machine translated

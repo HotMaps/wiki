@@ -210,10 +210,11 @@ We would like to convey our deepest appreciation to the Horizon 2020 [Hotmaps Pr
 
 
 
+
 <!--- THIS IS A SUPER UNIQUE IDENTIFIER -->
 
 View in another language:
 
- [German](../de/Guidelines-for-writing-a-Hotmaps-Wiki-page)<sup>\*</sup> 
+ [German](../de/Guidelines-for-writing-a-Hotmaps-Wiki-page)<sup>\*</sup> [Italian](../it/Guidelines-for-writing-a-Hotmaps-Wiki-page)<sup>\*</sup> 
 
 <sup>\*</sup> machine translated

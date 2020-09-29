@@ -245,10 +245,11 @@ We would like to convey our deepest appreciation to the Horizon 2020 [Hotmaps Pr
 [**`To Top`**](#table-of-contents)
 
 
+
 <!--- THIS IS A SUPER UNIQUE IDENTIFIER -->
 
 View in another language:
 
- [German](../de/CM-Add-industry-plant)<sup>\*</sup> 
+ [German](../de/CM-Add-industry-plant)<sup>\*</sup> [Italian](../it/CM-Add-industry-plant)<sup>\*</sup> 
 
 <sup>\*</sup> machine translated
