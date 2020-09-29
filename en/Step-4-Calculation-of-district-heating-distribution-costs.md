@@ -16,7 +16,7 @@
 ## Introduction
 This is the fourth step of the analysis at local and municipal level.
 
-[[/en/Step-4-Calculation-of-district-heating-distribution-costs/Hotmaps_Local_Toolchain_Step_4final.png]]
+<img src="/en/Step-4-Calculation-of-district-heating-distribution-costs/Hotmaps_Local_Toolchain_Step_4final.png"/>
 *Figure: The steps to calculate the district heating distribution costs are highlighted in the Toolchain above.*
 <br\>  
 <code><ins>**[To Top](#table-of-contents)**</ins></code>

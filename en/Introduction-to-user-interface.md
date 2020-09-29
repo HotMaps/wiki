@@ -185,11 +185,11 @@ and set a priority:
 
 ### Save Session
 you can make a snapshot of your work (selected areas and layers, zoom levels, etc) by pushing this button. You can also define a name and a description of the snapshot.
-[[/en/Introduction-to-user-interface/save_session.png]]
+<img src="/en/Introduction-to-user-interface/save_session.png"/>
 
 ### Save Session Folder
 Here you see all your snapshots with their names and description. When you select one the selected layers, areas, the zoom level and other configuration are loaded.
-[[/en/Introduction-to-user-interface/show_session.png]]
+<img src="/en/Introduction-to-user-interface/show_session.png"/>
 
 ## Tiles
 You can choose the territorial scale that you want to analyze (NUTS regions or hectare level) and set the tile of the map

@@ -14,7 +14,7 @@
 ## Introduction
 This is the first step of the analysis at local and municipal level.
 
-[[/en/Step-1-Analysis-of-current-heat-demand-and-available-resource-potentials/Hotmaps_Local_Toolchain_Step_1final.png]]
+<img src="/en/Step-1-Analysis-of-current-heat-demand-and-available-resource-potentials/Hotmaps_Local_Toolchain_Step_1final.png"/>
 <br/>
 *Figure: The steps to analyse the potentials for excess heat and renewable energy are highlighted in the Toolchain above.*
 
@@ -48,7 +48,7 @@ In this step, the potentials for excess heat and renewable energy in the regions
 
 The following figure shows this procedure graphically and shows the various data sources and calculation modules that can be used.
 <br/>  
-[[/en/Step-1-Analysis-of-current-heat-demand-and-available-resource-potentials/Wiki-local-detailed-Step-1final.png]]
+<img src="/en/Step-1-Analysis-of-current-heat-demand-and-available-resource-potentials/Wiki-local-detailed-Step-1final.png"/>
 *Figure: Identification of different representative, typical cases for district heating (Step 1).*
 <br/>  
 

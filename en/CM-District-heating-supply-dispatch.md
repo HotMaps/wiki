@@ -115,12 +115,12 @@ After you select a region and make no changes to the default parameters, the mod
 
 Below you can see all input parameters that can be changed
 
-[[/en/CM-District-heating-supply-dispatch/inpt.png]]
+<img src="/en/CM-District-heating-supply-dispatch/inpt.png"/>
 
 
 #### Output Indicators
 
-[[/en/CM-District-heating-supply-dispatch/indicators.png]]
+<img src="/en/CM-District-heating-supply-dispatch/indicators.png"/>
 
 #### Output Charts
 

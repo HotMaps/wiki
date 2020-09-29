@@ -182,7 +182,7 @@ formula:
 
 #### Default Input Parameters
 
-[[/en/CM-Decentral-heating-supply/inputs.png]]
+<img src="/en/CM-Decentral-heating-supply/inputs.png"/>
 
 #### Output Indicators With Default Input Parameters
 

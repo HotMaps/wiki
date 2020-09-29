@@ -83,7 +83,7 @@ Users can give different ground characteristics (e.g. ground temperature, ground
 
 As previously mentioned, a raster layer is generated as output. This layer shows the potential in different areas. As it is difficult to estimate the potential in dense urban areas, the input raster layer does not provide information for such regions. As a result, these regions are also empty in the output layer.
 
-[[/en/CM-Shallow-geothermal-potential/shallow_geothermal_out_raster.png]]
+<img src="/en/CM-Shallow-geothermal-potential/shallow_geothermal_out_raster.png"/>
 
 [**`To Top`**](#table-of-contents)
 
