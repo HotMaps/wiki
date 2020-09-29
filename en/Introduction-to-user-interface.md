@@ -37,11 +37,12 @@ _Fig. 2 Initial Page_
 
 Here you can spot at first glance 3 parts of the user interface:
 
-1. [a toolbar at the top](#upper-toolbar),
+1. [a toolbar to the top left](#upper-toolbar),
 1. the map itself,
-1. [and some tools for changing the style of the map](#tiles).
+1. [some tools for changing the style of the map](#tiles).
+1. two links on the top right: to this [Hotmaps Wiki](https://wiki.hotmaps.eu/) and to the [Hotmaps Project website](https://www.hotmaps-project.eu/).
 
-In the following chapters, these 3 parts are explained in detail.
+In the following chapters, the first 3 points are explained in detail.
 
 [**`To Top`**](#table-of-contents)
 
