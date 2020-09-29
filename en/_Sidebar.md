@@ -27,7 +27,7 @@
 * [CM - Decentral heating supply](CM-Decentral-heating-supply)  
 * [CM - Solar thermal and PV potential](CM-Solar-thermal-and-PV-potential)
 * [CM - Shallow geothermal potential](CM-Shallow-geothermal-potential)
-* [CM - Heatsource potential](CM-Heatsource-potential)
+* [CM - Heat source potential](CM-Heat-source-potential)
 * [CM - Biomass potential](CM-Biomass-potential)
 * [CM - Wind potential](CM-Wind-potential)
 * [CM - Excess heat transport potential](CM-Excess-heat-transport-potential)
