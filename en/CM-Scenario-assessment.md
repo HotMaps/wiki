@@ -63,12 +63,10 @@ For each scenario, the following indicators are shown in the form of a stacked b
 * Overall (aggregated) CO<sub>2</sub> emissions by district heating system and decentral heating system in _**tCO<sub>2</sub>/yr**_
 * Overall (aggregated) final energy and useful energy demand in _**GWh/yr**_
 
-
 [**`To Top`**](#table-of-contents)
 
 
-## Interpretation of input parameters
-
+## Interpretation of input parameters
 
 The input parameters needed to run this module are divided into:
 
