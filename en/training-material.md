@@ -71,7 +71,7 @@ Finally, it presents the feedback collected, providing both an overview of how t
 
 [**`To Top`**](#table-of-contents)
 
-##Training Material
+## Training Material
 
 ### On-site Training
 
