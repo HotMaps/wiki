@@ -82,7 +82,7 @@ This page was written by the Hotmaps Team and namely by:
 
 **[HES-SO](https://www.hevs.ch)**: Daniel Hunacek, Lucien Zuber, Matthieu Dayer
 
-**[Planenergie](https://planenergi.dk/)**: Anders M. Odgaard 
+**[Planenergi](https://planenergi.dk/)**: Anders M. Odgaard 
 
 &#9745; This page was reviewed by Giulia Conforto.
 
