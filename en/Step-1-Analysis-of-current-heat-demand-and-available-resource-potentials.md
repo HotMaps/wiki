@@ -15,7 +15,7 @@
 This is the first step of the analysis at local and municipal level.
 
 <img src="/en/Step-1-Analysis-of-current-heat-demand-and-available-resource-potentials/Hotmaps_Local_Toolchain_Step_1final.png"/>
-<br/>
+
 *Figure: The steps to analyse the potentials for excess heat and renewable energy are highlighted in the Toolchain above.*
 
 
