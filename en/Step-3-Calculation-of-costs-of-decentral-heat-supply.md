@@ -16,6 +16,7 @@
 This is the third step of the analysis at local and municipal level.
   
 <img src="/en/Step-3-Calculation-of-costs-of-decentral-heat-supply/Hotmaps_Local_Toolchain_Step_3final.png"/>
+
 *Figure: The steps to calculate the decentral heat supply costs are highlighted in the Toolchain above.*
  
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
@@ -24,8 +25,9 @@ This is the third step of the analysis at local and municipal level.
 In the third step, the costs and emissions of heat supply via decentral technologies are calculated. This calculation should be performed for different representative buildings in the country/region of interest. While for district heating representative cities/areas have been developed in step 1 of the approach, typical buildings in each EU Member State data can be found in the Hotmaps default database. Also, for many EU countries detailed building typologies (building archetypes) with data on heat demand before and after renovation can be found in statistics and literature.
 
 The [CM - Decentral heating supply](https://wiki.hotmaps.eu/en/CM-Decentral-heating-supply) can be used to calculate the costs and emissions of heat supply via different decentral technologies. The module uses data on heat demand as well as data on costs of technologies and prices for energy carriers to calculate the levelized costs of heat supply [EUR/MWh] for the different technologies in the different typical buildings and renovation states. The following figure shows this procedure graphically and shows the various data sources feeding into the [CM - Decentral heating supply](https://wiki.hotmaps.eu/en/CM-Decentral-heating-supply).
-<br\>  
+
 <img src="/en/Step-3-Calculation-of-costs-of-decentral-heat-supply/Wiki-local-detailed-Step-3fin.png"/>
+
 *Figure: Calculation of decentral heat supply*
 
 
