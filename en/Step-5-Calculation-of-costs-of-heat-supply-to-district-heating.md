@@ -19,6 +19,7 @@
 This is the fifth step of the analysis at local and municipal level.
 
 <img src="/en/Step-5-Calculation-of-costs-of-heat-supply-to-district-heating/Hotmaps_Local_Toolchain_Step_5final.png"/>
+
 *Figure: The steps to calculate the costs of heat supply to district heating are highlighted in the Toolchain above*
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
@@ -56,7 +57,9 @@ The calculations can be used to identify beneficial supply portfolios in the dif
 The outcomes of this step are the heat supply costs to the district heating system [EUR/MWh] in each of the representative cities/areas and the related CO2 emissions [kt/yr]. These results will then be used in the overall [Scenario Assessment](https://wiki.hotmaps.eu/en/CM-Scenario-assessment) in [Step 6](https://wiki.hotmaps.eu/en/Step-6-Assessment-of-scenarios-for-entire-heat-demand-and-supply-for-the-selected-area).
 
 The following figure shows the overall approach.
+
 <img src="/en/Step-5-Calculation-of-costs-of-heat-supply-to-district-heating/Wiki-local-detailed-Step-5final.png"/>
+
 *Figure: Overall approach to the calculation of heat supply to district heating costs*
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
