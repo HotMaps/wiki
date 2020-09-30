@@ -112,29 +112,36 @@ Total final energy demand for space heating, hot water, cooling, and auxiliary e
 
 **_EU-28:_**
 <img src="/en/CM-Demand-projection/final_energy_EU28.jpg"/>
+
 *Figure: Final energy demand in EU-28 from 2015 to 2050 for different renovation rates*
 
 The following six graphs depict the development of the final energy demand for space heating, cooling, and domestic hot water preparation for the individual EU member states.
 
 **_DE, FR, GB, IT and PL:_**
 <img src="/en/CM-Demand-projection/final_absolute_DE.jpg"/>
+
 *Figure: Final energy demand in DE, FR, GB, IT and PL for 2015 and 2050 with different renovation rates*
 
 <img src="/en/CM-Demand-projection/final_relative_DE.jpg"/>
+
 *Figure: Portion of Final energy demand in 2050 for DE, FR, GB, IT and PL relative to 2015*
 
 **_NL, ES, BE, SE, CZ, HU, AT, RO, FI, DK and GK:_**
 <img src="/en/CM-Demand-projection/final_absolute_NL.jpg"/>
+
 *Figure: Final energy demand in NL, ES, BE, SE, CZ, HU, AT, RO, FI, DK and GK for 2015 and 2050 with different renovation rates*
 
 <img src="/en/CM-Demand-projection/final_relative_NL.jpg"/>
+
 *Figure: Portion of Final energy demand in 2050 for NL, ES, BE, SE, CZ, HU, AT, RO, FI, DK and GK relative to 2015*
 
 **_SK, IE, PT, HR, BG, LT, LV, SI, EE, LU, CY and MT:_**
 <img src="/en/CM-Demand-projection/final_absolute_SK.jpg"/>
+
 *Figure: Final energy demand in SK, IE, PT, HR, BG, LT, LV, SI, EE, LU, CY and MT for 2015 and 2050 with different renovation rates*
 
 <img src="/en/CM-Demand-projection/final_relative_SK.jpg"/>
+
 *Figure: Portion of Final energy demand in 2050 for SK, IE, PT, HR, BG, LT, LV, SI, EE, LU, CY and MT relative to 2015*
 
 [**`To Top`**](#table-of-contents)
@@ -159,15 +166,19 @@ To run the calculation module, follow the next steps:
 * You can immediately see that the Heat density map has been added to the map. As output, indicators are shown in the "RESULTS" window and on the map the new heat density map and gross floor area are shown.
 
 <img src="/en/CM-Demand-projection/default-sample-run_jpg-min.jpg"/>
+
 *Figure: Demand projection after running with default parameter*
+
 * Additionally, also two diagrams are generated. The first one shows the Heated gross floor area for different building periods. The second diagram illustrates the energy consumption for heating and domestic hot water for also divided fort different building periods.
 
 <img src="/en/CM-Demand-projection/default-sample-run_graphs_jpeg.jpg"/>
+
 *Figure: Demand projection after running with a default parameter, switching to graphics*
 
 * After running the calculation and closing the calculation module two new layers can be found at the very bottom under the Layers list. On the one hand the new heating density map and on the other hand the new gross floor area map. If you want to save them and use them in further calculations, you have to download and upload them again.
 
 <img src="/en/CM-Demand-projection/default-sample-run_layers_jpg-min.jpg"/>
+
 *Figure: Demand projection after running with a default parameter, switching to result layers*
 
 As mentioned before, it may be necessary to adjust the input parameters to the own data situation or to check sensitivities.
