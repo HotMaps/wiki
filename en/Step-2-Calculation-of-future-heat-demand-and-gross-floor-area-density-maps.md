@@ -17,9 +17,8 @@
 This is the second step of the analysis at local and municipal level.
   
 <img src="/en/Step-2-Calculation-of-future-heat-demand-and-gross-floor-area-density-maps/Hotmaps_Local_Toolchain_Step_2final.png"/>
-<br/>  
+
 *Figure: The steps to calculate the future heat demand and gross floor area density maps are highlighted in the Toolchain above*
-<br/>  
 
 <code><ins>**[To Top](#table-of-contents)**</ins></code>
 
