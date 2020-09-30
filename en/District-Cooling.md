@@ -169,7 +169,7 @@ Anders M. Odgaard, in Hotmaps-Wiki, Concept for using Hotmaps for district cooli
 
 ## Authors and reviewers
 
-This page was written by Anders M. Odgaard **[Planenergie](https://planenergi.dk/)**.
+This page was written by Anders M. Odgaard **[Planenergi](https://planenergi.dk/)**.
 
 &#9745; This page was reviewed by Marcus Hummel **[e-think](https://e-think.ac.at)**.
 
