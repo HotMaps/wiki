@@ -155,10 +155,11 @@ We would like to convey our deepest appreciation to the Horizon 2020 [Hotmaps Pr
 
 
 
+
 <!--- THIS IS A SUPER UNIQUE IDENTIFIER -->
 
 View in another language:
 
- [German](../de/Layers-section-in-the-Hotmaps-toolbox)<sup>\*</sup> [Italian](../it/Layers-section-in-the-Hotmaps-toolbox)<sup>\*</sup> 
+ [Bulgarian](../bg/Layers-section-in-the-Hotmaps-toolbox)<sup>\*</sup> [Czech](../cs/Layers-section-in-the-Hotmaps-toolbox)<sup>\*</sup> [Danish](../da/Layers-section-in-the-Hotmaps-toolbox)<sup>\*</sup> [German](../de/Layers-section-in-the-Hotmaps-toolbox)<sup>\*</sup> [Greek](../el/Layers-section-in-the-Hotmaps-toolbox)<sup>\*</sup> [Spanish](../es/Layers-section-in-the-Hotmaps-toolbox)<sup>\*</sup> [Estonian](../et/Layers-section-in-the-Hotmaps-toolbox)<sup>\*</sup> [Finnish](../fi/Layers-section-in-the-Hotmaps-toolbox)<sup>\*</sup> [French](../fr/Layers-section-in-the-Hotmaps-toolbox)<sup>\*</sup> [Irish](../ga/Layers-section-in-the-Hotmaps-toolbox)<sup>\*</sup> [Croatian](../hr/Layers-section-in-the-Hotmaps-toolbox)<sup>\*</sup> [Hungarian](../hu/Layers-section-in-the-Hotmaps-toolbox)<sup>\*</sup> [Italian](../it/Layers-section-in-the-Hotmaps-toolbox)<sup>\*</sup> [Lithuanian](../lt/Layers-section-in-the-Hotmaps-toolbox)<sup>\*</sup> [Latvian](../lv/Layers-section-in-the-Hotmaps-toolbox)<sup>\*</sup> [Maltese](../mt/Layers-section-in-the-Hotmaps-toolbox)<sup>\*</sup> [Dutch](../nl/Layers-section-in-the-Hotmaps-toolbox)<sup>\*</sup> [Polish](../pl/Layers-section-in-the-Hotmaps-toolbox)<sup>\*</sup> [Portuguese (Portugal, Brazil)](../pt/Layers-section-in-the-Hotmaps-toolbox)<sup>\*</sup> [Romanian](../ro/Layers-section-in-the-Hotmaps-toolbox)<sup>\*</sup> [Slovak](../sk/Layers-section-in-the-Hotmaps-toolbox)<sup>\*</sup> [Slovenian](../sl/Layers-section-in-the-Hotmaps-toolbox)<sup>\*</sup> [Swedish](../sv/Layers-section-in-the-Hotmaps-toolbox)<sup>\*</sup> 
 
 <sup>\*</sup> machine translated

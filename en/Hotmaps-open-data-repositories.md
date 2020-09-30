@@ -408,10 +408,11 @@ We would like to convey our deepest appreciation to the Horizon 2020 [Hotmaps Pr
 
 
 
+
 <!--- THIS IS A SUPER UNIQUE IDENTIFIER -->
 
 View in another language:
 
- [German](../de/Hotmaps-open-data-repositories)<sup>\*</sup> [Italian](../it/Hotmaps-open-data-repositories)<sup>\*</sup> 
+ [Bulgarian](../bg/Hotmaps-open-data-repositories)<sup>\*</sup> [Czech](../cs/Hotmaps-open-data-repositories)<sup>\*</sup> [Danish](../da/Hotmaps-open-data-repositories)<sup>\*</sup> [German](../de/Hotmaps-open-data-repositories)<sup>\*</sup> [Greek](../el/Hotmaps-open-data-repositories)<sup>\*</sup> [Spanish](../es/Hotmaps-open-data-repositories)<sup>\*</sup> [Estonian](../et/Hotmaps-open-data-repositories)<sup>\*</sup> [Finnish](../fi/Hotmaps-open-data-repositories)<sup>\*</sup> [French](../fr/Hotmaps-open-data-repositories)<sup>\*</sup> [Irish](../ga/Hotmaps-open-data-repositories)<sup>\*</sup> [Croatian](../hr/Hotmaps-open-data-repositories)<sup>\*</sup> [Hungarian](../hu/Hotmaps-open-data-repositories)<sup>\*</sup> [Italian](../it/Hotmaps-open-data-repositories)<sup>\*</sup> [Lithuanian](../lt/Hotmaps-open-data-repositories)<sup>\*</sup> [Latvian](../lv/Hotmaps-open-data-repositories)<sup>\*</sup> [Maltese](../mt/Hotmaps-open-data-repositories)<sup>\*</sup> [Dutch](../nl/Hotmaps-open-data-repositories)<sup>\*</sup> [Polish](../pl/Hotmaps-open-data-repositories)<sup>\*</sup> [Portuguese (Portugal, Brazil)](../pt/Hotmaps-open-data-repositories)<sup>\*</sup> [Romanian](../ro/Hotmaps-open-data-repositories)<sup>\*</sup> [Slovak](../sk/Hotmaps-open-data-repositories)<sup>\*</sup> [Slovenian](../sl/Hotmaps-open-data-repositories)<sup>\*</sup> [Swedish](../sv/Hotmaps-open-data-repositories)<sup>\*</sup> 
 
 <sup>\*</sup> machine translated

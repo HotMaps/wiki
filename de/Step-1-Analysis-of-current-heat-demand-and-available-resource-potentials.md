@@ -2,10 +2,32 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <!--- THIS IS A SUPER UNIQUE IDENTIFIER -->
 
 This page was automatically translated. View in another language:
 
-[English](../en/Step-1-Analysis-of-current-heat-demand-and-available-resource-potentials) (original)  [Italian](../it/Step-1-Analysis-of-current-heat-demand-and-available-resource-potentials)<sup>\*</sup> 
+[English](../en/Step-1-Analysis-of-current-heat-demand-and-available-resource-potentials) (original) [Bulgarian](../bg/Step-1-Analysis-of-current-heat-demand-and-available-resource-potentials)<sup>\*</sup> [Czech](../cs/Step-1-Analysis-of-current-heat-demand-and-available-resource-potentials)<sup>\*</sup> [Danish](../da/Step-1-Analysis-of-current-heat-demand-and-available-resource-potentials)<sup>\*</sup>  [Greek](../el/Step-1-Analysis-of-current-heat-demand-and-available-resource-potentials)<sup>\*</sup> [Spanish](../es/Step-1-Analysis-of-current-heat-demand-and-available-resource-potentials)<sup>\*</sup> [Estonian](../et/Step-1-Analysis-of-current-heat-demand-and-available-resource-potentials)<sup>\*</sup> [Finnish](../fi/Step-1-Analysis-of-current-heat-demand-and-available-resource-potentials)<sup>\*</sup> [French](../fr/Step-1-Analysis-of-current-heat-demand-and-available-resource-potentials)<sup>\*</sup> [Irish](../ga/Step-1-Analysis-of-current-heat-demand-and-available-resource-potentials)<sup>\*</sup> [Croatian](../hr/Step-1-Analysis-of-current-heat-demand-and-available-resource-potentials)<sup>\*</sup> [Hungarian](../hu/Step-1-Analysis-of-current-heat-demand-and-available-resource-potentials)<sup>\*</sup> [Italian](../it/Step-1-Analysis-of-current-heat-demand-and-available-resource-potentials)<sup>\*</sup> [Lithuanian](../lt/Step-1-Analysis-of-current-heat-demand-and-available-resource-potentials)<sup>\*</sup> [Latvian](../lv/Step-1-Analysis-of-current-heat-demand-and-available-resource-potentials)<sup>\*</sup> [Maltese](../mt/Step-1-Analysis-of-current-heat-demand-and-available-resource-potentials)<sup>\*</sup> [Dutch](../nl/Step-1-Analysis-of-current-heat-demand-and-available-resource-potentials)<sup>\*</sup> [Polish](../pl/Step-1-Analysis-of-current-heat-demand-and-available-resource-potentials)<sup>\*</sup> [Portuguese (Portugal, Brazil)](../pt/Step-1-Analysis-of-current-heat-demand-and-available-resource-potentials)<sup>\*</sup> [Romanian](../ro/Step-1-Analysis-of-current-heat-demand-and-available-resource-potentials)<sup>\*</sup> [Slovak](../sk/Step-1-Analysis-of-current-heat-demand-and-available-resource-potentials)<sup>\*</sup> [Slovenian](../sl/Step-1-Analysis-of-current-heat-demand-and-available-resource-potentials)<sup>\*</sup> [Swedish](../sv/Step-1-Analysis-of-current-heat-demand-and-available-resource-potentials)<sup>\*</sup> 
 
 <sup>\*</sup> machine translated

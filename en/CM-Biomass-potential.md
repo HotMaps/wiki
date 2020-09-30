@@ -120,10 +120,11 @@ We would like to convey our deepest appreciation to the Horizon 2020 Hotmaps Pro
 
 
 
+
 <!--- THIS IS A SUPER UNIQUE IDENTIFIER -->
 
 View in another language:
 
- [German](../de/CM-Biomass-potential)<sup>\*</sup> [Italian](../it/CM-Biomass-potential)<sup>\*</sup> 
+ [Bulgarian](../bg/CM-Biomass-potential)<sup>\*</sup> [Czech](../cs/CM-Biomass-potential)<sup>\*</sup> [Danish](../da/CM-Biomass-potential)<sup>\*</sup> [German](../de/CM-Biomass-potential)<sup>\*</sup> [Greek](../el/CM-Biomass-potential)<sup>\*</sup> [Spanish](../es/CM-Biomass-potential)<sup>\*</sup> [Estonian](../et/CM-Biomass-potential)<sup>\*</sup> [Finnish](../fi/CM-Biomass-potential)<sup>\*</sup> [French](../fr/CM-Biomass-potential)<sup>\*</sup> [Irish](../ga/CM-Biomass-potential)<sup>\*</sup> [Croatian](../hr/CM-Biomass-potential)<sup>\*</sup> [Hungarian](../hu/CM-Biomass-potential)<sup>\*</sup> [Italian](../it/CM-Biomass-potential)<sup>\*</sup> [Lithuanian](../lt/CM-Biomass-potential)<sup>\*</sup> [Latvian](../lv/CM-Biomass-potential)<sup>\*</sup> [Maltese](../mt/CM-Biomass-potential)<sup>\*</sup> [Dutch](../nl/CM-Biomass-potential)<sup>\*</sup> [Polish](../pl/CM-Biomass-potential)<sup>\*</sup> [Portuguese (Portugal, Brazil)](../pt/CM-Biomass-potential)<sup>\*</sup> [Romanian](../ro/CM-Biomass-potential)<sup>\*</sup> [Slovak](../sk/CM-Biomass-potential)<sup>\*</sup> [Slovenian](../sl/CM-Biomass-potential)<sup>\*</sup> [Swedish](../sv/CM-Biomass-potential)<sup>\*</sup> 
 
 <sup>\*</sup> machine translated

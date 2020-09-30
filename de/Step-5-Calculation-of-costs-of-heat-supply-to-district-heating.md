@@ -2,10 +2,32 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <!--- THIS IS A SUPER UNIQUE IDENTIFIER -->
 
 This page was automatically translated. View in another language:
 
-[English](../en/Step-5-Calculation-of-costs-of-heat-supply-to-district-heating) (original)  [Italian](../it/Step-5-Calculation-of-costs-of-heat-supply-to-district-heating)<sup>\*</sup> 
+[English](../en/Step-5-Calculation-of-costs-of-heat-supply-to-district-heating) (original) [Bulgarian](../bg/Step-5-Calculation-of-costs-of-heat-supply-to-district-heating)<sup>\*</sup> [Czech](../cs/Step-5-Calculation-of-costs-of-heat-supply-to-district-heating)<sup>\*</sup> [Danish](../da/Step-5-Calculation-of-costs-of-heat-supply-to-district-heating)<sup>\*</sup>  [Greek](../el/Step-5-Calculation-of-costs-of-heat-supply-to-district-heating)<sup>\*</sup> [Spanish](../es/Step-5-Calculation-of-costs-of-heat-supply-to-district-heating)<sup>\*</sup> [Estonian](../et/Step-5-Calculation-of-costs-of-heat-supply-to-district-heating)<sup>\*</sup> [Finnish](../fi/Step-5-Calculation-of-costs-of-heat-supply-to-district-heating)<sup>\*</sup> [French](../fr/Step-5-Calculation-of-costs-of-heat-supply-to-district-heating)<sup>\*</sup> [Irish](../ga/Step-5-Calculation-of-costs-of-heat-supply-to-district-heating)<sup>\*</sup> [Croatian](../hr/Step-5-Calculation-of-costs-of-heat-supply-to-district-heating)<sup>\*</sup> [Hungarian](../hu/Step-5-Calculation-of-costs-of-heat-supply-to-district-heating)<sup>\*</sup> [Italian](../it/Step-5-Calculation-of-costs-of-heat-supply-to-district-heating)<sup>\*</sup> [Lithuanian](../lt/Step-5-Calculation-of-costs-of-heat-supply-to-district-heating)<sup>\*</sup> [Latvian](../lv/Step-5-Calculation-of-costs-of-heat-supply-to-district-heating)<sup>\*</sup> [Maltese](../mt/Step-5-Calculation-of-costs-of-heat-supply-to-district-heating)<sup>\*</sup> [Dutch](../nl/Step-5-Calculation-of-costs-of-heat-supply-to-district-heating)<sup>\*</sup> [Polish](../pl/Step-5-Calculation-of-costs-of-heat-supply-to-district-heating)<sup>\*</sup> [Portuguese (Portugal, Brazil)](../pt/Step-5-Calculation-of-costs-of-heat-supply-to-district-heating)<sup>\*</sup> [Romanian](../ro/Step-5-Calculation-of-costs-of-heat-supply-to-district-heating)<sup>\*</sup> [Slovak](../sk/Step-5-Calculation-of-costs-of-heat-supply-to-district-heating)<sup>\*</sup> [Slovenian](../sl/Step-5-Calculation-of-costs-of-heat-supply-to-district-heating)<sup>\*</sup> [Swedish](../sv/Step-5-Calculation-of-costs-of-heat-supply-to-district-heating)<sup>\*</sup> 
 
 <sup>\*</sup> machine translated

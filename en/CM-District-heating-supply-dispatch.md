@@ -181,10 +181,11 @@ We would like to convey our deepest appreciation to the Horizon 2020 [Hotmaps Pr
 
 
 
+
 <!--- THIS IS A SUPER UNIQUE IDENTIFIER -->
 
 View in another language:
 
- [German](../de/CM-District-heating-supply-dispatch)<sup>\*</sup> [Italian](../it/CM-District-heating-supply-dispatch)<sup>\*</sup> 
+ [Bulgarian](../bg/CM-District-heating-supply-dispatch)<sup>\*</sup> [Czech](../cs/CM-District-heating-supply-dispatch)<sup>\*</sup> [Danish](../da/CM-District-heating-supply-dispatch)<sup>\*</sup> [German](../de/CM-District-heating-supply-dispatch)<sup>\*</sup> [Greek](../el/CM-District-heating-supply-dispatch)<sup>\*</sup> [Spanish](../es/CM-District-heating-supply-dispatch)<sup>\*</sup> [Estonian](../et/CM-District-heating-supply-dispatch)<sup>\*</sup> [Finnish](../fi/CM-District-heating-supply-dispatch)<sup>\*</sup> [French](../fr/CM-District-heating-supply-dispatch)<sup>\*</sup> [Irish](../ga/CM-District-heating-supply-dispatch)<sup>\*</sup> [Croatian](../hr/CM-District-heating-supply-dispatch)<sup>\*</sup> [Hungarian](../hu/CM-District-heating-supply-dispatch)<sup>\*</sup> [Italian](../it/CM-District-heating-supply-dispatch)<sup>\*</sup> [Lithuanian](../lt/CM-District-heating-supply-dispatch)<sup>\*</sup> [Latvian](../lv/CM-District-heating-supply-dispatch)<sup>\*</sup> [Maltese](../mt/CM-District-heating-supply-dispatch)<sup>\*</sup> [Dutch](../nl/CM-District-heating-supply-dispatch)<sup>\*</sup> [Polish](../pl/CM-District-heating-supply-dispatch)<sup>\*</sup> [Portuguese (Portugal, Brazil)](../pt/CM-District-heating-supply-dispatch)<sup>\*</sup> [Romanian](../ro/CM-District-heating-supply-dispatch)<sup>\*</sup> [Slovak](../sk/CM-District-heating-supply-dispatch)<sup>\*</sup> [Slovenian](../sl/CM-District-heating-supply-dispatch)<sup>\*</sup> [Swedish](../sv/CM-District-heating-supply-dispatch)<sup>\*</sup> 
 
 <sup>\*</sup> machine translated

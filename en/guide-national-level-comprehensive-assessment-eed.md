@@ -160,10 +160,11 @@ We would like to convey our deepest appreciation to the Horizon 2020 [Hotmaps Pr
 
 
 
+
 <!--- THIS IS A SUPER UNIQUE IDENTIFIER -->
 
 View in another language:
 
- [German](../de/guide-national-level-comprehensive-assessment-eed)<sup>\*</sup> [Italian](../it/guide-national-level-comprehensive-assessment-eed)<sup>\*</sup> 
+ [Bulgarian](../bg/guide-national-level-comprehensive-assessment-eed)<sup>\*</sup> [Czech](../cs/guide-national-level-comprehensive-assessment-eed)<sup>\*</sup> [Danish](../da/guide-national-level-comprehensive-assessment-eed)<sup>\*</sup> [German](../de/guide-national-level-comprehensive-assessment-eed)<sup>\*</sup> [Greek](../el/guide-national-level-comprehensive-assessment-eed)<sup>\*</sup> [Spanish](../es/guide-national-level-comprehensive-assessment-eed)<sup>\*</sup> [Estonian](../et/guide-national-level-comprehensive-assessment-eed)<sup>\*</sup> [Finnish](../fi/guide-national-level-comprehensive-assessment-eed)<sup>\*</sup> [French](../fr/guide-national-level-comprehensive-assessment-eed)<sup>\*</sup> [Irish](../ga/guide-national-level-comprehensive-assessment-eed)<sup>\*</sup> [Croatian](../hr/guide-national-level-comprehensive-assessment-eed)<sup>\*</sup> [Hungarian](../hu/guide-national-level-comprehensive-assessment-eed)<sup>\*</sup> [Italian](../it/guide-national-level-comprehensive-assessment-eed)<sup>\*</sup> [Lithuanian](../lt/guide-national-level-comprehensive-assessment-eed)<sup>\*</sup> [Latvian](../lv/guide-national-level-comprehensive-assessment-eed)<sup>\*</sup> [Maltese](../mt/guide-national-level-comprehensive-assessment-eed)<sup>\*</sup> [Dutch](../nl/guide-national-level-comprehensive-assessment-eed)<sup>\*</sup> [Polish](../pl/guide-national-level-comprehensive-assessment-eed)<sup>\*</sup> [Portuguese (Portugal, Brazil)](../pt/guide-national-level-comprehensive-assessment-eed)<sup>\*</sup> [Romanian](../ro/guide-national-level-comprehensive-assessment-eed)<sup>\*</sup> [Slovak](../sk/guide-national-level-comprehensive-assessment-eed)<sup>\*</sup> [Slovenian](../sl/guide-national-level-comprehensive-assessment-eed)<sup>\*</sup> [Swedish](../sv/guide-national-level-comprehensive-assessment-eed)<sup>\*</sup> 
 
 <sup>\*</sup> machine translated

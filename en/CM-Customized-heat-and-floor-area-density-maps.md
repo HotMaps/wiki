@@ -121,10 +121,11 @@ We would like to convey our deepest appreciation to the Horizon 2020 [Hotmaps Pr
 
 
 
+
 <!--- THIS IS A SUPER UNIQUE IDENTIFIER -->
 
 View in another language:
 
- [German](../de/CM-Customized-heat-and-floor-area-density-maps)<sup>\*</sup> [Italian](../it/CM-Customized-heat-and-floor-area-density-maps)<sup>\*</sup> 
+ [Bulgarian](../bg/CM-Customized-heat-and-floor-area-density-maps)<sup>\*</sup> [Czech](../cs/CM-Customized-heat-and-floor-area-density-maps)<sup>\*</sup> [Danish](../da/CM-Customized-heat-and-floor-area-density-maps)<sup>\*</sup> [German](../de/CM-Customized-heat-and-floor-area-density-maps)<sup>\*</sup> [Greek](../el/CM-Customized-heat-and-floor-area-density-maps)<sup>\*</sup> [Spanish](../es/CM-Customized-heat-and-floor-area-density-maps)<sup>\*</sup> [Estonian](../et/CM-Customized-heat-and-floor-area-density-maps)<sup>\*</sup> [Finnish](../fi/CM-Customized-heat-and-floor-area-density-maps)<sup>\*</sup> [French](../fr/CM-Customized-heat-and-floor-area-density-maps)<sup>\*</sup> [Irish](../ga/CM-Customized-heat-and-floor-area-density-maps)<sup>\*</sup> [Croatian](../hr/CM-Customized-heat-and-floor-area-density-maps)<sup>\*</sup> [Hungarian](../hu/CM-Customized-heat-and-floor-area-density-maps)<sup>\*</sup> [Italian](../it/CM-Customized-heat-and-floor-area-density-maps)<sup>\*</sup> [Lithuanian](../lt/CM-Customized-heat-and-floor-area-density-maps)<sup>\*</sup> [Latvian](../lv/CM-Customized-heat-and-floor-area-density-maps)<sup>\*</sup> [Maltese](../mt/CM-Customized-heat-and-floor-area-density-maps)<sup>\*</sup> [Dutch](../nl/CM-Customized-heat-and-floor-area-density-maps)<sup>\*</sup> [Polish](../pl/CM-Customized-heat-and-floor-area-density-maps)<sup>\*</sup> [Portuguese (Portugal, Brazil)](../pt/CM-Customized-heat-and-floor-area-density-maps)<sup>\*</sup> [Romanian](../ro/CM-Customized-heat-and-floor-area-density-maps)<sup>\*</sup> [Slovak](../sk/CM-Customized-heat-and-floor-area-density-maps)<sup>\*</sup> [Slovenian](../sl/CM-Customized-heat-and-floor-area-density-maps)<sup>\*</sup> [Swedish](../sv/CM-Customized-heat-and-floor-area-density-maps)<sup>\*</sup> 
 
 <sup>\*</sup> machine translated

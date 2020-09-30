@@ -150,10 +150,11 @@ We would like to convey our deepest appreciation to the Horizon 2020 [Hotmaps Pr
 
 
 
+
 <!--- THIS IS A SUPER UNIQUE IDENTIFIER -->
 
 View in another language:
 
- [German](../de/Select-a-region-in-the-Hotmaps-toolbox)<sup>\*</sup> [Italian](../it/Select-a-region-in-the-Hotmaps-toolbox)<sup>\*</sup> 
+ [Bulgarian](../bg/Select-a-region-in-the-Hotmaps-toolbox)<sup>\*</sup> [Czech](../cs/Select-a-region-in-the-Hotmaps-toolbox)<sup>\*</sup> [Danish](../da/Select-a-region-in-the-Hotmaps-toolbox)<sup>\*</sup> [German](../de/Select-a-region-in-the-Hotmaps-toolbox)<sup>\*</sup> [Greek](../el/Select-a-region-in-the-Hotmaps-toolbox)<sup>\*</sup> [Spanish](../es/Select-a-region-in-the-Hotmaps-toolbox)<sup>\*</sup> [Estonian](../et/Select-a-region-in-the-Hotmaps-toolbox)<sup>\*</sup> [Finnish](../fi/Select-a-region-in-the-Hotmaps-toolbox)<sup>\*</sup> [French](../fr/Select-a-region-in-the-Hotmaps-toolbox)<sup>\*</sup> [Irish](../ga/Select-a-region-in-the-Hotmaps-toolbox)<sup>\*</sup> [Croatian](../hr/Select-a-region-in-the-Hotmaps-toolbox)<sup>\*</sup> [Hungarian](../hu/Select-a-region-in-the-Hotmaps-toolbox)<sup>\*</sup> [Italian](../it/Select-a-region-in-the-Hotmaps-toolbox)<sup>\*</sup> [Lithuanian](../lt/Select-a-region-in-the-Hotmaps-toolbox)<sup>\*</sup> [Latvian](../lv/Select-a-region-in-the-Hotmaps-toolbox)<sup>\*</sup> [Maltese](../mt/Select-a-region-in-the-Hotmaps-toolbox)<sup>\*</sup> [Dutch](../nl/Select-a-region-in-the-Hotmaps-toolbox)<sup>\*</sup> [Polish](../pl/Select-a-region-in-the-Hotmaps-toolbox)<sup>\*</sup> [Portuguese (Portugal, Brazil)](../pt/Select-a-region-in-the-Hotmaps-toolbox)<sup>\*</sup> [Romanian](../ro/Select-a-region-in-the-Hotmaps-toolbox)<sup>\*</sup> [Slovak](../sk/Select-a-region-in-the-Hotmaps-toolbox)<sup>\*</sup> [Slovenian](../sl/Select-a-region-in-the-Hotmaps-toolbox)<sup>\*</sup> [Swedish](../sv/Select-a-region-in-the-Hotmaps-toolbox)<sup>\*</sup> 
 
 <sup>\*</sup> machine translated

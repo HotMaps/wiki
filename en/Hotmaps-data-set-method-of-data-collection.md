@@ -76,10 +76,11 @@ We would like to convey our deepest appreciation to the Horizon 2020 [Hotmaps Pr
 
 
 
+
 <!--- THIS IS A SUPER UNIQUE IDENTIFIER -->
 
 View in another language:
 
- [German](../de/Hotmaps-data-set-method-of-data-collection)<sup>\*</sup> [Italian](../it/Hotmaps-data-set-method-of-data-collection)<sup>\*</sup> 
+ [Bulgarian](../bg/Hotmaps-data-set-method-of-data-collection)<sup>\*</sup> [Czech](../cs/Hotmaps-data-set-method-of-data-collection)<sup>\*</sup> [Danish](../da/Hotmaps-data-set-method-of-data-collection)<sup>\*</sup> [German](../de/Hotmaps-data-set-method-of-data-collection)<sup>\*</sup> [Greek](../el/Hotmaps-data-set-method-of-data-collection)<sup>\*</sup> [Spanish](../es/Hotmaps-data-set-method-of-data-collection)<sup>\*</sup> [Estonian](../et/Hotmaps-data-set-method-of-data-collection)<sup>\*</sup> [Finnish](../fi/Hotmaps-data-set-method-of-data-collection)<sup>\*</sup> [French](../fr/Hotmaps-data-set-method-of-data-collection)<sup>\*</sup> [Irish](../ga/Hotmaps-data-set-method-of-data-collection)<sup>\*</sup> [Croatian](../hr/Hotmaps-data-set-method-of-data-collection)<sup>\*</sup> [Hungarian](../hu/Hotmaps-data-set-method-of-data-collection)<sup>\*</sup> [Italian](../it/Hotmaps-data-set-method-of-data-collection)<sup>\*</sup> [Lithuanian](../lt/Hotmaps-data-set-method-of-data-collection)<sup>\*</sup> [Latvian](../lv/Hotmaps-data-set-method-of-data-collection)<sup>\*</sup> [Maltese](../mt/Hotmaps-data-set-method-of-data-collection)<sup>\*</sup> [Dutch](../nl/Hotmaps-data-set-method-of-data-collection)<sup>\*</sup> [Polish](../pl/Hotmaps-data-set-method-of-data-collection)<sup>\*</sup> [Portuguese (Portugal, Brazil)](../pt/Hotmaps-data-set-method-of-data-collection)<sup>\*</sup> [Romanian](../ro/Hotmaps-data-set-method-of-data-collection)<sup>\*</sup> [Slovak](../sk/Hotmaps-data-set-method-of-data-collection)<sup>\*</sup> [Slovenian](../sl/Hotmaps-data-set-method-of-data-collection)<sup>\*</sup> [Swedish](../sv/Hotmaps-data-set-method-of-data-collection)<sup>\*</sup> 
 
 <sup>\*</sup> machine translated

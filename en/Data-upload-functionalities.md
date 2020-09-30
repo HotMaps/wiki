@@ -129,10 +129,11 @@ We would like to convey our deepest appreciation to the Horizon 2020 [Hotmaps Pr
 
 
 
+
 <!--- THIS IS A SUPER UNIQUE IDENTIFIER -->
 
 View in another language:
 
- [German](../de/Data-upload-functionalities)<sup>\*</sup> [Italian](../it/Data-upload-functionalities)<sup>\*</sup> 
+ [Bulgarian](../bg/Data-upload-functionalities)<sup>\*</sup> [Czech](../cs/Data-upload-functionalities)<sup>\*</sup> [Danish](../da/Data-upload-functionalities)<sup>\*</sup> [German](../de/Data-upload-functionalities)<sup>\*</sup> [Greek](../el/Data-upload-functionalities)<sup>\*</sup> [Spanish](../es/Data-upload-functionalities)<sup>\*</sup> [Estonian](../et/Data-upload-functionalities)<sup>\*</sup> [Finnish](../fi/Data-upload-functionalities)<sup>\*</sup> [French](../fr/Data-upload-functionalities)<sup>\*</sup> [Irish](../ga/Data-upload-functionalities)<sup>\*</sup> [Croatian](../hr/Data-upload-functionalities)<sup>\*</sup> [Hungarian](../hu/Data-upload-functionalities)<sup>\*</sup> [Italian](../it/Data-upload-functionalities)<sup>\*</sup> [Lithuanian](../lt/Data-upload-functionalities)<sup>\*</sup> [Latvian](../lv/Data-upload-functionalities)<sup>\*</sup> [Maltese](../mt/Data-upload-functionalities)<sup>\*</sup> [Dutch](../nl/Data-upload-functionalities)<sup>\*</sup> [Polish](../pl/Data-upload-functionalities)<sup>\*</sup> [Portuguese (Portugal, Brazil)](../pt/Data-upload-functionalities)<sup>\*</sup> [Romanian](../ro/Data-upload-functionalities)<sup>\*</sup> [Slovak](../sk/Data-upload-functionalities)<sup>\*</sup> [Slovenian](../sl/Data-upload-functionalities)<sup>\*</sup> [Swedish](../sv/Data-upload-functionalities)<sup>\*</sup> 
 
 <sup>\*</sup> machine translated

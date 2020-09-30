@@ -199,10 +199,11 @@ We would like to convey our deepest appreciation to the Horizon 2020 [Hotmaps Pr
 
 
 
+
 <!--- THIS IS A SUPER UNIQUE IDENTIFIER -->
 
 View in another language:
 
- [German](../de/training-material)<sup>\*</sup> [Italian](../it/training-material)<sup>\*</sup> 
+ [Bulgarian](../bg/training-material)<sup>\*</sup> [Czech](../cs/training-material)<sup>\*</sup> [Danish](../da/training-material)<sup>\*</sup> [German](../de/training-material)<sup>\*</sup> [Greek](../el/training-material)<sup>\*</sup> [Spanish](../es/training-material)<sup>\*</sup> [Estonian](../et/training-material)<sup>\*</sup> [Finnish](../fi/training-material)<sup>\*</sup> [French](../fr/training-material)<sup>\*</sup> [Irish](../ga/training-material)<sup>\*</sup> [Croatian](../hr/training-material)<sup>\*</sup> [Hungarian](../hu/training-material)<sup>\*</sup> [Italian](../it/training-material)<sup>\*</sup> [Lithuanian](../lt/training-material)<sup>\*</sup> [Latvian](../lv/training-material)<sup>\*</sup> [Maltese](../mt/training-material)<sup>\*</sup> [Dutch](../nl/training-material)<sup>\*</sup> [Polish](../pl/training-material)<sup>\*</sup> [Portuguese (Portugal, Brazil)](../pt/training-material)<sup>\*</sup> [Romanian](../ro/training-material)<sup>\*</sup> [Slovak](../sk/training-material)<sup>\*</sup> [Slovenian](../sl/training-material)<sup>\*</sup> [Swedish](../sv/training-material)<sup>\*</sup> 
 
 <sup>\*</sup> machine translated

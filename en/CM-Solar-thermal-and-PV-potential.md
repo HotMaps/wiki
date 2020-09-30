@@ -261,10 +261,11 @@ We would like to convey our deepest appreciation to the Horizon 2020 [Hotmaps Pr
 
 
 
+
 <!--- THIS IS A SUPER UNIQUE IDENTIFIER -->
 
 View in another language:
 
- [German](../de/CM-Solar-thermal-and-PV-potential)<sup>\*</sup> [Italian](../it/CM-Solar-thermal-and-PV-potential)<sup>\*</sup> 
+ [Bulgarian](../bg/CM-Solar-thermal-and-PV-potential)<sup>\*</sup> [Czech](../cs/CM-Solar-thermal-and-PV-potential)<sup>\*</sup> [Danish](../da/CM-Solar-thermal-and-PV-potential)<sup>\*</sup> [German](../de/CM-Solar-thermal-and-PV-potential)<sup>\*</sup> [Greek](../el/CM-Solar-thermal-and-PV-potential)<sup>\*</sup> [Spanish](../es/CM-Solar-thermal-and-PV-potential)<sup>\*</sup> [Estonian](../et/CM-Solar-thermal-and-PV-potential)<sup>\*</sup> [Finnish](../fi/CM-Solar-thermal-and-PV-potential)<sup>\*</sup> [French](../fr/CM-Solar-thermal-and-PV-potential)<sup>\*</sup> [Irish](../ga/CM-Solar-thermal-and-PV-potential)<sup>\*</sup> [Croatian](../hr/CM-Solar-thermal-and-PV-potential)<sup>\*</sup> [Hungarian](../hu/CM-Solar-thermal-and-PV-potential)<sup>\*</sup> [Italian](../it/CM-Solar-thermal-and-PV-potential)<sup>\*</sup> [Lithuanian](../lt/CM-Solar-thermal-and-PV-potential)<sup>\*</sup> [Latvian](../lv/CM-Solar-thermal-and-PV-potential)<sup>\*</sup> [Maltese](../mt/CM-Solar-thermal-and-PV-potential)<sup>\*</sup> [Dutch](../nl/CM-Solar-thermal-and-PV-potential)<sup>\*</sup> [Polish](../pl/CM-Solar-thermal-and-PV-potential)<sup>\*</sup> [Portuguese (Portugal, Brazil)](../pt/CM-Solar-thermal-and-PV-potential)<sup>\*</sup> [Romanian](../ro/CM-Solar-thermal-and-PV-potential)<sup>\*</sup> [Slovak](../sk/CM-Solar-thermal-and-PV-potential)<sup>\*</sup> [Slovenian](../sl/CM-Solar-thermal-and-PV-potential)<sup>\*</sup> [Swedish](../sv/CM-Solar-thermal-and-PV-potential)<sup>\*</sup> 
 
 <sup>\*</sup> machine translated

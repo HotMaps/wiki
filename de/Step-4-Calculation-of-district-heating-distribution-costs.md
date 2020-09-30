@@ -2,10 +2,32 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <!--- THIS IS A SUPER UNIQUE IDENTIFIER -->
 
 This page was automatically translated. View in another language:
 
-[English](../en/Step-4-Calculation-of-district-heating-distribution-costs) (original)  [Italian](../it/Step-4-Calculation-of-district-heating-distribution-costs)<sup>\*</sup> 
+[English](../en/Step-4-Calculation-of-district-heating-distribution-costs) (original) [Bulgarian](../bg/Step-4-Calculation-of-district-heating-distribution-costs)<sup>\*</sup> [Czech](../cs/Step-4-Calculation-of-district-heating-distribution-costs)<sup>\*</sup> [Danish](../da/Step-4-Calculation-of-district-heating-distribution-costs)<sup>\*</sup>  [Greek](../el/Step-4-Calculation-of-district-heating-distribution-costs)<sup>\*</sup> [Spanish](../es/Step-4-Calculation-of-district-heating-distribution-costs)<sup>\*</sup> [Estonian](../et/Step-4-Calculation-of-district-heating-distribution-costs)<sup>\*</sup> [Finnish](../fi/Step-4-Calculation-of-district-heating-distribution-costs)<sup>\*</sup> [French](../fr/Step-4-Calculation-of-district-heating-distribution-costs)<sup>\*</sup> [Irish](../ga/Step-4-Calculation-of-district-heating-distribution-costs)<sup>\*</sup> [Croatian](../hr/Step-4-Calculation-of-district-heating-distribution-costs)<sup>\*</sup> [Hungarian](../hu/Step-4-Calculation-of-district-heating-distribution-costs)<sup>\*</sup> [Italian](../it/Step-4-Calculation-of-district-heating-distribution-costs)<sup>\*</sup> [Lithuanian](../lt/Step-4-Calculation-of-district-heating-distribution-costs)<sup>\*</sup> [Latvian](../lv/Step-4-Calculation-of-district-heating-distribution-costs)<sup>\*</sup> [Maltese](../mt/Step-4-Calculation-of-district-heating-distribution-costs)<sup>\*</sup> [Dutch](../nl/Step-4-Calculation-of-district-heating-distribution-costs)<sup>\*</sup> [Polish](../pl/Step-4-Calculation-of-district-heating-distribution-costs)<sup>\*</sup> [Portuguese (Portugal, Brazil)](../pt/Step-4-Calculation-of-district-heating-distribution-costs)<sup>\*</sup> [Romanian](../ro/Step-4-Calculation-of-district-heating-distribution-costs)<sup>\*</sup> [Slovak](../sk/Step-4-Calculation-of-district-heating-distribution-costs)<sup>\*</sup> [Slovenian](../sl/Step-4-Calculation-of-district-heating-distribution-costs)<sup>\*</sup> [Swedish](../sv/Step-4-Calculation-of-district-heating-distribution-costs)<sup>\*</sup> 
 
 <sup>\*</sup> machine translated

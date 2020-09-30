@@ -2,10 +2,32 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <!--- THIS IS A SUPER UNIQUE IDENTIFIER -->
 
 This page was automatically translated. View in another language:
 
-[English](../en/Step-4-Comparison-of-results-for-different-scenarios) (original)  [Italian](../it/Step-4-Comparison-of-results-for-different-scenarios)<sup>\*</sup> 
+[English](../en/Step-4-Comparison-of-results-for-different-scenarios) (original) [Bulgarian](../bg/Step-4-Comparison-of-results-for-different-scenarios)<sup>\*</sup> [Czech](../cs/Step-4-Comparison-of-results-for-different-scenarios)<sup>\*</sup> [Danish](../da/Step-4-Comparison-of-results-for-different-scenarios)<sup>\*</sup>  [Greek](../el/Step-4-Comparison-of-results-for-different-scenarios)<sup>\*</sup> [Spanish](../es/Step-4-Comparison-of-results-for-different-scenarios)<sup>\*</sup> [Estonian](../et/Step-4-Comparison-of-results-for-different-scenarios)<sup>\*</sup> [Finnish](../fi/Step-4-Comparison-of-results-for-different-scenarios)<sup>\*</sup> [French](../fr/Step-4-Comparison-of-results-for-different-scenarios)<sup>\*</sup> [Irish](../ga/Step-4-Comparison-of-results-for-different-scenarios)<sup>\*</sup> [Croatian](../hr/Step-4-Comparison-of-results-for-different-scenarios)<sup>\*</sup> [Hungarian](../hu/Step-4-Comparison-of-results-for-different-scenarios)<sup>\*</sup> [Italian](../it/Step-4-Comparison-of-results-for-different-scenarios)<sup>\*</sup> [Lithuanian](../lt/Step-4-Comparison-of-results-for-different-scenarios)<sup>\*</sup> [Latvian](../lv/Step-4-Comparison-of-results-for-different-scenarios)<sup>\*</sup> [Maltese](../mt/Step-4-Comparison-of-results-for-different-scenarios)<sup>\*</sup> [Dutch](../nl/Step-4-Comparison-of-results-for-different-scenarios)<sup>\*</sup> [Polish](../pl/Step-4-Comparison-of-results-for-different-scenarios)<sup>\*</sup> [Portuguese (Portugal, Brazil)](../pt/Step-4-Comparison-of-results-for-different-scenarios)<sup>\*</sup> [Romanian](../ro/Step-4-Comparison-of-results-for-different-scenarios)<sup>\*</sup> [Slovak](../sk/Step-4-Comparison-of-results-for-different-scenarios)<sup>\*</sup> [Slovenian](../sl/Step-4-Comparison-of-results-for-different-scenarios)<sup>\*</sup> [Swedish](../sv/Step-4-Comparison-of-results-for-different-scenarios)<sup>\*</sup> 
 
 <sup>\*</sup> machine translated

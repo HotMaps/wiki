@@ -303,10 +303,11 @@ We would like to convey our deepest appreciation to the Horizon 2020 [Hotmaps Pr
 
 
 
+
 <!--- THIS IS A SUPER UNIQUE IDENTIFIER -->
 
 View in another language:
 
- [German](../de/Introduction-to-user-interface)<sup>\*</sup> [Italian](../it/Introduction-to-user-interface)<sup>\*</sup> 
+ [Bulgarian](../bg/Introduction-to-user-interface)<sup>\*</sup> [Czech](../cs/Introduction-to-user-interface)<sup>\*</sup> [Danish](../da/Introduction-to-user-interface)<sup>\*</sup> [German](../de/Introduction-to-user-interface)<sup>\*</sup> [Greek](../el/Introduction-to-user-interface)<sup>\*</sup> [Spanish](../es/Introduction-to-user-interface)<sup>\*</sup> [Estonian](../et/Introduction-to-user-interface)<sup>\*</sup> [Finnish](../fi/Introduction-to-user-interface)<sup>\*</sup> [French](../fr/Introduction-to-user-interface)<sup>\*</sup> [Irish](../ga/Introduction-to-user-interface)<sup>\*</sup> [Croatian](../hr/Introduction-to-user-interface)<sup>\*</sup> [Hungarian](../hu/Introduction-to-user-interface)<sup>\*</sup> [Italian](../it/Introduction-to-user-interface)<sup>\*</sup> [Lithuanian](../lt/Introduction-to-user-interface)<sup>\*</sup> [Latvian](../lv/Introduction-to-user-interface)<sup>\*</sup> [Maltese](../mt/Introduction-to-user-interface)<sup>\*</sup> [Dutch](../nl/Introduction-to-user-interface)<sup>\*</sup> [Polish](../pl/Introduction-to-user-interface)<sup>\*</sup> [Portuguese (Portugal, Brazil)](../pt/Introduction-to-user-interface)<sup>\*</sup> [Romanian](../ro/Introduction-to-user-interface)<sup>\*</sup> [Slovak](../sk/Introduction-to-user-interface)<sup>\*</sup> [Slovenian](../sl/Introduction-to-user-interface)<sup>\*</sup> [Swedish](../sv/Introduction-to-user-interface)<sup>\*</sup> 
 
 <sup>\*</sup> machine translated

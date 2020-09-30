@@ -2,10 +2,32 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <!--- THIS IS A SUPER UNIQUE IDENTIFIER -->
 
 This page was automatically translated. View in another language:
 
-[English](../en/District-Cooling) (original)  [Italian](../it/District-Cooling)<sup>\*</sup> 
+[English](../en/District-Cooling) (original) [Bulgarian](../bg/District-Cooling)<sup>\*</sup> [Czech](../cs/District-Cooling)<sup>\*</sup> [Danish](../da/District-Cooling)<sup>\*</sup>  [Greek](../el/District-Cooling)<sup>\*</sup> [Spanish](../es/District-Cooling)<sup>\*</sup> [Estonian](../et/District-Cooling)<sup>\*</sup> [Finnish](../fi/District-Cooling)<sup>\*</sup> [French](../fr/District-Cooling)<sup>\*</sup> [Irish](../ga/District-Cooling)<sup>\*</sup> [Croatian](../hr/District-Cooling)<sup>\*</sup> [Hungarian](../hu/District-Cooling)<sup>\*</sup> [Italian](../it/District-Cooling)<sup>\*</sup> [Lithuanian](../lt/District-Cooling)<sup>\*</sup> [Latvian](../lv/District-Cooling)<sup>\*</sup> [Maltese](../mt/District-Cooling)<sup>\*</sup> [Dutch](../nl/District-Cooling)<sup>\*</sup> [Polish](../pl/District-Cooling)<sup>\*</sup> [Portuguese (Portugal, Brazil)](../pt/District-Cooling)<sup>\*</sup> [Romanian](../ro/District-Cooling)<sup>\*</sup> [Slovak](../sk/District-Cooling)<sup>\*</sup> [Slovenian](../sl/District-Cooling)<sup>\*</sup> [Swedish](../sv/District-Cooling)<sup>\*</sup> 
 
 <sup>\*</sup> machine translated

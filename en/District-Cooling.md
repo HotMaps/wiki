@@ -202,10 +202,11 @@ We would like to convey our deepest appreciation to the Horizon 2020 [Hotmaps Pr
 
 
 
+
 <!--- THIS IS A SUPER UNIQUE IDENTIFIER -->
 
 View in another language:
 
- [German](../de/District-Cooling)<sup>\*</sup> [Italian](../it/District-Cooling)<sup>\*</sup> 
+ [Bulgarian](../bg/District-Cooling)<sup>\*</sup> [Czech](../cs/District-Cooling)<sup>\*</sup> [Danish](../da/District-Cooling)<sup>\*</sup> [German](../de/District-Cooling)<sup>\*</sup> [Greek](../el/District-Cooling)<sup>\*</sup> [Spanish](../es/District-Cooling)<sup>\*</sup> [Estonian](../et/District-Cooling)<sup>\*</sup> [Finnish](../fi/District-Cooling)<sup>\*</sup> [French](../fr/District-Cooling)<sup>\*</sup> [Irish](../ga/District-Cooling)<sup>\*</sup> [Croatian](../hr/District-Cooling)<sup>\*</sup> [Hungarian](../hu/District-Cooling)<sup>\*</sup> [Italian](../it/District-Cooling)<sup>\*</sup> [Lithuanian](../lt/District-Cooling)<sup>\*</sup> [Latvian](../lv/District-Cooling)<sup>\*</sup> [Maltese](../mt/District-Cooling)<sup>\*</sup> [Dutch](../nl/District-Cooling)<sup>\*</sup> [Polish](../pl/District-Cooling)<sup>\*</sup> [Portuguese (Portugal, Brazil)](../pt/District-Cooling)<sup>\*</sup> [Romanian](../ro/District-Cooling)<sup>\*</sup> [Slovak](../sk/District-Cooling)<sup>\*</sup> [Slovenian](../sl/District-Cooling)<sup>\*</sup> [Swedish](../sv/District-Cooling)<sup>\*</sup> 
 
 <sup>\*</sup> machine translated

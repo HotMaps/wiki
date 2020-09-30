@@ -104,10 +104,11 @@ We would like to convey our deepest appreciation to the Horizon 2020 [Hotmaps Pr
 
 
 
+
 <!--- THIS IS A SUPER UNIQUE IDENTIFIER -->
 
 View in another language:
 
- [German](../de/guide-local-and-municipal-levels)<sup>\*</sup> [Italian](../it/guide-local-and-municipal-levels)<sup>\*</sup> 
+ [Bulgarian](../bg/guide-local-and-municipal-levels)<sup>\*</sup> [Czech](../cs/guide-local-and-municipal-levels)<sup>\*</sup> [Danish](../da/guide-local-and-municipal-levels)<sup>\*</sup> [German](../de/guide-local-and-municipal-levels)<sup>\*</sup> [Greek](../el/guide-local-and-municipal-levels)<sup>\*</sup> [Spanish](../es/guide-local-and-municipal-levels)<sup>\*</sup> [Estonian](../et/guide-local-and-municipal-levels)<sup>\*</sup> [Finnish](../fi/guide-local-and-municipal-levels)<sup>\*</sup> [French](../fr/guide-local-and-municipal-levels)<sup>\*</sup> [Irish](../ga/guide-local-and-municipal-levels)<sup>\*</sup> [Croatian](../hr/guide-local-and-municipal-levels)<sup>\*</sup> [Hungarian](../hu/guide-local-and-municipal-levels)<sup>\*</sup> [Italian](../it/guide-local-and-municipal-levels)<sup>\*</sup> [Lithuanian](../lt/guide-local-and-municipal-levels)<sup>\*</sup> [Latvian](../lv/guide-local-and-municipal-levels)<sup>\*</sup> [Maltese](../mt/guide-local-and-municipal-levels)<sup>\*</sup> [Dutch](../nl/guide-local-and-municipal-levels)<sup>\*</sup> [Polish](../pl/guide-local-and-municipal-levels)<sup>\*</sup> [Portuguese (Portugal, Brazil)](../pt/guide-local-and-municipal-levels)<sup>\*</sup> [Romanian](../ro/guide-local-and-municipal-levels)<sup>\*</sup> [Slovak](../sk/guide-local-and-municipal-levels)<sup>\*</sup> [Slovenian](../sl/guide-local-and-municipal-levels)<sup>\*</sup> [Swedish](../sv/guide-local-and-municipal-levels)<sup>\*</sup> 
 
 <sup>\*</sup> machine translated

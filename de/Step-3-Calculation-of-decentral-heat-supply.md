@@ -2,10 +2,32 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <!--- THIS IS A SUPER UNIQUE IDENTIFIER -->
 
 This page was automatically translated. View in another language:
 
-[English](../en/Step-3-Calculation-of-decentral-heat-supply) (original)  [Italian](../it/Step-3-Calculation-of-decentral-heat-supply)<sup>\*</sup> 
+[English](../en/Step-3-Calculation-of-decentral-heat-supply) (original) [Bulgarian](../bg/Step-3-Calculation-of-decentral-heat-supply)<sup>\*</sup> [Czech](../cs/Step-3-Calculation-of-decentral-heat-supply)<sup>\*</sup> [Danish](../da/Step-3-Calculation-of-decentral-heat-supply)<sup>\*</sup>  [Greek](../el/Step-3-Calculation-of-decentral-heat-supply)<sup>\*</sup> [Spanish](../es/Step-3-Calculation-of-decentral-heat-supply)<sup>\*</sup> [Estonian](../et/Step-3-Calculation-of-decentral-heat-supply)<sup>\*</sup> [Finnish](../fi/Step-3-Calculation-of-decentral-heat-supply)<sup>\*</sup> [French](../fr/Step-3-Calculation-of-decentral-heat-supply)<sup>\*</sup> [Irish](../ga/Step-3-Calculation-of-decentral-heat-supply)<sup>\*</sup> [Croatian](../hr/Step-3-Calculation-of-decentral-heat-supply)<sup>\*</sup> [Hungarian](../hu/Step-3-Calculation-of-decentral-heat-supply)<sup>\*</sup> [Italian](../it/Step-3-Calculation-of-decentral-heat-supply)<sup>\*</sup> [Lithuanian](../lt/Step-3-Calculation-of-decentral-heat-supply)<sup>\*</sup> [Latvian](../lv/Step-3-Calculation-of-decentral-heat-supply)<sup>\*</sup> [Maltese](../mt/Step-3-Calculation-of-decentral-heat-supply)<sup>\*</sup> [Dutch](../nl/Step-3-Calculation-of-decentral-heat-supply)<sup>\*</sup> [Polish](../pl/Step-3-Calculation-of-decentral-heat-supply)<sup>\*</sup> [Portuguese (Portugal, Brazil)](../pt/Step-3-Calculation-of-decentral-heat-supply)<sup>\*</sup> [Romanian](../ro/Step-3-Calculation-of-decentral-heat-supply)<sup>\*</sup> [Slovak](../sk/Step-3-Calculation-of-decentral-heat-supply)<sup>\*</sup> [Slovenian](../sl/Step-3-Calculation-of-decentral-heat-supply)<sup>\*</sup> [Swedish](../sv/Step-3-Calculation-of-decentral-heat-supply)<sup>\*</sup> 
 
 <sup>\*</sup> machine translated

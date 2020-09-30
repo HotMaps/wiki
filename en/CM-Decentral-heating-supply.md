@@ -232,10 +232,11 @@ We would like to convey our deepest appreciation to the Horizon 2020 [Hotmaps Pr
 
 
 
+
 <!--- THIS IS A SUPER UNIQUE IDENTIFIER -->
 
 View in another language:
 
- [German](../de/CM-Decentral-heating-supply)<sup>\*</sup> [Italian](../it/CM-Decentral-heating-supply)<sup>\*</sup> 
+ [Bulgarian](../bg/CM-Decentral-heating-supply)<sup>\*</sup> [Czech](../cs/CM-Decentral-heating-supply)<sup>\*</sup> [Danish](../da/CM-Decentral-heating-supply)<sup>\*</sup> [German](../de/CM-Decentral-heating-supply)<sup>\*</sup> [Greek](../el/CM-Decentral-heating-supply)<sup>\*</sup> [Spanish](../es/CM-Decentral-heating-supply)<sup>\*</sup> [Estonian](../et/CM-Decentral-heating-supply)<sup>\*</sup> [Finnish](../fi/CM-Decentral-heating-supply)<sup>\*</sup> [French](../fr/CM-Decentral-heating-supply)<sup>\*</sup> [Irish](../ga/CM-Decentral-heating-supply)<sup>\*</sup> [Croatian](../hr/CM-Decentral-heating-supply)<sup>\*</sup> [Hungarian](../hu/CM-Decentral-heating-supply)<sup>\*</sup> [Italian](../it/CM-Decentral-heating-supply)<sup>\*</sup> [Lithuanian](../lt/CM-Decentral-heating-supply)<sup>\*</sup> [Latvian](../lv/CM-Decentral-heating-supply)<sup>\*</sup> [Maltese](../mt/CM-Decentral-heating-supply)<sup>\*</sup> [Dutch](../nl/CM-Decentral-heating-supply)<sup>\*</sup> [Polish](../pl/CM-Decentral-heating-supply)<sup>\*</sup> [Portuguese (Portugal, Brazil)](../pt/CM-Decentral-heating-supply)<sup>\*</sup> [Romanian](../ro/CM-Decentral-heating-supply)<sup>\*</sup> [Slovak](../sk/CM-Decentral-heating-supply)<sup>\*</sup> [Slovenian](../sl/CM-Decentral-heating-supply)<sup>\*</sup> [Swedish](../sv/CM-Decentral-heating-supply)<sup>\*</sup> 
 
 <sup>\*</sup> machine translated

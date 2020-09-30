@@ -2,10 +2,32 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <!--- THIS IS A SUPER UNIQUE IDENTIFIER -->
 
 This page was automatically translated. View in another language:
 
-[English](../en/Step-2-Calculation-of-future-heat-demand-and-gross-floor-area-density-maps) (original)  [Italian](../it/Step-2-Calculation-of-future-heat-demand-and-gross-floor-area-density-maps)<sup>\*</sup> 
+[English](../en/Step-2-Calculation-of-future-heat-demand-and-gross-floor-area-density-maps) (original) [Bulgarian](../bg/Step-2-Calculation-of-future-heat-demand-and-gross-floor-area-density-maps)<sup>\*</sup> [Czech](../cs/Step-2-Calculation-of-future-heat-demand-and-gross-floor-area-density-maps)<sup>\*</sup> [Danish](../da/Step-2-Calculation-of-future-heat-demand-and-gross-floor-area-density-maps)<sup>\*</sup>  [Greek](../el/Step-2-Calculation-of-future-heat-demand-and-gross-floor-area-density-maps)<sup>\*</sup> [Spanish](../es/Step-2-Calculation-of-future-heat-demand-and-gross-floor-area-density-maps)<sup>\*</sup> [Estonian](../et/Step-2-Calculation-of-future-heat-demand-and-gross-floor-area-density-maps)<sup>\*</sup> [Finnish](../fi/Step-2-Calculation-of-future-heat-demand-and-gross-floor-area-density-maps)<sup>\*</sup> [French](../fr/Step-2-Calculation-of-future-heat-demand-and-gross-floor-area-density-maps)<sup>\*</sup> [Irish](../ga/Step-2-Calculation-of-future-heat-demand-and-gross-floor-area-density-maps)<sup>\*</sup> [Croatian](../hr/Step-2-Calculation-of-future-heat-demand-and-gross-floor-area-density-maps)<sup>\*</sup> [Hungarian](../hu/Step-2-Calculation-of-future-heat-demand-and-gross-floor-area-density-maps)<sup>\*</sup> [Italian](../it/Step-2-Calculation-of-future-heat-demand-and-gross-floor-area-density-maps)<sup>\*</sup> [Lithuanian](../lt/Step-2-Calculation-of-future-heat-demand-and-gross-floor-area-density-maps)<sup>\*</sup> [Latvian](../lv/Step-2-Calculation-of-future-heat-demand-and-gross-floor-area-density-maps)<sup>\*</sup> [Maltese](../mt/Step-2-Calculation-of-future-heat-demand-and-gross-floor-area-density-maps)<sup>\*</sup> [Dutch](../nl/Step-2-Calculation-of-future-heat-demand-and-gross-floor-area-density-maps)<sup>\*</sup> [Polish](../pl/Step-2-Calculation-of-future-heat-demand-and-gross-floor-area-density-maps)<sup>\*</sup> [Portuguese (Portugal, Brazil)](../pt/Step-2-Calculation-of-future-heat-demand-and-gross-floor-area-density-maps)<sup>\*</sup> [Romanian](../ro/Step-2-Calculation-of-future-heat-demand-and-gross-floor-area-density-maps)<sup>\*</sup> [Slovak](../sk/Step-2-Calculation-of-future-heat-demand-and-gross-floor-area-density-maps)<sup>\*</sup> [Slovenian](../sl/Step-2-Calculation-of-future-heat-demand-and-gross-floor-area-density-maps)<sup>\*</sup> [Swedish](../sv/Step-2-Calculation-of-future-heat-demand-and-gross-floor-area-density-maps)<sup>\*</sup> 
 
 <sup>\*</sup> machine translated

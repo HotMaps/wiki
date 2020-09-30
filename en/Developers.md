@@ -218,10 +218,11 @@ We would like to convey our deepest appreciation to the Horizon 2020 [Hotmaps Pr
 
 
 
+
 <!--- THIS IS A SUPER UNIQUE IDENTIFIER -->
 
 View in another language:
 
- [German](../de/Developers)<sup>\*</sup> [Italian](../it/Developers)<sup>\*</sup> 
+ [Bulgarian](../bg/Developers)<sup>\*</sup> [Czech](../cs/Developers)<sup>\*</sup> [Danish](../da/Developers)<sup>\*</sup> [German](../de/Developers)<sup>\*</sup> [Greek](../el/Developers)<sup>\*</sup> [Spanish](../es/Developers)<sup>\*</sup> [Estonian](../et/Developers)<sup>\*</sup> [Finnish](../fi/Developers)<sup>\*</sup> [French](../fr/Developers)<sup>\*</sup> [Irish](../ga/Developers)<sup>\*</sup> [Croatian](../hr/Developers)<sup>\*</sup> [Hungarian](../hu/Developers)<sup>\*</sup> [Italian](../it/Developers)<sup>\*</sup> [Lithuanian](../lt/Developers)<sup>\*</sup> [Latvian](../lv/Developers)<sup>\*</sup> [Maltese](../mt/Developers)<sup>\*</sup> [Dutch](../nl/Developers)<sup>\*</sup> [Polish](../pl/Developers)<sup>\*</sup> [Portuguese (Portugal, Brazil)](../pt/Developers)<sup>\*</sup> [Romanian](../ro/Developers)<sup>\*</sup> [Slovak](../sk/Developers)<sup>\*</sup> [Slovenian](../sl/Developers)<sup>\*</sup> [Swedish](../sv/Developers)<sup>\*</sup> 
 
 <sup>\*</sup> machine translated

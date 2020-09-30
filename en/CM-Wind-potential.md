@@ -129,10 +129,11 @@ We would like to convey our deepest appreciation to the Horizon 2020 Hotmaps Pro
 
 
 
+
 <!--- THIS IS A SUPER UNIQUE IDENTIFIER -->
 
 View in another language:
 
- [German](../de/CM-Wind-potential)<sup>\*</sup> [Italian](../it/CM-Wind-potential)<sup>\*</sup> 
+ [Bulgarian](../bg/CM-Wind-potential)<sup>\*</sup> [Czech](../cs/CM-Wind-potential)<sup>\*</sup> [Danish](../da/CM-Wind-potential)<sup>\*</sup> [German](../de/CM-Wind-potential)<sup>\*</sup> [Greek](../el/CM-Wind-potential)<sup>\*</sup> [Spanish](../es/CM-Wind-potential)<sup>\*</sup> [Estonian](../et/CM-Wind-potential)<sup>\*</sup> [Finnish](../fi/CM-Wind-potential)<sup>\*</sup> [French](../fr/CM-Wind-potential)<sup>\*</sup> [Irish](../ga/CM-Wind-potential)<sup>\*</sup> [Croatian](../hr/CM-Wind-potential)<sup>\*</sup> [Hungarian](../hu/CM-Wind-potential)<sup>\*</sup> [Italian](../it/CM-Wind-potential)<sup>\*</sup> [Lithuanian](../lt/CM-Wind-potential)<sup>\*</sup> [Latvian](../lv/CM-Wind-potential)<sup>\*</sup> [Maltese](../mt/CM-Wind-potential)<sup>\*</sup> [Dutch](../nl/CM-Wind-potential)<sup>\*</sup> [Polish](../pl/CM-Wind-potential)<sup>\*</sup> [Portuguese (Portugal, Brazil)](../pt/CM-Wind-potential)<sup>\*</sup> [Romanian](../ro/CM-Wind-potential)<sup>\*</sup> [Slovak](../sk/CM-Wind-potential)<sup>\*</sup> [Slovenian](../sl/CM-Wind-potential)<sup>\*</sup> [Swedish](../sv/CM-Wind-potential)<sup>\*</sup> 
 
 <sup>\*</sup> machine translated

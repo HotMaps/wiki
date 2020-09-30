@@ -521,10 +521,11 @@ We would like to convey our deepest appreciation to the Horizon 2020 [Hotmaps Pr
 
 
 
+
 <!--- THIS IS A SUPER UNIQUE IDENTIFIER -->
 
 View in another language:
 
- [German](../de/CM-Excess-heat-transport-potential)<sup>\*</sup> [Italian](../it/CM-Excess-heat-transport-potential)<sup>\*</sup> 
+ [Bulgarian](../bg/CM-Excess-heat-transport-potential)<sup>\*</sup> [Czech](../cs/CM-Excess-heat-transport-potential)<sup>\*</sup> [Danish](../da/CM-Excess-heat-transport-potential)<sup>\*</sup> [German](../de/CM-Excess-heat-transport-potential)<sup>\*</sup> [Greek](../el/CM-Excess-heat-transport-potential)<sup>\*</sup> [Spanish](../es/CM-Excess-heat-transport-potential)<sup>\*</sup> [Estonian](../et/CM-Excess-heat-transport-potential)<sup>\*</sup> [Finnish](../fi/CM-Excess-heat-transport-potential)<sup>\*</sup> [French](../fr/CM-Excess-heat-transport-potential)<sup>\*</sup> [Irish](../ga/CM-Excess-heat-transport-potential)<sup>\*</sup> [Croatian](../hr/CM-Excess-heat-transport-potential)<sup>\*</sup> [Hungarian](../hu/CM-Excess-heat-transport-potential)<sup>\*</sup> [Italian](../it/CM-Excess-heat-transport-potential)<sup>\*</sup> [Lithuanian](../lt/CM-Excess-heat-transport-potential)<sup>\*</sup> [Latvian](../lv/CM-Excess-heat-transport-potential)<sup>\*</sup> [Maltese](../mt/CM-Excess-heat-transport-potential)<sup>\*</sup> [Dutch](../nl/CM-Excess-heat-transport-potential)<sup>\*</sup> [Polish](../pl/CM-Excess-heat-transport-potential)<sup>\*</sup> [Portuguese (Portugal, Brazil)](../pt/CM-Excess-heat-transport-potential)<sup>\*</sup> [Romanian](../ro/CM-Excess-heat-transport-potential)<sup>\*</sup> [Slovak](../sk/CM-Excess-heat-transport-potential)<sup>\*</sup> [Slovenian](../sl/CM-Excess-heat-transport-potential)<sup>\*</sup> [Swedish](../sv/CM-Excess-heat-transport-potential)<sup>\*</sup> 
 
 <sup>\*</sup> machine translated

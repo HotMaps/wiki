@@ -86,10 +86,11 @@ We would like to convey our deepest appreciation to the Horizon 2020 [Hotmaps Pr
 
 
 
+
 <!--- THIS IS A SUPER UNIQUE IDENTIFIER -->
 
 View in another language:
 
- [German](../de/Data-export-functionalities)<sup>\*</sup> [Italian](../it/Data-export-functionalities)<sup>\*</sup> 
+ [Bulgarian](../bg/Data-export-functionalities)<sup>\*</sup> [Czech](../cs/Data-export-functionalities)<sup>\*</sup> [Danish](../da/Data-export-functionalities)<sup>\*</sup> [German](../de/Data-export-functionalities)<sup>\*</sup> [Greek](../el/Data-export-functionalities)<sup>\*</sup> [Spanish](../es/Data-export-functionalities)<sup>\*</sup> [Estonian](../et/Data-export-functionalities)<sup>\*</sup> [Finnish](../fi/Data-export-functionalities)<sup>\*</sup> [French](../fr/Data-export-functionalities)<sup>\*</sup> [Irish](../ga/Data-export-functionalities)<sup>\*</sup> [Croatian](../hr/Data-export-functionalities)<sup>\*</sup> [Hungarian](../hu/Data-export-functionalities)<sup>\*</sup> [Italian](../it/Data-export-functionalities)<sup>\*</sup> [Lithuanian](../lt/Data-export-functionalities)<sup>\*</sup> [Latvian](../lv/Data-export-functionalities)<sup>\*</sup> [Maltese](../mt/Data-export-functionalities)<sup>\*</sup> [Dutch](../nl/Data-export-functionalities)<sup>\*</sup> [Polish](../pl/Data-export-functionalities)<sup>\*</sup> [Portuguese (Portugal, Brazil)](../pt/Data-export-functionalities)<sup>\*</sup> [Romanian](../ro/Data-export-functionalities)<sup>\*</sup> [Slovak](../sk/Data-export-functionalities)<sup>\*</sup> [Slovenian](../sl/Data-export-functionalities)<sup>\*</sup> [Swedish](../sv/Data-export-functionalities)<sup>\*</sup> 
 
 <sup>\*</sup> machine translated

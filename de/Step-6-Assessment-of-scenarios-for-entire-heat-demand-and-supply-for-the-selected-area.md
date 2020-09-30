@@ -2,10 +2,32 @@
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <!--- THIS IS A SUPER UNIQUE IDENTIFIER -->
 
 This page was automatically translated. View in another language:
 
-[English](../en/Step-6-Assessment-of-scenarios-for-entire-heat-demand-and-supply-for-the-selected-area) (original)  [Italian](../it/Step-6-Assessment-of-scenarios-for-entire-heat-demand-and-supply-for-the-selected-area)<sup>\*</sup> 
+[English](../en/Step-6-Assessment-of-scenarios-for-entire-heat-demand-and-supply-for-the-selected-area) (original) [Bulgarian](../bg/Step-6-Assessment-of-scenarios-for-entire-heat-demand-and-supply-for-the-selected-area)<sup>\*</sup> [Czech](../cs/Step-6-Assessment-of-scenarios-for-entire-heat-demand-and-supply-for-the-selected-area)<sup>\*</sup> [Danish](../da/Step-6-Assessment-of-scenarios-for-entire-heat-demand-and-supply-for-the-selected-area)<sup>\*</sup>  [Greek](../el/Step-6-Assessment-of-scenarios-for-entire-heat-demand-and-supply-for-the-selected-area)<sup>\*</sup> [Spanish](../es/Step-6-Assessment-of-scenarios-for-entire-heat-demand-and-supply-for-the-selected-area)<sup>\*</sup> [Estonian](../et/Step-6-Assessment-of-scenarios-for-entire-heat-demand-and-supply-for-the-selected-area)<sup>\*</sup> [Finnish](../fi/Step-6-Assessment-of-scenarios-for-entire-heat-demand-and-supply-for-the-selected-area)<sup>\*</sup> [French](../fr/Step-6-Assessment-of-scenarios-for-entire-heat-demand-and-supply-for-the-selected-area)<sup>\*</sup> [Irish](../ga/Step-6-Assessment-of-scenarios-for-entire-heat-demand-and-supply-for-the-selected-area)<sup>\*</sup> [Croatian](../hr/Step-6-Assessment-of-scenarios-for-entire-heat-demand-and-supply-for-the-selected-area)<sup>\*</sup> [Hungarian](../hu/Step-6-Assessment-of-scenarios-for-entire-heat-demand-and-supply-for-the-selected-area)<sup>\*</sup> [Italian](../it/Step-6-Assessment-of-scenarios-for-entire-heat-demand-and-supply-for-the-selected-area)<sup>\*</sup> [Lithuanian](../lt/Step-6-Assessment-of-scenarios-for-entire-heat-demand-and-supply-for-the-selected-area)<sup>\*</sup> [Latvian](../lv/Step-6-Assessment-of-scenarios-for-entire-heat-demand-and-supply-for-the-selected-area)<sup>\*</sup> [Maltese](../mt/Step-6-Assessment-of-scenarios-for-entire-heat-demand-and-supply-for-the-selected-area)<sup>\*</sup> [Dutch](../nl/Step-6-Assessment-of-scenarios-for-entire-heat-demand-and-supply-for-the-selected-area)<sup>\*</sup> [Polish](../pl/Step-6-Assessment-of-scenarios-for-entire-heat-demand-and-supply-for-the-selected-area)<sup>\*</sup> [Portuguese (Portugal, Brazil)](../pt/Step-6-Assessment-of-scenarios-for-entire-heat-demand-and-supply-for-the-selected-area)<sup>\*</sup> [Romanian](../ro/Step-6-Assessment-of-scenarios-for-entire-heat-demand-and-supply-for-the-selected-area)<sup>\*</sup> [Slovak](../sk/Step-6-Assessment-of-scenarios-for-entire-heat-demand-and-supply-for-the-selected-area)<sup>\*</sup> [Slovenian](../sl/Step-6-Assessment-of-scenarios-for-entire-heat-demand-and-supply-for-the-selected-area)<sup>\*</sup> [Swedish](../sv/Step-6-Assessment-of-scenarios-for-entire-heat-demand-and-supply-for-the-selected-area)<sup>\*</sup> 
 
 <sup>\*</sup> machine translated
