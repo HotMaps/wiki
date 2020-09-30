@@ -133,7 +133,7 @@ Handbooks:
 
 
 #### Closing Webinar
-* Webinar: Wrap-up of exercise 5, feedback questionnaire, certificates and final remarks [English](https://www.youtube.com/watch?v=NAcdCrsQZuI) / [German](https://www.youtube.com/watch?v=CPCDR-iBTZA)
+* Webinar: Wrap-up of exercise 5, feedback questionnaire, certificates and final remarks [English](https://youtu.be/K6SEWyZ5SPs) / [German](https://www.youtube.com/watch?v=CPCDR-iBTZA)
 * Exercise 5 complete [English](https://github.com/HotMaps/training_materials/raw/master/data/18_Exercise-5_DEV_filled.xlsx)
 * Exercise 1-2 complete [German](https://github.com/HotMaps/training_materials/raw/master/data/19_Uebungen-1-und-2_ausgefuellt.xlsx)
 * Exercise 3-4 complete [German](https://github.com/HotMaps/training_materials/raw/master/data/20_Uebungen-3-und-4_ausgefuellt.xlsx)
